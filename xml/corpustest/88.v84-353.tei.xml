@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Action des métaux sur les esters carboxyliques en présence d'hexaméthylphosphortriamide: une méthode simple et efficace de réduction des alcools en alcanes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Henri</forename>
+								<surname>Deshayes</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Equipe de Recherche Associée au CNRS n" 688, U.E.R. Sciences</orgName>
+								<orgName type="laboratory">Laboratoire de Photochimie</orgName>
+								<address>
+									<postCode>51062</postCode>
+									<settlement>Reims Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Pierre</forename>
+								<surname>Pete</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Equipe de Recherche Associée au CNRS n" 688, U.E.R. Sciences</orgName>
+								<orgName type="laboratory">Laboratoire de Photochimie</orgName>
+								<address>
+									<postCode>51062</postCode>
+									<settlement>Reims Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Action des métaux sur les esters carboxyliques en présence d'hexaméthylphosphortriamide: une méthode simple et efficace de réduction des alcools en alcanes</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<biblScope type="fpage">2063</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+					<note type="submission">Reçu le 7 février 1984</note>
+					<note>Cet article est dédié au Professeur Paul de Mayo à l'occasion de son 60e anniversaire</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>O II Lorsqu'on traite un ester carboxylique (R—C—OR) par une solution de sodium dans l'hexaméthylphosphortriamide (HMPA), on observe essentiellement la formation de l'acide carboxylique, d'un mélange de l'alcool R'OH et de l'alcane R'H correspondant. La proportion d'alcane est très importante pour les esters d'alcools encombrés et diminue lorsque l'en-combrement au niveau du groupe carboxyle baisse. Le taux d'alcane augmente aussi en présence de rm-butanol. La discussion de ces résultats et leur comparaison avec la réduction des esters dans les aminés primaires indiquent que l'alcane provient essentiellement de la décomposition d'un radical anion solvaté ou non alors que l'alcool résulte de processus bimoléculaires de décomposition de l'ester. L'acide carboxylique est dû à la fois à une réaction de fragmentation du radical anion et à des réactions bimoléculaires.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p> Carboxylic acids, alcohols (R'OH), and alkanes (R'H) are the main products of the reduction of carboxylic esters (RC0 2 R') by sodium in hexamethylphosphoric triamide (HMPA). Alkanes are preferentially formed from the carboxylic esters of hindered alcohols. The alkane content, however, is lowered when there is less steric hindrance on the carboxylic group, and increased when ieri-butanol is introduced into the reaction mixture. The reduction of esters in HMPA has been compared to the reduction in alkylamines. The alkane is produced mainly by the decomposition of a radical anion intermediate which can be solvated by HMPA. The alcohol is the result of several possible bimolecular nucleophilic reactions; however, unimolecular and bimolecular processes are involved in the production of the carboxylic acid.</p>
+			</div>
+		</front>
+		<body>
+			<p>Depuis l'observation à la fin du siècle dernier de la réduction des amides par l'amalgame de sodium en solution aqueuse et j-j] R c depuis la mise en évidence par Bouveault et Blanc de la transformation des esters en alcools par action réductrice du sodium dans les alcools éthylique ou amylique anhydre (1), de nombreux travaux ont été consacrés à l'action des métaux sur les dérivés d'acide et plus particulièrement sur les esters carboxyliques (2). Ainsi, il a pu être montré qu'en solvant protique, la réaction de Bouveault et Blanc présentait une grande généralité et un certain intérêt pour la transformation de la fonction acide en fonction alcool. En solvant aprotique par contre, une nouvelle réaction réductrice nommée condensation acyloïne est observée préférentiellement (3). Bien que l'intérêt synthétique de ces réductions ait été rapidement exploré, l'étude mécanistique et la caractérisation d'intermédiaires n'est intervenue que beaucoup plus tard (4). Si la formation intermédiaire d'un radical anion par action du sodium sur un ester carboxylique ne fait aucun doute, les processus de formation des produits de réaction à partir de cet intermédiaire sont encore mal connus.</p>
+			<p>Ainsi, le mécanisme de la condensation acyloïne a pu être récemment remis en question (5); de même, l'isolement d'acides carboxyliques par action des métaux alcalins sur les esters carboxyliques dans l'ammoniac liquide (6) 2 ou dans l'hexaméthylphosphortriamide (HMPA) (7) a conduit divers auteurs à proposer une nouvelle voie de décomposition (éq. [1]) pour le radical anion qui ferait intervenir la réduction du groupe alcoxy de l'ester.</p>
+			<p>Cependant, si la formation d'hydrocarbures était bien observée au cours de la réduction d'esters benzyliques (7), il n'existait pas d'exemple clair d'une telle réduction en absence de groupes allyliques ou benzyliques, au moment où nous avons entrepris notre étude.</p>
+			<p>Par ailleurs, au cours de travaux sur la photolyse, des esters carboxyliques dans un mélange HMPA-eau, il a été proposé qu'un complexe de transfert de charge pouvait être responsable de la réduction des groupes alcoxy d'esters carboxyliques (9) (éq. [2]). Il était donc envisageable si le mécanisme proposé pour la réaction photochimique était fondé, de rendre préparative la réduction du groupe alcoxy d'esters carboxyliques par action du sodium ou d'autres métaux alcalins dans le HMPA en présence d'un donneur de protons. 4 Le HMPA, bon solvant des métaux alcalins et du sodium en particulier (11), donne des solutions bleues paramagnétiques caractéristiques de la présence d'électrons solvatés dans le milieu (11, 12) et douées d'un fort pouvoir réducteur. Le potentiel développé entre une électrode saturée au calomel (SCE) en contact électrique avec une solution de Na-HMPA et mesuré à 28°C est de —2,96 V (13), alors que des valeurs de —2,2 et —2,3 V (vs. SCE) ont été décrites pour des solutions de sodium dans l'ammoniac liquide à -33°C (14).</p>
+			<p>La réduction des alcools en hydrocarbures par action du sodium dissous dans le HMPA sur les esters carboxyliques correspondants est une réaction efficace; nous rapportons dans ce mémoire la généralité de la réaction, ses limites et nous comparons nos résultats avec ceux décrits récemment pour l'action sur les esters des métaux alcalins dissous dans l'éthylamine et la ieri-butylamine (15).</p>
+			<div type="section">
+				<head>Résultats</head>
+				<div type="section" n="1">
+					<head>Aspect préparatif</head>
+					<p>Lorsqu'on ajoute une solution diluée d'ester dans l'éther i-BuOH (1:1) à une suspension de sodium dans le HMPA à une vitesse telle que le milieu restement constamment coloré, les résultats de la réduction observée (tableau 1) peuvent être résumés dans l'éq. [3]:</p>
+					<p>Dans les réactions utilisées, les alcools primaires, secondaires ou tertiaires sont transformés en hydrocarbures par réduction des acétates correspondants. Les rendements en alcanes augmentent avec l'encombrement au niveau du groupe alcoxy et la réduction devient même quantitative lorsque l'on soumet au sodium-HMPA les esters d'alcools tertiaires. On note qu'une quantité notable d'alcool est obtenue dans le mélange réactionnel lorsqu'on réduit dans le mélange HMPA terf-butanol des esters d'alcools primaires et secondaires.</p>
+					<p>La nature de l'ester carboxylique influe également sur le cours de la réaction sans en modifier la généralité. Le tableau 2 montre que l'augmentation de l'encombrement au niveau du groupe carboxyle a aussi pour effet d'augmenter la part du processus de réduction, puisque la production d'alcool, très majoritaire dans le cas des formiates, est fortement diminuée pour les autres esters de cholestanyle. Cependant, l'effet d'encombrement est plus limité que lors du passage des dérivés d'alcools primaires à des dérivés d'alcools tertiaires puisque le passage de l'acétate au pivalate et au méthyl-1 cyclohexène carboxylate de cholestanyle n'améliore plus le rendement de la désoxygénation.</p>
+					<p>Une des applications intéressantes de la réaction de photoréduction du groupe alcoxy d'esters concernait la préparation de déoxysucres. Nous avons essayé d'obtenir ces mêmes déoxysucres par action du sodium dans le HMPA. Malheureusement , la libération d'alcool s'est révélée plus efficace et nous n'avons pu isoler le dérivé désoxy attendu par traitement par le sodium de l'acétate suivant:</p>
+					<p>Les raisons de l'échec de cette réaction de réduction par le sodium dans le HMPA ne sont pas connues. Nous pouvons toutefois remarquer que la présence des deux groupes acétonides dans la molécule peut modifier la chélation aussi bien du cation sodium que du ieri-butanol. Le même échec est rencontré lorsque la réduction est conduite en absence de tertbutanol.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Aspect mécanistique</head>
+					<p>(a) Rôle du itxX-butanol</p>
+					<p>Les études de la photoréduction des esters carboxyliques en présence de HMPA ayant montré la nécessité de la présence d'un agent protique dans le milieu, nous avons examiné si la réduction de ces esters en alcanes par action du sodium dans le HMPA était sensible à la présence de protons. Nous avons, pour cela, effectué la réaction de réduction d'esters en absence de source de protons et comparé les résultats à ceux de témoins réalisés en présence de rm-butanol (tableau 3).</p>
+					<p>La présence de ieri-butanol dans le milieu favorise la formation d'alcanes aux dépens de la formation d'alcools dans le cas des esters peu encombrés d'alcools primaires ou secondaires . Dans le cas d'esters encombrés, la présence de protons dans le milieu ne semble pas améliorer sensiblement le rendement en produit de réduction du groupe alcoxy.</p>
+					<p>(b) Nature des intermédiaires réactionnels</p>
+					<p>L'examen des essais 9 et 10 ou 11 et 12 décrits dans le tableau 1 montre que le même hydrocarbure est obtenu au cours de la réduction de deux esters épimères.</p>
+					<p>Afin de déterminer la nature de l'intermédiaire commun qui rend compte de la formation de l'épimère le plus stable au cours de la réaction, nous avons procédé à deux séries d'expériences permettant de déterminer si un radical R' était ou non sur le chemin réactionnel.</p>
+					<p>Le remplacement du fe/'f-butanol par un alcool deutérié (R—OD) permet de deutérier les carbanions suceptibles de se former dans le milieu. Le dosage de la teneur en deutérium dans les hydrocarbures isolés indique dans quelle mesure l'arrachement d'hydrogène au HMPA par un radical intermédiaire est susceptible d'entrer en compétition avec la protonation d'un anion par l'alcool deutérié.</p>
+					<p>Le tableau 4 fait apparaître que la nature du donneur de protons influe considérablement sur la proportion des produits obtenus puisque le méthanol plus acide que le fert-butanol favorise la libération de cholestanol. D'autre part, le dosage du deutérium dans le cholestane isolé montre dans chaque cas une incorporation importante de deutérium. Un intermédiaire carbanionique est donc sur le chemin privilégié qui conduit à l'alcane. Cependant, la teneur en deutérium inférieure à l'unité indique qu'une partie de l'alcane pourrait provenir d'un intermédiaire radicalaire après arrachement d'un atome d'hydrogène au solvant. La réduction d'un ester de cyclopropylcarbinyle est susceptible de nous apprendre si l'intermédiaire formé initialement par rupture de la liaison C—O du groupe alcoxy possède une structure radicalaire ou anionique. En effet, il a pu être montré dans l'action de radicaux anions dans le glyme sur le chloro-6p cyclo-3a, 5a-cholestane que le radical intermédiaire conduisait à 25 C C à un dérivé du cholestène-5, alors que l'anion du système cyclopropylcarbinyle conduisait, de préférence, aux dérivés cyclopropaniques (16). La forte proportion de cholestène-5 observé semble indiquer qu'un radical intermédiaire est initialement formé lorsque la rupture C—O du groupe alcoxy intervient.</p>
+					<p>(c) Influence des conditions réactionnelles</p>
+					<p>Les divers produits observés, lorsqu'on fait réagir un métal sur un ester, résultent de processus compétitifs au niveau du radical anion initialement peuplé. Nous avons donc cherché à déterminer l'influence de la température, de la durée de réaction et de la nature du métal sur le cours de la réduction de l'acétate de cholestanyle en cholestane. Bien que la réduction des esters par les métaux dans les aminés primaires soit sensible à la température, nous n'avons pu mettre en évidence une augmentation conséquente du taux d'alcane lorsqu'il y a augmentation de la température, surtout lorsque la réaction est réalisée en présence de rm-butanol.</p>
+					<p>La vitesse d'addition de l'ester dans la solution d'électrons solvatés à 25°C étant effectuée de manière à éviter que la couleur bleue ne disparaisse au cours de l'addition, nous avons procédé à l'isolement des produits de réaction dès la fin de l'introduction de l'ester dans le milieu réducteur. Le rendement en alcane isolé est alors optimum. Ceci nous permet de conclure que la transformation du radical anion intermédiaire est rapide à température ambiante.</p>
+					<p>Le pouvoir réducteur élevé des solutions de sodium dans le HMPA permet la réduction des liaisons multiples (11) y compris les liaisons éthyléniques (17). Il est néanmoins possible de contrôler le cours de la réduction d'un ester insaturé en contrôlant le temps de contact de l'ester avec la solution réductrice. Ainsi, nous pouvons orienter la réduction de l'acétate de cholestéryle vers la formation de dérivés du cholestène-5 ou du 5a-cholestane.</p>
+					<p>L'étude de l'influence de la nature du métal sur la réduction est rendue difficile par la grande instabilité des solutions de lithium et de potassium dans le HMPA (7). Il a en effet été montré que les solutions de métal alcalin-HMPA voient rapidement leur conductibilité baisser pour le lithium ou le potassium , contrairement au cas des solutions de sodium pour lesquelles la conductibilité reste constante durant des périodes assez longues (18). La baisse de conductibilité semblerait liée à une décomposition du HMPA.</p>
+					<p>Un essai de réduction d'acétate de cholestanyle par une solution de Li-HMPA conduit à une formation prépondérante d'alcool (cholestanol 81%, cholestane 9%). Nous constatons en outre que la dissolution du lithium dans le HMPA est bien plus rapide que celle du sodium et que l'hydrolyse du brut de réduction par Li-HMPA conduit à la formation de produits gazeux à odeur de phosphine. De plus, la libération d'ions diméthylamidure susceptibles de réagir sur les esters (7) a déjà été notée. Des travaux récents ayant montré que des esters encombrés pouvaient être réduits sélectivement par le lithium dans une aminé primaire (15, 19, 20), nous avons comparé le cours de la réduction de l'acétate de cholestanyle pris comme modèle d'un acétate d'alcool secondaire dans différents milieux et nous avons rassemblé les résultats dans le tableau 6.</p>
+					<p>Ces divers essais montrent d'une part que le taux d'alcane est plus élevé lorsque le HMPA est utilisé comme solvant, d'autre part que la présence de tert-butanol dans le milieu accroît la formation d'alcane aux dépens de la réduction en alcool, aussi bien dans l'éthylamine que dans le HMPA.</p>
+					<p>L'introduction d'une solution de sodium-HMPA préalablement titrée (13) à une solution d'ester dans un mélange HMPA-éther permet de déterminer le nombre d'électrons nécessaires à la réduction. On constate en effet, et à la précision des déterminations près (tableau 7), qu'en absence de tertbutanol , il y a consommation de moins de deux équivalents de sodium et donc de moins de deux électrons par mole d'ester au moment où la solution maintient une couleur bleue persistante. Un tel résultat est donc en accord à la fois avec la formation rapide du radical anion dérivé de l'ester et avec la non compétitivité d'autres processus de réduction en absence de tertbutanol.</p>
+					<p>En présence de fm-butanol, on observe non seulement que plusieurs équivalents "électrons solvatés" sont nécessaires avant l'observation du maintien d'une couleur bleue persistante , mais aussi une grande instabilité de ces colutions colorées même pour un nombre d'équivalents très supérieur à 2. Des processus de réduction successifs semblent devoir être retenus dans la mesure où nous avons vérifié que le rm-butanol ne décolore pratiquement pas la solution de sodium dans le HMPA.</p>
+					<p>Les proportions d'alcane et d'alcool obtenus au cours de ces expériences de titrage sont conformes aux résultats préparatifs décrits dans les tableaux 3 et 7. On vérifie ainsi qu'il y a davantage de produits de réduction en présence de r-BuOH et qu'il y a dans chaque cas formation d'une quantité importante d'alcool.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>La réduction des esters carboxyliques, par les métaux dissous , conduit à un mélange d'alcanes, d'alcools et d'acide carboxylique. Le degré de substitution du groupe alcoxy de l'ester, la nature du dérivé acide, les conditions de réaction et, plus particulièrement, la nature du milieu réactionnel, influencent les rendements respectifs dans les divers produits. Dans tous les milieux cependant, on peut considérer que la première étape réalise la fixation d'un électron sur l'ester et fournit un radical anion d'où découleront les divers produits de réaction.</p>
+				<p>L'alcane issu de la réduction du groupe alcoxy et les alcools peuvent, a priori, découler d'une décomposition du radical anion selon les divers processus regroupés dans le schéma 1.</p>
+				<p>En milieu dilué, on peut négliger, dans le HMPA, la duplication du radical anion conduisant aux a-cétols et considérer que la décomposition de cette espèce [A] va dépendre essentiellement des conditions du milieu: présence ou non de protons , solvatation spécifique des cations, température . ..</p>
+				<p>La grande stabilité de l'anion carboxylate permet la fragmentation selon la voie (7). Le radical R' ainsi formé, par arrachement d'un atome d'hydrogène au HMPA ou capture d'un électron puis d'un proton, fournit l'alcane observé. Une telle décomposition unimoléculaire est sensible à la variation de contraintes stériques. Le passage d'un ester d'alcool primaire à un ester d'alcool tertiaire provoque une augmentation considérable de l'encombrement. Il est probable que les contraintes stériques sont modifiées au niveau du radical anion qui tend à adopter une structure tétraédrique aplatie (24). La relaxation stérique sera donc d'autant plus importante que le radical anion [A] sera encombré. Il en résulte que plus l'encombrement est important, plus la vitesse de fragmentation est élevée, et moins les réactions parasites ont la possibilité d'apparaître. On observe effectivement que l'encombrement au niveau des groupes alcoxy ou groupe carboxy (10, 22) augmente la proportion d'alcane.</p>
+				<p>Le rôle du ferf-butanol est sans doute complexe. On peut cependant considérer qu'il est capable de solvater le radical anion [A] dans le HMPA, voie (2), augmenter ainsi les contraintes stériques à ce niveau et accélérer sa décomposition. En effet, il est connu que les alcools sont susceptibles de solvaterles radicaux anions dans le HMPA et de provoquer ainsi une modification notable du spectre rpe de cet intermédiaire (25). De plus, nous avons pu montrer que la libération d'acide /OH carboxylique à partir d'un radical R—Cest possible \OR' lors de la photolyse des esters dans le HMPA, bien que celle-ci soit sans doute moins favorable que la fragmentation de [A] en ion carboxylate correspondant.</p>
+				<p>Le radical anion peut aussi fournir l'alcool R'O" selon divers processus. La décomposition unimoléculaire de [A] en radical acyle et R'O", voie (5), semble devoir être exclue. En effet, des calculs ab initia effectués sur le radical anion dérivé du formiate de méthyle indiquent que la fragmentation en radical méthyle et anion formiate est, de loin, plus favorable que la fragmentation en radical acyle et anion méthylate (AE = 263 kJ) (26). La capture d'un second électron par le radical anion ne semble pas possible, ni dans le HMPA, ni dans une aminé en présence d'éthers couronnes. En effet, la répulsion électronique au niveau du dianion ainsi formé est trop importante et les processus compétitifs sont prépondérants. C'est ainsi que l'alcool RCH 2 OH attendu après la capture d'un second électron n'est pas observé, ou reste un produit très minoritaire aussi bien dans le HMPA que dans un mélange de rerr-butylamine et de tétrahydrofuranne en présence d'éther couronne (cf. réfs. 22, 23, tableau 2, entrées 1-5 et 12). La réduction du radical anion devient possible si l'anion reste lié au cation métallique ou, éventuellement, de manière concertée avec la fixation d'un proton (21, 22) dans les conditions de Bouveault et Blanc. L'absence d'un taux élevé de réduction en présence de tertbutanol indique que la protonation concertée avec la fixation d'un second électron par le radical anion est sans doute considérablement ralentie pour des raisons stériques.</p>
+				<p>La formation d'alcool R'OH peut résulter également d'un déplacement de R'O" dans l'ester par une base présente dans le milieu. La mise en évidence d'amides au cours de réductions par le lithium dans l'éthylamine (22) ou le lithium dans le HMPA (7), montrent que le lithium est capable de produire dans ces deux milieux des ions amidures susceptibles de libérer R'O" de l'ester correspondant. Cependant, les solutions de sodium dans le HMPA sont stables sur de longues périodes dans nos conditions de réduction et ne conduisent donc pas à la formation d'amides.</p>
+				<p>Les pK s relatifs des aminés primaires et secondaires (41 &lt; pK a &lt; 44) sont plus élevés que ceux du ferr-butanol (pÂf a = 32,2) (27). En présence d'un large excès de rerr-butanol, nous pouvons considérer que les ions amidures ou diméthyl amidures sont entièrement et rapidement neutralisés, aussi bien dans les aminés primaires que dans le HMPA. La formation d'alcool R'OH par action d'un ion amidure sur l'ester devrait donc être totalement inhibée par le rm-butanol, dès lors que la décomposition de ce même ester par le rm-butylate de potassium , et selon le processus de Bouveault et Blanc, est exclue. Or, il n'en est rien! Le tableau 6, entrées 6 et 7, montre qu'en présence d'un grand excès de rerr-butanol, on obtient une augmentation de 10% du rendement en cholestane et une diminution de 10% de l'alcool correspondant.</p>
+				<p>Une autre base, l'hydroxyde de sodium, aurait pu résulter de la présence d'une certaine quantité d'eau dans le HMPA utilisé. Nous pouvons exclure cette possibilité pour plusieurs raisons: (a) la coloration bleue caractéristique de la présence d'électrons solvatés dans le milieu, est obtenue dès que l'on ajoute du sodium au HMPA anhydre utilisé, sans qu'aucun dégagement gazeux puisse être détecté; (b) pour une même quantité de solvant HMPA-ether, la proportion d'alcool, si celui-ci résultait au moins en partie d'une saponification de l'ester, devrait diminuer lorsque la quantité d'ester introduit est ellemême augmentée. Lorsqu'on réduit, dans la même quantité de solvant 0,232 mmol ou 0,88 mmol d'acétoxy-3p cholestane, on obtient la même proportion de cholestane et de cholestanol.</p>
+				<p>Une trans estérification de l'ester par le rerr-butanol ou le rerr-butoxyde de sodium est peu probable en raison de l'encombrement de l'ion rerr-butoxyde et de la rapidité des réductions . Une trans estérification ayant été détectée lors de la réduction des esters dans les aminés primaires (22) mais pas dans nos conditions de réduction, nous avons aussi examiné le rôle du cholestanol sur la réduction de l'heptanoate de méthyle par le sodium dans le HMPA. Contrairement aux résultats obtenus dans les aminés, nous n'avons pu détecter que des traces (—1%) de cholestane provenant de l'heptanoate de cholestanyle intermédiairement formé par trans estérification. Le milieu réactionnel étant très basique, la formation d'énolate suivie d'une condensation de Claisen, pouvait être responsable d'une partie de l'alcool R'OH libéré. Un tel processus a effectivement été détecté lors d'une addition d'une solution d'électrons solvatés dans une solution d'ester (addition inverse). Cependant, la quantité d'acétylacétoxy-3p cholestane (10%) à partir d'acétoxy-3|3 cholestane reste très faible tout comme la proportion de produits issus de la condensation acyloïne.</p>
+				<p>Lors de la réduction des esters dans les différents milieux, on peut considérer que la formation d'une molécule d'alcane fournit nécessairement un équivalent d'acide carboxylique. Cependant , le rendement en RC0 2 H est bien supérieur à celui de R'H (tableau 8). Ce rendement sensiblement égal à la somme des rendements en R'H et R'OH est voisin de 100%. Il existe donc une ou plusieurs voies susceptibles de conduire à la fois à RC0 2 H et R'OH. 5 La discussion précédente met en évidence que, dans le HMPA, ni l'anion diméthylamidure ou l'ion hydroxyle , ni l'ion rerr-butoxyde ou l'ion énolate, ne peuvent être considérés comme responsables de la formation d'une quantité importante d'alcool. Une autre observation méritant d'être soulignée est que, pour 1 à 1,8 équivalent de sodium introduit dans une solution d'acétate de cholestanyle dans le HMPA, on ne récupère pas d'ester non transformé d'une part, et la proportion de cholestane et de cholestanol (25:75) est équivalente à celle obtenue en présence d'un grand excès de réducteur d'autre part.</p>
+				<p>Le tableau 8 montre que le même problème de la formation simultanée d'alcool (R'OH) et d'acide carboxylique (RC0 2 H) est rencontré dans des milieux extrêmement différents. Une interprétation commune pourrait impliquer, quel que soit le milieu, la formation d'intermédiaires semblables et suffisamment instables pour être hydrolysés rapidement au moment de l'isolement. Une telle possibilité représentée dans le schéma 2 mérite d'être considérée. L'addition nucléophile de radicaux anions sur des dérivés carbonylés a déjà été envisagée pour rendre compte de la réaction de dismutation de Cannizzaro et de certaines anomalies rencontrées dans la réaction de condensation acyloïne (5). Cette addition de [A] sur une molécule d'ester fournirait [B] susceptible de se fragmenter en R' -et [C] selon la voie (a) ou en R'-, RC0 2 R' et RC0 2 ~ selon la voie (b).</p>
+				<p>Si l'addition du radical anion sur une molécule d'ester intervient , l'alcane peut provenir, en partie, de la fragmentation de l'intermédiaire [B] selon les voies (a) et (b) du schéma 2. De même, la formation d'alcool pourrait résulter de la fragmentation , soit dans le milieu réactionnel, soit au moment de l'isolement d'un intermédiaire tel que [C] formé au cours de la réaction. Le bilan de cette suite de réactions indique qu'une molécule d'alcane, une molécule d'alcool et deux molécules d'acide carboxylique sont susceptibles d'être produites pour chaque électron piégé par l'ester. Tous les autres processus bimoléculaires envisagés précédemment conduiraient à une molécule d'alcool et une molécule d'un dérivé d'acide suffisamment stable dans le milieu pour être isolé. En fait, nous constatons (essai 9, tableau 2) que le rapport acide carboxylique -alcane est supérieur à l'unité. La quantité d'alcool formé devrait dépendre de la concentration et nous avons testé l'influence de la concentration sur le cours de la réaction dans le HMPA. L'alcool, qui résulte uniquement d'une réaction bimoléculaire, devrait voir son rendement diminuer alors que l'alcane, qui provient surtout d'une fragmentation intramoléculaire , devrait voir son rendement augmenter pour une diminution de la concentration. Or, les résultats du tableau 9 indiquent que la dilution du milieu ne modifie pas sensiblement la proportion d'alcool et d'alcane, et qu'un dérivé du HMPA pourrait être impliqué dans la formation à la fois d'alcool et d'acide.</p>
+				<p>En conclusion, la réduction des esters par le sodium dans le HMPA est une réaction générale qui est d'autant plus efficace que les esters sont encombrés. Le rendement en alcane, à partir d'un ester donné, augmente en présence du terr-butanol qui peut à la fois neutraliser le diméthylamidure de lithium susceptible de se former et accroître, par solvatation, l'encombrement au niveau du radical intermédiaire.</p>
+				<p>De même, l'utilisation d'une faible concentration en ester carboxylique permet d'éviter la réaction bimoléculaire de condensation acyloïne et favorise la formation d'alcane. L'alcane provient essentiellement de la fragmentation du radical anion formé après capture d'un électron par l'ester. La formation d'alcool est due à plusieurs réactions bimoléculaires compétitives impliquant le diméthylamidure, la reri-butylate de sodium et, éventuellement, un dérivé du HMPA comme nucléophile.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les spectres ir ont étc enregistrés sur un appareil Philips SP2000, rmn sur Varian A60. Les points de fusion sont déterminés sur banc Kofler.</p>
+				<p>Produits de départ</p>
+				<p>Formoxy-3fi 5a-cholestane préparé par action de l'acide formique à 98% sur le cholestanol-3P en présence de quantité catalytique d'acide perchlorique (28). Acétoxy-6$ cyc!o-3a, 5a-cholestane obtenu par traitement du tosyloxy-3p cholestène-5 par l'acétate de potassium anhydre dans l'acide acétique (29).</p>
+				<p>Dans les autres cas: les esters sont obtenus par action du chlorure d'acide sur l'alcool dans le HMPA (30). Le HMPA a été séché plusieurs jours sur CaH 2 puis distillé sur CaH 2 . Les points de fusion et analyses sont donnés dans le tableau 11.</p>
+				<p>Identification des produits</p>
+				<p>Les produits ont été identifiés par chromatographie sur couche mince, point de fusion, spectroscopie ir et rmn.</p>
+				<p>Réduction par le sodium</p>
+				<p>Une solution d'ester (1 g) dans un mélange éther -/-BuOH (1:1) (5 mL) est ajoutée à une solution de sodium (1 g) dans un mélange solvant ( 10 mL) -éther (5 mL) à une vitesse telle que la solution bleue obtenue ne se décolore pas quand l'addition est terminée, l'excès de sodium est éliminé. La solution versée dans l'éthanol est ensuite hydrolysée.</p>
+				<p>Méthode générale décrite pour la réduction d'ester carboxylique par la solution Na-HMPT</p>
+				<p>Du sodium finement divisé (1 g) est introduit dans le HMPA (10 cm 3 ). A la solution bleue, une solution d'acétoxy-3p cholestane (0,760 g) dans un mélange d'éther (10 cm 3 ) et de rerr-butanol (3 cm 3 ), est ajoutée goutte à goutte à une vitesse telle que la solution n'est jamais décolorée. Dix minutes après la fin de l'addition, l'excès de sodium est filtré puis la solution est hydrolysée en milieu acide et extraite à l'éther (3 x 50 cm 3 ). Une chromatographie sur silice permet de séparer le cholestane (recristallisé dans l'acétone, 454 mg, 69%) et le cholestanol-3p (134 mg, 20%).</p>
+				<p>Réduction d'esters carboxyliques par la solution Li-ethylamine</p>
+				<p>Du lithium finement divisé (0,106 g) est introduit dans l'éthylamine (10cm 3 ). A la solution bleue, on ajoute goutte à goutte un mélange d'acétoxy-3p cholestane (0,098 g) avec du rerr-butanol (2 cm 3 ) et de l'éthylamine (5 cm 3 ), de façon à éviter la décoloration. Ce mélange est alors laissé 1 h à reflux de l'éthylamine, puis l'éthylamine est distillée. Une hydrolyse acide puis extraction avec de l'éther et une chromatographie sur silice permettent d'isoler le cholestane (9 mg, 10%) et le cholestanol-3p (68 mg, 77%).</p>
+				<p>Réduction de l' acétoxy-3 fi cholestène-5</p>
+				<p>Dans une solution bleue de HMPA (10 cm 3 ) sodium (0,5 g), est ajouté goutte à goutte l'acctoxy-3p cholestène-5 (100 mg) en solution dans l'éther (5 cm 3 ) et le /er/-butanol (2 cm 3 ). Cette addition dure 5 min en évitant la décoloration de la solution. Le sodium restant est immédiatement filtré, la solution hydrolysée en milieu acide puis extraite à l'éther (3 x 50 cm 3 ). Une chromatographie sur colonne de silice permet de séparer le cholestène-5 (59 mg, 68%) du eholestérol (26 mg, 29%). Le cholestène-5 est contrôlé par ccm sur silice imprégnée de AgNOi puis par rmn.</p>
+				<p>Si le temps de contact est de 24 h, le cholestane purest isolé (58 mg, 64%) ainsi que le 5a-cholestanol-3p (21 mg, 28%). Le cholestane a été contrôlé par ccm sur silice imprégnée de AgN0 3 et par rmn, le cholestanol par rmn.</p>
+				<p>Dosage d'une solution de HMPA-Na</p>
+				<p>La solution bleue obtenue à partir de sodium (2 g) en suspension dans le HMPA (40 cm 3 ) est versée à l'aide d'une microburette dans une solution (1 cm 3 ) de n-butanol 0,214 M dans l'éther jusqu'à persistance de la coloration bleue (1,68 cm' versé; c = 0,119 M).</p>
+				<p>Réduction de !' acétoxy-3 P 5a-cholestane par la solution de HMPA-Na 0,119 M</p>
+				<p>La solution bleue de HMPA-Na 0,119 Ai est versée goutte à goutte dans l'acétoxy-3p 5ct-cholestane (81 mg) mis en solution dans l'éther. (10 cm 3 ) jusqu'à persistance de la coloration (1,54 cm 3 ). Après hydrolyse , extraction et chromatographie, le cholestane (21 mg, 30%) et le cholestanol (51 mg, 70%) sont isolés. Action de la solution bleue de HMPA-Na sur le tert-butanol Une solution bleue de HMPA-Na (c = 0,0366 M) est ajoutée goutte à goutte au rm-butanol (191 mg) dilué dans l'éther (10 cm 3 ) jusqu'à persistance de la coloration. La persistance de la couleur bleue est obtenue après que 0,524 cm 3 de solution ait été ajoutée.</p>
+				<p>Réduction de 1'acétoxy-3 P 5a-cholestane pur par la solution bleue de HMPA-Na Une solution bleue de HMPA-Na (4,13 cm 3 , c = 0,049 M) est ajoutée rapidement sur 1'acétoxy-3 p 5a-cholestane pur (152 mg, 3,45 x 10" 4 mol). Le mélange obtenu est laissé 10 min à la température ambiante puis hydrolysé en milieu acide. Une chromatographie sur silice permet d'isoler le cholestane (58 mg, 44%), l'acétylacétoxy-3p 5ct-cholestane (17 mg, 10%) et le cholestanol-3p (54 mg, 39%).</p>
+				<p>Action de NaNH 2 sur 1' acétoxy-3 fi 5u-choiestane en milieu HMPA De l'amidure de sodium (253 mg) est mis en suspension dans le HMPA (10 cm 3 ) puis 1'acétoxy-3 P 5a-cholestane (552 mg) est mis en présence de ce mélange pendant 30 min. On ajoute alors rapidement de l'alcool puis de l'acide chlorhydrique 3 M avant d'extraire à l'éther. La chromatographie sur silice permet d'isoler de l'ester non transformé (477 mg, 86%) et le 5ct-cholestanol-3p (75 mg, 14%). Action de NaNH 2 sur l'ester en milieu HMPA-Na De l'amidure de sodium (325 mg) est mis en suspension dans le HMPA (10 cm 3 ) en présence de sodium (solution bleue). L'acétoxy-Ester Acétate de triméthyl-3p,4,4 5a-cholestanyle-3 Pivalate de 5a-cholestanyle-3p Cyclohexane carboxylate de 5a-cholestanyle-3p Heptanoate de 5a-cholestanylc-3p Méthyl-1 cyclohexane carboxylate de 5a-cholestanyle-3p</p>
+				<p>Analyse Trouvé Calculé</p>
+				<p>Ester Acétate de 5a-cholestanyle-3p Acétate de cholesten-5 yl-3p Acétate de diméthyl-4,4 5a-cholestanyl-3p Benzoate de 5a-cholestanyl-3p Phényl-2 acétate de 5a-cholestanyl-3p Acétate de méthyl-3p 5a-cholestanyl-3a Acétate de méthyl-3a 5a-cholestanyl-3p 3p 5a-cholestane (567 mg) en solution dans l'éther est ajouté et laissé en présence de cette solution pendant 30 min. Apres élimination du sodium, hydrolyse et chromatographie sur silice, le cholestane est isolé (152 mg, 31%) ainsi que le cholestanol-3p (309 mg, 60%) et l'acétoxy-3p 5a-cholestane non transformé (12 mg, 2%).</p>
+				<p>Action de NaNH 2 sur l'ester en milieu HMPA en présence de tert-butanol</p>
+				<p>De l'amidure de sodium (150 mg) est mis en suspension dans le HMPA (10 cm 3 ) puis de l'acétoxy-3p 5a-choIestane (860 mg) en solution dans un mélange éther -rm-butanol (9:1) (10 cm 3 ) pendant 30 min. On ajoute alors de l'alcool puis de l'acide chlorhydrique 3 M avant d'extraire à l'éther. La chromatographie sur silice permet de séparer de l'ester (150 mg, 22%) et du cholestanol-3p (423 mg, 69%).</p>
+				<p>Action de NaNH 2 sur l'ester en milieu HMPA-Na en présence de XevX-butanol</p>
+				<p>De l'amidure de sodium (330 mg) est mis en suspension dans la solution bleue HMPA-Na. L'acétoxy-3p 5a-cholestane (703 mg) en solution dans un mélange éther -rm-butanol (9:1) (10 cm 3 ) est alors additionné et laissé à la température ambiante pendant 30 min. Après traitement identique au précédent, le cholestane (317 mg, 52%), le cholestanol-3p (280 mg, 44%) et l'ester de départ (4 mg, 0,5%) sont isolés.</p>
+			</div>
+			<note place="foot">Le processus de Bouveault et Blanc conduisant à la fois à R'OH et RCHiOH est négligeable dans les exemples retenus. Dans les résultats obtenus par Barrett et al. (réf. 22), la formation de tert-butyl amidure intervient peu ou pas dans le milieu réactionnel de même que la réaction de Bouveault et Blanc. </note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Bouveault</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Blanc</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">29</biblScope>
+								<biblScope type="issue">31</biblScope>
+								<biblScope type="fpage">666</biblScope>
+								<biblScope type="lpage">672</biblScope>
+								<date type="published" when="1903"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<title level="a" type="main">Survey of organic syn-theses</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">p. CHABLAY. Ann. Chim</title>
+							<imprint>
+								<publisher>J. Wiley</publisher>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">205</biblScope>
+								<date type="published" when="1917"/>
+								<publisher>J. Wiley</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Org. Synth. Coll</title>
+							<imprint>
+								<biblScope type="vol">372</biblScope>
+								<date type="published" when="1943"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Bouveault</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Locquin. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Paris</title>
+							<imprint>
+								<biblScope type="vol">140</biblScope>
+								<biblScope type="pp">1593</biblScope>
+								<date type="published" when="1905"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Bouveault</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Locquin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="issue">35</biblScope>
+								<biblScope type="fpage">633</biblScope>
+								<biblScope type="lpage">637</biblScope>
+								<date type="published" when="1906"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">M</forename>
+									<surname>Mcelvain</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. React</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="issue">256</biblScope>
+								<date type="published" when="1948"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+									<surname>Bloomfield</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">NELKE. Org. React</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">259</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">F</forename>
+									<surname>Blicke</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">229</biblScope>
+								<date type="published" when="1925"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+									<surname>Kharash</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">R</forename>
+									<surname>Mayo</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="pp">362</biblScope>
+								<date type="published" when="1940"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+									<surname>Bloomfield</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">C</forename>
+									<surname>Owsley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Ainsworth</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E Robertson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">393</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">G</forename>
+									<surname>Jackson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">217</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Larcheveque. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sc. Paris (C)</title>
+							<imprint>
+								<biblScope type="vol">275</biblScope>
+								<biblScope type="pp">241</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">G</forename>
+									<surname>Gourey</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Hodler</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H. P. Utley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">779</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Deshayes</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Pete</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Scholler</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">439</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Deshayes</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Portella</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">2019</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Pete</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Portella</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Monneret</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Q</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="pp">774</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Pete</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">568</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Normant</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="fpage">791</biblScope>
+								<biblScope type="lpage">1046</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Randles</forename>
+									<surname>Gremmo Et 1</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">1480</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">W</forename>
+									<surname>Bowers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+									<surname>Giese</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Grimshaw H. O. House</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">H</forename>
+									<surname>Kolodny</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">K</forename>
+									<surname>Roc</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">92</biblScope>
+								<biblScope type="pp">2783</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Dye</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F</forename>
+									<surname>Sankner</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">82</biblScope>
+								<biblScope type="pp">4803</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+									<surname>Boar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Joukhadar</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Mcghie</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">C</forename>
+									<surname>Misra</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G M</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+									<surname>Prokopiou</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">68</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">V</forename>
+									<surname>Barbour</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">88</biblScope>
+								<biblScope type="issue">90</biblScope>
+								<biblScope type="pp">2832</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Whitesides</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Ehmann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">3565</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Normant T</forename>
+									<surname>Cuvigny</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Angelo</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. GREMMO et J. E. B. RANDLES. J. Chem. Soc. Faraday Trans. 1</title>
+							<imprint>
+								<biblScope type="vol">3441</biblScope>
+								<biblScope type="pp">1480</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G M</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H. R. Barton</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">1175</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">B</forename>
+									<surname>Motherwell</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pure Appl. Chem</title>
+							<imprint>
+								<biblScope type="vol">53</biblScope>
+								<biblScope type="pp">15</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Baizer</forename>
+									<surname>Organic Electrochemistry</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Dekker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Inc</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<biblScope type="pp">419</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G. M. Barrett. C. R. A. Godfrey. D. M. Hollinshead</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+									<surname>Prokopiou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H R</forename>
+									<surname>Barton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B. Boar. L. Jouk-Hadar</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">C</forename>
+									<surname>Misra</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">1501</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G M</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+									<surname>Prokopiou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H R</forename>
+									<surname>Barton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Mcghie</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">1173</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">CAN. J. CHEM</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">D</forename>
+									<surname>Sevilla</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">84</biblScope>
+								<biblScope type="pp">3045</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">A. Castillo. S</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">7950</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Cremaschi. G. Morosietm. Simonetta</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">712</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="issue">673</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<monogr>
+							<title level="m" type="main">Carbanion chemistry, reactivity and structure concepts in organic chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<publisher>Springer Verlag</publisher>
+								<biblScope type="pp">17</biblScope>
+								<pubPlace>Berlin</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">W</forename>
+									<surname>Hugues</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Webb</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">3437</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b37">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">S</forename>
+									<surname>Wallis</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">137</biblScope>
+								<date type="published" when="1937"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b38">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Deshayes</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2854</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b39">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Mechoulam</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">3087</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b40">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">D</forename>
+									<surname>Bergmann</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Z</forename>
+									<forename type="middle">H</forename>
+									<surname>Levinson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">81</biblScope>
+								<biblScope type="pp">1239</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b41">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Sondheimer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">5220</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b42">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A. Lablache-Combier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Levisalles</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Peteet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rudler</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1689</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b43">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Hemmer</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A. Lablache-Combier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Levisalles</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">982</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b44">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Bergmann</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Kita</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Giancola</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">4974</biblScope>
+								<date type="published" when="1954"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b45">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Ellis</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Schibeci</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Aust. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">429</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b46">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">K</forename>
+									<surname>Kulkarni</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Indian J. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">677</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

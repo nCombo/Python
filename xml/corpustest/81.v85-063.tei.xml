@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dihydro-9,14(4H)tripyrazolo(l,5-a:1',5'-d:1",5"-g)triazonine-l,4,7. Synthèse et étude par résonance magnétique nucléaire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Alain</forename>
+								<surname>Fruchier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">ERA au CNRS n" 169</orgName>
+								<orgName type="institution">Université des Sciences et Techniques du Languedoc</orgName>
+								<address>
+									<addrLine>Place Eugène Bataillon</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Brigitte</forename>
+								<surname>Lupo</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">ERA au CNRS n" 169</orgName>
+								<orgName type="institution">Université des Sciences et Techniques du Languedoc</orgName>
+								<address>
+									<addrLine>Place Eugène Bataillon</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Georges</forename>
+								<surname>Tarrago</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">ERA au CNRS n" 169</orgName>
+								<orgName type="institution">Université des Sciences et Techniques du Languedoc</orgName>
+								<address>
+									<addrLine>Place Eugène Bataillon</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dihydro-9,14(4H)tripyrazolo(l,5-a:1',5'-d:1",5"-g)triazonine-l,4,7. Synthèse et étude par résonance magnétique nucléaire</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">63</biblScope>
+							<biblScope type="fpage">375</biblScope>
+							<date type="published" when="1985">1985</date>
+						</imprint>
+					</monogr>
+					<note>Dihydro-9,14(4i/)tripyrazolo(l,5-a:l',5'-&lt;/:l",5"-g)triazonine-l,4,7. Synthèse et étude par résonance magnétique nucléaire</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Nous avons réalisé la synthèse selon une voie univoque de la triméthyl-2,7,12 dihydro-9,14(4W)tripyrazolo(l,5-a:l',5'- d\ I ",5"-g)triazonine-1,4,7. Une étude rmn de cette nouvelle molécule dans divers solvants a pour la première fois mis en évidence l'existence d'un équilibre conformationnel de type crown ^ saddle dans un dérivé du triazacyclononatriène.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>We have accomplished an unequivocal synthesis of 2,7,12-trimethyl-9,14-dihydro-l,5-o; 1',5'-i;l",5"-g-(4//)tri-pyrazolo-1,4,7-triazonine. An nmr study of this new molecule in different solvents shows, for the first time, the existence of a crown saddle conformation! equilibrium in a triazacyclononatriene derivative.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Dans une publication précédente (1), nous avons montré que le composé obtenu par action du brome sur le sel d'argent du triméthyl-3,4,5 pyrazole ne pouvait avoir la structure 1 qui lui avait été attribuée (2).</p>
+				<p>Sur la base de la masse moléculaire déterminée par spectrométrie de masse et du spectre de rmn dans le DMSO-J 6 indiquant une symétrie élevée, nous avions suggéré une structure cyclique tripyrazolique 2. Cependant, étant donnée la méthode d'obtention, une structure de type 3 ne pouvait être absolument exclue.</p>
+				<p>Nous présentons dans ce travail la synthèse univoque d'un composé analogue à 2, la triméthyl-2,7,12 dihydro-9,14-(4//)tripyrazolo(l,5-a:R,5'-J:l",5"-^)triazonine-l,4,7 4, dont l'étude rmn prouve la structure proposée précédemment (1).</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<p>La synthèse de 4 est effectuée selon le schéma réactionnel suivant:</p>
+				<p>Le composé 5, dont nous avons déjà décrit la synthèse (1), est traité par l'hydrazine pour donner 6, qui par condensation avec l'acétylpyruvate d'éthyle conduit aux deux isomères la et 1b. Ces derniers sont séparés par chromatographie et identifiés par rmn sur la base du couplage entre les groupes méthyle-3(5) et les protons en position 4 des noyaux pyrazoliques (3). L'ester lb est ensuite réduit puis traité par le chlorure de thionyle pour donner 8.</p>
+				<p>De par la présence de deux atomes d'azote nucléophiles dans le noyau pyrazole non N-substitué, la condensation du groupe chlorométhyle de 8 peut s'effectuer de deux façons et conduire à 4 et(ou) 9. Cependant, soumis à un milieu basique fort dans les conditions de la catalyse par transfert de phase, 8 subit une cyclisation intramoléculaire par attaque du groupe chlorométhyle sur l'azote en (3 du substituant méthyle et donne le composé 4 avec un rendement de 38%. Si de nombreux autres produits sont formés au cours de la réaction, nous n'avons pu les identifier, le rendement de chacun d'eux étant inférieur à 3%.</p>
+				<p>Les spectres en rmn du proton de 2 et 4 dans CDC1 3 et DMSO-d 6 sont réunis dans les figures 1 et 2 respectivement, et les déplacements chimiques dans le tableau 1.</p>
+				<p>On notera une grande analogie, d'une part entre les spectres des deux composés dans le même solvant (fig. la et 2a, lb et 2b), d'autre part en ce qui concerne l'effet du solvant sur un composé donné (fig. la et lb, 2a et 2b). Pour chacun d'eux, le spectre dans le DMSO-C/6 est celui d'un composé unique de symétrie C 3 dont les protons méthyléniques sont fortement anisochrones , tandis que celui dans CDC13 correspond à un mélange de deux espèces en proportions inégales. La plus abondante est celle observée dans le DMSO, la moins abondante a la même symétrie mais ne montre aucune anisochronie des protons méthyléniques à 360 MHz.</p>
+				<p>Les produits 2 et 4 étant très peu solubles dans les deux solvants (étude de solutions saturées), et bien que chromatographiquement purs, la solubilisation sélective de deux espèces différentes dans les deux solvants ne pouvait être exclue . Cependant, cette hypothèse a pu être rejetée après étude de l'évolution du spectre d'une solution chloroformique lors de l'addition de DMSO-î/ 6 ( <ref type="figure">fig. 3 et 4</ref>). Les composés 2 et 4 ont exactement le même comportement: dans les deux cas, l'addition de DMSO provoque la disparition progressive du produit  mineur, ainsi qu'une augmentation d'anisochronie des protons des méthylènes du produit majeur.</p>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>La structure 9 pouvant être rejetée à cause de l'absence de symétrie qui conduirait à un spectre rmn plus complexe que celui de la figure 2a, le cycle central à neuf éléments de 4 explique son comportement en rmn.</p>
+				<p>En effet, il est connu (4) que le cyclononatriène-1,4,7 existe sous deux conformères C (crown) et S (saddle):</p>
+				<p>En rmn, seule la forme C est observée à basse température, tandis qu'à température ambiante ou élevée, le spectre correspond à un équilibre plus ou,moins rapide entre les différentes formes possibles.</p>
+				<p>Dans le cas du cyclotrivératrylène (CTV) 10, la forme C est seule observée (5), même à 200°C (absence de coalescence du système AB méthylénique). Dans tous les composés analogues cités (6), soit la forme C est seule présente, soit la forme S. Les deux conformères ont été cependant signalés dans un même spectre rmn pour le produit 11 où le cycle benzénique est remplacé par un cycle à cinq éléments (7).</p>
+				<p>Le seul triazacyclononatriène-1,4,7 symétrique décrit à notre connaissance est le composé 12 (8) dans lequel les trois méthylènes sont isochrones dans le CDClj.</p>
+				<p>Il apparaît donc que les spectres dans le DMSO-Î/ 6 de 2 et 4 (fig. la et 2a) sont ceux d'une forme C ( <ref type="figure">fig. 5</ref>): isochronie des protons situés sur les positions homologues des noyaux pyrazoliques et des groupes méthyléniques, indiquant la symétrie C 3 , et anisochronie des protons à l'intérieur de chaque méthylène.</p>
+				<p>Dans le CDCI 3 , par contre, si la forme C est encore majoritaire , il est raisonnable d'attribuer à la forme S les signaux du composé minoritaire. Cette structure n'ayant aucun élément de symétrie, conduirait à un spectre rmn complexe si elle n'était en équilibre rapide avec deux autres formes S équivalentes (4, 6, 8, 9).</p>
+				<p>La preuve que les formes majeure (C) et mineure (S) observées dans le spectre de 4 sont en équilibre conformationnel lent à température ambiante est apportée par l'évolution du spectre de 4 dans l'hexachloroacétone avec la température, montrant une coalescence des signaux des deux formes vers 140°C ( <ref type="figure">fig. 6</ref>). La réversibilité du processus a été vérifiée lors du refroidissement.</p>
+				<p>En utilisant la méthode décrite dans la référence 10 pour les échanges entre sites inégalement peuplés, on peut évaluer le AC de l'équilibre C/S de 4 dans l'hexachloroacétone à 20 ± 1 kcal mol -1 . Cette barrière est inférieure à celle du CTV dans le même solvant: ce dernier se décompose à 200°C sans qu'il y ait eu évolution du système AB méthylénique de la forme C seule visible (5). Par contre, aucun élargissement des signaux de la forme S n'est observé dans CD 2 C1 2 à -95°C. De toute évidence, et malgré que l'étude des deux équilibres ne soit pas possible dans le même solvant, la barrière de l'interconversion S/S est donc très inférieure à celle de l'équilibre C/S. En effet, le rôle du solvant est important. Par exemple, contrairement à ce qui est observé dans l'hexachloroacétone, le spectre de 4 dans le DMSO-rf 6 à 140°C est identique à celui observé à température ambiante.</p>
+				<p>D'autre part, la différence de comportement de 2 et 4 dans CDC1} et DMSO-Ê?6 nous a incités à les étudier dans plusieurs autres solvants. Les déplacements chimiques sont réunis dans le tableau 1. On constate que dans les solvants tels que DMSO, benzène, méthanol, acétonitrile, acétone, l'équilibre est totalement déplacé en faveur de la forme C, mais que l'anisochronie des protons méthyléniques ainsi que le centre du système AB sont variables. Par contre, les solvants dans lesquels les deux conformères coexistent sont tous halogénés: chloroforme, dichlorométhane , bromoforme, hexachloroacétone. C'est aussi dans ces solvants que l'anisochronie des protons méthyléniques est la plus faible.</p>
+				<p>Enfin, des expériences réalisées à partir de mélanges CDC13/DMS0-Î/6 et benzène/DMSO-I/ 6 ont mis en évidence la sensibilité plus grande d'un des deux protons méthyléniques à l'effet de solvant. Par exemple, lors de l'addition progressive de DMSO à une solution benzénique de 2 ou de 4, le déplacement du système AB vers les fréquences élevées s'effectue avec croisement des signaux des protons méthyléniques.</p>
+				<p>Ces différentes observations sont en faveur d'une solvatation spécifique du conformère C, solvatation qui a déjà été invoquée dans le cas du CTV (6, 9) pour expliquer la stabilisation de la forme C pourtant plus encombrée que la forme S. Ce dernier point est illustré dans notre série par le pourcentage de forme S qui passe de 20 (produit 4) à 30 (produit 2) puis à 50 (produit 12) quand on remplace l'hydrogène de la position 4 des noyaux pyrazoliques par un méthyle (dans 2) ou un brome (dans 12) (tableau 1).</p>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Dans la série du CTV, il a été montré (6) qu'au moins un des carbones sp 3 méthyléniques doit être remplacé par un carbone sp 2 pour qu'il y ait, dans l'échelle des temps de la rmn, équilibre entre conformères C et S. Dans tous les autres cas, c'est soit la forme C seule, soit la forme S seule qui est observé. Nous venons de voir que cette condition n'est pas nécessaire dans la série de la tripyrazolotriazonine-1,4,7 où les formes C et S sont observées en même temps dans certains solvants.</p>
+				<p>D'autre part, étant donné que la différence observable entre formes S et C est l'anisochronie des hydrogènes méthyléniques de cette dernière, un spectre à haut-champ au moins sera souhaitable chaque fois que la forme S sera "vue" seule. Nous avons en effet montré que, dans certains solvants, l'anisochronie de la forme C peut être si faible qu'elle n'est pas mesurable à 80 ou 100 MHz.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les spectres rmn du proton ont été enregistrés sur les spectromètres suivants: Varian HA-100 et Bruker WP-80-DS du Laboratoire de Mesures Physiques de l'U.S.T.L., Bruker WM-250 de la Sadis Bruker à Wissembourg que nous remercions de son aide, Bruker WM-360-WB du Laboratoire de RMN à Haut-Champ de Montpellier. Tous les déplacements chimiques sont donnés en ppm par rapport au TMS pris comme référence interne.</p>
+				<p>Les spectres de masse ont été obtenus sur un spectromètre JEOL JMS D-100 au Laboratoire de Mesures Physiques de l'U.S.T.L. Les points de fusion inférieurs à 250°C, non corrigés, ont été déterminés en tubes capillaires avec un appareil Tottoli, et ceux supérieurs à 250°C avec une platine chauffante Leitz. Les analyses ont été effectuées par le Service Central de Microanalyses du C.N.R.S.</p>
+				<p>Les rendements indiqués correspondent à des produits ne présentant qu'une seule tache en chromatographie sur couche mince.</p>
+				<p>Hydrazinométhyl-5 diméthyl-3,5'(3') dipyrazolyl-1,3'(5') méthane 6 Ce composé très instable a été préparé in situ pour éviter toute oxydation éventuelle (11). Un courant d'azote est envoyé sur une solution de 0.10 mol (26 g) du chlorhydrate de 5 (1) dans 500 mL d'éthanol puis 0,80 mol d'hydrate d'hydrazine (40 g) en solution dans 50 mL d'éthanol sont ajoutés. Le mélange est agité à température ambiante pendant 20 min puis refroidi jusqu'à apparition d'un précipité de chlorhydrate d'hydrazine que l'on filtre. Le filtrat est concentré sous atmosphère d'azote. L'huile obtenue est chauffée à 90°C sous 0,1 Torr (1 TOIT = 133.3 Pa) afin d'éliminer le maximum d'hydrazine et est utilisée aussitôt pour l'étape suivante.</p>
+				<p>Carbéthoxy-5 triméthyl-3,3',5"(3") [pyrazole méthylène-3"(5")]-yl-I' dipyrazolyl-1,5' méthane 7b Un mélange de 0,05 mol de 6 (11 g) et 0,06 mol d'acétylpyruvate d'éthyle (9,5 g) est chauffé à reflux 2 h sous atmosphère d'azote dans 500 mL d'éthanol. Après évaporation du solvant sous pression réduite , le résidu huileux est chromatographié sur alumine (ether/ ethanol 98:2). A côté de produits non identifiés, les deux isomères suivants sont isolés.</p>
+				<p>Composé 7a, R, = 0,10, avec un rendement de 10%; F = I20°C; spectre de masse (pic moléculaire): m/e = 342; rmn (CDCI,): 6,52 (1H, s), 5,92 (1H, s), 5,67 (1H, s), 5,32 (2H, s), 5,28 (2H, s), 4,36 (2H, q), 2,20 (3H, d, J = 0,6 Hz: CH.,-5"), 2,16 (3H, d, J = 0,7 Hz: CH.,-5), 2,15 (3H, s, CH.,-3'), 1,34 (3H, t); rmn (C " D 6 ): 6,43 (1H, s), 6,07 (2H, s), 5,88 (IH, s), 5,47 (IH, s), 5,24 (2H, s), 4,14 (2H, q), 2,06 (3H, s: CH.,-3'), 1,95 (3H, d, J = 0,6 Hz: CH,-5"), 1,62 (3H, d, J = 0,7 Hz: CH.,-5), 1,03 (3H, t).</p>
+				<p>Composé 7b, R r = 0,25, avec un rendement de 24%; F = 138°C; spectre de masse (pic moléculaire): m/e = 342; rmn (CDCI.,): 6,59 (IH, s), 5,88 (2H, s), 5,69 (2H, s), 5,42 (2H, s), 4,30 (2H, q), 2,24 (3H, d, J = 0,3 Hz: CH.,-3), 2,19 (3H, d, J = 0,6 Hz: CH.,-5"), 2,16 (3H, d, J = 0,3 Hz: CH.,-3'), 1,30 (3H, t); rmn (C 6 D 6 ): 6,43 (I H, s), 6,03 (IH, s), 5,84 (IH, s), 5,65 (2H, s), 5,42 (2H, s), 3,92 (2H, q), 2,06 (3H, d, J = 0,3 Hz: CH,-3), 2,03 (3H, d, J = 0,3 Hz: CH,-3'), 1,83 (3H, d, J = 0,6 Hz: CH,-5"), 1,02 (3H, t).</p>
+				<p>Hydroxyméthyl-5 triméthyl-3,3',5"(3") [pyrazole méthylène-3"(5")]-yl-1' dipyrazolyl-1,5' méthane Cet alcool est obtenu par réduction de l'ester 1b par AlLiHj selon un protocole analogue à celui décrite dans la littérature pour l'homologue inférieur à deux noyaux pyrazole (I). Rendement 75%; F = 118-120°C; spectre de masse (pic moléculaire): m/e = 300; rmn (CDCI,): 5,87 (IH, s), 5,82 (1 H, s), 5,70 (IH, s), 5,23 (2H, s), 5,12 (2H, s), 4,42 (2H, s), 2,14 (3H, s: CH.,-3), 2,11 (3H, d, J = 0,6 Hz: CH.,-5"), 2.09 (3H, s: CH,-3'); rmn (C 6 D 6 ): 5,87 (IH, s), 5,83 (IH, s), 5,82 (IH, s), 5,22 (2H, s), 5,12 (2H, s), 4,38 (2H, s), 2,14 (3H, s: CH.,-3), 2,08 (3H, s: CH.,-3'), 1,81 (3H, d, J = 0,6 Hz: CH.,-5").</p>
+				<p>Chlorométhyl-5 triméthyl-3,3',5"(3") [pyrazole méthylène-3"(5")]-yl-1' dipyrazolyl-1,5' méthane 8 Ce composé est obtenu par action du chlorure de thionyle sur l'alcool précédent selon le même mode opératoire décrit pour l'homologue inférieur à deux noyaux pyrazoles (I). Rendement 65%; F = 80°C (décomposition); spectre de masse (pic moléculaire): m/e = 318; rmn (CDCI.,): 6,01 (IH, s), 5,92 (2H, s), 5,42 (2H, s), 5,34 (2H, s), 4,47 (2H, s), 2,32 (3H, d, J = 0,4 Hz: CH.,-5'), 2,19 (3H, s: CHi-3), 2,17 (3H, s: CH.,-3'); rmn (G,D 6 ): 5,80 (IH, s), 5,73 (IH, s), 5,71 (IH, s), 5,37 (2H, s), 5,23 (2H, s), 4,18 (2H, s), 2,10 (3H, s: CHv3), 2,09 (3H, s: CH 3 -3'), 1,88 (3H, d, J = 0,4 Hz: CH,-5").</p>
+				<p>Triméthyl-2,7,12 dihydro-9,14 (4H)tripyrazolo(1,5-&amp;:l',5'-à:l"S'-gjtriazonine-1,4,7 4 A 4 mL d'une solution de soude à 50% en poids sont ajoutés 2 x 10~ 4 mol de bromure de tétrabutylammonium et 300 mL de benzène en agitant vivement. Une solution de 0,005 mol de 8 dans 300 mL de benzène est alors ajoutée goutte à goutte au mélange précédent et le milieu réactionnel est chauffé au bain-marie à 60°C pendant 2 h. Très rapidement, un précipité blanc, fin et floconneux apparaît. En fin de réaction, ce précipité est filtré, lavé à l'eau puis extrait au chloroforme. La phase organique est séchée sur sulfate de sodium, filtrée puis le solvant évaporé. Le résidu solide est recristallisé dans un mélange eau/éthanol et donne 4 avec un rendement de 38%; F = 310°C; spectre de masse (pic moléculaire): m/e = 282. Anal. calc. pour CISHIKNÎ,: C 63,89, H 6,43, N 29,80; trouvée: C 63,49, H 6,47, N 29,51; rmn, voir tableau I.</p>
+				<p>Tribromo-3,8,13 triméthyl-2,7,12 dihydro-9,14(4H)tripyrazolo-(1,5-a:l' ,5'-d:l",5"-g)triazonine-l ,4,7 12 A 0,001 mol de 4 en solution dans le chloroforme est ajouté goutte à goutte 0,003 mol de brome en solution chloroformique. L'addition terminée, le mélange est porté à reflux pendant 1 h. Le bromohydrate de 12, insoluble dans le chloroforme, précipite et le milieu est neutralisé par une solution aqueuse de Na 2 CO.,. La phase organique est séparée, séchée et évaporée. Le solide blanc obtenu est recristallisé dans le chloroforme et conduit à 12 avec un rendement de 67%; F = 300°C; spectre de masse (pic moléculaire): m/e = 522. Anal. calc. pour C,5H 15 Br.,N 6 : C 34,71, H 2,91, N 16,19; trouvée: C 35,50, H 3,11, N 16,23; rmn, voir tableau 1.</p>
+				<p>Hexaméthyl-2,3,7,8,12,13 dihydro-9,14 (4H)tripyrazolo-(1,5-a:l',5'-d:l",5"-g)triazonine-l,4,7 2 Ce composé a été préparé selon les indications de la littérature (2). Le produit que nous avons isolé après recristallisation et sublimation possède les même caractéristiques que celles décrites dans la référence 2: Rendement 3% (litt. (2): 6%); F = 320°C (litt. (2): 325°C). Anal. calc. pour C I8 H24N 6 : C 66,64, H 7,46, N 25,90; trouvée: C 66,59, H 7,38, N 25,58; rmn, voir tableau 1. La seule différence avec la littérature (2) est le pic moléculaire du spectre de masse à m/e = 324.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Lupo</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Tarrago</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="pp">545</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Reimlinger</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Jadot</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">103</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Jacquier J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">1242</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">A. L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Ghiaci</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. AM. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">102</biblScope>
+								<biblScope type="pp">2528</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+						<note>et. références citées</note>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">D</forename>
+									<surname>Gesner</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">3351</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">E</forename>
+									<surname>Troughton</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">4278</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+						<note>et. références citées</note>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">D</forename>
+									<surname>Raverty</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">J</forename>
+									<surname>King</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">1204</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Roth</forename>
+									<surname>Ann</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem</title>
+							<imprint>
+								<biblScope type="vol">671</biblScope>
+								<biblScope type="issue">10</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Buemi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Grasso</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Struct</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">195</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Martin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Practical NMR spectroscopy. Heyden and Son Ltd</title>
+							<imprint>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Fifani</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Tarrago</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">NOUV. J. Chim</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">521</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<monogr>
+	</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

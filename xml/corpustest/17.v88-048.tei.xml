@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">des radicaux hydroxyle et hydroxy-2 propyle-2 avec l'hypoxanthine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1988">1988</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<surname>Zylber</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'électrochimie catalyse et synthèse organique, Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Nicole</forename>
+								<surname>Zylber</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'électrochimie catalyse et synthèse organique, Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Daniel</forename>
+								<surname>Lefort</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'électrochimie catalyse et synthèse organique, Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Christiane</forename>
+								<surname>Ferradini</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoiredechimiephysique</orgName>
+								<orgName type="institution">UniversitéRenéDescartes</orgName>
+								<address>
+									<addrLine>45,ruedesSaints-Pères</addrLine>
+									<postCode>75270, CEDEX06</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Bernard</forename>
+								<surname>Hickel</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Centred'étudesnucléairesdeSaclay</orgName>
+								<orgName type="laboratory">Département de physico-chimie- Service de chimie moléculaire— Unité associée au Centre national de la recherches cientifique</orgName>
+								<address>
+									<addrLine>n"331, B.P.n°2</addrLine>
+									<postCode>91190</postCode>
+									<settlement>Gif-sur-Yvette</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">des radicaux hydroxyle et hydroxy-2 propyle-2 avec l'hypoxanthine</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">66</biblScope>
+							<biblScope type="fpage">283</biblScope>
+							<date type="published" when="1988">1988</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La réactivité des radicaux OH et (CH 3) 2 COH avec l'hypoxanthine a été étudiée dans des conditions d'irradiation y comparables. Une différence de régiosélectivité de l'attaque du radical OH, électrophile, et du radical (CH 3) 2 COH, nucléophile, est mise en évidence. Ce dernier conduit au produit substitué en C-8 avec un rendement de 70% ; la constante de vitesse d'addition du radical à l'hypoxanthine déterminée, en milieu acide, par radiolyse puisée est k= 1,4 x 10 8 Ai -1 s -1 , et &amp; = 7 x 10 5 Ai -1 s~' en milieu neutre. Le radical OH, beaucoup plus réactif, conduit essentiellement à des produits de dégradation dont le point de départ serait, entre autres, l'attaque en C-2 (donc formation de xanthine qui disparait rapidement); l'attaque en C-8, environ trois fois moins rapide, conduit à la dicéto-6,8 purine qui résiste aux réactions ultérieures et s'accumule dans le milieu.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The reactivity of ÔH and (CH 3) 2 COH radicals with hypoxanthine was studied under comparable 7-irradiation conditions. A difference in regioselectivity of attack by the electrophilic OH radical and the nucleophilic (CH 3) 2 COH radical is observed, the latter leading in 70% yield to a C-8 substituted product. The rate constants of the addition of the radical to hypoxanthine were determined by pulse radiolysis to be k = 1.4 x 10 8 M s~' in acid medium, and in neutral medium i=7x 10 5 M s" -'. The much more reactive OH radical leads essentially to degradation products arising, inter alia, from attack on C-2 (resulting in the formation of xanthine, which disappears rapidly), while attack at C-8, approximately three times less rapid, leads to the 6,8-diketo purine, which does not undergo further reactions and thus accumulates in the medium.</p>
+			</div>
+		</front>
+		<body>
+			<p>L'action des radicaux hydroxyle produits par radiolyse de l'eau sur les bases puriques a fait l'objet de nombreux travaux dans le but de déterminer le mécanisme de dégradation des acides nucléiques soumis à l'irradiation 7 (1).</p>
+			<p>La position 6 du noyau purique est le site privilégié d'attaque aussi bien des radicaux -OH (2) que des radicaux carbonés (3). De nombreuses études ont montré que lorsque cette position 6 est substituée, la substitution par des radicaux carbonés se fait préférentiellement en 8 (4). La comparaison des résultats obtenus pour différents modèles a permis à certains auteurs (2, 5) de proposer la séquence de réactivité C6 &gt; C8 &gt; C2 en accord avec les conclusions d'une étude théorique (6).</p>
+			<p>La régiosélectivité de substitution des radicaux * OH sur les bases puriques et en particulier sur l'hypoxanthine, premier maillon de la dégradation oxydative biochimique, n'est pas aussi évidente. En effet, selon certains auteurs, les radicaux *OH produits lors de la radiolyse 7 de l'eau, en solution oxygénée, réagissent quantitativement avec la double liaison centrale 4,5 pour conduire à des produits carbonylés de dégradation (7); d'autres auteurs ont montré que -OH, obtenu à partir du réactif de Fenton, attaque l'hypoxanthine sur le cycle imidazole en position 8 pour donner la dicéto-6,8 purine (2).</p>
+			<p>Cette substitution en 8 a été établie également dans le cas de la radiolyse 7 de l'adénine (8). Par ailleurs, l'un d'entre nous (9) a montré par une étude de radiolyse puisée, que la réaction de *OH sur l'hypoxanthine conduit principalement à la xanthine. Ni les études théoriques (10, 11), ni les analyses de spectres (résonance paramagnétique électronique) (12) ne permettent de prévoir ou d'expliquer sans ambiguïté les résultats expérimentaux ; dans le premier cas l'ordre de réactivité d'un radical sur les différents atomes de carbone du noyau purique varie selon la méthode de calcul; dans le second, si le spectre du radical résultant de l'addition de -OH en 8 est parfaitement défini pour le cas de la caféine, il n'en est pas de même pour ceux obtenus avec les purines non substituées en 2 ou 6.</p>
+			<p>Pour lever cette ambiguïté d'attaque par -OH en 2 ou en 8 nous avons donc étudié les produits obtenus lors de la radiolyse 7 d'une solution aqueuse d'hypoxanthine désaérée et saturée en N 2 0. Les radicaux -OH sont produits par les processus bien connus :</p>
+			<p><formula>H 2 0-OH, H-, e" aq. H2, H,O 2^2 aq + N20 —» N, + -OH + "OH</formula></p>
+			<p>Puisque la réactivité et la régiosélectivité d'un radical dépendent, pour un substrat donné, de son caractère nucléophile ou électrophile (13, 14), il était intéressant de comparer les résultats obtenus, dans les mêmes conditions expérimentales, avec le radical -OH électrophile et avec un radical nucléophile comme le radical 1 (hydroxy-2 propyle-2).</p>
+			<p>Celui-ci est formé lors de la radiolyse d'une solution aqueuse d'isopropanol; conformément aux travaux précédents (4), laréaction avec l'hypoxanthine se déroule selon le schéma classique de substitution aromatique homolytique (</p>
+			<p>Le produit 4 a déjà été obtenu par d'autres méthodes photochimiques uv avec ou sans sensibilisateur (5,16). Déplus, par radiolyse puisée, nous avons pu déterminer la constante de vitesse d'addition du radical 1 sur l'hypoxanthine et la comparer à celle obtenue précédemment pour -OH (9).</p>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Le déroulement de la réaction est suivi par ccm (chromatographie sur couche mince) sur gel de silice (Kieselgel 60F254, Merck). Les points de fusion sont pris sous microscope. Les chromatographies hplc sont effectuées avec un appareil Varian 5000 muni d'un détecteur uv Shimadzu SPD/6A. Les spectres de masse sont obtenus avec un appareil de Ribermag 10-10. Les spectres de rmn sont enregistrés à 90 ou 200 MHz sur des appareils Bruker. Les déplacements chimiques sont exprimés en ppm avec le tétraméthylsilane comme référence interne. Les analyses sont exécutées par le Service central d'analyse du C.N.R.S. Toutes les expériences ont été effectuées sur des solutions aqueuses préalablement saturées en N 2 0 et irradiées à l'aide d'une source de ^Co à une dose de 1055 rad/min. 3</p>
+				<p>Matières premières</p>
+				<p>Les matières premières sont des produits commerciaux : hypoxanthine (Ega), acide urique (Aldrich), xanthine (Fluka), thymidine (Sigma). Les solvants pour hplc sont des produits Carlo Erba.</p>
+				<p>(Hydroxy-2' méthyl-2' éthyl)-8 hypoxanthitie 4</p>
+				<p>Une solution de 0,340 g (2,5 mmol) d'hypoxanthine et 30 g (0,5 mol) de propanol-2 dans 500 mL d'eau, saturée en N 2 0, est irradiée pendant ¡6 h. La solution est ensuite lyophilisée; le résidu obtenu est chromatographié sur Si0 2 (70-230 mesh); par élution avec CHCI3 à 10% MeOH on obtient une fraction brute de 219 mg dont le dosage par rmn 'H permet de déterminer la présence de 100 mg de produit 4 (73% par rapport à l'hypoxanthine ayant réagi). La cristallisation dans l'acétate d'éthyle fournit 20 mg d'un échantillon pur d'(hydroxy-2' méthyl-2' éthyl)-8 hypoxanthine; F = décomposition au dessus de 350°C; uv (EtOH) : \ max = 250 nm (log E = 4,05); rmn 90 MHz (DMSO-rf 6 ) 8 : 1,53 (S, 6H, 2CH 3 , C-8 diméthylcarbinol ), 7,93 (S, 1H, H en 2). Ce signal persiste après chauffage à reflux dans D 2 0. Masse, m/e : 194. Anal. calc. pour C 8 H| 0 N 4 O-&gt; + 1/2H 2 0 : C 47,28, H 5,41, N 27,41; trouvé : C 48,08, H 5,25, N 27,58.</p>
+				<p>(Hydroxy-2' méthyl-2' éthylj-8 caféine 5</p>
+				<p>Une solution de 0,970 g (5 mmol) de caféine et 30 g (0,5 mol) de propanol-2 dans 500 mL d'eau, saturée en N 2 0, est irradiée pendant 16 h. L'extraction avec CHC1 3 donne 1 g de produit. Par chromatographie sur silice (70-230 mesh) et élution par l'acétate d'éthyle on obtient 0,240 g de produit 5 chromatographiquement pur (95% par rapport à la caféine ayant réagi). La cristallisation dans un mélange acétate d'éthyle-méthanol fournit 170 mg de cristaux, pf 200-202°C (sublim. à 180°C) (lit. (5) pf 199-200°C); rmn 90 MHz (DMSO-Î/ 6 ) 8 : 1,8 (S, 6H, 2CH 3 , C-8 diméthylcarbinol), 3,4 (S, 3H), 3,6 (S, 3H), 4,25 (S, 3H) (3CH 3 en N-l, N-3 et N-7); masse, m/e : 252. Anal. calc. pour C " H 16 N 4 0 3 : C 52,37, H 6,39, N 22,21; trouvé : C 52,32, H 6,33, N 22,6. Par élution avec un mélange d'acétate d'éthyle -méthanol (99 : 1) on récupère 0,776 g (80%) de la caféine de départ.</p>
+				<p>Irradiation de /'hypoxanthine dans H^O. Dicéto-6,8 purine 7</p>
+				<p>Une solution de 0,3 g (2,2 mmol) d'hypoxanthine dans 500 mL d'eau bidistillée, saturée en N?0, est irradiée pendant 8, 16, 24 et 48 h. Pour chaque période la solution est lyophilisée; le produit obtenu est analysé par hplc; colonne Lichrosorb SRP 18, 150 x 46mm;éluant eau/CH 3 C0 2 H/Me0H = 79,5 : 0,5 : 20. Détection à 270 nm. Dosage de l'hypoxanthine par rapport à la thymidine comme étalon interne. Résultats tableau 1. Temps de rétention (min) : acide urique, 3,3; dicéto-6,8 purine 7, 3,5; xanthine, 3,9; hypoxanthine, 4,2. Débit 0,7 mL/min.</p>
+				<p>Isolement et identification du produit 7 Le mélange de produits obtenu après 48 h d'irradiation est chromatographié sur Si0 2 (200-400 mesh) sous pression (technique chromatographie «flash» et élué par CHCl 3 /MeOH/NH 4 OH 16 Ai: 40 : 10 : 1. On obtient 0,024 g de produit chromatographiquement pur (7% par rapport à l'hypoxanthine de départ). La cristallisation dans un mélange eau/MeOH fournit 8 mg de cristaux, pf : décomp. au délà de 350°C; les spectres uv sont différents de ceux de l'hypoxanthine et de la xanthine; aux pH 1 et 5, \ max = 257 nm (log E = 4,05) avec un épaulement caractéristique à 280 nm (log E = 3,77); à pH 10, \ max = 265 nm (log E = 4,04), à pH 12, A max = 271 nm (log E = 4,1) (17); rmn 90 MHz (DMSO-rf 6 ) 8 : 7,88 (S, 1H, H en 2), 11,07 (S, 1H, échangeable), 11,95 (S, 2H, échangeable); masse, m/e: 152, 124 (perte CO), 101 (pic métastable).</p>
+				<p>Réaction de l'hypoxanthine avec le propanol-2 en radiolyse puisée</p>
+				<p>Une solution aqueuse à pH 0,95 d'hypoxanthine (1,9 x 10^ 3 M), de propanol-2 (0,75 M) et de HC10 4 (0,117 M) est soumise à la radiolyse puisée.</p>
+				<p>La source d'électrons est un accélérateur type Febetron 707 situé au CEN de Saclay (DPC) (18). Dans cet appareil la décharge d'une série de modules comportant chacun deux résistances, deux condensateurs et un éclateur, est appliquée à une cathode à émission de champ contenue dans un tube sous vide. Une sélection magnétique des électrons de 1,8 MeV est alors utilisée pour réduire la durée de l'impulsion à environ 20 nanosecondes. Ces solutions sont contenues dans une cellule en Spectrosil (2,5 x 2,5 x 0,25 cm). À chaque impulsion l'énergie absorbée par la solution varie entre 70 et 700 Gray de sorte que la concentration initiale en radicaux libres -OH est comprise entre 4 x 10~ 5 et 4 x 10" 4 M.</p>
+				<p>L'analyse spectrophotométrique est effectuée par un montage optoélectronique classique incluant une lampe au xénon, un monochromateur et un photomultiplicateur. Le trajet optique est de 2,5 cm. Pour chaque longueur d'onde étudiée, le changement d'absorption est analysé en fonction du temps, le début de l'impulsion étant pris comme origine de l'échelle des temps.</p>
+			</div>
+			<div type="section">
+				<head>Résultats et discussion</head>
+				<div type="section" n="A">
+					<head>Réaction avec le propanol-2</head>
+					<div type="section" n="1">
+						<head>Produit de réaction</head>
+						<p>Une solution aqueuse d'hypoxanthine (5 x 10~ 3 M) contenant de l'isopropanol (1 M) est irradiée sous N 2 0 à température ambiante pendant 16 h. Le taux de conversion est de 28%; le produit 4, identifié par rmn et sm, est obtenu avec des rendements respectifs de 20 et 71 % par rapport à l'hypoxanthine mise en oeuvre ou ayant réagi. Les 29% de produits secondaires formés n'ont pas été identifiés; toutefois aucun d'eux ne correspond au composé substitué en 2. Le produit disubstitué en 2 et 8 a été isolé en très petite quantité. Ce résultat montre que l'ordre de réactivité est bien C8 » C2.</p>
+						<p>Dans ce système, le fait que les radicaux -OH réagissent exclusivement avec l'isopropanol selon [a] pour conduire finalement au produit 4 plutôt qu'avec l'hypoxanthine (vide infra) n'est pas surprenant. En effet, les constantes de vitesse de *OH avec l'hypoxanthine et avec l'isopropanol sont respectivement de 6,5 x D.O (9) et environ de 2 x 10 y M~ 1 s (19). Mais comme la concentration en isopropanol est 200 fois supérieure à celle de l'hypoxanthine, la réaction [a] de ÔH avec l'alcool est environ 60 fois plus rapide.</p>
+						<p>Dans les mêmes conditions réactionnelles nous avons obtenu avec la caféine le produit 5 substitué en 8, avec un rendement de CH 95% par rapport à la caféine ayant réagi et un taux de conversion analogue à celui obtenu avec l'hypoxanthine.</p>
+						<p>Un tel produit a déjà été obtenu par d'autres auteurs (5, 20) par irradiation uv ou y. Nos résultats confirment la grande sélectivité du radical nucléophile hydroxypropyle 1 pour le sommet 8, en particulier dans le cas de la caféine où la transformation est pratiquement quantitative.</p>
+					</div>
+					<div type="section" n="2">
+						<head>Cinétique d'addition du radical 1 sur l'hypoxanthine</head>
+						<p>L'étude a été faite en radiolyse puisée; le spectre uv du radical intermédiaire 3 déterminé 10 |xs après une impulsion délivrant une dose de 700 Gray environ, présente un maximum à 285 nm (<ref type="figure">fig. 1</ref>). Celui de l'hypoxanthine substituée 4 donne, en milieu neutre, deux maxima à 202 et 250 nm. Le déplacement bathochrome est donc conforme à ce que l'on sait des spectres uv des radicaux libres (15).</p>
+						<p>En milieu acide la réaction d'addition du radical hydroxypropyle 1 sur l'hypoxanthine est rapide. On peut suivre en fonction du temps l'apparition du radical 3 à 300 nm qui suit une cinétique de pseudo premier ordre avec un coefficient de corrélation de 0,999. En effet, la concentration initiale de l'hypoxanthine (1,9 x 10~ 3 ) est 40 fois supérieure à celle du radical hydroxypropyle 1. La valeur de la constante de vitesse de la réaction [b] est alors ki acide) = 1,4 x 10 8 M"" 1 s^ 1 .</p>
+						<p>Il est intéressant de comparer cette valeur à celles déjà connues pour des réactions de substitution homolytique de bases hétéroatomiques 4 dont la réactivité vis-à-vis de radicaux nucléophiles est plus élevée sous leur forme protonée que sous leur forme neutre (21) (dans le cas de la pyridine le facteur est de 70 environ).</p>
+						<p>En milieu neutre, une détermination directe de k 2 n'est pas possible car seulement une faible fraction de radicaux hydroxypropyle 1 rérgissent sur l'hypoxanthine. Les autres disparaissent par dimérisation et dismutation selon la réaction [d], dont la valeur de la constante de vitesse est k 4 = 7 x 10 8 M -1 s -1 (22). Néanmoins, en faisant l'hypothèse que l'absorption à 300 nm est due au radical 3 et que e est du même ordre de grandeur en milieu acide et en milieu neutre (23), on peut calculer la fraction des radicaux hydroxypropyle 1 ayant réagi sur l'hypoxanthine et avoir ainsi une estimation de la valeur de k 2 en résolvant numériquement le système d'équations différentielles simultanées correspondant aux réactions [b] et [d]. On trouve alors k 2 (neutre) s 7 x 10 5 M -1 s -1 . Celle-ci, comparée à celle de OH, et déterminée également en milieu neutre (9) (vide supra), montre que le radical électrophile ÔH est beaucoup plus réactif (environ 10 000 fois) que le radical hydroxypropyle 1 sur l'hypoxanthine.</p>
+						<p>On peut noter qu'en radiolyse 7 la concentration stationnaire des radicaux hydroxypropyle 1 est de plusieurs ordres de grandeur plus faible qu'en radiolyse puisée; par conséquent, dans le premier cas, la réaction [d] est négligeable par rapport à la réaction [b], même en milieu neutre.</p>
+					</div>
+				</div>
+				<div type="section" n="B">
+					<head>Réaction avec les radicaux -OH</head>
+					<p>L'action des radicaux -OH sur l'hypoxanthine peut conduire soit à la xanthine 6 (attaque en 2), soit à la dioxo-6,8 purine 7 (attaque en 8) :</p>
+					<p><formula>Hk O N VH *OH N I H H O O H V O^N N VH N H. lYVo H H 6</formula></p>
+					<p>H Par ailleurs l'attaque sur la double liaison centrale selon Hollian et Garrison (7) conduirait à des produits de dégradation carbonylés. En régime permanent de production de -OH, comme c'est le cas dans le présent travail, les produits 6 et 7 peuvent être oxydés en acide urique qui lui-même est dégradé.</p>
+					<p>L'irradiation pendant 48 h d'une solution 5 x 10~ 3 M d'hypoxanthine, saturée en N 2 0, conduit à un mélange de 38% de produit de départ, 6% de dioxo-6,8 purine 7 (caractérisé par les spectres uv et de masse et par hplc) et 56% de produits non identifiés mais parmi lesquels nous n'avons pu mettre en évidence ni xanthine, ni acide urique.</p>
+					<p>Nous avons suivi au cours du temps la disparition de l'hypoxanthine par hplc en utilisant la thymine comme étalon interne. Par un traitement de lissage de courbe on trouve que la vitesse de disparition obéit à une loi d'ordre 0,80, ce qui traduit bien la complexité de la réaction. En l'absence d'un échantillon authentique de dioxo-6,8 purine nous n'avons pu faire de dosage exact de ce composé mais nous avons pu évaluer la quantité formée par rapport à celle de l'hypoxanthine restante. Les résultats donnés dans le tableau 1 permettent de faire deux constatations :</p>
+					<p>(0 La quantité de dioxopurine 7 croît au fur et à mesure de la disparition de l'hypoxanthine.</p>
+					<p>(1ii) Le rapport de la quantité de dioxopurine 7 à celle de l'hypoxanthine consommée reste constant au cours de l'expérience.</p>
+					<p>Nous pouvons donc conclure que la dioxopurine 7 formée à partir de l'hypoxanthine ne subit pas ou peu de dégradation ultérieure par irradiation. À partir de cette déduction un raisonnement cinétique montre que ÔH est environ 3 fois plus réactif en position 2, on peut-être sur d'autres sites, qu'en position 8. 5</p>
+					<p>Les constantes de vitesse de réaction de ÔH sur la xanthine et sur l'hypoxanthine sont à peu près équivalentes (9). Néanmoins , nous avons voulu vérifier la vitesse de disparition de la xanthine dans nos conditions expérimentales.</p>
+					<p>Dans ce but nous avons irradié à la même dose que précédemment une solution aqueuse 0,87 x 10~ 4 M de xanthine. Après 4 h, l'analyse par hplc montre qu'il reste seulement 5% de produit de départ; aucune trace d'acide urique n'a pu être détectée.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Les résultats de ce travail permettent de comparer la réactivité et la régiosélectivité des radicaux ÔH et hydroxy-2 propyle-2 1 sur l'hypoxanthine dans des conditions expérimentales comparables .</p>
+				<p>Le radical hydroxy-2 propyle-2 1, nucléophile, conduit principalement au produit substitué en C-8 avec un rendement de 70%. Sa constante de vitesse d'addition sur l'hypoxanthine déterminée par radiolyse puisée est k = 1,4 x 10 8 M~ 1 s~ 1 en milieu acide et environ 7 x 10 5 M -1 s -1 en milieu neutre. Aucun produit de substitution en C-2 n'est décelable. Ceci confirme donc la plus grande réactivité d'un radical nucléophile en C-8 qu'en C-2 (cf. réf. 4 et réf. 5).</p>
+				<p>Le radical -OH, électrophile, très réactif (environ 10000 fois plus que 1) conduit surtout à des produits de dégradation. 11 y a tout lieu de penser (cf. réf. 9) que le premier intermédiaire est la xanthine, résultant de l'attaque en C-2, qui disparait rapidement par réaction avec -OH. Néanmoins il se forme une certaine quantité de dicéto-6,8 purine qui résiste aux réactions ultérieures . Ce résultat suggère que la présence du carbonyle en C-8 diminue considérablement la réactivité du carbone C-2 ou d'autres sites vis-à-vis de ÔH.</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Nous remercions vivement de Dr Jacques Fossey pour les discussions fructueuses que nous avons eues au cours de ce travail, Mme Andrée Druilhe pour les analyses qualitatives et quantitatives par hplc et J. Potier pour les expériences de radiolyse puisée.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<title level="a" type="main">Dans Free radicals in biology Editeur : W. Pryor</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Myers J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Berger</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">p. Int. J. Radiat. Biol</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="fpage">95</biblScope>
+								<biblScope type="lpage">127</biblScope>
+								<date type="published" when="1980"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Nofre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Cier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C.R. Hebd. Seances Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">253</biblScope>
+								<biblScope type="pp">687</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Connolly</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">90</biblScope>
+								<biblScope type="pp">2979</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<surname>Evans</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolenden</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">92</biblScope>
+								<biblScope type="pp">4751</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<title level="m" type="main">Dans Photochemistry and photobiology of nucleic acids</title>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Y</forename>
+									<surname>Editeur</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Wang</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+								<biblScope type="fpage">357</biblScope>
+								<biblScope type="lpage">380</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Elad</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">1470</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+						<note>et. références contenues</note>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Wong</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="pp">2373</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+						<note>et. références contenues</note>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Steinmaus</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<surname>Rosenthal</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Elad</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">3594</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Pullman</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">1621</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Garrison</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="pp">462</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic/>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">676</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bleichrodt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">46444</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Santamaria</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Pasquier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Pucheault</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">452</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic/>
+						<monogr>
+							<title level="j">Z. NEIMAN. Isr. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">9</biblScope>
+								<biblScope type="issue">119</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Masuda</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Kondo</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">153</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Borg</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">65</biblScope>
+								<biblScope type="issue">220</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<monogr>
+							<title level="m" type="main">Dans Advances in free-radical chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Editeur</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Williams</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Heyden</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>London</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<biblScope type="pp">65</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Minisci</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Top. Curr. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<title level="m" type="main">Free-radical chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<surname>Nonhebeletj</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1974"/>
+								<publisher>Cambridge University Press</publisher>
+								<pubPlace>London</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Bose</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Photochem. Photobiol</title>
+							<imprint>
+								<biblScope type="vol">31</biblScope>
+								<biblScope type="pp">195</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Mason</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">2071</biblScope>
+								<date type="published" when="1954"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Hickel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">82</biblScope>
+								<biblScope type="pp">1005</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<monogr>
+							<title level="m" type="main">Dans Free radicals in biology</title>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>Pryor. Academic Press</publisher>
+								<biblScope type="pp">35</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Salomon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Elad</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">3420</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Citterio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Minisci</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<surname>Portetg</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Sesana</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">7960</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Simic</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Ha</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Yon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">73</biblScope>
+								<biblScope type="pp">3794</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Hayon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">3345</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Orientation et dynamique moléculaire de sondes paramagnétiques en phase lamellaire dibutylephosphate de sodium/eau</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<surname>Chachaty</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de Physico-Chimie</orgName>
+								<orgName type="department">Centre d'Etudes Nucléaires de Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif-sur-Yvette Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Orientation et dynamique moléculaire de sondes paramagnétiques en phase lamellaire dibutylephosphate de sodium/eau</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les solutions aqueuses de dibutylephosphate de sodium (NaDBP) en concentrations de 3 à 4 mol L" 1 forment, entre 280 et 340 K, une phase cristalline liquide lamellaire. On étudie par rpe l'orientation et la dynamique moléculaire dans cette phase, de sondes paramagnétiques telles que l'ion vanadyle et les radicaux nitroxydes, tempoamine, tempone et tempobutanamide. L'ion V0 2+ forme, avec le groupe phosphate, un complexe dont l'axe magnétique z est orienté en moyenne selon la normale au plan lamellaire. La mobilité moléculaire à l'interface entre les couches d'eau et de DBP" est donnée par le temps de corrélation de nutation de l'axe z que l'on déduit de la largeur totale du spectre par la relation empirique T r = a[l — (J4||//W)]'\ Les paramètres a = 2,95 x 10~" s et b = —1,42 sont déterminés par des mesures en fonction de la viscosité, des largeurs de raies et de l'anisotropie du couplage hyperfin de V0 2+ La tempoamine et la tempone se localisent dans les domaines polaires de la mésophase avec une réorientation rapide autour de la direction N—O orientée en moyenne selon le directeur de la phase lamellaire. L'anisotropie de réorientation de ces radicaux est attribuable selon les cas à la formation de liaisions hydrogène avec les groupes phosphates ou les molécules d'eau interstitielles. On établit quelques corrélations entre la rpe de ces sondes paramagnétiques et la rmn de 2 H et 3I P des molécules de substrat.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Aqueous solutions of sodium dibutylphosphate (NaDBP) give rise to lamellar liquid crystalline phase between 280 and 340 K for NaDBP concentrations ranging from 3 to 4 mol L~'. The orientation and dynamic behaviour of several paramagnetic probes such as the vanadyl ion, tempoamine, tempone and tempobutanamide dissolved in this phase have been investigated by esr. The vanadyl ion binds to the phosphate group, forming a complex, the z magnetic axis of which is on the average perpendicular to the lamellar plane. The molecular mobility at the H 2 0/DBP~ interface is given by the reorientation correlation time of the z axis, which is derived from the total width of the spectrum, using the empirical relation T r = o[l — (A\\/A-a)\ b . The parameters a = 2.95 x 10~" s and b = — 1.42 are obtained from the viscosity dependence of the esr line widths and of the anisotropic hyperfine couplings. The tempone and tempoamine are localized in the polar domains of the mesophase, reorienting rapidly about the N—O direction which is, on the average, parallel to the director of the lamellar plane. The anisotropic motion of these radicals is assigned to hydrogen bonding which occurs, according to the cases, with water molecules or phosphate groups. Some correlations are established between the esr of spin probes and 2 H and 3I P nmr experiments on substrate molecules.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section" n="I">
+				<head>Introduction</head>
+				<p>L'étude par résonance magnétique de solutions aqueuses micellaires de dibutylephosphate de sodium (NaDBP) nous a conduits à mettre récemment en évidence la formation de cristaux liquides lyotropes pour des concentrations élevées en NaDBP ( 1 ). L'évolution avec la température et la concentration en NDBP de l'anisotropie de déplacement chimique de 3I P ou du couplage quadrupolaire de deutérium de l'eau, ainsi que l'observation au microscope polarisant, ont permis de délimiter le domaine d'existence d'une phase lamellaire ( <ref type="figure">Fig. 1</ref>). Cette phase, caractérisée par diffraction de rayons X, consiste en une alternance de doubles couches hydrocarbonées et de domaines polaires contenant les groupes phosphates et l'eau interstitielle, d'épaisseurs respectives 8,5 &lt; D, &lt; 9,8 et 9,2 &gt; D 2 &gt; 7,1 selon la teneur en eau ( <ref type="figure">Fig. 2</ref>).</p>
+				<p>nous sommes proposés d'étudier par résonance magnétique nucléaire (rmn) et par résonance paramagnétique électronique (rpe) l'orientation et la dynamique des molécules de substrat ou de sondes paramagnétiques dissoutes dans ce milieu . Nous nous limiterons ici aux principaux résultats de l'étude par rpe, ceux de la rmn, dont l'interprétation est en cours, ayant fait l'objet d'une publication préliminaire (2).</p>
+				<p>sondes paramagnétiques intervenant dans ce travail ont été choisies en fonction de leurs dimensions moléculaires, inférieures ou comparables à celles de NaDBP et de leur aptitudeà s'associer à des degrés divers avec les molécules de substrat. Ainsi l'ion vanadyle forme un complexe de coordination avec l'anion DBP" alors que les nitroxydes mentionnés au Tableau 1 sont susceptibles soit de s'incorporer dans la couche hydrocarbonée (tempobutanamide), soit de former des liaisons hydrogène avec les constituants polaires de la mésophase (tempone et tempoamine). Les radicaux nitroxydes et à un moindre degré l'ion V0 2+ sont souvent utilisés pour l'étude par rpe de cristaux liquides thermotropes ou de membranes phospholipidiques (3). Il n'existe par contre que peu d'exemples d'études analogues sur des mésophases lyotropes formées à partir de petites molécules amphiphiles où, comme dans le cas présent, on tente d'établir des corrélations entre la réorientation de ces sondes mesurée par rpe et celle des molécules de substrat déduites d'expériences de résonance et de relaxation nucléaires.</p>
+			</div>
+			<div type="section" n="II">
+				<head>Conditions expérimentales</head>
+				<p>L'acide dibutyle phosphorique (OS1, France) a été purifié par dissolution dans l'eau alcaline pour éliminer le tributylephosphate insoluble dans ce milieu. L'acide dibutylephosphorique était séparé de l'acide monophosphorique par acidification de la solution aqueuse et extraction au tétrachlorure de carbone, suivie d'une distillation sous pression réduite pour éliminer le solvant. La pureté de l'acide dibutylephosphorique , supérieure à 98% était contrôlée par rmn de 'H, B C et 3, P.</p>
+				<p>La phase cristalline liquide était formée soit par addition progressive d'une solution concentrée Na0H/H 2 0 à l'acide butylephosphorique, soit par dissolution de NaDBP dans H,0. La solution visqueuse était homogénéisée par chauffage à 50-60°C pendant plusieurs heures. Les radicaux 2,2,6,6-tétraméthyl-4-pipé-ridinone-l-oxyl (tempone) et 4-amino-2,2,6,6-tétraméthylpipé-ridine-l-oxyl (tempoamine) ainsi-que le sulfate de vanadyle proviennent d'Aldrich Chemical. La tempobutanamide a été synthétisée par action du chlorure d'acide correspondant sur la 2,2,6,6-tétra-méthylpipéridine-l-oxyl-4-ol et purifiée par chromatographie.</p>
+				<p>Les expériences de rpe ont été effectuées sur un spectromètre Varian E9 à une fréquence de 9,15 GHz et avec une modulation de 100 KHz. L'échantillon était placé dans un système à température variable V 257. Dans la plupart des expériences nous avons utilisé une cellule rectangulaire de section interne 3,5 x 0,5 mm (Wilmad WG 808) que l'on orientait par rapport au champ magnétique.</p>
+				<p>Le champ magnétique étant calibré à l'aide d'un magnétomètre Varian F8, les facteurs g étaient mesurés par rapport à une référence externe de DPPH (système Varian Fieldial Mark 11) dont le g effectif, compte tenu de sa position par rapport à la cavité, est de 2,00375 ± 0,00005.</p>
+			</div>
+			<div type="section" n="III">
+				<head>Paramètres d'ordre et largeurs des raies</head>
+				<p>Paramètres d'ordre</p>
+				<p>L'orientation moléculaire par rapport au directeur de la mésophase est définie par les paramètres d'ordre S u qui ont pour expression (4, 5):</p>
+				<p><formula>[|] 5, = |(3cos 2 6',(r) -1)</formula></p>
+				<p>0',(î) étant l'angle dépendant du temps entre un axe i du système de référence moléculaire et le directeur de la mésophase. Le système de référence choisi étant celui des axes principaux x, y et z, communes aux tenseurs de couplage hyperfin A et au tenseur g, désignés tous deux par T, la réorientation moléculaire autour du directeur nous donne (4, 5):</p>
+				<p><formula>[2] 7|, -T ± = SuT« + S 22 T yy + S 33 r,</formula></p>
+				<p>Pour les radicaux nitroxydes, l'axe z coïncide avec celui de l'orbitale de l'électron non apparié, centrée sur l'azote et l'axe x est aligné à quelques degrés près selon la liaison N—O (6). Dans le cas de l'ion V0 2+ l'axe z est orienté selon la liaison V—O et les axes x et y sont pratiquement équivalents. Les valeurs principales de ces tenseurs, indiquées dans le tableau 1, ont été déterminées par simulation des spectres de rpe en matrice rigide NaDBP/H,0 à T &lt; 120 K. Alors que les tenseurs A de ces sondes paramagnétiques et le tenseur g de V0 2+ peuvent être considérés comme axiaux autour de z, le tenseur g des nitroxydes dévie notablement de la symétrie axiale.</p>
+				<p>Dans nos conditions expérimentales, la résolution limitée de la dérivée première d'absorption des spectres de nitroxydes en milieu rigide ne donne que g,, et ¡ (g " + g vy ). La position des singularités de la dérivée seconde dépend par contre beaucoup plus fortement de l'asymétrie du tenseur g, définie par A g = (gxr -gyy)/(g:-. ~ go) avec g 0 = ^ (g xx + g ry + g :: ). Nous avons donc déterminé les valeurs principales de g à partir de la dérivée seconde des spectres de rpe en vérifiant cette mesure par simulation des spectres (<ref type="figure">Fig. 3</ref>). Les valeurs de A g obtenues sont respectivement de -0,75, -0,92 et -1 pour la tempobutylamide , la tempone et la tempoamine, en bon accord avec les valeurs que l'on calcule d'après les données de la littérature (voir par ex. les références 7, 8).</p>
+				<p>La mesure des paramètres d'ordre a été effectuée à partir de la position des singularités associées aux valeurs principales des tenseurs A et g en écrivant la relation [2] sous la forme:</p>
+				<p><formula>[3] " c , 1 (T " -T " .) (S n -S 22 ) J33 + ñ i 2 T :: -i(r " + T n .) T s ~ + T, y )</formula></p>
+				<p>Comme Â xr s A vv , S 33 est donné directement par mesure de l'écart hyperfin alors que Su et S 22 sont obtenus à partir de l'anisotropie de g. Cette mesure n'est valable que si la réorientation moléculaire est rapide par rapport à A A/h et à A g (3 B 0 /h (9), A A et A g représentant l'anisotropie des tenseurs A et g et fi 0 le champ magnétique directeur.</p>
+				<p>Largeurs de raies</p>
+				<p>Dans le domaine des movements rapides spécifié plus haut, les largeurs de raies liées au temps de relaxation électronique T 2 , permettent de déterminer les temps de corrélation de réorientation moléculaires par une expression de la forme (10):</p>
+				<p><formula>[4] 7 2 _1 = 7o AB (mi) = a + b/n, + cm, 2</formula></p>
+				<p>lo = go ß/Ä est le rapport gyromagnétique de l'électron, m, le nombre quantique nucléaire et AB (m,) la demi-largeur de raie à mi-hauteur d'une lorentzienne (élargissement homogène). Pour un couplage hyperfin exprimé en gauss, les constantes a, b et c ont pour expressions (10):</p>
+				<p><formula>a = h 0 2 h 2 p 2 1 (-ICf/'F;-"^» K = -2 2 + ^ /(/ + 1) y 2 É ( -n* Fr K) G^'ÎO)) [5] ¿&gt; = ±ßoÄ-'ß, í [(-i) k (formula a ^F;</formula></p>
+				<p><formula>K = -2 (-K) ' = k. 2 S (-1 fF f K = -2 + F,r K) F/')] G,"» G|"°(o))</formula></p>
+				<p>et G 2 k \u&gt;) sont des combinaisons linéaires des densités spectrales J(w) qui seront explicitées plus loin</p>
+				<p><formula>G t ' K) ( OÙ) = 4J 0 iK \0) + 37,"W [6] G 2 (K) (u) = Jo {K) (a s ) + 3J: k Xu a ) + 6J 2 ' K) ((ti S )</formula></p>
+				<p>avec C05 = y 0 B 0 , w, 4 s y 0 A 0 , A 0 étant la constante de couplage hyperfin de contact.</p>
+				<p>F T (K) avec K = 0, ± 1, ±2 désigne l'une des composantes des tenseurs A ou g en base sphérique:</p>
+				<p><formula>[7] 7-, C/',, + '/',)) F T ' ±l) = 0 Ft &lt;±2) = j (T " -T yr )</formula></p>
+				<p>Dans le cas d'une réorientation autour d'un axe moléculaire A m , ces composantes deviennent:</p>
+				<p><formula>[8] F"*'&gt;= E D &lt;2 } k (0, ß, y)</formula></p>
+				<p>F désignant la matrice de Wigner d'ordre 2. Les densités spectrales de la relation [6] sont de la forme (11, 12):</p>
+				<p><formula>[9] J m k (co, 9) = J' + J" P 2 (cos 8) + J"'P 4 (cos 8) P 2 (cos 8)</formula></p>
+				<p>et P 4 (cos 8) désignent les polynômes de Legendre d'ordre 2 et 4, 6 étant l'angle entre B 0 et A L ( <ref type="figure">Fig. 4</ref>). J', J" et J'" sont des combinaisons linéaires des densités spectrales correspondant à 8 = 0, et qui ont pour expression générale (11, 13):</p>
+				<p><formula>[10] y£(cu, 0) = dl T K KM + OTT* 2</formula></p>
+				<p>avec K ou M = 0, ±1, ±2. Les temps de corrélation T 0 , T], T 2 sont liés aux coefficients de diffusion rotationnelle D\\ et D x , par la relation (14, 15):</p>
+				<p><formula>[11] et^' = C[6D X + (D " - D X ) K 2 ]</formula></p>
+				<p>où C est un coefficient dépendant du modèle de mouvement (diffusion Brownienne ou réorientation par sauts). Ceci nous donne:</p>
+				<p><formula>[12] 6T0 5 + (Dn/DJ ' T2 = 6T0 2 + 4(D ! |/D 1 )</formula></p>
+				<p>T 0 , que l'on désignera également par T r correspond au mouvement de nutation de l'axe moléculaire A M autour du directeur A l . Dans la relation [10] d 2 KM est le carré moyen d'un élément de la matrice de rotation entre les axes moléculaires et un système de référence fixe. L'expression de d' KM en fonction des paramètres d'ordre P 2 (cos (3') = { (3 cos 2 (3' -1) et P 4 (cos (3') = ¿(35 cos 4 (3' -30 cos 2 (3' + 3) est donné dans les références 11 ou 13, pour un modèle de réorientation par sauts, (3' étant l'angle dépendant du temps entre A M et A l ( <ref type="figure">Fig. 4</ref>).P, (cos (3') est donné par l'écart hyperfin des raies de résonance: paramètres d'ordre S,, et des largeurs de raies par simulation des spectres de rpe. Dans ce but nous avons écrit un programme APL qui permet de calculer ces spectres en fonction des paramètres cités plus haut, pour une forme de raie gaussienne ou lorentzienne selon que l'on se trouve dans les conditions de mouvements lents (V0 2+ ) ou rapides (nitroxydes). Pour une forme de raie lorentzienne par exemple, la dérivée première d'absorption a pour expression (18) [14] F</p>
+				<p>où (3 désigne l'angle entre A M et l'axe z du tenseur de couplage hyperfin.</p>
+				<p>La relation entre P 2 (cos (3') et P 4 (cos (3') dépend du modèle de réorientation proposé. Dans le cas présent P 4 (cos (3') a été déduit de P 2 (cos (3') mesuré expérimentalement en admettant que l'axe moléculaire A M effectue un mouvement aléatoire de nutation à l'intérieur d'un cône centré sur A L ( <ref type="figure">Fig. 4</ref>) (16) ou que ce mouvement dépend d'un potentiel de la forme U($')/kT = — X sin 2 (3' (17). Une étude en cours sur la dépendance angulaire de la relaxation de 3I P dans le système NaDBP/H 2 0 montre que ce second modèle rend le mieux compte des résultats expérimentaux, de sorte que nous l'avons également adopté pour le calcul des largeurs de raies des radicaux nitroxydes.</p>
+				<p>Du fait de la distribution statique d'orientation des directeurs A l des domaines formant la phase cristalline liquide, il est généralement nécessaire de confirmer la détermination des paramètres d'ordre S,, et des largeurs de raies par simulation des spectres de rpe. Dans ce but nous avons écrit un programme APL qui permet de calculer ces spectres en fonction des paramètres cités plus haut, pour une forme de raie gaussienne ou lorentzienne selon que l'on se trouve dans les conditions de mouvements lents ( V 0 2 + ) ou rapides (nitroxydes). Pour une forme de raie lorentzienne par exemple, la dérivée première d'absorption a pour expression (18)</p>
+				<p>B est le champ magnétique variable, A B la demi-largeur de raie à mi-hauteur, 0 l'angle entre le directeur local A L et l'axe référence N, 4&gt; l'angle entre la projection de B 0 sur un plan perpendiculaire à N et la projection de A L sur ce plan ( <ref type="figure">Fig. 4</ref>). B r et P(0,4&gt;) désignent respectivement le champ magnétique de résonance et la probabilité de transition. G(0) et G(4&gt;) représentent les fonctions de distribution statique du directeur A L centrées sur 0 O ou cj&gt; 0 , assimilées à une gaussienne (16):</p>
+				<p>Pour une orientation donnée de A L , qui est l'axe de symétrie des tenseurs A et g moyennés par la réorientation moléculaire autour du directeur, le champ magnétique de résonance B R a pour expression (18):</p>
+				<p>avec 9 = arc cos (cos 0 cos ij/ + sin 0 cos 4&gt; sin ij/), v 0 étant la fréquence du spectromètre et B' R le terme du second ordre dont on trouvera l'expression dans la réf. 18.</p>
+				<p>Le temps de calcul des spectres a été considérablement réduit en replaçant l'intégration sur 0 et &lt;) &gt; de l'équation [14] par une simple intégration sur 8 (<ref type="figure">Fig. 4</ref>):</p>
+				<p><formula>[17] F(B) 2 ni/ --1 G(9)P(9)AB(B-B R ) (AB 1 -(B - B r ) 2 ) 2 d9</formula></p>
+				<p>P(9) est la probabilité de transition (19):</p>
+				<p><formula>[18] P(9) = | 1 + cos 2 9 + e] sin 2 9</formula></p>
+				<p>G(9) est la distribution de probabilités de l'angle 9 calculée numériquement à partir de l'expression:</p>
+				<p>0 et A&lt;)&gt; étant des pas angulaires constants et M un facteur de normalisation. Le nombre de points d'intégration sur 9 est réduit par troncature de G (9) et cette fonction peut être utilisée dans des calculs successifs. La dépendance angulaire de A H intervient dans les relations [14] et [17]. Elle est soit ajustée empiriquement sous la forme:</p>
+				<p><formula>[20] A B = (</formula></p>
+				<p>calculée en fonction des paramètres d'ordre et des temps de corrélation i K . Dans ce second cas, on tient compte de l'élargissement inhomogène par une largeur de raie additionnelle:</p>
+				<p><formula>[21] A B' = A B, + A B2 COS 2 9</formula></p>
+				<p>AB, et AB 2 sont des paramètres ajustables qui correspondent respectivement aux parties scalaire et dipolaire du couplage hyperfin non résolu des protons. Pour une orientation donnée, la largeur pic à pic de la dérivée d'une raie d'absorption dans l'approximation d'une forme lorentzienne est donc:</p>
+				<p>T 2 étant calculé à partir des relations [4] [12].</p>
+				<p>Dans le cas des nitroxydes étudiés ici, le second terme de la relation [21] est négligeable étant donné le faible couplage dipolaire des protons, moyenné à zéro par la réorientation moléculaire rapide. La simulation des spectres nous a donné les valeurs optimales AB' = 0,3 ± 0,05 G pour la tempone et AB' = 0,9 ± 0,1 G pour la tempoamine et la tempobutanamide. Ces valeurs sont voisines de la demi-largeur à mi-hauteur:</p>
+				<p><formula>[23] cr 0,59 (E 1/2</formula></p>
+				<p>de l'enveloppe de la structure hyperfine des protons assimilés à une gaussienne. Les constantes de couplage hyperfin a H des protons de la tempone (20) et de la tempoamine (21 ) donnent en effet respectivement AB' s cr = 0,225 G et 0,83 G. Pour certaines simulations, la contribution de la structure hyperfine non résolue a été introduite par convolution gaussienne des spectres. Cette procédure ne donne pas de différences notables avec l'utilisation de la relation [22].</p>
+			</div>
+			<div type="section" n="IV">
+				<head>Résultats et discussion</head>
+				<p>Ion vanadyle</p>
+				<p>L'étude par rmn de la complexation de V0 2+ par DBP" en milieu micellaire indique la formation d'un complexe bidentate avec deux molécules de monomère ( 1 ) représenté sur la figure 5. Dans la phase lamellaire ce complexe donnera une orientation moyenne de l'axe V—O perpendiculaire aux doubles couches de DBP". Le spectre rpe de V0 2+ apportera donc des informations sur la distribution d'orientation du directeur et la mobilité moléculaire à l'interface DBP~/H 2 0.</p>
+				<p>Les amplitudes des singularités du spectre de V0 2+ correspondant aux orientations de l'axe de symétrie et du plan principal des tenseurs g et A parallèles à B 0 , varient par rotation de la cellule rectangulaire. On observe que les singularités parallèles , correspondant à T'y, ont une amplitude maximale ou minimale selon que B 0 est perpendiculaire ou parallèle au plan de la cellule, alors que les singularités perpendiculaires varient en sens inverse ( <ref type="figure">Fig. 6</ref>). Cette dépendance angulaire indique que les doubles couches de la phase lamellaire s'orientent préférentiellement dans le plan de la cellule. On observe parfois un comportement inverse, qui correspond à une orientation aléatoire de A L dans le plan de la cellule. L'apparition de l'un ou l'autre type d'orientation depend d'une manière critique du traitement thermique de l'échantillon. La transition entre la phase lamellaire et la phase III par refroidissement à T &lt; 280 K entraîne la disparition de l'effet d'orientation, que l'on retrouve par recuit prolongé de l'échantillon entre 300 et 330 K.</p>
+				<p>De la symétrie quasi-axiale et de l'orientation des tenseurs magnétiques de V0 2+ , il résulte que la relaxation électronique de cet ion ne dépend au premier ordre que du seul temps de corrélation T R = T 0 de nutation de l'axe V—O autour du directeur local A l de la phase lamellaire. La rpe de V0 2+ en solutions de viscosité variable (1) indique que la détermination de T r par des mesures de largeurs de raies (éq. [4]) ne s'applique que pour T r &lt; 3 x 10"'° s, étant donné la grandeur de l'anisotropie du couplage hyperfin (A| -A x — 3,5 x 10 8 Hz). La comparaison des spectres de V 0 2 + dans N a D B P / H 2 0 avec des systèmes analogues (22) ou des spectres théoriques (23, 24) montre que l'échelle de temps des mouvements de réorientation se situe entre 10~8 et 10~9 s.</p>
+				<p>Dans ces conditions, la largeur totale AA = 1 Â|| du spectre de V 0 2 + , mesurée entre les pics extrêmes sur un échantillon polyorienté, dépend du temps de corrélation Tr (23) et donne un paramètre d'ordre 0,7 &lt; S*33 &lt; 1 supérieur au paramètre d'ordre S33 = P2 (cos P') donnant l'orientation moyenne de V — O autour de AL. La distinction entre S}} et S*}}, que McConnell désigne respectivement par "ensemble-average order parameter" et "frequency-amplitude order parameter" est discutée dans la réf. 9. L'anisotropie de déplacement chimique du phosphore donne S}} — 0,5 à 0,65 selon la fraction molaire de NaDBP; on peut admettre des valeurs assez proches de celles-ci pour l'ion V0 2+ lié aux groupes phosphates.</p>
+				<p>En milieu isotrope, T r peut être évalué par la relation empirique (14, 23):</p>
+				<p><formula>[24] TR = a (1 -S) p</formula></p>
+				<p>valable pour 0,8 &lt; S = A\\/Azz &lt; 1, a et p étant des constantes dépendant du modèle de réorientation (14). L'application de cette relation à un milieu anisotrope a été effectué par Polnaszek et al. (25) dans le cas de radicaux nitroxydes, en tenant compte de la contribution, dans un certain domaine, de la décroissance de S 33 avec la température. Dans le cas présent, on ne note pas de discontinuité dans la variation de S entre 280 et 350 K malgré les transitions de phase III —&gt; 1 et 1 —&gt; 11 ( <ref type="figure">Fig. 1</ref>), cette dernière annulant S 3} . On peut donc admettre que la décroissance de S avec la température ne dépend que de T r . Des valeurs de a et p ont été données par Bruno et al. (23) pour un modèle de diffusion Brownienne, en fonction de la largeur de raie résiduelle A B' (a = 1,02 x 10"" s, p = -1,97 et a = 1,38 x 10"" s, p = -1,84 pour AB' = 1 Gou7,5G). Il nous a paru préférable de déterminer ces deux paramètres en mesurant la variation avec la température de S pour l'acétylacétonate de vanadyle (VO(AA) 2 ) dans l'acide dibutylephosphorique (HDBP).</p>
+				<p>La relation de Stokes-Einstein, avec une viscosité variant exponentiellement avec 1/7" (voir par exemple, la réf. 26), nous donne:</p>
+				<p><formula>[25] TR y ¡e exp (m,</formula></p>
+				<p>où V est le volume moléculaire et TI la viscosité du solvant. A des températures supérieures à 360 K pour lesquelles T r &lt; 3 x 10" 10 s, ce temps de corrélation est obtenu par la dépendance des largeurs de raies avec m, (éq. [4]). Ayant vérifié que log (T R x T) varie linéairement avec 1 /T, avec une énergie d'activation de 3,9 ± 0,2 kcal mol" 1 , l'extrapolation de cette fonction dans le domaine des mouvements lents ( 128 &lt; T &lt; 320 K) permet de calculer T r . En mesurant le rapport S dans ce domaine , on obtient a = (2,95 ± 0,03) x 10"" s et p = -1,42 ± 0,02, par les moindres carrés ( <ref type="figure">Fig. 7</ref>).</p>
+				<p>La variation de T r avec la température pour des fractions molaires de NaDBP X M = 0,13 et X M = 0,165 est donnée par la figure 8. Le temps de corrélation T r déterminé par la rpe de V0 2+ a été comparé à celui fourni par la relaxation nucléaire longitudinale de 3 'P, qui donne la mobilité des groupes phosphate à l'interface entre les domaines polaires et non polaires de la mésophase, les axes z des tenseurs magnétiques de V0 2+ et du tenseur de déplacement chimique de 31 P étant orientés perpendiculairement au plan lamellaire. La relaxation de 31 P comporte une contribution de l'anisotropie de déplacement chimique (ADC) et de l'interaction dipolaire avec les protons voisins (DIP), qui ont pour expressions respectives:</p>
+				<p><formula>S F u K = -2 [26] (Tr 1 ) ADC J\K (W " ) avec: [27] F (0) -2 ( CT *t + FÎT» = o -&lt;±2&gt; (Oxr -0\. v ) a "</formula></p>
+				<p>étant les valeurs principales du tenseur de déplacement chimique de 3I P données dans la figure 5, et:</p>
+				<p><formula>2 [28] (7V%, P = ± Ê Fp K) Fq~ K) [7 0 a- — a&gt; p ) K = -2 + 3J lK (ù&gt; p ) + 6J 2 k (tO w + (Dp)] avec: FD ±]) = F " &lt;* 2i = 0 [29] F D m = Vf lplH h r" 3 ,</formula></p>
+				<p>r PH étant la distance effective proton-phosphore évaluée à 2,3 A d'après la relaxation de 3I P en milieu micellaire (1). Les densités spectrales sont données par les relations [9] et [10], On remarque sur la figure 8 que pour la plus forte de ces concentrations , qui correspond à peu près à la rigidité maximum de la phase lamellaire, ces deux méthodes sont en accord et nous donnent T r = (2,4 ± 0,2) x 10" 9 exp [4200 (1 /T -1/300)] s soit E 0 = 8,3 ± 0,3 kcal mol -'. T r se situe donc dans une échelle de temps de 10~ 9 à 3 x 10" 9 s, comparable à celle observée par rpe de V0 2+ (22) ou de radicaux nitroxydes (4) dans d'autres mésophases lyotropes, qui correspondrait à un mouvement moléculaire coopératif entraînant une déformation de l'interface entre les domaines polaires et non polaires (22) et donc à une fluctuation d'orientation du directeur de la phase lamellaire.</p>
+				<p>A plus faible concentration en NaDBP (X M = 0,13), la relaxation nucléaire de 31 P et la rpe de V0 2+ donnent respectivement T r = (5,5 + 0,5) x 10" 10 exp [2500 (1 /T - 1/300)] s et (1,0 ± 0,1) x 10" 9 exp [2200 (1/7 -1/300)] s soient E 0 = 5,0 ± 0,3 kcal mol" 1 et£o = 4,3 ± 0,3 kcal mol" 1 . Cette différence d'un facteur deux entre ces déterminations de T r est interprétable par un accroissement de la liberté de réorientation avec la teneur en eau. En effet, la réorientation moléculaire autour de l'axe z intervient dans la relaxation de 31 P mais non dans le spectre rpe de l'ion V0 2+ dont les tenseurs magnétiques sont axiaux selon cette direction. Ce point doit être vérifié par une étude en cours sur l'effet de la concentration sur la relaxation de 3I P et la largeur totale du spectre rpe du complexe V0 2+ /NaDBP dans tout le domaine d'existence de la phase lamellaire.</p>
+				<p>Radicaux nitroxydes</p>
+				<p>En phase lamellaire NaDBP/H 2 0, les constantes de couplage des radicaux nitroxydes sont de 14,9, 15,9 et 15,85 G respectivement pour la tempone, la tempoamine et la tempobutanamide . Pour ces mêmes radicaux a N est de 13 G en milieu apolaire et de 16 G (tempone) ou de 17 G (tempoamine) en solution aqueuse. Le groupe nitroxyle de ces sondes paramagnétiques est donc localisé dans les domaines polaires de la mésophase.</p>
+				<p>L'anisotropie du couplage hyperfin de l'azote qui, en phase lamellaire, croît dans l'ordre tempobutanamide, tempone, tempoamine , ainsi que l'anisotropie de g permettent de déterminer les paramètres d'ordre S u . Cette mesure, généralement effectuée en cellule rectangulaire, est réalisée en orientant la cellule parallèlement puis perpendiculairement au champ magnétique et vérifiée par simulation des spectres selon ces deux orientations.</p>
+				<p>La tempobutanamide possède une chaîne de longueur comparable à celle du dibutylephosphate et susceptible de s'incorporer dans des doubles couches hydrocarbonées de la phase lamellaire. Son spectre présente une faible variation d'écart hyperfin et un déplacement de la raie centrale par rotation de l'échantillon entre les angles i|j = 0° et t); = 90° qui nous donnent A|| A L = 1,4 ± 0,2 G, -g± = -3,14 x 10~ 4 et donc S 33 = 5 x 10" 2 ,S 22 = -1,2 X 10" 2 et5,, = -3,8 X 10" 2, sans variation notable avec la température. La simulation des spectres de la tempobutanamide ( <ref type="figure">Fig. 9</ref>) indique une réorientation quasi-isotrope. Etant donné la faible anisotropie du couplage hyperfin, les temps de corrélation T r dont la variation avec la température est donnée dans la figure 10, ont été déterminés à partir des largeurs de raies mesurées directement sur les spectres comme en phase isotrope. Le comportement de la tempobutanamide, très voisin de celui que l'on observe en phase liquide isotrope, suggère une forte perturbation de l'ordre local de la mésophase, ce qui nous a conduit à étudier plus en détail d'orientation et la dynamique de la tempoamine et de la tempone dont les dimensions sont inférieures à celles des molécules de NaDBP.</p>
+				<p>Les spectres de la tempoamine polyorientée ou partiellement orientée (Fig. 11) ont été enregistrés immédiatement après la transition III —&gt; I (280 K) puis après recuit de l'échantillon jusqu'à 320 K, quelques degrés au-dessus de la transition I —» II (~325 K). Les spectres correspondant aux orientations I|J = 0° et i(» = 90° de la cellule rectangulaire montrent que la tempoaminé se réoriente préférentiellement autour de l'axe N—O' (A,, = 10,7 G, A x = 18,4 G, g l} = 2,0085, gl = 2,005) et que le directeur A L est orienté en moyenne parallèlement au plan de la cellule. La simulation de ces spectres indique en outre que la distribution angulaire statique de A L peut être représentée par une gaussienne de largeur 40° centrée sur 0 O = 90°.</p>
+				<p>Après réchauffement de l'échantillon au-delà de la transition entre la phase lamellaire et la phase isotrope, puis refroidissement lent dans le champ magnétique, on observe un alignement de l'axe N—O de la tempoamine selon l'axe de l'échantillon. La rotation de l'échantillon autour de cet axe n'entraîne qu'une faible différence entre les spectres enregistrés selon les orientations V) J = 0 et I|J = 90°, dont on peut rendre compte par une distribution étroite d'orientation de A L autour des angles &lt;j&gt; 0 = 90° et 6 0 = 90° ( <ref type="figure">Fig. 12</ref>). Ce comportement que l'on observe également par rmn de 2 H et 31 P (2) correspond à une orientation de A L perpendiculaire au champ magnétique.</p>
+				<p>Pour une orientation perpendiculaire de la cellule par rapport àfî 0 (I|J = 0), le spectre rpe de la tempoamine est pratiquement symétrique par rapport à la ligne de base (<ref type="figure">Fig. 12</ref>). L'écart hyperfin de ce spectre et le facteur g de la raie centrale qui varient de 18,3 G à 18,1 G et de 2,0053 à 2,0051 entre 295 K et 325 K (Tableau 2) donnent les valeurs moyennes de paramètres d'ordre S M = 0,6, S 22 = —0,35, S 33 = —0,25.</p>
+				<p>Dans l'hypothèse d'une réorientation axiale, S 33 est donné par la relation [13], On montre facilement que les autres paramètres d'ordre peuvent s'écrire:</p>
+				<p>[30] \ A' I £' ¿'22 = i Pi (cos p ) [3 sin 2 P sin 2 7 - 306 K</p>
+				<p>où 7 désigne l'angle azimuthal de A M dans le système d'axes moléculaires x, y, z ( <ref type="figure">Fig. 4</ref>), ici égal à zéro, étant donné la symétrie du radical tempoamine. L'angle p entre A M et l'axe z des tenseurs A et g est alors donné par la relation:</p>
+				<p>où 7 désigne l'angle azimuthal de AM dans le système d'axes moléculaires x, y, z (Fig. 4), ici égal à zéro, étant donné la symétrie du radical tempoamine. L'angle p entre AM et l'axe z des tenseurs A et g est alors donné par la relation:</p>
+				<p>que l'on déduit des équations [13] et [30] en prenant p = (S M -S 22 )/Si i . On obtient ainsi p == 72° soit une déviation de 18° entre les axes * et A M , avec P 2 (cos P') — 0,7. Il est peu probable qu'une telle déviation corresponde à la réalité, d'une part parce que la rpe et la cristallographie des nitroxydes étudiés ici indiquent que l'angle entre l'axe * et l'axe de moindre inertie (direction N—O') ne dépasse pas 10° (6), d'autre part parce que le meilleur accord entre les largeurs de raies calculées et observées est realisée pour p = 90° et P 2 (cos P') = 0,6. Il n'est pas exclu que la différence entre cette valeur effective de l'angle p et celle donnée par la relation [31] résulte de ce que le tenseur de diffusion moléculaire n'est pas parfaitement axial, comme nous l'avons admis en prenant pour simplifier les calculs de largeurs de raies, D\\ = D xx , D ± = {(D vr + D :: ).</p>
+				<p>La dynamique de réorientation de la tempoamine a été déterminée à partir des largeurs de raies mesurées sur les spectres symétriques obtenus pour l'orientation ij; = 0 de l'échantillon par rapport au champ magnétique ( <ref type="figure">Fig. 12</ref>). Pour cela on a utilisé un programme qui recherche par la méthode des moindres carrés le meilleur accord entre les largeurs de raies et celles calculées à partir des relations [4]— [13] en prenant comme paramètres ajustables T 0 , T 2 et donc D||/D ± , ainsi que la largeur inhomogène de raie AB' (eq. [22] que l'on trouve comprise entre 0,8 et 1 G. La validité de cette méthode a été vérifiée par simulation des spectres, pour une forme Lorentzienne de raie ( <ref type="figure">Fig. 12</ref>). Dans tout le domaine de température étudié, on observe que T 2 &lt;1 T 0 , ce qui indique une réorientation rapide autour de l'axe A M . Le rapport D\\/D L varie de 5 à 11 entre 295 K et 325 K (phase lamellaire) et diminue à 3 en milieu isotrope. Que l'on envisage une réorientation par sauts ou une diffusion brownienne, ce rapport est beaucoup plus élevé que celui auquel on peut s'attendre d'après les dimensions moléculaires de la tempoamine, comparables à celles de la tempone que nous verrons plus loin. L'association par liaison hydrogène de la tempoamine avec les groupes phosphates du NaDBP est suggérée par la valeur quasi équivalente du paramètre P 2 (cos P') que l'on obtient par rpe (Tableau 2) et par rmn du phosphore. On note également sur la figure 10 que T r est du même ordre de grandeur que le temps de corrélation du mouvement de nutation de l'axe z du groupe phosphate ( <ref type="figure">Fig. 8</ref>) avec £ 0 — 3.75 kcal mol" 1 pour la tempoamine et E 0 — 4.3 kcal mol" 1 pour ce groupe.</p>
+				<p>Des expériences similaires ont été effectuées sur la tempone dissoute en phase lamellaire. Les spectres obtenus pour les orientations I|Î = 0 et V) J = 90° de la cellule rectangulaire ( <ref type="figure">Fig. 13</ref>) ont été interprétés comme pour la tempoamine par une orientation de N—O en moyenne parallèle au plan de la cellule avec une distribution angulaire de largeur ~25° autour de 0 O = 90°. Les positions des singularités du spectre correspondant à i|/ = 90° donnent en moyenne S,, = 0,14, S 22 = -0,10 et S 33 = -0,04. Les relations [13] et [31] nous donnent p = 67° et P 2 (cos P') s 0,15, cependant ici encore les amplitudes relatives et les largeurs de raies calculées concordent mieux avec l'expérience pour p = 90°.</p>
+				<p>La dynamique de réorientation de la tempone en phase lamellaire a été étudiée en déterminant T 0 et D\\/D 1 par comparaison des amplitudes relatives de raies / 0 //+, et /_,//+, du spectre expérimental obtenu pour v)j = 0, avec celles calculées en fonction de ces deux paramètres, pour une distribution gaussienne d'orientations de A L de largeur 25° autour de 0 O = 90°.</p>
+				<p>En phase lamellaire, le rapport D||/D ± = 2,5 ± 0,5 est nettement supérieur à la valeur de 1,36 calculée à partir des dimensions moléculaires de la tempone dy = 4,2 A selon la direction N—O, d : &gt; = 2,7 Á dans le plan de symétrie moléculaire et d y &lt; = 3 Á (7). En phase isotrope on obtient par contre D\\/D L — 1 avec T 0 = T 2 = 6 X 10"" s à 330 K. En phase lamellaire T 0 = T r est inférieur d'un facteur 10 environ à celui de la tempoamine ( <ref type="figure">Fig. 10</ref>) et comparable à celui des molécules d'eau interstitielles mesuré par relaxation de 2 H et 17 0 (8 x 10"" &lt; T r &lt; 2,5 x 10"'° pour 320 &gt; T &gt; 300 K) (2). On note également que les paramètres d'ordre S¡¡ augmentent en valeur absolue avec la température. Ce phénomène, pour lequel nous n'avons pas trouvé jusqu'à présent d'interprétation satisfaisante , est également observé pour le deutérium ( <ref type="figure">Fig. 1</ref>) et l'oxygène 17 de l'eau (2). Ces deux faits nous suggèrent que l'anisotropie de réorientation de la tempone en phase lamellaire résulte de la formation de liaisons hydrogènes entre les molécules d'eau et les oxygènes des groupes nitroxyle et carbonyl qui définissent l'orientation de l'axe de rotation moléculaire &lt;v V.</p>
+			</div>
+			<div type="section" n="V">
+				<head>Conclusion</head>
+				<p>Ce travail, mené en parallèle avec des expériences de résonance nucléaire, constitue une première partie d'une étude sur la dynamique et l'orientation moléculaire dans les phases cristallines liquides provenant de solutions aqueuses concentrées d'alkylphosphates.</p>
+				<p>Le spectre rpe de l'ion vanadyle, lié au groupe phosphate, permet de mesurer, en complément de la relaxation de 3I P, la mobilité moléculaire à l'interface des domaines polaire et non polaire de la mésophase. La tempobutanamide effectue un mouvement de réorientation quasi-isotrope avec un paramètre d'ordre moléculaire P 2 (cos P') s 0 en raison soit de rotations internes multiples, soit d'une désorganisation du réseau bidimensionnel de la mésophase due à la dimension de ces sondes, comparable à celles de dibutylphosphate.</p>
+				<p>La tempone et la tempoamine sont localisées dans les couches polaires de la mésophase et se réorientent préférentiellement autour de la liaison N—O dont l'orientation moyenne est parallèle au directeur de la phase lamellaire. Bien que ces deux sondes aient des dimensions moléculaires comparables , les temps de corrélation de réorientation et le paramètre d'ordre P 2 (cos (3') sont beaucoup plus importants pour la tempoamine que pour la tempone. Il est probable que la tempoamine forme à la fois des liaisons hydrogène avec l'eau et avec les oxygènes d'un groupe phosphate alors que la tempone ne se lie qu'aux molécules d'eau. Ces interactions paraissent seules susceptibles d'expliquer la forte anisotropic, de réorientation de ces deux radicaux nitroxydes en phase lamellaire.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Chachaty</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">86</biblScope>
+								<biblScope type="pp">277</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Quaegebeur</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">87</biblScope>
+								<biblScope type="pp">4341</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<monogr>
+							<title level="m" type="main">BERLINER (Editeur) Spin labelling, theory and applications</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+						<note>et. 11</note>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Seelig</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">1841</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<title level="m" type="main">Dans Spin labelling, theory and applications</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Seelig</forename>
+									<surname>Edité</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">J</forename>
+									<surname>Berliner</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+								<biblScope type="pp">10</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<title level="a" type="main">Dans Spin labelling, theory and applications. Vol. I. Edité par L</title>
+							<author>
+								<persName>
+									<forename type="first">J. Lajczerowitz-Bonneteau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Berliner</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="issue">6</biblScope>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">S</forename>
+									<surname>Hwang</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">P</forename>
+									<surname>Mason</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Freed</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">79</biblScope>
+								<biblScope type="pp">489</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Meirovitch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">87</biblScope>
+								<biblScope type="pp">845</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<title level="a" type="main">Dans Spin labelling, theory and applica-tions. Vol. I. Edité par L</title>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M</forename>
+									<surname>Mcconnell</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Berliner</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="pp">13</biblScope>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<title level="a" type="main">Dans Spin labelling, theory and applications. Vol. I. Edité par L</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Nordio</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Berliner</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="issue">2</biblScope>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Freed</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">66</biblScope>
+								<biblScope type="pp">4183</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Zannoni</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Proc. R. Soc. Lond. Ser. A</title>
+							<imprint>
+								<biblScope type="vol">353</biblScope>
+								<biblScope type="pp">87</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Zannoni</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">F</forename>
+									<surname>Pedulli</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Masotti</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Spisini J</forename>
+									<surname>Magn</surname>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Reson</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="issue">143</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<title level="a" type="main">Dim? Spin labelling, theory and applications. Vol. I. Edité par L</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Freed</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Berliner. Chap</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="vol">3</biblScope>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Freed</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">83</biblScope>
+								<biblScope type="pp">379</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<title level="a" type="main">Dans Spin labelling, theory and applications. Vol. I. Edité par L</title>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Berliner</title>
+							<imprint>
+								<publisher>Academic Press</publisher>
+								<biblScope type="pp">12</biblScope>
+								<date type="published" when="1976"/>
+								<publisher>Academic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Luckhurst</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Zannoni</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mol. Phys</title>
+							<imprint>
+								<biblScope type="vol">28</biblScope>
+								<biblScope type="pp">49</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<monogr>
+							<title level="m" type="main">Theory and applications of electron spin resonance</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<publisher>Wiley</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Bleaney</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Proc. Phys. Soc. 75</title>
+							<meeting>. Phys. Soc. 75</meeting>
+							<imprint>
+								<biblScope type="pp">621</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">4260</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Labsky</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Lovy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">515</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">W</forename>
+									<surname>Hanna</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">1892</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">V</forename>
+									<surname>Bruno</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+									<surname>Harring</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">81</biblScope>
+								<biblScope type="pp">111</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F H</forename>
+									<surname>Campbell Et 1</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Freed</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">84</biblScope>
+								<biblScope type="pp">2666</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">F</forename>
+									<surname>Polnaszek</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">C P</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="pp">54</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<monogr>
+							<title level="m" type="main">Physical chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>McGraw Hill</publisher>
+								<biblScope type="fpage">535</biblScope>
+								<biblScope type="lpage">536</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

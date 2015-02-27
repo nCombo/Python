@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Polymérisation du chloroformiate de vinyle et de ses dérivés</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Sylviane</forename>
+								<surname>Boivin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Collège de France</orgName>
+								<address>
+									<addrLine>II place Marcelin Berthelot</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Patrick</forename>
+								<surname>Hemery</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Collège de France</orgName>
+								<address>
+									<addrLine>II place Marcelin Berthelot</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sylvie</forename>
+								<surname>Boileau</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Collège de France</orgName>
+								<address>
+									<addrLine>II place Marcelin Berthelot</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Polymérisation du chloroformiate de vinyle et de ses dérivés</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La polymérisation radicalaire du chloroformiate de vinyle a été étudiée dans le chlorure de méthylène à 35°C, avec le peroxyd¡carbonate de dicyclohexyle comme amorceur. Des mesures cinétiques ont été effectuées par dilatométrie dans des appareils entièrement scellés sous vide poussé. L'ordre de la réaction de polymérisation par rapport à la concentration en monomère est égal à 1 et celui relatif à la concentration en amorceur est égal à 0,5. Par ailleurs, des polymères nouveaux ont été préparés soit par polymérisation radicalaire de monomères dérivés du chloroformiate de vinyle, soit par modification chimique du polychloroformiate de vinyle par des aminés, des alcools, des thiols, des acides carboxyliques, KCN . . ., par catalyse par transfert de phase. La structure de ces polymères ainsi que leur comportement thermique ont été examinés.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The free-radical polymerization of vinyl chloroformate has been studied in methylene chloride at 35°C using dicyclohexyl peroxydicarbonate as initiator. Kinetic measurements performed by dilatometry under high vacuum have shown that the reaction order in monomer is equal to one whereas that in catalyst is equal to 0.5. New polymers have been prepared either by free-radical polymerization of monomers derived from vinyl chloroformate or by chemical modification of polyvinyl chloroformate) with amines, alcohols, thiols, carboxylic acids, KCN . . . using phase transfer catalysis. The structure of these polymers as well as their thermal behaviour have been studied.</p>
+			</div>
+		</front>
+		<body>
+			<div>
+				<head>Introduction</head>
+				<p>L'intérêt croissant suscité par le chloroformiate de vinyle (CH 2 =CHOCOCl : VOCC1) provient du fait qu'il sert de matière première pour la préparation de nombreux médicaments ainsi que pour la synthèse de monomères vinyliques variés. Toutefois, la polymérisation du chloroformiate de vinyle (1) et de certains de ses dérivés -carbamates vinyliques (1-3), carbonates vinyliques (1, 4) et cyanoformiate de vinyle (1) — a été très peu étudiée jusqu'à ces dernières années, en raison des difficultés de préparation et de purification de ce monomère.</p>
+				<p>Un nouveau procédé de synthèse de chloroformiate de vinyle quasiment exempt d'impuretés, avec un rendement de 80% a été mis au point récemment (5). Ceci nous a incités à examiner en détail la polymérisation de ce monomère (6-8) et de quelques dérivés (6, 8, 9) ainsi que la modification chimique du polychloroformiate de vinyle (6, 10-12).</p>
+				<p>L'emploi de peroxydicarbonates comme amorceurs de la polymérisation radicalaire du chloroformiate de vinyle, en masse et en solution, conduit à des polymères de masses molaires élevées (7, 8). Les résultats de l'étude cinétique effectuée dans le chlorure de méthylène à 35°C, en présence de peroxydicarbonate de dicyclohexyle, sont exposés dans le présent article.</p>
+				<p>Par ailleurs, de nouveaux polymères ont été préparés soit par polymérisation radicalaire de monomères dérivés du chloroformiate de vinyle, soit par modification chimique du PVOCC1 par des aminés, des alcools, des phénols, des thiols, des acides carboxyliques et leurs sels alcalins, KCN ... en utilisant la catalyse par transfert de phase. Les résultats récents obtenus dans ce domaine sont mentionnés dans cet article.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>La pureté du VOCC1 (Société Nationale des Poudres et Explosifs) est généralement supérieure à 99%. Ce monomère est introduit dans un ballon scellé sous vide poussé; il est conservé dans des tubes gradués munis de joints fragiles, à -35°C, à l'obscurité. 11 est débarrassé de son stabilisant juste avant emploi.</p>
+				<p>Les carbamates vinyliques tels que le earbamate de vinyle et de N-diéthyle (VOCNEt, où VOC: CH 2 =CH—O—C(O)—) et le earbamate de vinyle et de /V-pipéridine (VOCNC 5 H| 0 ) sont obtenus par réaction du VOCC1 avec la triéthylamine et la A'-éthylpipéridine respectivement, selon le procédé général de déalkylation des aminés tertiaires développé par <ref type="bibr">Schnur et Olofson et al.</ref> (13-15). Les autres carbamates vinyliques comme le earbamate de vinyle et de n-butyle (VOCNHBu) et le earbamate de vinyle et de N-méthyl cyclohexyle (VOCN(CH 3 )C f ,H 11 ) sont préparés par réaction du VOCC1 avec les aminés correspondantes en présence d'un capteur d'acide chlorhydrique (8, 13).</p>
+				<p>La réaction du VOCC1 avec le phénol et le menthol en présence de soude ou de pyridine conduit aux carbonates vinyliques correspondants (VOCOPh, VOCOMenthyle) (8, 13). Le thiocarbonate de vinyle et de phényle (VOCSPh) est préparé selon une méthode déjà décrite (16).</p>
+				<p>Le chlorure de méthylène est purifié sur P 2 0 5 puis sur des miroirs de sodium successifs, selon la méthode mise au point au laboratoire (17). L'azobisisobutyronitrile (AIBN) et le peroxydicarbonate de dicyclohexyle (DCPD) sont séchés sous vide avant emploi.</p>
+				<p>La plupart des polymérisations sont effectuées dans des appareils en verre entièrement scellés sous vide poussé, selon la technique utilisée pour les polymérisations anioniques (18). Le monomère (VOCC1) est condensé dans un tube annexe afin d'éliminer l'inhibiteur, avant d'être introduit par distillation sur paroi froide, ainsi que le solvant, dans un ballon contenant l'amorceur. Les polymérisations des dérivés du VOCC1 sont effectuées sous azote, dans des appareils reliés à une ligne à vide. Le monomère est introduit avec une seringue à travers un bouchon de caoutchouc à jupe rabattable, dans un ballon contenant le catalyseur qui est séché sous vide au préalable. Dans tous les cas, l'agitation du milieu est assurée par un barreau aimanté enrobé de verre, à une température donnée. Les polymères sont récupérés après dissolution dans le chlorure de méthylène et précipitation dans l'éther de pétrole. Ils sont ensuite séchés sous vide poussé.</p>
+				<p>Nous avons utilisé une méthode dilatométrique comme moyen d'étude cinétique selon la technique expérimentale mise au point au laboratoire (19). Les masses spécifiques du monomère (VOCC1) et du polymère en solution dans CH 2 C1 2 à 35°C ont été mesurées avec un densimètre électronique à tube vibrant (PAAR DMA 45).</p>
+				<p>La technique de modification chimique du PVOCC1 a été décrite précédemment (10). Les substituants sont des produits commerciaux utilisés sans purification spéciale à l'exception des aminés qui sont redistillées avant emploi. Les catalyseurs: dicyclohexyl-18 couronne- 6 (DCHE); sulfate acide de tétrabutylammonium (TBAH); Kryptofix [222] sont des produits commerciaux séchés sous vide poussé. Le degré de substitution est déterminé d'après l'analyse élémentaire des polymères modifiés. Ceux-ci sont conservés à —30°C dans des tubes scellés sous vide poussé.</p>
+				<p>Les polymères sont examinés par spectrophotométrie ir et par rmn du carbone 13. Dans ce dernier cas, les spectres de solutions de polymères dans un mélange 90:10 de trichloro-1,2,4 benzène et de nitrobenzène deutérié sont enregistrés à 100°C sur un appareil Brucker WP 250 à 62,5 MHz. Les masses molaires moyennes en nombre des polymères sont mesurées par osmométrie dans le toluène à 37°C. Les températures de transition vitreuse sont déterminées grâce à un analyseur thermique du Pont 1090 et la stabilité thermique des polymères est examinée par thermogravimétrie en chauffant les échantillons de 20 à 700°C à 5°C/min à l'air (9).</p>
+			</div>
+			<div>
+				<head>Résultats et discussion</head>
+				<div n="1">
+					<head>Polymérisation du chloroformiate de vinyle</head>
+			<p>Nous avons montré que la polymérisation radicalaire du chloroformiate de vinyle donne des polymères de masses molaires élevées, avec des rendements quantitatifs (7, 8). Les meilleurs systèmes catalytiques sont les peroxydicarbonates, en solution dans le chlorure de méthylène, car ils permettent d'opérer à des températures n'excédant pas 40°C. Dans ces conditions, on n'observe pas de dégradation des polymères. Nous avons donc effectué une étude cinétique de la polymérisation du VOCC1 amorcée par le peroxydicarbonate de dicyclohexyle, dans CH 2 C1 2 à 35°C.</p>
+			<p>Nous avons utilisé une technique dilatométrique et nous avons effectué toutes les mesures à partir d'un même lot de monomère afin d'avoir des résultats reproductibles.</p>
+			<p>Le facteur de contraction a correspondant à la variation de volume spécifique lorsqu'on passe du monomère au polymère a été déterminé par deux méthodes. La première consiste à conduire une réaction de polymérisation, dans un dilatomètre, jusqu'à conversion totale. La mesure des différences de niveau dans le capillaire, entre le début et la fin de la réaction, permet de calculer a. La deuxième technique consiste à mesurer les masses spécifiques du monomère, m 3S (VOCC1), et du polymère , m 35 (PVOCCl), dans CH 2 C1 2 à 35°C. Le facteur de contraction , a 35 , est calculé d'après la relation:</p>
+			<p><formula>m 35 (VOCCl) m 35 (PVOCCl)</formula></p>
+			<p>On obtient ainsi a 35 = 0,229 mL g -1 pour des concentrations en monomère et en polymère (M " = 18 500) égales à 1,96 mol L -'. Cette valeur est en excellent accord avec celles déterminées lors de deux expériences dilatométriques (essais 3 et 7 du tableau 1): a = 0,23 mL g" 1 .</p>
+			<p>Les résultats cinétiques sont indiqués dans le tableau 1. Sur la fig. 1, nous avons porté les variations de ln [M] 0 / [M] en fonction du temps, où [M] 0 et [M] sont les concentrations en monomère respectivement au temps zéro et à l'instant t, pour les essais 1, 3 et 7. On obtient des droites passant par l'origine jusqu'à des taux de conversion de 30 à 50%, ce qui montre que l'ordre interne de la réaction de polymérisation par rapport à la concentration en monomère est égal à 1. Les pentes de ces droites sont égales à V P / [M]</p>
+			<p>Si l'on admet que l'hypothèse de l'état stationnaire est vérifiée pour ce système, la vitesse de polymérisation V p est donnée par la relation suivante:</p>
+			<p><formula>[2] V P = - d [M] di = k n fri A]</formula></p>
+			<p>1/2 [M] où [M] et [A] sont les concentrations en monomère et en amorceur; k p , k d et k { sont respectivement les constantes de propagation, de dissociation de l'amorceur et de terminaison et où / représente l'efficacité de l'amorceur. Nous avons vérifié que la vitesse de polymérisation est proportionnelle à [M] et à [A] 1/2 car on observe bien des relations linéaires entre V P / [M] et [A] " 2 d'une part et entre V P /  [A] " 2 et [M] d'autre part, ainsi qu'en témoignent les figures 2 et 3. La valeur de la constante apparente de vitesse * app [M] [A] 1 ' 2 est égale à 1,4 x 10" 2 ±0,1 x IO" 2 L" 2 mol -1/2 min</p>
+		</div>
+			<div n="2">
+				<head>Polymères dérivés du polychloroformiate de vinyle</head>
+			<p>Deux voies d'accès aux polymères dérivés du PVOCC1 ont été examinées: d'une part, la polymérisation radicalaire de composés provenant du VOCC1 et d'autre part, la modification chimique du PVOCC1 par des substituants appropriés.</p>
+			<p>Le tableau 2 rassemble les résultats les plus significatifs de la polymérisation radicalaire, en masse, de quelques dérivés du chloroformiate de vinyle tels que des carbonates, thiocarbonates et carbamates vinyliques. On obtient des polymères de masses molaires élevées avec de bons rendements. Les résultats sont améliorés lorsqu'on opère dans des conditions rigoureuses de pureté (essais 15 et 16).</p>
+			<p>La modification chimique du PVOCC1 par des aminés et des alcools a été décrite par Schaefgen (1). Cependant, cet auteur a généralement observé des réactions secondaires d'hydrolyse conduisant à des polymères réticulés dont le degré de substitution ne dépasse pas 30%. Nous avons mis au point des conditions opératoires qui permettent d'éviter les réactions de dégradation (6, 10-12). Les polymères ainsi modifiés sont solubles et les degrés de substitution sont excellents. Les rendements en polymères solubles sont de l'ordre de 80%. Les résultats concernant la modification chimique du PVOCC1 par les aminés, les alcools, thiols et phénols, les acides carboxyliques et les sels alcalins (carboxylates et cyanures) sont rassemblés dans les tableaux 3 à 7.</p>
+			<p>Les aminés aliphatiques conduisent à des degrés de substitution voisins de 100% (essais 17 à 24, tableau 3) selon un mécanisme faisant intervenir une attaque nucléophile du carbonyle par ces aminés. Parmi les différents capteurs d'acide chlorhydrique utilisés, c'est la soude à 50% qui est le plus efficace comme le montrent les essais 18 et 19 effectués avec la N-méthylbenzylamine. Les aminés primaires réagissent aussi bien que les aminés secondaires. De plus, dans le cas de l'éthyléthanolamine (essai 23), la réaction s'effectue de façon sélective par l'intermédiaire de la fonction aminé ainsi qu'en témoigne le spectre ir du polymère modifié. Le faible caractère nucléophile présenté par les aminés aromatiques telles que le carbazole ou le diméthyl-2,3 indole nécessite l'emploi de la catalyse par transfert de phase. Les essais 25 et 26 montrent qu'en absence d'un sel d'ammonium quaternaire, la réaction des groupements chloroformiate avec le carbazole n'a pas lieu alors qu'elle s'effectue avec 100% de rendement après 3 h à 20°C, en présence de S0 4 HNBu 4 .</p>
+			<p>Il n'est pas possible de mesurer directement les masses molaires des échantillons de PVOCCl, par osmométrie ou par gpc, en raison de la grande réactivité des fonctions chloroformiate. Elles ont donc été déterminées indirectement à partir des masses molaires des polymères modifiés, en tenant compte du degré de substitution. Quelques résultats significatifs obtenus avec trois lots différents de PVOCC1 sont rassemblés dans le tableau 4. On observe un excellent accord entre les valeurs de M " pour un même échantillon de PVOCC1 quelle que soit la nature du substituant (essais 29 et 20; essais 31, 22 et 32) et quelles que soient les conditions opératoires pour un substituant donné (essais 30 et 19). En particulier, on peut conclure que la modification chimique du PVOCC1 en solution dans CH 2 C1 2 , en présence de NaOH 50% et d'un catalyseur de transfert de phase (essai 32) ne provoque pas de dégradation du polymère avec un substituant comme le phénol.</p>
+			<p>Les résultats de la modification chimique du PVOCC1 par des alcools, des phénols et un thiol sont rassemblés dans le tableau 5. Les phénols et les alcools sont moins réactifs que les aminés aliphatiques vis-à-vis des chloroformiates (20). La catalyse par transfert de phase donne d'excellents résultats en ce qui concerne le phénol et la mercapto-2 pyrimidine (essais 32 et 38). D'une façon générale, il faut noter que, contrairement à certains résultats publiés récemment (21), les conditions opératoires que nous avons utilisées conduisent à l'obtention de polymères solubles possédant des degrés de substitution élevés.</p>
+			<p>La catalyse par transfert de phase constitue une excellente méthode pour modifier le PVOCCI par les acides carboxyliques ainsi qu'en témoignent les résultats du tableau 6 (essais 41, 42, 44 et 45). On obtient des polymères solubles porteurs de fonctions anhydride mixte —OCOOCOR latérales (12). Ces polymères sont également préparés par réaction de carboxylates alcalins avec le PVOCCI au moyen de la catalyse par transfert de phase solide-liquide. Les résultats sont indiqués dans le tableau 7. En l'absence de catalyseur, on n'observe aucune réaction entre le benzoate de sodium et le PVOCCI dans le chlorure de méthylène même après 17 h à 20°C (essai 46). Par contre, on obtient des degrés de substitution voisins de 100% en présence d'un catalyseur de transfert de phase comme le sulfate acide de tétrabutylammonium (essai 48 et 49), un éthercouronne (essai 47) ou un cryptand (essai 50). La réaction avec le benzoate de tétraéthylammonium est extrêmement rapide (essai 51); ceci montre que l'intermédiaire réactionnel dans le cas des benzoates de sodium et de potassium, en présence de TBAH, est un carboxylate de tétraalkylammonium. Une étude cinétique détaillée de ce type de réaction est actuellement en cours.</p>
+			<p>Nous avons également fait figurer, dans le tableau 7, quelques résultats relatifs à la réaction de KCN avec le PVOCCI (8). Un sel d'ammonium quaternaire comme le TBAH est un catalyseur plus efficace qu'un éther-couronne, dans CH 2 C1 2 à 20°C (essais 52 et 53).</p>
+			<p>En conclusion, nous avons montré les avantages de la catalyse par transfert de phase lors de la modification chimique du PVOCCI par des substituants variés. Cette méthode permet d'obtenir des polymères solubles possédant des degrés de substitution élevés, à la température ordinaire.</p>
+		</div>
+			<div n="3">
+				<head>Propriétés des dérivés du polychloroformiate de vinyle</head>
+			<p>Les polymères obtenus soit à partir de dérivés du VOCC1, soit par modification chimique du PVOCCI ont été caractérisés par spectrophotométrie ir et par rmn du carbone 13. La bande d'absorption du groupe carbonyle est située à 1770 c m - 1 pour le PVOCCI. Elle apparaît à 1690 cm- 1 pour les polycarbamates vinyliques, à 1735 cm"' pour le polycyanoformiate de vinyle, à 1730 cm" 1 pour le polythiocarbonate de vinyle et de phényle et à 1750 cm" 1 pour le polycarbonate de vinyle et de phényle. Les polymères porteurs de fonctions anhydride mixte présentent deux bandes d'absorption des groupements carbonyle situées vers 1810 et 1745 cm" 1 . Ces bandes sont suffisamment distinctes de celle correspondant au PVOCCI si bien que l'on peut suivre la cinétique de la réaction de ce polymère avec les acides carboxyliques par spectrophotométrie ir.</p>
+			<p>Les déplacements chimiques des atomes de carbone de la chaîne principale et du groupement carbonyle sont indiqués dans le tableau 8, pour quelques polymères dérivés du PVOCCI. Dans tous les cas, on observe une stéréosensibilité des carbones de la chaîne principale. Les carbones méthyléniques sont sensibles à des effets de diades, de tétrades et parfois même d'hexades. On observe des effets de triades pour les carbones tertiaires. Les surfaces des trois pics correspondent approximativement au rapport 1:2:1. On peut en déduire que tous les polymères sont atactiques et qu'ils obéissent probablement à une statistique de Bernouilli comme attendu pour des échantillons préparés par polymérisation radicalaire . Pour quelques polymères, on observe une stéréosensibilité du carbone du groupement carbonyle. Il faut remarquer que ces polymères possèdent des valeurs de T g plus élevées que les autres ce qui correspond à une moins grande mobilité des groupements latéraux (tableau 9).</p>
+			<p>Les températures de transition vitreuse et la stabilité thermique de quelques polymères ont été déterminées. Les résultats sont rassemblés dans le tableau 9. La stabilité thermique des polymères semble décroître légèrement selon l'ordre suivant: polycarbamates &gt; polycarbonates &gt; polythiocarbonates . Par ailleurs, les valeurs de T g des polymères —[—CH 2 —CH—(O—C—R—)—]—ïï— décroissent O selon l'ordre suivant pour R: —O—Ph &gt; —S—Ph &gt; —N(CH 3 )—Ph. Les légères différences observées parmi les valeurs de T g des polycarbamates vinyliques peuvent être expliquées par la structure des groupements latéraux qui influence la mobilité de la chaîne principale (23).</p>
+			<p>En conclusion, nous avons détérminé les paramètres cinétiques de la polymérisation radicalaire du chloroformiate de vinyle amorcée par le peroxydicarbonate de dicyclohexyle, à 35°C dans CH 2 C1 2 . Ceci nous a permis de préparer des échantillons de polychloroformiate de vinyle bien définis dont nous avons examiné la modification chimique. La catalyse par transfert de phase est une méthode de choix pour obtenir des polymères solubles possédant des degrés de substitution très élevés. Par ailleurs de nouveaux polymères ont été préparés par polymérisation radicalaire de monomères dérivés du chloroformiate de vinyle. Les capacités réactionnelles remarquables du chloroformiate vinylique ainsi que du polymère correspondant ou de ses copolymères ouvrent un champ d'investigations très vaste et permettent d'envisager des applications très variées.</p></div>
+			
+			.</div>
+			<div>
+				<head>Remerciements</head>
+				<p>Nous remercions la Société Nationale des Poudres et Explosifs pour son aide matérielle. Nous remercions également le Professeur R. Olofson et le Docteur G. Wooden pour la préparation de certains monomères, le Professeur H. Chéradame et Madame E. Rousset pour leur contribution à l'analyse des polymères par rmn du carbone 13 ainsi que Madame C. Noël pour son aide dans l'interprétation des thermogrammes.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">R. Schaefgen. U. S</forename>
+									<surname>Patent</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1964"/>
+								<biblScope type="fpage">118</biblScope>
+								<biblScope type="lpage">862</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Am. Chem. Soc. Polym. Prepr</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="issue">723</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. Polym. Sci. C</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">75</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">G</forename>
+									<surname>Overberger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Weinshenker</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">4331</biblScope>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<title level="m" type="main">Patent n</title>
+							<author>
+								<persName>
+									<forename type="first">Chemical</forename>
+									<surname>Dow</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Co</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Fr</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1966"/>
+								<biblScope type="fpage">478</biblScope>
+								<biblScope type="lpage">633</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">E. Kong. U. S</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1945"/>
+								<biblScope type="fpage">370</biblScope>
+								<biblScope type="lpage">549</biblScope>
+							</imprint>
+						</monogr>
+						<note>Patent. n°</note>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Piteau</forename>
+									<surname>Fr</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<biblScope type="fpage">381</biblScope>
+								<biblScope type="lpage">739</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Meunier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Hemery</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Polym. Bull</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">809</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Meunier</forename>
+									<surname>Fr</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<biblScope type="fpage">475</biblScope>
+								<biblScope type="lpage">558</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Meunier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Hemery</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Cheradame</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Polymer</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">849</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Kassir</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boivin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Cheradame</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Olofson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Polymer</title>
+							<imprint>
+								<biblScope type="vol">26</biblScope>
+								<biblScope type="pp">443</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Meunier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boivin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Hemery</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Boileau</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Senet</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Polymer</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">861</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<forename type="middle">S</forename>
+									<surname>Boivin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Chettouf</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Polym. Bull</title>
+							<imprint>
+								<biblScope type="vol">9</biblScope>
+								<biblScope type="pp">114</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boivin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Hemery</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. II</title>
+							<imprint>
+								<biblScope type="pp">201</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Schnur</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Olofson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Bunes</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">U.S. Patent n°</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="fpage">905</biblScope>
+								<biblScope type="lpage">981</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Olofson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Schnur</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Bunes</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Pepe</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">1567</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Cuomo</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="pp">2538</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Sigwalt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">843</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Boileau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Sigwalt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Makromol. Chem</title>
+							<imprint>
+								<biblScope type="vol">69</biblScope>
+								<biblScope type="pp">180</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Favier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Boileau</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Sigwalt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Eur. Polym. J</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="issue">3</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Matzner</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">J</forename>
+									<surname>Cotter</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Rev</title>
+							<imprint>
+								<biblScope type="vol">64</biblScope>
+								<biblScope type="pp">67</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>An</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Raynal</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Marty</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E. Lepain-Payan</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Eur. Polym. J</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="pp">487</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Senet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Fr</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1981"/>
+								<biblScope type="pp">873</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<monogr>
+							<title level="m" type="main">Contemporary polymer chem-istry</title>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1981"/>
+								<publisher>Prentice-Hall Inc</publisher>
+								<pubPlace>Englewood Cliffs, New Jersey</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

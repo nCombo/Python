@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude du comportement d'un alliage Cu-Ni 70:30 dans une solution de NaCl à 3% par la détermination de sa résistance de polarisation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yvan</forename>
+								<surname>Massiani</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chime des matériaux—corrosion</orgName>
+								<orgName type="institution">Université de Provence</orgName>
+								<address>
+									<postCode>13331</postCode>
+									<settlement>Marseille CEDEX 3</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Sylvie</forename>
+								<surname>Petetin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chime des matériaux—corrosion</orgName>
+								<orgName type="institution">Université de Provence</orgName>
+								<address>
+									<postCode>13331</postCode>
+									<settlement>Marseille CEDEX 3</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<forename type="middle">Ngo</forename>
+								<surname>Ngoc</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chime des matériaux—corrosion</orgName>
+								<orgName type="institution">Université de Provence</orgName>
+								<address>
+									<postCode>13331</postCode>
+									<settlement>Marseille CEDEX 3</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Pierre</forename>
+								<surname>Crousier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chime des matériaux—corrosion</orgName>
+								<orgName type="institution">Université de Provence</orgName>
+								<address>
+									<postCode>13331</postCode>
+									<settlement>Marseille CEDEX 3</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude du comportement d'un alliage Cu-Ni 70:30 dans une solution de NaCl à 3% par la détermination de sa résistance de polarisation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem. Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">65</biblScope>
+							<biblScope type="issue">65</biblScope>
+							<biblScope type="fpage">1254</biblScope>
+							<biblScope type="lpage">1254</biblScope>
+							<date type="published" when="1987">1987</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'utilisation d'une méthode galvanostatique permet de suivre l'évolution de la résistance de polarisation d'un alliage cuivre-nickel 70:30, en fonction du temps, malgré la présence d'une couche de produits de corrosion formée à la surface de l'échantillon au bout de plusieurs jours d'immersion. La résistance de polarisation de l'alliage qui est, au début de l'immersion, comparable à celle du cuivre, se rapproche, après plusieurs jours de celle du nickel pur.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>A galvanostatic method can be used to measure the evolution of the polarization resistance of a 70:30 copper-nickel alloy with time, in spite of the presence of a layer of corrosion products formed on the surface of the sample after a few days of immersion. At the beginning, the polarization resistance of the alloy is similar to that of copper; after many days, it evolves toward that of pure nickel.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Malgré un grand nombre de travaux, le mécanisme de dissolution des alliages Cu-Ni 70:30 n'est pas totalement élucidé. Si la plupart des auteurs concluent, comme dans le cas des alliages Cu-Zn, Cu-Mn, à la dissolution de l'élément allié au cuivre (1-3), d'autres envisagent la possibilité d'une décuprisation (4-6). Dans le cas des laitons, la dézincification est visible au microscope sur une coupe transversale ( 1 ). Dans le cas des alliages Cu-Ni, la dénickélisation ou la décuprisation n'a pas la même profondeur et ne peut être mise en évidence par observation au microscope. Les méthodes électrochimiques, qui concernent les atomes en surface, permettent d'observer des variations de composition superficielle. Certains auteurs (2, 7-10) ont montré que la dissolution d'un alliage est différente en corrosion libre et sous polarisation anodique ou même cathodique. Selon le potentiel, l'alliage passe de la dissolution sélective de l'un des éléments à la dissolution simultanée de chacun d'eux. Pour détecter une éventuelle modification de la composition à la surface de l'alliage, il faut suivre l'évolution du courant de corrosion en fonction de la durée de l'immersion. Cela est possible en utilisant une méthode qui permet d'effectuer des mesures à différents intervalles de temps, sans interrompre l'immersion de l'échantillon, tout en évitant de fortes surtensions éloignant trop l'électrode de l'équilibre. Les mesures de résistance de polarisation R p répondent à ces exigences. Elles présentent plusieurs avantages : (/) elles sont effectuées in situ\ (ii) elles sont non destructives, permettant ainsi des études ultérieures du même échantillon; (iii) elles sont en général très rapides à effectuer; (iv) dans le cas d'expériences comparatives, elles constituent un test d'évolution du comportement du matériau. Si on utilise l'approximation de l'équation de Butler-Volmer appliquable, pour une faible surtension, autour de E C0T (r| = + 10mV), i est une fonction linéaire du potentiel d'électrode. Dans ces conditions, R p et i coe sont reliées par la relation de Stern et Geary :</p>
+				<p>r| e étant la surtension.</p>
+				<p>Puisque la résistance de polarisation est inversement proportionnelle à l'intensité du courant de corrosion, son évolution au cours du temps permet de suivre l'évolution du courant de corrosion, si on admet que |3 a et (3 C sont constantes.</p>
+				<p>Mais cette hypothèse est mise en défaut si, au cours du même temps il y a recouvrement de la surface comme dans le cas de la formation d'une couche de produit de corrosion. C'est la situation que nous avons rencontrée au cours de l'étude du comportement des alliages Cu-Ni dans des solutions de NaCl à 3%.</p>
+				<p>Dans ce cas, d'une part la pente anodique |3 a varie et augmente avec le temps d'immersion, d'autre part la partie cathodique de la courbe de polarisation ne permet pas de tracer une droite de Tafel à cause de la «bosse cathodique» déjà signalée sur le cuivre pur (11). Il est donc difficile de passer de R p à i C0T . Néanmoins une étude de l'évolution de la R p en fonction du temps d'immersion peut donner des indications sur une modification de la composition en surface. Efird (12) a étudié aussi les alliages Cu-Ni 70:30 et 90:10 et montré que si dans les premières minutes leur résistance de polarisation est différente, celle du 90:10 étant la plus faible, après quelques heures d'immersion leur valeur est la même. Ce résultat peut s'expliquer par un enrichissement en nickel de la surface. Nous avons repris cette méthode sur l'alliage Cu-Ni 70:30 mais aussi sur le cuivre et le nickel purs dont la modification en surface n'est pas le résultat d'une dissolution sélective comme dans le cas d'un alliage.</p>
+				<p>Mesures des résistances de polarisation</p>
+				<p>Très souvent, la méthode par balayage de potentiels autour du potentiel de corrosion est utilisée. C'est un test très rapide. Cependant, on n'est pas sûr avec un tel protocole d'être dans un état quasi stationnaire; de plus avec les méthodes à potentiel contrôlé, dans le cas où £ cor varie avec le temps, la tension appliquée peut ne plus correspondre à la zone de linéarité entre E et i.</p>
+				<p>Par contre, si on impose le courant, quelle que soit l'évolution de E cor , en choisissant convenablement l'échelon d'intensité, on peut ne perturber que très faiblement le système. C'est ce qui nous conduit à utiliser une méthode à intensité contrôlée. Plusieurs méthodes galvaniques sont utilisées :</p>
+				<p>Certains auteurs (13) appliquent un courant constant dont l'intensité crée une surtension très inférieure à 10 mV. Puis des incréments d'intensité sont ajoutés successivement, jusqu'à obtention d'une surtension de l'ordre de 10-15 mV. Le temps d'application du courant est le même, quelle que soit l'intensité choisie. On obtient ainsi des couples de points (E,i) pendant la polarisation galvanostatique, dont le graphe est une droite de pente AE/Ai = R(Ù).</p>
+				<p>Cependant, cette technique est peu adaptée dans deux cas : (/) quand la résistance de l'électrolyte, Rs, est grande : on introduit alors un facteur IRS qui est très important et qui conduit à une erreur importante sur la mesure des potentiels; et (ii) quand il y a modification des conditions à la surface, par exemple par formation d'une couche de produits de corrosion.</p>
+				<p>Utilisation d'une méthode galvanostatique alternative</p>
+				<p>Récemment, une méthode galvanostatique a été utilisée pour déterminer des résistances de polarisation dans des sols (9). Il s'agit d'appliquer un signal rectangulaire alternatif, d'intensité constante en valeur absolue, choisi pour provoquer une surtension de l'éléctrode de travail qui n'excède pas les limites de linéarité de E-i, c'est-à-dire T| = +10mV. Dans ces conditions, certains inconvénients des différentes autres méthodes sont supprimés : le potentiel obtenu par application du courant suit les éventuelles fluctuations du potentiel de repos, l'état quasi stationnaire est atteint rapidement, et la présence d'une couche de produit de corrosion n'est pas un obstacle à la mesure. Cette méthode a été adaptée pour déterminer la résistance de polarisation du cuivre, nickel et du Cu-Ni 70:30.</p>
+				<p>Principe de la méthode</p>
+				<p>Lorsqu'on applique un échelon de courant / à un système représenté par le schéma équivalent ( <ref type="figure">Fig. 1</ref>), la surtension t] = E — E C0T de l'électrode de travail peut s'exprimer par : , ^ d7 l 4. , T ?2,3T!\ /-2,3V /=C d -+ / cor [exp ^J-exp Si TI est petit (T| = ±20mV), cette équation se réduit à : / = Cd ^U1 dr R P avec C d la capacité de double couche (cf. équation de Stern et Geary). Si l'impulsion de courant est alternative, carrée et appliquée à la fréquence /, l'équation précédente devient (14) :</p>
+				<p>Quand la fréquence / est infiniment grande, cette équation tend vers une valeur limite telle que : E(f) = IR S mais quand / —» 0, E(f) = IR S + IR p . Par différence, on trouve donc la valeur de R p .</p>
+				<p>Schématiquement, la figure 2 représente le signal appliqué, et la forme du signal réponse. On peut par suite tracer le graphe R en fonction de la fréquence de balayage des impulsions galvanostatiques ( <ref type="figure">fig. 3</ref>). Sur celui-ci, on repère directement les paliers permettant d'atteindre la valeur de R s , et de R s + R p donc de Rp.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les mesures ont été réalisées avec des échantillons de 1 cm 2 de surface préparés à partir d'un alliage Niclal 30 préparé par le Comptoir Lyon Alemand Louyot (Paris). Ces échantillons étaient polis sur papier abrasif 600 sous courant d'eau puis rincés plusieurs fois dans un bac à ultra-sons.</p>
+				<p>Tous les essais sont effectués dans une solution de NaCl à 3% en aération naturelle et non agitée. Ils nécessitent : un générateur de courant; un générateur de signaux rapides Tacussel type GSTP 3, celui-ci permet de choisir la forme du signal et sa fréquence entre 4 x 10" 5 et 5000 Hz; un millivoltmètre à forte impédance d'entrée pour suivre la différence de potentiel entre l'éléctrode de travail et l'électrode de référence; une table traçante JJ Instruments PL3; un oscilloscope à deux voies permettant de visualiser le signal obtenu par application de courant à haute fréquence, en même temps que le signal appliqué. L'oscilloscope utilisé est un Hameg type HM 705; et un amplificateur différentiel assurant un double fonction : l'amplification (jusqu'à 1000 fois) du signal choisi, et un rôle de filtre, éliminant les phénomènes de «retour» jusqu'à l'oscilloscope. La limite d'amplification est de l'ordre de 10 V.</p>
+				<p>Le montage ainsi réalisé permet d'appliquer un courant de 0,5 p.A. Ce courant de très faible intensité ne provoque qu'une faible surtension qu'il faut considérablement amplifier pour pouvoir la mesurer. C'est cette très faible surtension qui nous permet de toujours nous placer dans la zone où la relation entre E et i est linéaire. Dans le cas du cupronickel 70:30, dans une solution de NaCl à 3%, le potentiel de corrosion est égal à —210 mV/ecs; lorsque l'on applique un courant alternatif carré de 0,5 p,A, la surtension de l'électrode est très faible et la réponse en tension est apparemment identique à celle obtenue sans surimposer de signal carré, c'est-à-dire identique à la tension délivrée par l'électrode au repos. Il faut donc amplifier ce signal. C'est le rôle de l'amplificateur différentiel. Mais ce dernier amplifie tout le signal : la tension de l'électrode au repos plus la surtension due au courant appliqué. On est, de ce fait, très vite limité dans l'amplification, par le maximum de l'appareil fixé à 10 V, soit environ 50 fois notre signal. Nous avons dû décaler le signal de la valeur du potentiel de corrosion, afin de n'amplifier que le signal provoqué par l'application du courant. Un système de compensation propre à notre montage a été mis au point.</p>
+				<p>Deux potentiomètres permettent d'opérer soit un réglage grossier, soit un réglage fin de la ligne de base. Pour un gain maximum de l'amplificateur différentiel et une bonne sensibilité de l'oscilloscope, celle-ci doit être centrée sur le zéro de l'écran. Le montage définitif est représenté sur la <ref type="figure">figure 4</ref>.</p>
+				<p>Par cette technique nous avons mesuré la résistance de polarisation du cuivre, du nickel, du cupronickel 70:30 sans immersion préalable, et du cupronickel 70:30 après un temps d'immersion allant de quelques heures à 73 jours.</p>
+				<p>Une fois le potentiel de corrosion stabilise (pour les mesures faites après 15 min d'immersion), celui-ci est repéré sur l'oscilloscope. On branche alors le système de compensation, et par combinaison de celui-ci et de l'amplificateur différentiel, on décale la ligne de base sur le zéro de l'écran, jusqu'à obtention du gain optimum. Ce réglage effectué, on applique le courant alternatif carré d'intensité égale à 0,5 p.A, en commençant par les fréquences élevées. En effet, celles-ci ne risquent pas d'endommager l'interface des échantillons. Nous reviendrons ultérieurement sur ce dernier point. On effectue un balayage en fréquence entre 5 kHz et 10~ 3 Hz, parfois 10~ 4 Hz. Pour chaque fréquence, on relève l'amplitude crête à crête du signal du potentiel de corrosion de l'électrode de travail. Grâce à la rémanence de son écran, l'oscilloscope permet de mesurer des signaux d'assez basse fréquence : 2,5-3 Hz. En deçà, les signaux sont enregistrés sur une table traçante.</p>
+			</div>
+			<div>
+				<head>Résultats</head>
+				<p>Chacun des échantillons de cuivre, nickel et cupronickel 70:30 a fait l'objet d'une étude de la résistance de polarisation en fonction de la fréquence du courant alternatif appliqué. L'allure générale des enregistrements sur table traçante ne diffère pas avec la nature de l'échantillon. Nous donnons l'exemple d'enregistrement pour Cu/Ni 70:30 ( <ref type="figure">fig. 5</ref>). Les valeurs des résistances ainsi mesurées sont ensuite reportées sur un graphe R = /(log /) ( <ref type="figure">fig. 6</ref>).</p>
+				<p>Le palier obtenu à basse fréquence représente la somme de la résistance de la solution, R S , et de la résistance de polarisation, R P . Le palier obtenu à haute fréquence donne la résistance de l'électrolyte R S seule. Nous avons obtenu après 15 min d'immersion des résistances de polarisation pour le cuivre et le nickel purs, égales à :</p>
+				<p><formula>flp(Cu) = 9000ÎÎ cm 2 K p (Ni) = 115 000ÎÎ cm 2</formula></p>
+				<p>Ces mesures ont été effectuées un grand nombre de fois, donnant des valeurs très reproductibles pour le cuivre et pour le nickel. Les valeurs de R P et R S obtenues pour le cupronickel 70:30 après différents temps d'immersion sont reportés dans le tableau 1.</p>
+				<p>La valeur trop grande de R s pour des solutions aussi conductrice que NaCl 3% pourrait provenir de la limitation, avec notre appareillage, du balayage aux fréquences très élevées. La valeur de la résistance de polarisation du cupronickel 70:30 après 15 min d'immersion est elle aussi très reproductible, elle est pratiquement égale à celle du cuivre pur et vaut 8950il cm2.</p>
+				<p>Après environ 48 h, une couche de produits de corrosion se forme à la surface du cupronickel. Cette couche ne gêne en rien la mesure de résistance ( <ref type="figure">fig. 5</ref>), alors qu'elle la perturbait grandement dans les méthodes classiques.</p>
+			</div>
+			<div>
+				<head>Conclusion</head>
+				<p>Cette méthode a permis de suivre l'évolution de la résistance de polarisation d'un alliage Cu-Ni 70:30 en fonction du temps d'immersion dans une solution de NaCl, malgré la formation d'une couche de produit de corrosion. Sa valeur, qui est proche de celle du cuivre pur au début de l'immersion, se rapproche, après plusieurs jours, de celle du nickel pur. Ceci indique une diminution de la vitesse de corrosion de l'alliage lorsque le temps d'immersion augmente; la vitesse de dissolution ne change pas avec le temps d'immersion dans le cas du cuivre ou du nickel pur et elle peut donc être reliée à une décuprisation de la surface de l'échantillon.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+									<surname>Byrne</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">116</biblScope>
+								<biblScope type="pp">1492</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">S</forename>
+									<surname>Kar</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">129</biblScope>
+								<biblScope type="pp">2157</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Pryor</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">127</biblScope>
+								<biblScope type="pp">2138</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Mor</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Trevis</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corros. Trait. Prot. Finition</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">7</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">P</forename>
+									<surname>Dhar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+									<surname>White</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Burnell</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+									<surname>Griffin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corrosion</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">317</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Petetin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Crousieret</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-P</forename>
+									<forename type="middle">Crousier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mater. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">10</biblScope>
+								<biblScope type="pp">317</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Pryor</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corros. Sci</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">65</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">W</forename>
+									<surname>Pickering</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corros. Sci</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">1107</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+									<surname>Byrne</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">118</biblScope>
+								<biblScope type="pp">209</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Ya</forename>
+									<forename type="middle">M</forename>
+									<surname>Kolotyrkin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Electrochem</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<biblScope type="pp">89</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Griess</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">120</biblScope>
+								<biblScope type="pp">459</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">D</forename>
+									<surname>Efird</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corrosion (Houston)</title>
+							<imprint>
+								<biblScope type="vol">31</biblScope>
+								<biblScope type="pp">77</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">A</forename>
+									<surname>Jones</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corrosion (Houston)</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">444</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Kajiyama</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corrosion (Houston)</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">475</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

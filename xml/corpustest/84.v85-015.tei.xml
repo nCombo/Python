@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réactivité du nucléophile azoture vis à vis de cations hétérocycliques aromatiques. VI. Cas des triaryl-2,4,6 oxaziniums-1,3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean-Claude</forename>
+								<surname>Cherton</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paul-Louis</forename>
+								<surname>Desbene</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marc</forename>
+								<surname>Bazinet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marc</forename>
+								<surname>Lanson</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Odile</forename>
+								<surname>Convert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Jacques</forename>
+								<surname>Basselier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Claude</forename>
+								<surname>Cherton</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Paul-Louis</forename>
+								<surname>Desbene</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marc</forename>
+								<surname>Bazinet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marc</forename>
+								<surname>Lanson</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Odile</forename>
+								<surname>Convert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Jacques</forename>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réactivité du nucléophile azoture vis à vis de cations hétérocycliques aromatiques. VI. Cas des triaryl-2,4,6 oxaziniums-1,3</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">63</biblScope>
+							<biblScope type="fpage">86</biblScope>
+							<date type="published" when="1984">1985</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La réaction du nucléophile azoture avec les triaryl-2,4,6 oxazinium-1,3 conduit en haut rendement aux (3 tétrazolo-trans- benzalacétophénones. La formation de ces tétrazoles implique l'intervention des azido-2 2/i-oxazines-1,3 correspondantes. Un mécanisme de réarrangement de ces azides mettant en jeu deux tautoméries cycle-chaîne autour des intermédiaires iminoazides est proposé. Sous réserve que les azido-2 2/i-oxazines-l,3 sont bien les produits cinétiques de l'attaque de N3~, les résultats présentés constituent un rare exemple de régiosélectivité de l'attaque d'un nucléophile sur le pôle C2 d'oxazinium-1,3.</p>
+				<p>Le problème de la réactivité du système oxazinium-1,3/azoture est discuté en référence au couple triphényl-2,4,6 pyrylium/N3_.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Nucleophilic attack of sodium azide on 2,4,6-triaryl-l ,3-oxazinium species gives high yields of p-tetrazolo-rran.v- benzalacetophenones from the corresponding 2-azido-l,3-oxazines. The rearrangement of the azido oxazines likely proceeds via tautomerism of the intermediate iminoazides. If the formation of the 2-azido-1,3-oxazines is under kinetic control, these results are a rare example of high regioselectivity in nucleophilic attack at the C2 carbon of 1,3-oxazinium species.</p>
+				<p>The reaction behaviour of the 1,3-oxazinium/N3~ system is discussed, together with results obtained from the 2,4,6- triphenylpyrilium/N3 ~.</p>
+			</div>
+		</front>
+		<body>
+			<p>Nous nous intéressons depuis quelques années à la réaction du nucléophile azoture avec divers cations hétérocycliques aromatiques de type pyrylium. Les recherches ont ainsi été menées tant en raison de l'intérêt théorique de la réaction (1,2) que des possibilités qu'elle offre sur le plan de la synthèse de composés hétérocycliques à sept chaînons (1, 3 à 9). (cf. schéma 1).</p>
+			<p>Les cations oxazinium-1,3 1 ou azapyrylium-1,3 sont comme les cations pyrylium déficients en électrons, et comme tels réagissent avec de nombreux nucléophiles (10 à 13). A l'issue de ces réactions des oxaziniums-1,3, trois types d'oxazines: les 6//-oxazines 2, les 4//-oxazines 3, les 2i/-oxazines 4 sont envisageables a priori en raison de la différenciation des pôles 2 et 6 en a de l'oxygène (cf. schéma 2).</p>
+			<p>Cependant, il ressort des travaux de R. R. Schmidt et coll. d'une part (10 et réf. citées) et de I. Shibuyaet coll. d'autre part (11 à 13) que l'attaque d'une grande variété de nucléophiles sur le cation triphényl-2,4,6 oxazinium-1,3 la conduit exclusivement ou en prépondérance à des composés de type 6//-oxazine-1,3, c'est à dire de type 2 ou à des produits résultant de leur réarrangement (cf. schéma 2).</p>
+			<p>Le comportement du couple cation 1/azoture n'avait pas encore été abordé. Compte tenu des résultats obtenus précédemment par nous mêmes en série pyrylium ( 1, 3 et 8) et par Schmidt et coll. (10) avec d'autres nucléophiles en série oxazinium-1,3, on pouvait attendre: soit une "non attaque" au sens covalent du terme avec formation d'un complexe de type donneur-accepteur comme observé dans le cas du couple triphényl^2,4,6 pyrylium/N 3 " (1,3,8); soit une attaque de N 3 ~ sur le pôle C6 du cation 1. Au quel cas, l'évolution de l'azide covalent 2a (Nu = N 3 ) permettrait éventuellement l'accession à des homologues "aza" d'oxazépines-1,3, (cf. schéma 1) en l'occurence des oxadiazépines (14).</p>
+			<p>Nous présentons ici les premiers résultats concernant le comportement de triaryl-2,4,6 oxaziniums-1,3 1 vis à vis du nucléophile azoture.</p>
+			<div>
+				<head>Résultats et discussion</head>
+				<p>L'action de l'azoture de sodium sur une solution de perchlorate de triphényl-2,4,6 oxazinium-1,3 la (10) dans l'acétonitrile anhydre se manifeste tout d'abord par une exaltation de coloration malheureusement trop brève pour être analysée par exemple par spectroscopic uv-visible, suivie d'une décoloration progressive du mélange réactionnel. 11 s'agit donc d'une réaction d'attaque de N 3 ~, mais la possibilité de formation transitoire ou simultanée d'un complexe donneur-accepteur, comme le laisse supposer l'exaltation de coloration n'est pas exclue. Au bout de quelques heures on isole un composé unique: le [diphényl-1,3 oxo-3 propène-1-yl (£)]-1 phényl-5 tétrazole que l'on dénommera désormais tétrazole 5a (Rdt 92%) (cf. schéma 2).</p>
+				<div n="I">
+					<head>Structure du tétrazole 5 a</head>
+					<p>Ce composé C 2 2Hi 6 N 4 0 résulte de l'incorporation de trois atomes d'azote au squel lette du cation la. Toutefois les structures des produits primaires envisageables: 2a, 3a ou 4a (Nu = N 3 , cf. schéma 2) sont à écarter en raison de l'absence de la bande d'absorption azido vers 2100 cm"' dans le spectre infrarouge ( 15). Après examen de ses propriétés chimiques 1 et spectroscopiques , nous avons attribué à ce composé la structure 5a associant les deux motifs: phényl-5 tétrazole et trans chalcone (cf. schéma 2).</p>
+					<p>Les arguments d'ordre spectroscopique sont les suivants: la présence du motif trans chalcone est établie par les analogies observées entre les spectres d'absorption uv-visible, infrarouge , de rmn 'H et de rmn I3 C du composé 5a et ceux de la trans benzalacétophénone 6 (cf. partie expérimentale); le motif tétrazole est décelé en spectroscopie infra-rouge par l'observation d'un ensemble de bandes caractéristiques dans la région des empreintes (17, 18). En spectroscopie de masse, l'observation des ions moléculaires n'est pas possible par la technique de l'impact électronique I.E. à 70 eV ni même à plus basse énergie. L'ion de masse la plus élevée est alors celui résultant de la perte de N 2 . Dans le cas du tétrazole 5a, une fragmentation M^ — N/ est également notée, elle conduit au cation oxazinium (M + 310, Masse Exacte). Pour les autres tétrazoles, les même hypothèses de fragmentations semblent 1 L'étude détaillée du comportement thermique et photochimique des tétrazoles fait l'objet d'un article à part soumis pour publication au Can. J. Chem. (16). raisonnables, d'autant que des observations similaires ont été faites dans le cas d'aryl et d'alkyl tétrazoles (19, 20). Le recours à l'ionisation chimique (IC) permet d'observer les ions quasi moléculaires (cf. partie expérimentale).</p>
+				</div>
+				<div n="II">
+					<head>Mécanisme d'obtention du tétrazole 5a</head>
+					<p>La formation de ce tétrazole pose deux questions: celle du mécanisme d'isomérisation de l'azido-2 2/i-oxazine-1,3 4a dont il dérive manifestement -et celle de savoir si cette oxazine 4a est bien le produit cinétique de l'attaque de N,~ sur l'oxazinium-l,3 la.</p>
+					<p>1. Filiation oxazine 4a —» tétrazole 5a</p>
+					<p>Nous proposons, pour rationaliser l'obtention du tétrazole 5a, deux tautoméries cycle-chaîne impliquant l'imino-azide 7a (1, 3, 8, 21, 22) (cf. schéma 2) jusqu'ici rencontrées séparément pour des systèmes voisins. (/) La tautomérie 4a ^ la s'apparente aux classiques équilibres diènone ^ a pyranne (cf. schéma 1) qui ont pu être notés lors de l'étude de l'action de nucléophiles (23) et en particulier de l'ion azoture (1, 3, 8) sur les cations pyrylium. (cf. schéma 1). (ii) La tautomérie la ^ 5a est un équilibre du type iminoazide-tétrazole dont on connaît de nombreux exemples (21, 22).</p>
+					<p>L'obtention des tétrazoles 5a constitue une dérivation au schéma réactionnel initialement envisagé:</p>
+					<p>puisqu'elle inhibe la formation des hétérocycles heptaatomiques . Toutefois le mécanisme que nous proposons (cf. schéma 2) pour leur obtention laisse entrevoir des possiblilités de retour vers l'iminoazide ou l'azido-2 2//-oxazine-1,3 qui sont les formes intéressantes du schéma réactionnel général. A ce titre, a été entreprise une étude des différents facteurs intervenant sur les deux tautoméries impliquées dans la formation des tétrazoles (16).</p>
+					<p>2. Mode d'action de Nf sur les oxaziniums-1,3 1</p>
+					<p>Afin de savoir si l'azido-2 2//-oxazine-1,3 4a est ou non le produit cinétique de l'attaque de N, sur l'oxazinium la, nous avons tenté de répondre en procédant à diverses démarches.</p>
+					<p>(a) Action de NaNj sur la à basse température </p>
+					<p>On ne décèle dans ces conditions aucune modification de la réaction: ni diminution notable du rendement en 5a, ni formation de nouveaux composés. Ce résultat signifie que l'oxazine 4a est probablement le produit cinétique de l'attaque.</p>
+					<p>(b) Action de NaN, à basse température et en présence de triphényl phosphine</p>
+					<p>Nous avons tenté d'intercepter à froid le précurseur du tétrazole 5a en procédant à l'attaque de l'oxazinium la par N 3 ~ en présence de P(&lt;j&gt;) 3 . La triphénylphosphine est en effet connue pour capter les azides organiques en conduisant à des adduits 1:1 ou bien encore aux phosphoimines correspondantes par perte d'azote moléculaire (24).</p>
+					<p>Dans ces conditions, le cours "normal" de la réaction est modifié, une interception se produit effectivement puisqu'on observe: une diminution du rendement en tétrazole Sa de 92 à 47% (l'interception n'est que partielle), et la formation d'un composé phosphoré noté C.P. correspondant d'après l'analyse centésimale à la perte d'une molécule d'azote et à la fixation de P(&lt;t&gt;) 3 en partant d'une azidooxazine 2, 3, ou 4 ou de tout autre azide isomère (cf. schéma 3).</p>
+					<p>L'analyse centésimale n'a pu être réalisée que sur le composé C.P. brut car les essais de purification (recristallisation, chromatographie sur couche mince) conduisent immanquablement à une décomposition plus ou moins prononcée en mélange de (&lt;|&gt;) 3 PO et de triphényl 2,4,6-pyrimidine 8 (25) (cf. schéma 3). La fragilité de ce composé C.P. n'a pas facilité la détermination de sa structure. Cependant, aussi bien sa décomposition que diverses données spectroscopiques (comme: absence de carbonyle en infra-rouge, certaines fragmentations en spectrométrie de masse, présence dans le spectre de rmn 31 P d'un signal compatible avec un phosphore engagé dans un cycle (26)) nous conduisent à admettre pour ce composé C.P. une structure d'hétérocycle phosphoré. Dans le schéma 3 est représentée l'hypothèse la plus vraisemblable selon laquelle le précurseur intercepté à froid serait effectivement l'azido-2 2//-oxazine-l ,3 4a. Le produit de l'interception serait alors l'adduit RN 3 P(&lt;t&gt;) 3 9a sous forme ouverte ou cyclique dont le réarrangement direct ou par l'intermédiaire de la phosphoimine 10a (forme ouverte ou cyclique) conduirait au composé C.P. de structure lia ou 12a.</p>
+					<p>Ces résultats confirment l'intervention d'un azide intermédiaire dans la formation du tétrazole 5a (cf. schéma 2) et s'accordent avec l'hypothèse de l'azido-2 2//-oxazine-1,3 4 comme produit cinétique de l'attaque de N 3 ~. Ils permettent d'écarter l'hypothèse d'un mécanisme concerté de l'attaque de N 3 ~ sur le pôle C2 de l'hétérocycle avec simultanéité de l'ouverture de cet hétérocycle et de la formation du cycle tétrazolique.</p>
+					<p>(c) Effets de la substitution du pôle C2 sur la réactivité de Nf vis à vis des oxaziniums-1,3 1</p>
+					<p>Nous avons synthétisé de nouveaux oxaziniums-1,3 présentant en C2 un groupement aryle C 6 H 4 p-R 2 -soit électrodonneur et désactivant (1 b, R 2 = OCH;,) -soit électroattracteur (le, R 2 = N0 2 ), (cf. tableau 1).</p>
+					<p>De façon tout à fait qualitative, on constate que l'oxazinium anisylé 1 b est moins réactif vis à vis de N-T que les sels la et le.</p>
+					<p>Le recours à le spectroscopie uv-visible comme moyen de comparaison des vitesses d'attaque des trois sels la à le n'a pas permis un classement plus précis de leurs réactivités. En effet, à de telles concentrations, intervient de façon non négligeable la réaction concurrente d'hydrolyse des sels, en particulier dans le cas de l'oxazinium nitré le, qui conduit aux "pseudo-bases" correspondantes: les (î benzamido-irans-benzalacétophénones 13 (cf. partie expérimentale).</p>
+					<p>En revanche, le recours à des réactions compétitives d'attaque de N-T sur des mélanges de sels d'oxazinium 1 fournit le classement indicatif suivant (basé sur une analyse des mélanges réactionnels par rmn 'H, cf. partie expérimentale): le (R 2 = N0 2 ), la (R 2 = H) &gt; Ib (R 2 = OCH,).</p>
+					<p>Cette séquence suggère l'hypothèse selon laquelle la réactivité de l'ion azoture vis à vis des oxaziniums serait tributaire dans une mesure restant à déterminer, de la charge du pôle C 2 . En effet, l'examen a priori de la substitution R 2 sur les carbones hétérocycliques montre que l'effet mésomère du groupe nitro n'affecte pratiquement pas les pôles d'attaque, cependant que celui du groupe méthoxyle est désactivant. Il est évident que cette constatation ne constitue qu'une indication grossière de l'influence de la substitution et que bien sûr l'ensemble des effets électroniques doit être pris en compte.</p>
+					<p>Dans un premier temps, nous avons fait appel au déplacement chimique L1 C pour situer, de façon approchée, la densité électronique des différents pôles des cations oxazinium, sous réserve de la validité d'une telle relation pour ces cations (27). Néanmoins, nous avons montré que pour des cations hétérocycliques voisins: pyryliums et thiopyryliums, existait une relation linéaire ô l3 C et charge TT.H.M.O (1, 8).</p>
+					<p>En ce qui concerne les oxaziniums-1,3 1, les données de la rmn l3 C (cf. tableau 1) semblent confirmer l'hypothèse d'une influence importante du facteur densité de charge des pôles éventuels d'attaque sur la réactivité de l'ion N,~. On observe en effet que le pôle C2 est le plus déblindé (voire le plus chargé) et qu'un certain parallélisme existe entre le ô l3 C du pôle C2 et la réactivité du cation correspondant vis à vis de N-T (cette dernière croissant du sel 1 b au sel le).</p>
+					<p>Cette hypothèse amène à considérer comme moins favorable une attaque sur le pôle C4 qui s'avère être le moins déblindé voire le moins chargé des pôles d'attaque. En revanche, dans le cas de l'oxazinium nitré le, elle conduit à envisager la simultanéité d'une attaque de N-T sur les pôles C2 et C6 qui porteraient selon la rmn l3 C des charges voisines. Un composé supplémentaire a d'ailleurs été isolé en procédant à l'attaque du sel le à basse température. Son trop faible rendement n'a toutefois pas permis d'en préciser la structure ni, bien sûr, l'origine (attaque en C2 ou C6).</p>
+					<p>Un traitement théorique de la réactivité du système oxazinium-1,3/N.r analogue à celui déjà effectué dans le cas de système pyrylium/N 3 ~ (1,2) est actuellement entrepris. Tout d'abord il devrait permettre de vérifier la validité des hypothèses émises, comme celle d'une relation linéaire 6 i;i C/densité de charges des pôles éventuels d'attaque des oxaziniums et celle d'une réactivité des cations 1 fortement tributaire des charges, selon laquelle les azido-2 oxazines-1,3 seraient les produits cinétique de l'attaque. Enfin, il devrait renseigner sur l'éventualité d'un complexe donneur-accepteur du type de ceux observés (1,8) dans le cas de pyryliums peu encombrés, que nous avions envisagée pour interpréter l'exaltation de coloration observée au début de la réaction entre N-T et l'oxazinium 1 a.</p>
+				</div>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les spectres d'absorption ultraviolet-visible et infrarouge ont été respectivement enregistrés sur des appareils Hewlett Packard 8450 ou Philips SP8-250 et Philips SP3-200. Les spectres de rmn 'H et rmn 13 C ont été enregistrés sur appareils Varian EM360 ou Bruker WP80 et sur appareils Bruker SY80 et WM250. Quant aux spectres de masse, ils ont été effectués par Mesdemoiselles J. Mercier et C. Lange que nous remercions, respectivement -au Centre de Mesures Physiques de Paris sur un spectromètre AE1 MS50 -au laboratoire sur un spectrographe quadrupolaire NERMAG R10-10C. Les analyses élémentaires ont été effectuées par le Centre de Microanalyse du C.N.R.S. ou au Laboratoire de Microanalyse de l'Université Pierre et Marie Curie. Les points de fusion non corrigés ont été déterminés de façon instantanée au banc de Kôfler.</p>
+				<div n="1">
+					<head>Synthèse et structure des triaryl-2,4,6 oxaziniums-1,3 1</head>
+					<p>La structure des oxaziniums-1,3 1 repose tant sur leurs propriétés spectroscopiques que sur celles de leurs précurseurs, les 4W-oxazines-l ,3 3 (Nu = H), et celles de leurs produits d'hydrolyse, les |3-benzamido-frans-benzalacétophénones 13. Une étude spectroscopique de ces trois classes de composés a donc été menée en recourant notamment à la rmn I3 C.</p>
+					<p>(a) Propriétés des 4H-oxazines-1,3 3 (Nu = H) Les oxazines 3a et 3b étaient déjà connues (10, 28) ainsi que l'oxazine 14 (29) qui a servi de modèle pour les attributions de déplacements en rmn L1 C. L'oxazine nitrée 3C nouvelle a été préparée selon Schmidt (10): (60%); Fi 134°C (éther); ir cm 1 (KBr): 1690, 1640, 1605, 1580, 1520, 1500, 1455 et 1350; UV X,,,,,, nm (e " lu J, (éther): 214 (4,32), 272 (4,32); rmn 'H (CDCI,) ô ppm/TMS: 5,75 (syst. AB, 2H, J = 3 Hz). Anal. calc. pour C 22 H 16 N 2 0,: C 74,14, H 4,53, N 7,86; tr.: C 74,04, H 4,70, N 8,01. Spectre de masse: cf. tableau 2; rmn L1 C des oxazines: cf. tableau 3.</p>
+					<p>(b) Obtention et propriétés des trtaryl-2,4,6 oxaziniums-!,3 1 Seul l'oxazinium la était connu (10). Les oxaziniums 1 b et le ont été obtenus selon la même méthode (10) par oxydation des 4W-oxazines-1,3 3 correspondantes.</p>
+					<p>Perchlorate de diphényl-4,6 paraméthoxyphénvl-2 oxazinium-1,3 1 b: (60%); Fi 265-267°C (CH.,CN, éther); ir cm" (5,38), 436 (5,03); rmn l3 C: cf. tableau 4. Anal. calc. pour C 21 H IK N,0 ( , Cl: C 62,80, H 4,13, N 3,18, Cl 8,06; tr.: C 62,49, H 4,23, N 3,30, Cl 7,83.</p>
+					<p>Perchlorate de diphényl-4,6 paranitrophénxl-2 oxazinium-1,3 le: (85%); Fi 275-280°C (CH,CN, éther); ir cm"" 1 (KBr): 1625, 1590, 1520, 1350, 1100; uv-visible (CH,CN) X nm nm (log e lnax ): 274 (4,36), 352 (4,41), 404 (4,44); rmn l3 C: cf. tableau 4. Analyse: composé ne pouvant être isolé pur, cf. analyse centésimale de son produit d'hydrolyse la pseudobase 13c.</p>
+					<p>Pour les attributions des signaux ô l3 C des oxaziniums-1,3 1 nous nous sommes basés sur la comparaison de l'oxazinium triphénylc la avec le pyrylium correspondant pour lequel 8C4 &lt; 8C2 et 8C6 (1,8). Nous avons supposé que pour les oxaziniums-l ,3 le même ordre était conservé et que le carbone C2 était le plus déblindé en raison de sa situation entre deux hétéroatomes. Ceci a été confirmé en procédant à l'enregistrement du spectre de la sans découplage des protons. On observe alors que le carbone le plus déblindé est le moins couplé (il s'agit de C2 qui apparaît sous forme de triplet), cependant que le signal suivant apparaît sous forme d'un quadruplet (C6 subit un couplage avec H2'" et H6'" et un couplage supplémentaire voisin avec H5). Pour les oxaziniums-2,4,6 triarylés la séquence des pôles éventuels d'attaque apparaît donc comme 8C2 &gt; 8C6 &gt; 8C4. On constate que ces positions sont plus déblindées que celles des pyryliums (8. 32).</p>
+					<p>(c) $-Benzamido trans-benzalacétophénones 13: pseudo bases des oxaziniums 1</p>
+					<p>L'hydrolyse en milieu acétonitrile aqueux des oxaziniums la à le conduit aux pseudo bases 13a à 13c (33). Ces composés sont de configuration Z et présentent une liaison hydrogène intramoléculaire entre le carbonyle et le groupe amidique. Ceci se manifeste -en infra-rouge: bande de NH associé vers 3200 cm"' et bande de C=0 conjugué et associé vers 1620-1625 cm" 1 -et en rmn 'H: présence d'un signal très déblindé vers 13 ppm. $-p-Méthoxvbenzamido-trdns-benzalacétophénone /3b (70%); Fi 90-92°C (CH 3 CN, éther); ir cm" 1 (KBr): 3200, 2840, 1690, 1620, 1590, 1575; uv-visible (éther) nm (log e " , " ): 213 (4,43), 283 (4,46) 344 (4,48); rmn 'H (CDCl,) ô ppm/TMS: 13,4 (s, 1H, éch. D 2 0), 6,5 (s, IH), 3,9 (s, IH); rmn l3 C: cf. tableau 5). Anal. calc. pour C^H^NiOv C 77,29, H 5,36, N 3,92; tr.: C 77.04, H 5,51, N 4,02; masse m/e: M + 357 (3), 252 (75), 207 (5), 135 (40), 92 (20), 77 (100). fi-p-Nitrobenzamido-lrans-benzalacétophénone 13 c: (80%); Fi 192-I94°C (CH,CN, éther); ir cm" 1 (KBr): 3200, 1690, 1625, 1590, 1350; rmn 'H (CDCl,) 8 ppm/TMS: 13,4 (s, IH, éch. D 2 0), 6,5 (s, IH); rmn l3 C: cf. tableau 5. Anal. calc. pour C 22 H l( ,N 2 0 4 : C 77,29, H 5,36, N 3,92; tr.: C 77,04, H 5.51, N 4,02; masse m/e: M + 372 (1), 261 (21), 267 ( 100), 237 (20), 105 (40), 77 (60).</p>
+				</div>
+				<div n="II">
+					<head>Réaction de NaN.&lt; avec les triaryl-2,4,6 oxaziniums-l,3 1</head>
+					<p>A. Obtention des tétrazoles 5</p>
+					<p>1. Action de NaN.i à température ambiante</p>
+					<p>A une mmol de perchlorate de triaryl-2,4,6 oxazinium-l ,3 la à le en solution dans 10 cm 3 d'acétonitrile sec est ajouté un excès de NaN., (2 à 3 fois la quantité stoechiométrique). Le mélange réactionnel est agité à la température ambiante sous atmosphère inerte et à l'obscurité pendant 2 h. Il est repris à l'eau, extrait à l'cther. La phase éthérée est séchée sur MgS0 4 puis évaporée à température ambiante sous vide.Les tétrazoles Sa à 5c sont obtenus avec les rendements respectifs de 92%, 90% et 75%. Dans le cas de l'oxazinium le, on isole également 5% de pseudobase 13e ainsi qu'un composé supplémentaire non identifié lorsqu'on opère à froid (environ 5 mg).</p>
+					<p>2. Action de NaN.&lt; à basse température</p>
+					<p>A une solution de 100 mg (0,22 mmol) de sel 1 a dans 5 cm' de CH.iCN sec sont ajoutés à froid (environ -40°C) 35 mg de NaN,. Au bout de 48 h l'analyse par chromatographic sur couche mince de silice (ccm) n'indique qu'un seul produit. Le traitement habituel conduit à 84 mg (97%) de tétrazole 5a.</p>
+					<p>3. Action de NaN.&lt; à basse température et en présence de P(Ph),,</p>
+					<p>A une solution de 100 mg (0,24 mmol) de sel 1 a dans 5 cm 1 de CH,CN sec sont ajoutés à froid (9 = -40°C) 100 mg de P(Ph), et 45 mg de NaNj. Au bout de 48 h, le solvant est chassé et le résidu analysé par chromatographie préparative sur couche mince de silice, on isole dans l'ordre d'élution (cyclohexane/acétate d'éthyle 8:2): P(4&gt;) 3 en excès, le composé C.P. (100 mg) légèrement contaminé par P(4&gt;),, la triphényl-2,4,6 pyrimidine 8 (2,5 mg, 3,5%) identifiée à un échantillon authentique ( 10), le tétrazole 5A (40 mg, 48%), la pseudobase 13« (22 mg, 28%) et P(&lt;t&gt;).,0 (3 mg, 3%) isolé par lavage à l'éther des 60 mg constituant le dépôt de ccm. Composé phosphore C.P. : lia ou 12a: Fi ~ 190°C; ir (KBr) pas de carbonyle; rmn 'H pas de signal caractéristique en dehors des H arom. Anal. calc. pour C 4ll H,,OPN 2 (P(&lt;t&gt;),0 + 8): C 81,73, H 5,45, N 4,60; tr.: C 81,89, H 5,32, N 4,77. Spectroscopie de masse: impact électronique: on n'observe pas l'ion moléculaire M* 586 mais on retrouve l'intégralité des spectres de P(Ph).,0 et de la pyrimidine 8; rmn "P (101,25 MHz) S ppm/H,P0 4 : 28,3 (P^O); -6,4 (C.P.).</p>
+					<p>4. Classement de la réaetivité des oxaziniums-/,3 la à c</p>
+					<p>Nous avons réalisé deux mélanges dans l'acétonitrile de sels ayant l'oxazinium anisylé 1 b en commun (cf. schéma 4). Sur chacun de ces mélanges il est procédé à l'action de NaN, pendant un court laps de temps (temps inférieur au temps nécessaire à la réaction totale du plus réactif). On procède alors à l'hydrolyse des sels n'ayant pas réagi. Les pseudobases 13 sont séparées (ccm) des tétrazoles 5 qui sont alors dosés par rmn 'H en prenant comme référence les intégrations du signal méthoxyle du tétrazole 5b formé. Il apparaît donc que le tétrazole 5b est obtenu en plus faible rendement que les tétrazoles 5a et 5e, ce qui signifie que le sel 1 b réagit plus lentement avec N.,~ que les sels la et le qui ne peuvent toutefois pas être différenciés. (B) Propriétés spectroscopiques des tétrazoles Les données spectroscopiques: uv-visible, infra-rouge et masse sont consignées dans le tableau 6; rmn "C cf. tableau 7. L'interprétation des spectres des tétrazoles est facilitée par leur comparaison à ceux de deux composés modèles: la /ra/z.v-benzalacétophénone 6 et les méthyl-1 aryl-5 tétrazoles 17 (35).</p>
+					<p>L'attribution des signaux voisins de 190 et 155 ppm se fait sans ambiguïté aux carbones notés C6 et C2. L'ordre des 8 "C des carbones quaternaires notés CI', CI" et C V" pour le composé 5a découle de la comparaison avec les molécules modèles 6 et 17A. Les carbones C4' et C4" du composé 5a présentent des déplacements voisins de ceux des carbones correspondants des modèles 6 et 17O. L'attribution du carbone C4 (8 = 142,7 ppm pour 5a) a été confirmée par l'enregistrement d'un spectre sans découplage des protons. C4 apparaît alors comme le plus couplé des carbones quaternaires: couplages avec H2", H6" et H5 et élargissement dû au voisinage de l'azote.</p>
+					<p>En conclusion, on est amené à considérer le motif tétrazole comme un groupement azoté très particulier: contrairement au motif benzamido , son introduction en position |3 sur la //w;.v-benzalacétophénone n'a pratiquement pas d'influence sur le système ènonique.</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P-L</forename>
+									<forename type="middle">Desbene</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse d'Etat</title>
+							<meeting>
+								<address>Paris</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">P-L</forename>
+									<surname>Desbene</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Richard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Chaquin</forename>
+									<surname>Tétrahedron</surname>
+								</persName>
+							</author>
+						</monogr>
+						<note>Sous. presse</note>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le Roux, J-C. Cherton Et P-L</forename>
+									<forename type="middle">Desbene</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. R. Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">280</biblScope>
+								<biblScope type="pp">37</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le Roux, J-C. Cherton Et P-L</forename>
+									<forename type="middle">Desbene</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. R. Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">278</biblScope>
+								<biblScope type="pp">1389</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le Roux, P-L</forename>
+									<surname>Desbene</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Seguin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">3141</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le Roux, P-L. Desbene Et J-C</forename>
+									<forename type="middle">Cherton</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">847</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-C</forename>
+									<forename type="middle">Cherton</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron. Sous presse</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Desbene</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le Roux, J-C. Cherton Et J-J</forename>
+									<forename type="middle">Basselier</forename>
+									<surname>Tetrahedron</surname>
+								</persName>
+							</author>
+						</monogr>
+						<note>Sous. presse</note>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-C</forename>
+									<forename type="middle">Cherton</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron. Sous presse</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">333</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+						<note>et. réf. citées</note>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Kurabayashi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">3903</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Shibuya</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Kurabayashi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">48</biblScope>
+								<biblScope type="pp">73</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">SHIBUYA. Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">2387</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Tkaczynska</forename>
+									<surname>Wiad</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem</title>
+							<imprint>
+								<biblScope type="vol">26</biblScope>
+								<biblScope type="issue">757</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<monogr>
+							<title level="m" type="main">The infrared spectra of complex molecules. 1°" éd</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1954"/>
+								<publisher>John Wiley and Sons Inc</publisher>
+								<biblScope type="pp">223</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Cherton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Bazinet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">M</forename>
+									<surname>Bolze</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Desbene</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem. Soumis</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Wentrup</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">262</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Lieber</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Patterson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">1954</biblScope>
+								<date type="published" when="1951"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">E</forename>
+									<surname>Haque</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">2855</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+									<surname>Carpenter</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Mass. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">433</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<title level="m" type="main">Dans The chemistry of the azidogroup</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<surname>Lwowski</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1971"/>
+								<biblScope type="pp">503</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">N</forename>
+									<surname>Butler</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Adv. Hétérocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="pp">402</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J-P. Le</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Letertre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P-L. Desbene Et J-J</forename>
+									<forename type="middle">Basselier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">4059</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Leffler</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<forename type="middle">Honsberg</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Forsblad</forename>
+									<surname>Tsuno Et 1</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">26</biblScope>
+								<biblScope type="pp">4810</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">F</forename>
+									<surname>Kasukhin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">P</forename>
+									<surname>Ponomarchuk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">I</forename>
+									<surname>Klepa</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Zh. Obshch. Khim</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">2188</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="issue">334</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">B</forename>
+									<surname>Desai</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="pp">3254</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">4107</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Olah</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">A</forename>
+									<surname>Forsyth</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">3419</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">2010</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Gabriel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">409</biblScope>
+								<biblScope type="pp">305</biblScope>
+								<date type="published" when="1915"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<monogr>
+							<title level="m" type="main">Carbon-13 nmr</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1972"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Auricchio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Vera</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">116</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">Wray</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">9</biblScope>
+								<biblScope type="pp">16</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<forename type="middle">Sommer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">723</biblScope>
+								<biblScope type="pp">111</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Cerfontain</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">1509</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">N M</forename>
+									<surname>Ett</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Macevoy</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1087</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

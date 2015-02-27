@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../Notices_bib/Notices_TEI/tei_all-2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Utilisation de l'ortho-tolidine pour l'étude des réactions des halogénates et halogénites</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<surname>Schmitz</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences appliquées</orgName>
+								<orgName type="institution">Université libre de Bruxelles</orgName>
+								<address>
+									<addrLine>50 avenue F. Roosevelt</addrLine>
+									<postCode>1050</postCode>
+									<settlement>Bruxelles</settlement>
+									<country key="BE">Belgique</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Henri</forename>
+								<surname>Rooze</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences appliquées</orgName>
+								<orgName type="institution">Université libre de Bruxelles</orgName>
+								<address>
+									<addrLine>50 avenue F. Roosevelt</addrLine>
+									<postCode>1050</postCode>
+									<settlement>Bruxelles</settlement>
+									<country key="BE">Belgique</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Utilisation de l'ortho-tolidine pour l'étude des réactions des halogénates et halogénites</title>
+					</analytic>
+					<note>Utilisation de l'ortho-tolidine pour l'étude des réactions des halogénates et halogénites 1</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Nous avons montré précédemment, que l'ortho-tolidine simplifie fortement l'étude cinétique des réactions redox du chlorite en réagissant avec des produits intermédiaires et en supprimant des réactions secondaires. Cette étude établit la validité de la méthode dans le cas de réactions du bromate. Pour la réaction bromate-bromure elle donne la loi classique d'ordre quatre avec k = 1,54 s - 1 en milieu perchlorique de force ionique 1M à 25°C, et une constante d'acidité de l'acide bromique valant 2,9. Cette méthode est ensuite utilisée pour étudier la réaction entre le bromate et le chlorite, réaction complexe en absence d'ortho-tolidine. On obtient la loi cinétique</p>
+				<p>avec k = 0,83 + 0,76 [H+] dans les mêmes conditions. Si [H+] = 0,1 M l'énergie d'activation apparente vaut 47,4 kJ/mol.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>We have shown previously that ortho-tolidine greatly simplifies the kinetic study of redox reactions of chlorite by reacting with intermediate products and eliminating side reactions. The present study shows the validity of the method in the case of bromate reactions. For the bromate-bromide reaction it gives the classical fourth-order rate law with k = 1.54 M~3 s - 1 in perchloric acid solutions at 25°C and 1 M ionic strength, and an acidity constant of bromic acid of 2.9. This method is then used to study the reaction between bromate and chlorite, a complex reaction in the absence of ortho-tolidine. The rate law is</p>
+				<p>with k = 0.83 + 0.76 [H+] in the same conditions. If [H+] = 0.1 M the apparent activation energy is 47.4 kJ/mol.</p>
+			</div>
+		</front>
+		<body>
+			<div>
+				<head>Introduction</head>
+				<p>L'ortho-tolidine (biphényl-4,4' diamino-3,3' diméthyl) permet d'obtenir simplement et avec précision les caractéristiques cinétiques de nombreuses réactions redox des halogénates et halogénites. Nous avons discuté antérieurement ses propriétés et les avons mises à profit pour étudier la cinétique de la dismutation du chlorite catalysée par les ions Cl -(1) et par le fer (2).</p>
+				<p>En résumé, ni le chlorate ni le chlorite n'oxydent Y orthotolidine avec une vitesse mesurable. Par contre le chlore, l'acide hypochloreux et le dioxyde de chlore l'oxydent extrêmement rapidement. Le produit de son oxydation présente, si le pH est inférieur à 2,5, une bande d'absorption intense ayant son maximum à 440 nm. Les absorbances mesurées sont reproductibles et, si la concentration en ortho-tolidine n'est pas trop élevée, suffisamment stables pour permettre des mesures très précises. Nous avons généralement utilisé des concentrations inférieures à 5 x 10~ 4 M.</p>
+				<p>L'élimination de produits intermédiaires des réactions étudiées simplifie leurs mécanismes et le coefficient d'absorption molaire élevé de Y ortho-tolidine oxydée, 59 700 M -1 cm" 1 , permet une mesure aisée de leurs vitesses initiales. Nous montrons dans cet article que cette méthode est également utile pour étudier des réactions du bromate, en particulier la réaction bromate-chlorite.</p>
+			</div>
+			<div>
+				<head>Technique expérimentale</head>
+				<p>Les solutions de chlorite de sodium sont préparées à partir de chlorite commercial purifié par trois recristallisations successives. Elles sont conservées dans le noir en milieu légèrement basique et standardisées par iodométrie. Elles restent stables pendant plusieurs jours et donnent des résultats reproductibles. Le bromate de la qualité «pour analyses» est recristallisé, les traces de bromure qu'il contient pouvant influencer certains résultats. L'acidité est fixée avec de l'acide perchlorique et la force ionique avec du perchlorate de sodium «pour analyses», utilisés sans purification supplémentaire.</p>
+				<p>Les réactifs, conservés dans un thermostat, sont mélangés rapidement et transférés dans la cuvette thermostatisée d'un spectrophotomètre Beckman DBGT. Sauf précision contraire, la température est maintenue à 25 ± 0,1°C. Les conditions expérimentales sont toujours telles que l'on mesure des vitesses initiales. En enregistrant, en fonction du temps, l'absorbance à 440nm due à l'oxydation de Y ortho-tolidine, on obtient des droites dont les pentes donnent ces vitesses. La linéarité des enregistrements est importante car elle assure qu'au cours d'une mesure on peut négliger la dégradation de Yorthotolidine oxydée. Nous abrégerons la formule de Y ortho-tolidine en NH 2 RNH 2 et celle de sa forme oxydée en NHRNH.</p>
+			</div>
+			<div>
+				<head>Réaction de Forf/w-tolidine avec le brome</head>
+				<p>L'ortho-tolidine est oxydée extrêmement rapidement par le brome suivant [1]. Nous avons obtenu le même maximum d'absorbance à 440 nm avec le même coefficient d'absorption molaire que dans le cas du chlore (cf. <ref type="figure">fig. 1</ref>). Comme dans ce cas le pH doit être inférieur à 2,5 et il est préférable de limiter la concentration en ortho-tolidine à5 x 10 -4 M. Avec un excès de Br 2 on obtient [NHRNH]= [NH 2 RNH 2 ]0 ce qui montre que l'ori/io-tolidine n'est pas bromée.</p>
+				<p>En milieux très acides (1 M en HC10 4 ) ou avec des concentrations en Br _ supérieures à 10~ 2 M nous avons obtenu des rapports [NHRNH] / [Br 2 ] 0 inférieurs à 1. Ceci ne résulte pas de la réversibilité de la réaction [1] (nous avons vérifié que Br~ ne réduit pas NHRNH) mais probablement de traces d'impuretés oxydables dans les réactifs. Par exemple, l'addition préalable d'un peu d'iodure réduit la quantité de NHRNH formée : une fraction du brome oxyde l'iodure en iode et celui-ci n'oxyde pas l'ortho-tolidmz. Un tel effet peut fausser le dosage du brome par Y ortho-toYidmz mais pas nos mesures cinétiques : après oxydation de ces impuretés la vitesse de formation de NHRNH devient bien proportionnelle à la vitesse de réaction. Quoi qu'il en soit, ce qui constitue la garantie finale de la validité de nos mesures est la linéarité des enregistrements de l'absorbance en fonction du temps. Les vitesses sont déduites des pentes de ces droites et indépendantes du temps zéro.</p>
+			</div>
+			<div>
+				<head>Cinétique de la réaction bromate-bromure en présence d'ortho-toXidine</head>
+				<p>L'ortho-tolidine n'est pas oxydée directement par le brómate avec une vitesse mesurable. La très faible vitesse d'oxydation que l'on peut parfois observer dépend de la pureté des réactifs. Il faut en particulier éliminer les traces d'halogénures dans le brómate. Dans une solution acide de brómate et de bromure on obtient la réaction classique [2].</p>
+				<p>En présence d'ortho-toYidmt le brome ainsi formé réagit rapidement suivant [1] et l'on obtient globalement [3].</p>
+				<p>L'étude de cette réaction nous a permis d'une part de confirmer la validité de la méthode à Y ortho-tolidine dans le cas des réactions du brómate, d'autre part de préciser l'effet du pH sur la réaction [2] en milieux très acides. La réaction [2] obéit à la loi cinétique [4] (3-8). [4]- d [Br0 3dT~ = £ 4 [Br0 3 -] [Br-] [H + ]2</p>
+				<p>En présence d'ori/zo-tolidine l'étape déterminante reste la même et on déduit de 3]:</p>
+				<p><formula>d[NHRNH] dt = 3 &amp; 4 [Br0 3 _ ] [Br~] [H + ] 2</formula></p>
+				<p>Nos mesures de vitesses initiales de formation de Y orîhotolidine oxydée sont en parfait accord avec cette loi. Quelques résultats montrant l'ordre 1 par rapport au bromure sont repris sur la <ref type="figure">figure 2</ref>. Nous avons également vérifié l'ordre 1 par rapport au bromate (10~ 4 -10~ 3 M). Les vitesses sont indépendantes de la concentration de Y ortho-tolidmQ (10 -4 ou 4 x 10~ 4 M). Elles diminuent si la force ionique 7 augmente, comme observé dans les travaux antérieurs. Avec [HC10 4 ] = 0,1 M et [NaC10 4] variable, nous avons obtenu des vitesses dans les rapports 1,52:1,03:1,00 respectivement pour 7 = 0,1, 0,5 et 1,0 M.</p>
+				<p>Les valeurs des constantes cinétiques obtenues pour différentes acidités, avec une force ionique fixée à 1 M, sont indiquées dans le tableau 1. La colonne k exp donne les valeurs de k 4 calculées en prenant pour [Br0 3 ~] la concentration totale en bromate. On constate que k exp diminue lorsque l'acidité augmente. Ceci s'explique par l'équilibre [5].</p>
+				<p>Soient [NaBr03] la concentration totale en bromate et K a la constante d'acidité de l'acide bromique.</p>
+				<p><formula>[BrOr] =1 + K a+[H + ] [H + [NaBr0 3 ]</formula></p>
+				<p>En prenant K d = 2,9 M~ l on obtient des valeurs de k 4 indépendantes de l'acidité. Elles sont indiquées dans le tableau 1 et donnent en moyenne :</p>
+				<p><formula>(T = 25°C, 7=1 M) 1,54 M " 3 s" 1(NHRNH) (IO° 5 M)</formula></p>
+				<p>L'effet de l'équilibre [5] n'était pas apparu dans les travaux antérieurs car l'acidité, soit était trop faible pour qu'il apparaisse , soit avait varié parallèlement à la force ionique et l'effet de celle-ci était dominant. La valeur adoptée de K a est tout à fait raisonnable et se compare favorablement à une estimation antérieure : pK a = 0,7 (9). Les valeurs antérieures de k 4 permettant une comparaison avec la nôtre sont 2,32 et 1,18 pour / = 1 M (4, 6) et 1,86 pour / = 0,8 M (8).</p>
+			</div>
+			<div>
+				<head>Cinétique de la réaction bromate-chlorite en présence d'orffto-tolidine</head>
+				<p>Cette réaction présente un intérêt particulier d'une part dans le cadre du mécanisme de réactions périodiques (10), d'autre part parce que sa première étape correspond à l'échange d'un seul électron au contraire des réactions classiques halogénateshalogénures.</p>
+				<p>Lorsqu'on mélange des solutions de bromate et de chlorite on obtient un système dont l'évolution aussi bien stoechiométrique que cinétique est très complexe. La première étape est [6].</p>
+				<p><formula>[6] Br (V + HC10 2 + H + -&gt; Br0 2 + C10 2 + H 2 0</formula></p>
+				<p>Le Br0 2 et le C10 2 peuvent ensuite réagir de diverses manières. Thompson (11) a étudié cette réaction en présence d'alcool allylique qui, en captant le produit intermédiaire HOBr, élimine certaines complications. Cependant, même ainsi la stoechiométrie dépend des conditions expérimentales. Par contre, en présence d'ortho-tolidine on obtient simplement la stoechiométrie [7]. [7] BrOr + 3NH 2 RNH 2 Br" + 3 NHRNH + 3H 2 0 Les expériences de la figure 3 montrent que le chlorite n'est pas consommé : la vitesse est inchangée alors que l'on a oxydé une quantité d'ortho-tolidim nettement supérieure à la quantité de chlorite introduite. L'expérience (2) a été faite en présence de 5 x 10~ 5 iong/L d'Ag + pour éliminer l'effet des ions Br~ produits par [7] qui sinon apparaîtrait aux conversions élevées. Par contre, lors de toutes les expériences ci-après, les conversions sont restées suffisamment faibles (quelques pourcents) pour que cet effet soit négligeable. Rappelons que nos</p>
+				<p><formula>2« 1 - d(NHRNH) (10" 8 M s-1 ) ( Na Cl O2) (ÏÔ" S M ) T- 10 FIG. 4. Réaction bromate-chlorite. [HCIO4] = 0,102, [NaBr0 3 ] = 10~ 3 , [NH 2 RNH 2 ] = 10" 4 M, I = \ M,T= 25°C.</formula></p>
+				<p>tions expérimentales sont toujours telles que les enregistrements d'absorbances en fonction du temps soient linéaires et que l'on mesure des vitesses initiales. La simplification du mécanisme se comprend aisément. La première étape reste [6] car l'ortho-tolidine ne réagit ni avec le bromate ni avec le chlorite. Ensuite nous savons qu'elle est oxydée très rapidement par le C10 2 suivant [8].</p>
+				<p>[6] pourrait de même être réduit par Y ortho-tolidim en HBr0 2 . Cependant celui-ci ne peut pas s'accumuler dans le système et, quel que soit le mécanisme de la réduction, on obtient la réaction globale [9].</p>
+				<p>En combinant [6], [8] et [9] on obtient [7], et</p>
+				<div n="1">
+					<head>Résultats à 25°C et I = 0,1-1 M</head>
+					<p>Les figures 4 et 5 donnent quelques exemples de nos mesures établissant l'ordre 1 par rapport au bromate et au chlorite. L'ensemble des résultats obtenus est résumé dans le tableau 2. Les constantes k exp sont définies par</p>
+					<p>où [NaBr03] et [NaC102] désignent les concentrations totales et r Fe la vitesse de la catalyse par le fer de l'oxydation de</p>
+					<p>par le chlorite (2). Après purification des réactifs cette correction reste assez faible, généralement moins de 5%, pour permettre une détermination précise de k exp . Soient K aï et K a2 les constantes d'acidité de HBr0 3 et de HC10 2 . Posons</p>
+					<p><formula>r 6 = £ 6 [Br0 3 -][HC10 2 ][H 4</formula></p>
+					<p>On obtient</p>
+					<p><formula>k ^exp ATal [H" K al + [H + ] K 3 2 + [H + ]2 « d( NHRNH)</formula></p>
+					<p>Les valeurs de K a2 ont été mesurées par Hong et Rapson (12) en fonction de la force ionique. Ils ont obtenu K a2 = 1,74 x 10~ 2 pour I = 0,1 M et 2,4 x 10~ 2 pour I = 1 M. La valeur de K a] pour I = 1 M a été déduite de notre étude de la réaction bromate-bromure. Si elle varie en fonction de la force ionique comme K a2 on obtient K al = 2,1 pour / = 0,1 M. Le choix de cette constante n'influence quasi pas le calcul de k 6.</p>
+					<p>Quelques mesures faites à des forces ioniques comprises entre 0,1 et 1 M avec [HC10 4 ] =0,1 M indiquent que k exp varie à peu près comme l'inverse de K a2 , c'est-à-dire comme 7HCIO 2 - L'examen du tableau 2 montre que k 6 augmente avec l'acidité. Thompson (11) avait obtenu :</p>
+					<p><formula>r 6 = &amp;6[Br03 -] [HCIO2] [H + ] 1,2</formula></p>
+					<p>Nous verrons que, tenant compte de K al et K a2 , ses résultats comme les nôtres se laissent mieux représenter par :</p>
+				</div>
+				<div n="2">
+					<head>Effet de la température, 1 = 0,1 M</head>
+					<p>Nos mesures de k exp à différentes températures sont résumées dans le tableau 3. On en déduit une énergie d'activation de 47,4 kJ/mol. Comme k exp dépend de l'acidité cette valeur n'est en toute rigueur valable que pour l'acidité à laquelle elle a été déterminée, soit [HCIO4] = 0,1 M. Remarquons cependant que Thompson a obtenu une valeur pratiquement identique, 47,7kJ/mol, pour [HCIO4] = 1,92 M.</p>
+				</div>
+			</div>
+			<div>
+				<head>Conclusion et discussion</head>
+				<p>Pour discuter le mécanisme de réactions complexes, telles que les réactions périodiques, il est souhaitable de connaître les constantes cinétiques de leurs composantes. La méthode à l'ori/iotolidine permet de mesurer simplement et avec précision certaines de ces constantes.</p>
+				<p>Nous avons confirmé la validité de cette méthode dans le cas de réactions du bromate et déterminé la constante d'acidité de l'acide bromique. Nous l'avons ensuite utilisée pour mesurer la vitesse de l'étape déterminante de la réaction bromate-chlorite. Pour interpréter l'effet de [H + ] sur la vitesse de cette réaction il faut tenir compte des constantes d'acidité de l'acide chloreux et de l'acide bromique. La <ref type="figure">figure 6</ref>montre que la variation de k 6 en fonction de [H + ] est linéaire : k 6 = 0,83 + 0,76[H + ]. Cette figure reprend également les valeurs de k 6 déduites des mesures de Thompson (11), en remarquant que ses constantes k a correspondent, avec nos notations, à £ exp [H + ]/3. Elles sont compatibles avec les nôtres, compte tenu de la différence de force ionique et des incertitudes affectant les mesures en absence d'ori/zotolidine. Cette variation de k 6 peut, par exemple, être interprétée par [5], [10], [11] et [12].</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Schmitz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rooze</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">1177</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Schmitz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rooze</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">2231</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">R</forename>
+									<surname>Weberitsch</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Monatsh</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1915"/>
+								<biblScope type="pp">211</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">C</forename>
+									<surname>Bray</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">4284</biblScope>
+								<date type="published" when="1932"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Schreiner</forename>
+									<surname>Monatsh</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1935"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+									<surname>Liebhafsky</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">57</biblScope>
+								<biblScope type="pp">51</biblScope>
+								<date type="published" when="1935"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Riesch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">58</biblScope>
+								<biblScope type="pp">667</biblScope>
+								<date type="published" when="1936"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. phys. Chem. (Leipzig)</title>
+							<imprint>
+								<biblScope type="vol">256</biblScope>
+								<biblScope type="pp">183</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<title level="m" type="main">Nouveau traité de chimie minérale</title>
+							<author>
+								<persName>
+									<forename type="first">Paul</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1960"/>
+								<biblScope type="pp">435</biblScope>
+								<pubPlace>Tome XVI. Masson, Paris</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">R</forename>
+									<surname>Epstein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">87</biblScope>
+								<biblScope type="pp">3212</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Thompson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">1905</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">H Rapson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">2053</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

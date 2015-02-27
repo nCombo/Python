@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Calcul des intensités des transitions laser dans l2 C l6 02 et ses molécules isotopiques</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Philippe</forename>
+								<surname>Millie</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de Physico-chimie</orgName>
+								<orgName type="institution">CEN/Saclay</orgName>
+								<address>
+									<postCode>91191</postCode>
+									<settlement>Gif-sur-Yvette-Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Calcul des intensités des transitions laser dans l2 C l6 02 et ses molécules isotopiques</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les intensités des raies lasers à 9 et 10 p.m de l2C"'02 et ses molécules isotopiques sont calculées théoriquement. Les fonctions d'ondes vibrationnelles sont obtenues par diagonalisation directe à partir d'une fonction potentiel déterminée antérieurement. Une comparaison avec les valeurs expérimentales est présentée. Le rôle de l'anharmonicité électrique est discuté ainsi que les erreurs dues à la méthode de transformation de contact dans le calcul des niveaux d'énergie.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The laser emission-line intensities of l2 C"'02 and several isotopes were theoretically calculated. The vibrational wave functions were obtained to a direct diagonalization by utilizing a previously known potential function. These values are compared to the experimental ones. The effect of electrical anharmonicity is discussed. The validity of the contact trans-formation method is briefly analyzed.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Les lasers C0 2 constituent encore une des seules sources de rayonnement cohérent de puissance dans l'infra-rouge. Pour en augmenter l'accordabilité ou couvrir des domaines que ne permet pas d'atteindre l'isotope usuel l2 C l6 0 2 , l'attention s'est portée depuis quelques années sur la possibilité de lasers "isotopiques". Ainsi, fonctionnent déjà ceux utilisant les molécules l2 C l8 0 2 , l3 C l6 0 2 et l2 C l6 0 l8 0 (1). Or, la possibilité d'obtenir un effect laser et le gain qu'on peut escompter sont étroitement liés aux moments dipolaires de transition (1). Si certains sont connus expérimentalement, il n'en est pas de même pour les molécules isotopiques les moins abondantes (2).</p>
+				<p>Par ailleurs, d'un point de vue théorique, le calcul précis de tels moments dipolaires exige la détermination de très bonnes fonctions d'ondes, donc l'utilisation d'une fonction potentielle la meilleure possible. A notre connaissance, aucun calcul n'a utilisé jusqu'à présent la fonction potentielle déterminée par A. Chedin (3), dont la convergence est très bonne et où le terme du troisième ordre par rapport au potentiel harmonique qui joue un rôle non négligeable dans le couplage de Fermi a été explicitement introduit contrairement aux déterminations antérieures (4, 5). Sa valeur a été testée aussi bien en ce qui concerne les constantes moléculaires sur des transitions jusqu'alors inobservées (6, 7) que sur l'analyse des intensités Raman des raies laser d'un certain nombre de molécules isotopiques (8).</p>
+				<p>Enfin, comme on le verra par la suite, cette étude permet de comparer la méthode de la transformation de contact à la méthode "brutale" de diagonalisation et de discuter de leurs mérites respectifs.</p>
+			</div>
+			<div type="section" n="I">
+				<head>Obtention des fonctions d'ondes</head>
+				<div type="section" n="1">
+					<head>Nécessité de fonctions d'ondes précises</head>
+					<p>Les deux transitions impliquées sont les transitions (0, 0°, 1) I et (0, 0°, 1) II, où I et II sont, en première approximation , des combinaisons linéaires des états harmoniques (1, 0°, 0) et (0, 2°, 0) entre lesquels existe un très fort couplage de Fermi (v, correspond à l'allongement symétrique 2 C \ v 3 à l'allongement dissymétrique 2 U + et v 2 au bending de symétrie TT u ).</p>
+					<p>L'opérateur moment dipolaire de transition est lui-même de symétrie 2 U et peut s'écrire à l'ordre zéro (jl = aQj (où Q } est la coordonnée normale sans dimension associée au mode v 3 ). On voit que si on ne tient compte que du couplage de Fermi et qu'on néglige l'anharmonicité du moment dipolaire, on trouve des intensités nulles: ces deux transitions ne sont permises que grâce aux anharmonicités mécaniques et électriques (9) et la détermination de leurs intensités exige donc des fonctions d'ondes précises.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Méthode utilisée</head>
+					<p>Elle consiste simplement à écrire les fonctions d'ondes comme somme de produits des fonctions harmoniques et donc à diagonaliser l'opérateur énergie cinétique + potentiel harmonique + potentiel anharmonique dans cette base. Nous avons négligé l'interaction rotation—vibration, ce qui semble raisonnable pour des niveaux vibrationnels aussi bas, compte tenu par ailleurs de la précision du potentiel utilisé (cf. infra) et de la complexité que son introduction entraîne pour le calcul. Dans ces conditions, pour les molécules symétriques, la matrice à diagonaliser se scinde en deux sous-matrices correspondant aux états de symétrie 2 G [«|V|, 2n 2 v 2 , 2H 3 V 3 ] et 2 u f [n,vi, 2n 2 v 2 , (2n 3 + l)v 3 ].</p>
+				</div>
+				<div type="section" n="3">
+					<head>Etude de la convergence</head>
+					<p>La qualité de la fonction d'onde obtenue dépend bien entendu de la dimension de la base utilisée. Pour éviter tout arbitraire, il semble qu'une bonne façon de procéder soit d'étudier comment varient les valeurs propres, c'est à dire les énergies des niveaux vibrationnels, en fonction de la dimension de la base. Pour cela, on effectue la diagonalisation en agrandissant progressivement la base utilisée (méthode des matrices "emboîtées"): on sait que, dans ces conditions, les différentes valeurs propres tendent, de façon monotone et par valeur supérieure, vers leur valeur limite pour une dimension infinie (10). Deux critères ont été retenus pour cet agrandissement: un critère énergétique d'un part, et le fait que l'on doive diagonaliser ensemble tous les états correspondant à une même valeur (2v, + v 2 ) à cause du couplage de Fermi, d'autre part. On trouvera dans l'annexe I, les bases utilisées dans le cas des molécules symétriques.</p>
+					<p>L'examen de la table 1 montre clairement que l'énergie d'un niveau donné se stabilise à partir d'un certaine dimension, dimension d'autant plus élevée que le niveau étudié est plus haut en énergie. Dans notre cas, on a convergence du niveau fondamental et des niveaux I et II (construits sur 1, 0°, 0 et 0, 2°, 0) à partir de la dimension 34. Au total, en base 90, l'énergie des dix premiers niveaux a convergé à mieux que 0,1 cm -1 près. IL en résulte que les vraies observables, c'est à dire les niveaux d'énergies rapportées au niveau fondamental, ont aussi convergé avec une précision quasiment identique. Les mêmes constatations pourraient être faites pour la symétrie 2*.</p>
+					<p>Ajoutons qu'en supposant, ce qui est raisonnable, que le niveau fondamental converge au moins aussi vite que les autres, on obtient ainsi des valeurs des niveaux d'énergies rapportées au fondamental qui sont supérieures aux énergies que l'on obtiendrait en diagonalisant une matrice infinie.</p>
+					<p>Une étude similaire, quoique moins poussée, a été effectuée dans le cas des molécules non symétriques. En effet, il n'y a plus séparation en et E " et, pour obtenir des résultats de qualité similaire, il faudrait diagonaliser des matrices de dimension environ 200. L'étude du cas symétrique montrant qu'en fait, une convergence raisonnable est atteinte des la dimension 34 pour les niveaux qui nous intéressent, on peut penser qu'une dimension de l'ordre de 92 est amplement suffisante , ce que confirme l'examen de la table 2. 11 faut, cependant , noter que les critères pour agrandir progressivement la base sont nettement moins clairs que précédemment. Si les termes de couplage anharmonique, nuls dans le cas des molécules symétriques, sont très petits devant les autres, il est clair qu'il faut simplement juxtaposer les bases utilisées précédemment pour les cas et 2 U \ C'est le principe utilisé pour les bases 20, 48 et 68 (respectivement égales à 10 + 10, 24 + 24, 34 + 34). Si, par contre, tous les termes de couplage sont du même ordre, le critère énergétique est prépondérant; c'est lui que l'on a utilisé au moins en partie pour passer de la base 68 à la base 92 (ceci explique qu'il y ait plus de niveaux de type (y,, v 2 , 0) que de type (V|, v 2 , 1) ayant convergé).</p>
+				</div>
+				<div type="section" n="4">
+					<head>Comparaison avec la méthode de transformation de contact</head>
+					<p>La méthode de la transformation de contact consiste, par des changements de base appropriés, à annuler certains éléments de matrice non-diagonaux du potentiel. Ceci revient, en fait, à diagonaliser une matrice infinie par perturbation, puis à diagonaliser par une méthode exacte l'interaction de Fermi (voir par example référence 11). Si cette méthode semble de loin la plus praticable pour extraire un potentiel de données expérimentales , par contre, à cause notamment de la très grande valeur de la constante de couplage anharmonique k m (—250 cm -1 ), l'erreur introduite par le traitement de perturbation peut être importante et augmente de façon significative avec le nombre quantique v 3 (voir table 15 de la référence 3). Les différences entre les énergies expérimentales et les énergies obtenues par diagonalisation directe ont été rassemblées dans la table 3. Les erreurs sont de l'ordre de 0,5 à 1.2%, sont significativement plus grandes pour les niveaux (v,, v 2 ,-1) que pour les niveaux (v,, v 2 , 0) et augmentent avec (2v, + v 2 ). 11 en résulte que l'erreur sur la fonction potentielle est du même ordre de grandeur et ce résultat peut justifier dans une certaine mesure le fait de négliger l'interaction rotation — vibration.</p>
+					<p>Au total, la méthode de la transformation de contact semble supérieure à celle de la diagonalisation directe, au moins en ce qui concerne C0 2 (11), mais elle a le désavantage de ne pas fournir directement les fonctions d'onde.</p>
+				</div>
+			</div>
+			<div type="section" n="II">
+				<head>Calcul des forces oscillatrices de transition</head>
+				<div type="section" n="1">
+					<head>Expressions théoriques</head>
+					<p>La force oscillatrice d'une transition donnée entre deux états vibrationnels &lt;p, et tp, est donnée par: /= (&lt;p,|M|&lt;p/ où M est l'opérateur de moment dipolaire. Cet opérateur M peut lui-même être développé en série en fonction des coordonnées normales sans dimension tandis que 9, et (pj sont obtenues comme des sommes de produits de fonctions harmoniques.</p>
+					<p>Dans le cas des transitions laser qui sont des transitions parallèles, M peut donc s'écrire:</p>
+					<p><formula>M = X,(fl 3 Ô3 + a,Ôi) + Ma l3 Q,Q 3 + a n Q] + a 33 0 2 ) + ...</formula></p>
+					<p>Par ailleurs, pour une molécule linéaire triatomique XYZ, on peut écrire, au premier ordre, si X et Z sont deux isotopes:</p>
+					<p><formula>M = + A Z -2A Y)</formula></p>
+					<p>où AX, A K et AZ sont les déplacements suivant l'axe internucléaire des trois atomes.</p>
+					<p>On peut exprimer AX + AZ -2AY en fonction des coordonnées normales sans dimension: AX + AZ — 2A Y = b-s Qi + b t Q u où b 3 et b x sont fonctions de l'isotope considéré alors que ôM/ôr est une caractéristique de la molécule étudiée. Dans le cas où X = Z, a t = a n = a 33 = 0.</p>
+					<p>Dans le cas non-symétrique, on a donc a M , a 33 &lt; § a n et on peut négliger leur contribution (voir aussi la référence 12). Par contre, on ne peut négliger, a priori, le terme devant le terme K ] a i Q i : si les différentes études antérieures (12 — 16) montrent que -0,05 &lt; X 2 a ]3 /\| a 3 &lt; 0,0, par contre il est évident que:</p>
+					<p>pour ce qui concerne les transitions lasers. Comme nous ne nous intéressons qu'aux intensités de ces transitions rapportées à celles de l2 C l6 0 2 , les seuls coefficients à déterminer sont a 3 = fr 3 et a, = b, que l'on trouvera rassemblés dans l'annexe.</p>
+					<p>Le terme correctif X^n/X^ sera pris comme un paramètre, supposé en première approximation indépendant de l'isotope.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Etude de la convergence</head>
+					<p>Comme dans le cas des énergies, nous avons étudié la variation des éléments de matrice des opérateurs Q 3 , Q l et Q, Q 3 en fonction de la dimension de la base utilisée. Les résultats sont rassemblés dans la table 4 pour 12 C 16 0 2 et la table 5 pour 12 C 16 0 I8 0. Comme on pouvait s'y attendre, les éléments de matrice convergent beaucoup moins vite que les énergies car le test est beaucoup plus sévère et basé directement sur la qualité des fonctions vibrationnelles obtenues. On obtient une précision supérieure à 1% avec une base 90 dans le cas des molécules symétriques, de l'ordre de 1% avec une base 92 pour les non-symétriques sauf pour les éléments de matrice de Q, qui dépendent beaucoup des tout petits coefficients dans le développement de la fonction vibrationnelle (erreur d'environ 3%). Au total, cependant, compte tenu de la précision des valeurs expérimentales et de l'imprécision sur l'anharmonicité du moment dipolaire, la convergence peut être considérée comme suffisante.</p>
+				</div>
+				<div type="section" n="3">
+					<head>Discussion des résultats</head>
+					<p>Sont rassemblés dans la table 6, un certain nombre de résultats théoriques et expérimentaux concernant les moments dipolaires des deux transitions laser pour l'isotope l2 C 16 0 2 . Le critère retenu est le rapport des forces oscillatrices des deux transitions calculé pour trois valeurs du rapport K = X 2 a 13 /X,a 3 :0,0, -0,03 et -0,05.</p>
+					<p>On voit que, bien que les valeurs théoriques ne diffèrent guère entre elles de plus de 10%, l'écart sur le rapport des forces oscillatrices peut être considérable et seules permettent d'encadrer les résultats expérimentaux les valeurs de la référence 16 et celles de ce travail.</p>
+					<p>Ce bon accord avec l'expérience est aussi valable pour d'autres isotopes (voir table 7), compte tenu du fait que la valeur expérimentale tirée des tables Geisa (2) pour 1 2 CI 6 0'8 0 nous semble entachée d'une erreur importante. On peut remarquer en effet, que la valeur expérimentale de R diminue régulièrement de 12CI602 à 12C1802, comme d'ailleurs la valeur bon en ce qui concerne les forces oscillatrices des deux transitions laser rapportées à celles de l2Cl602 et il ne nous semble pas simple de départager entre les erreurs dues aux approximations faites dans ce travail et les erreurs expérimentales. Au total, cependant, on doit pouvoir accorder une assez grande confiance aux résultats théoriques obtenus pour d'autres isotopes qui sont rassemblés dans la table 8 et qui permettent de déceler quelles seront les transitions sur lesquelles on peut espérer obtenir un effet laser.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>On a montré que les erreurs dues à l'emploi de la méthode de transformation de contact pour la détermination de la fonction potentielle à partir des valeurs expérimentales se traduisent , au niveau des énergies calculées, par une erreur relative de l'ordre de 1°/°°-L'emploi d'un bon potentiel est tout à fait crucial en ce qui concerne la détermination théorique des moments dipolaires de transition. Le potentiel déterminé dans la référence 3 donne des résultats en bon accord avec l'expérience en ce qui concerne les intensités des raies laser. L'anharmonicité électrique joue un rôle considérable dans le rapport des intensités des deux transitions laser; il joue, par contre, un rôle négligeable en ce qui concerne les intensités de ces deux raies pour les molécules isotopiques à condition de les rapporter à celles de l'isotope l2 C l6 0 2 .</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Je tiens à remercier Messieurs A. Chedin, B. Levy et G. Salvetat pour les nombreuses discussions que nous avons pu avoir, Messieurs Weulersse et Botter pour avoir attiré mon attention sur l'intérêt du problème et Madame Vinh pour m'avoir facilité l'accès du centre de calcul de l'ENSJF.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Sllver</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Posakony</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Appl. Phys</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">4566</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Chedin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Husson</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">A</forename>
+									<surname>Scott</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">. Cohen-Hallaleh</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Berroir</forename>
+									<surname>Tables</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Laboratoire de Météorologie dyna-mique du CNRS. Notes internes n° 108</title>
+							<imprint>
+								<date type="published" when="1982"/>
+								<biblScope type="pp">116</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Chedin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">430</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">K L</forename>
+									<surname>Yin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Appl. Opt</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">997</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Suzuki</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<biblScope type="pp">479</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Baldacci</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">P</forename>
+									<surname>Rinsland</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A. H. Smith Et K. Narahari Rao</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">94</biblScope>
+								<biblScope type="pp">351</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Shaw</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Appl. Opt</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="issue">22</biblScope>
+								<biblScope type="pp">328</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Flnsterhôlzl</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ber. Bunsenges. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">86</biblScope>
+								<biblScope type="issue">797</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">G</forename>
+									<surname>Brownet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">B</forename>
+									<surname>Person</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">65</biblScope>
+								<biblScope type="pp">2367</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+									<surname>Mcdonald</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys. Rev</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="issue">830</biblScope>
+								<date type="published" when="1933"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Lac</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mol. Phys</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="issue">253</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">O</forename>
+									<surname>Bulanin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Opt. Spectrosc. (USSR)</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<biblScope type="pp">45</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Statz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">F</forename>
+									<surname>Koster</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Appl. Phys</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="pp">4278</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Suzuki</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="issue">12</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse 3ème cycle</title>
+							<meeting>
+								<address>Paris</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de Doctorat d'Etat</title>
+							<meeting>
+								<address>Paris</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1975-3"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<title level="a" type="main">Base de dimension 34 = base 24 Base de dimension 52 = base 34</title>
+							<author>
+								<persName>
+									<forename type="first">)</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">.</forename>
+									<forename type="middle">)</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">.</forename>
+									<forename type="middle">)</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">.</forename>
+									<forename type="middle">)</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">.</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">12°, 0), (2, 0°, 2), . . .(0, 4°), ... (0, 8°, 2), (0, 0°, 4). Base de dimension 69 = Base 52 + Base de dimension 90 = Base 69 + 0°, 4), ... (0, 4°, 4)</title>
+							<imprint>
+								<biblScope type="fpage">18</biblScope>
+								<biblScope type="lpage">12</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

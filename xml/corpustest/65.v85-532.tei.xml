@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthèse d'une a-méthylene-7-lactone: application des réactifs organiques du sélénium</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Helena</forename>
+								<surname>Maria</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Instituto de Química</orgName>
+								<orgName type="institution">Universidade de Säo Paulo</orgName>
+								<address>
+									<addrLine>C.P. 20780</addrLine>
+									<settlement>Säo Paulo</settlement>
+									<region>SP</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Carvalho</forename>
+								<surname>Ferraz 'et</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Instituto de Química</orgName>
+								<orgName type="institution">Universidade de Säo Paulo</orgName>
+								<address>
+									<addrLine>C.P. 20780</addrLine>
+									<settlement>Säo Paulo</settlement>
+									<region>SP</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Nicola</forename>
+								<surname>Petragnani</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Instituto de Química</orgName>
+								<orgName type="institution">Universidade de Säo Paulo</orgName>
+								<address>
+									<addrLine>C.P. 20780</addrLine>
+									<settlement>Säo Paulo</settlement>
+									<region>SP</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthèse d'une a-méthylene-7-lactone: application des réactifs organiques du sélénium</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="1985">1985</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Nous avons développé une nouvelle synthèse de l'a-méthylène-7-lactone 4, qui est présente dans de nombreuses substances naturelles sesquiterpéniques.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>We have developed a new synthetic approach to the a-methylene-7-lactone moiety 4, which is present in numerous sesquiterpene natural products.</p>
+			</div>
+		</front>
+		<body>
+			<div>
+				<head>Introduction</head>
+				<p>Le groupement cx-méthylène-7-lactone est présent dans de nombreuses substances naturelles telles que les lactones sesquiterpéniques (1). Ce groupement est responsable de l'activité pharmacologique de ces substances (2). L'intérêt de notre groupe de recherche dans ce domaine, tout comme dans la chimie des composés organiques du sélénium, nous a amenés à développer des méthodes sélectives d'obtention d'a-méthy-lène-7-lactones bicycliques à jonction cis ou trans, dont le but est l'utilisation ultérieure dans la synthèse de substances telles que le Frullanolide 1 (3) et l'Arbusculine B 2 (4). Deux synthèses des a-méthylène-7-lactones 3 et 4 ont déjà été décrites (5) et nous voulons maintenant en présenter une troisième.</p>
+				<p>La formation de lactones par l'addition d'un électrophyle à des acides ou à des ésters [3,7 ou 7,ô-insaturés est connue depuis longtemps et sa stéréochimie est bien établie: l'addition à la double liaison est toujours trans (6). Ainsi, la lactonisation de l'acide [3,7-insaturé 5, par exemple, conduit à une jonction cis entre les deux cycles.</p>
+				<p>Cette réaction est, donc, d'une grande utilité dans la préparation stéréosélective de cw-lactones. Par ailleurs, l'utilisation de réactifs organoséléniés, soit comme précurseurs de doubles liaisons, soit comme des électrophiles pour la lactonisation, a été dernièrement très explorée (7-9).</p>
+				<p>Dans un travail antérieur (5) nous avons illustré l'utilisation de l'acide 2-phénylséléno-propanoïque 6 pour la synthèse des a-méthylène-7-lactones 3 (trans) et 4 (cis)-, plus récemment, nous avons employé le même acide 6 pour synthétiser le Frullanolide 1 (10).</p>
+				<p><formula>HJC—CH—C0 2 H SePh 6</formula></p>
+				<p>Nous présentons ici une nouvelle synthèse de la ds-lactone 4, dont le précurseur possède le groupement sélénophényle en (3 du carbonyle, ce qui offre un avantage par rapport à la méthode antérieure: l'élimination du phénylsélénoxyde n'entraîne que la formation d'une double liaison exocyclique.</p>
+				<p>À partir d'une substance simple telle que la cyclohexanone, nous avons effectué la séquence réactionnelle représenteé dans le schéma 1.</p>
+			</div>
+			<div>
+				<head>Résultats et discussion</head>
+				<p>Le cyclohexylidène acétate d'éthyle 7 (11) a été obtenu par la réaction de Wittig entre la cyclohexanone et le carbéthoxyméthylènetriphénylphosphorane , avec un rendement de 80%. Ce produit a été hydrolysé en milieu basique, donnant l'acide cyclohéxylidène acétique 8 (12) avec un rendement de 81%. L'alkylation du dianion de l'acide 8 par le sélénure de bromométhylphényle a fourni 82% du produit 9.</p>
+				<p>Nous avons éssayé d'inverser l'ordre séquentiel de ces deux dernières étapes, mais nous n'avons pas réussi à alkyler l'ester 7 par le même sélénure; le seul produit obtenu est l'ester (3,7-insaturé 11. Le remplacement du réactif par le sélénure d'iodométhylphényle a donné l'alkylation, mais le rendement de la réaction n'a été que de 55%.</p>
+				<p>Pour l'étape suivante—lactonisation de 9 en milieu acide— plusieurs réactifs ont été employés (H 2 S0 4 , HC10 4 , H 3 P0 4 , AcOH, acide p-toluènesulfonique). Dans tous les cas, nous avons observé la formation d'un mélange complexe de substances , parmi lesquelles on a pu constater, outre le produit principal 10, la présence en faible quantité de la lactone 12 (avec la double liaison endocyclique) et du disélénure de diphényle. Le meilleur résultat a été obtenu par traitement de 9 avec l'acide phosphorique, qui a produit 50% de la lactone attendue 10.</p>
+				<p>La formation de la lactone 12, aussi bien que du disélénure, montre que la liaison C—Se s'est rompue; cependant, nous n'avons pas de données suffisantes pour suggérer le mécanisme de cette réaction indésirable.</p>
+				<p>Il faut bien noter que les réactions de lactonisation des acides 7,8-insaturés portant le groupement sélénophényle n'offrent pas toujours de bons rendements (5, 13), comme on peut observer dans les exemples ci-dessous (nous n'avons trouvé dans la litérature aucun cas de lactonisation d'un acide sélénié (3,7-insaturé).</p>
+				<p>Finalement, l'oxydation (14) de 10 a fourni l'a-méthy-lène-7-lactone 4 avec un rendement de 81%. En ce moment, nous sommes en train d'appliquer une variante de la séquence réactionnelle décrite ici aux synthèses du Frullanolide et de l'Arbusculine B.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les spectres ir ont été mesurés avec un spectrophotomètre Perkin-Elmer 457A. Les spectres de rmn ont été enregistrés sur un appareil Varian T-60 à 60 MHz et dans le CC1 4 . Les analyses par chromatographie en phase gazeuse ont été effectuées sur un appareil Varian 2800 à ionisation de flamme; le gaz vecteur est l'azote et la colonne utilisée, la FFAP (10%) Chromosorb W 60-80 mesh. Les analyses (C, H) ont été effectuées par le Laboratoire de Microanalyse de l'Institut de Chimie de l'Université de S. Paulo.</p>
+				<p>Cyclohéxylidène acétate d'éthyle 7</p>
+				<p>Une solution de la cyclohexanone (29,4 g, 0,3 mol), du carbéthoxymethylènetriphénylphosphorane (21,0 g, 0,06 mol) et de l'acide benzoïque (2 g) dans le benzène anhydre (70 mL) est chauffée au reflux pendant 48 h, sous une atmosphère d'azote. Après la distillation du benzène, on ajoute de l'hexane et le triphenylphosphinoxide formé est filtré. La solution est lavée successivement avec une solution saturée de NaHC0 3 , une solution dilutée de HC1 et une solution saturée de NaCl. Le solvant et l'excès de la cyclohexanone sont éliminés par distillation; le résidu est distillé sous vide. Rendement: 8,1 g (80%); p.e. 116°C/30 Torr (1 Torr = 133,3 Pa).</p>
+				<p>Acide cyclohexylidène acétique 8</p>
+				<p>Une solution de l'ester 7 (5,0 g, 0,03 mol) dans l'éthanol (30 mL) est traitée par du NaOH (15 mL d'une solution à 30%). Au bout de 3 h à reflux, le mélange réactionnel est acidulé par une solution concentrée de HC1 et la solution aqueuse est extraite par l'éther et sechée sur Na 2 S0 4 . Le résidu obtenu après l'élimination du solvant est recristallisé à partir du mélange acétate d'éthyle -hexane. Rendement: 3,4 g (81%); p.f. 90-91°C (lit. (11) p.f. 90-92°C).</p>
+				<p>Acide 3-phénylséléno-2-(l' -cyclohexénylj-propanoïque 9</p>
+				<p>A une solution de LDA (4,4 mmol) dans le THF anhydre (4,5 mL) à 0°C et sous une atmosphère d'azote, on ajoute une solution de l'acide 8 (0,28 g, 2 mmol) dans le THF (2 mL). Au bout de 1 h à 45°C, le mélange réactionnel est refroidi à 0°C et est additionné d'une solution du sélénure de bromométhylphényle (0,60 g, 2,4 mmol) dans le THF (2 mL). Après 2 h à 40°C, le mélange est acidulé par une solution concentrée de HC1, extrait par l'éther et séché sur Na 2 S0 4 . Le solvant est évaporé et le résidu est distillé sous vide (tube à boules). Rendement: 0,51 g (82%); p.e. 140°C/0,005 Torr; ir (Nujol) v max : 1705, 760,730,685 cm" 1 ; 'H rmn (CC1 4 ) S: 11,1 (s, 1H), 7,0-7,6 (m,5H), 5,5-5,8 (m, 1H), 2,8-3,4 (m, 3H), 1,2-2,3 ppm (m, 8H). Anal. calc. pour C, 5 H 28 0 2 Se: C 58,27%, H 5,87%; trouvé: C 58,11%, H 5,78%.</p>
+				<p>Lactone de l'acide 3-phenylséléno-2-(cis-2'-hydroxycyclohexyl)-propanoïque 10</p>
+				<p>On traite l'acide 9 (0,124 g, 0,4 mmol) par de l'acide phosphorique (0,5 g) pendant 6 h à 110°C. Le mélange réactionnel est additionné d'eau (5 mL) et la solution aqueuse est extraite par CHCI3. Par chromatographie sur gel de silice (par élution au mélange hexane-benzène -acétate d'éthyle, 5:3:2) on isole la lactone 10, qui ne cristallise pas et qui est donc distillée sous vide (tube à boules). Rendement: 0,061 g (50%); p.e. 125°C/0,005 TOIT; ir (film) v max : 1770, 740, 690 cm" 1 ; 'H rmn (CC1 4 ) ô: 7,0-7,7 (m, 5H), 4,2-4,5 (m, 1H), 1,0-3,1 ppm (m, 12H). Anal. calc. pour C, 5 H, 8 0 2 Se: C 58,27%, H 5,87%; trouvé: C 58,50%, H 5,69%.</p>
+				<p>Lactone de l'acide 2-(cis-2'-hydroxycyclohexyl)-propénoïque 4</p>
+				<p>Une solution de la lactone 10 (0,05 g, 0,16 mmol) et de l'acide acétique (0,03 mL) dans le THF (1 mL) est traitée par H 2 0 2 à 30% (0,15 mL) pendant 30 min à 0°C. Le mélange réactionnel est additionné d'une solution saturée de NaHC0 3 (3 mL) et extrait par l'éther. La solution est lavée à l'eau, puis par une solution saturée de NaCl et enfin sechée sur Na 2 S0 4 . Le résidu obtenu après 1 Evaporation du solvant est chromatographié sur gel de silice (élué par le mélange hexane -acétate d'éthyle 1:1). Rendement: 0,02 g (81%). Les spectres de 'H rmn et de ir sont identiques à ceux d'un échantillon preparé par une méthode différente (15).</p>
+			</div>
+			<div>
+				<head>Remerciements</head>
+				<p>Nous remercions le CNPq (Conselho Nacional de Desen-volvimento Científico e Tecnológico) et la FAPESP (Fundaçâo de Amparo à Pesquisa do Estado de S. Paulo) de l'aide financière accordée.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<title level="m" type="main">Hand-book of naturally occurring compounds</title>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">I</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1972"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochem. Biophys. Acta</title>
+							<imprint>
+								<biblScope type="vol">276</biblScope>
+								<biblScope type="pp">94</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">W</forename>
+									<surname>Perold</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Ourisson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">28</biblScope>
+								<biblScope type="pp">5797</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">A</forename>
+									<surname>Geissman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phytochemistry</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">2411</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M. C. Ferraz</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="pp">476</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Klein</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">81</biblScope>
+								<biblScope type="pp">3611</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">L J</forename>
+									<surname>Clive</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">1049</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">ACC. Chem. Res</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="issue">28</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">101</biblScope>
+								<biblScope type="pp">3884</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Petragnani</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Yonashiro</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="pp">27</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">D</forename>
+									<surname>Emmons</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">83</biblScope>
+								<biblScope type="pp">1733</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<surname>Schwenk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Papa</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">67</biblScope>
+								<biblScope type="pp">1432</biblScope>
+								<date type="published" when="1945"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Raucher</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Macdonald</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">3057</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Miyashita</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">1869</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Miyashita</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="issue">120</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

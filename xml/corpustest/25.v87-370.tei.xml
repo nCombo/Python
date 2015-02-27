@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude radiocristallographique comparée de quelques A-2 imidazolines substituées</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Pierre</forename>
+								<surname>Brouant</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Groupe d&apos;études et de recherches en chimie thérapeutique organique et physique</orgName>
+								<address>
+									<addrLine>27 boul. Jean-Moulin</addrLine>
+									<postCode>13385, CEDEX 5</postCode>
+									<settlement>Marseille</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Barbe</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Groupe d&apos;études et de recherches en chimie thérapeutique organique et physique</orgName>
+								<address>
+									<addrLine>27 boul. Jean-Moulin</addrLine>
+									<postCode>13385, CEDEX 5</postCode>
+									<settlement>Marseille</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Alain</forename>
+								<surname>Marsura</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Groupe de pharmacochimie</orgName>
+								<address>
+									<addrLine>Domaine de la Merci</addrLine>
+									<postCode>38700</postCode>
+									<settlement>La Tronche</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Catherine</forename>
+								<surname>Soula</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Groupe de pharmacochimie</orgName>
+								<address>
+									<addrLine>Domaine de la Merci</addrLine>
+									<postCode>38700</postCode>
+									<settlement>La Tronche</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Cuong</forename>
+								<surname>Luu-Duc</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Groupe de pharmacochimie</orgName>
+								<address>
+									<addrLine>Domaine de la Merci</addrLine>
+									<postCode>38700</postCode>
+									<settlement>La Tronche</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude radiocristallographique comparée de quelques A-2 imidazolines substituées</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">65</biblScope>
+							<biblScope type="fpage">2217</biblScope>
+							<date type="published" when="1987">1987</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>La comparaison des configurations de trois composés de la série des A-2 imidazolines fonctionnalisées, montre une géométrie spatiale constante. Tous les substituants sont en position trans les uns par rapport aux autres et contribuent ainsi à une minimisation des gênes stériques. D&apos;apprès cette étude, il semble également que la nature du substituant à l&apos;azote N(3) influe de manière importante sur la position du carbonyle. Les résultats confortent ceux d&apos;une étude en résonance magnétique nucléaire antérieure.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The solid state structures of three compounds belonging to the A-2 imidazoline series have been compared. X-ray data and molecular parameters are given. It is noteworthy to point out that substituents are trans to one another in these structures. Moreover, the spatial orientation of the carbonyl group attached to C(4) depends on the nature of the substituent attached to nitrogen N(3). In addition, results are in close agreement with those of nuclear magnetic resonance spectroscopy.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les A-2 imidazolines sont des substances dont l&apos;intérêt thérapeutique déjà ancien s&apos;est encore affirmé récemment. En effet, ce sont des antidépresseurs (1), des antiparasitaires (2), des bactériostatiques (3), mais ces composés possèdent aussi des propriétés hypotensives dont exemple est donné par la clonidine et ses homologues (4). Cependant, à ce jour, peu de dérivés fonctionnalisés ont été décrits. Le travail présenté concerne l&apos;analyse structurale par radiocristallographie de molécules nouvelles dont la formule générale est donnés sur la figure 1 et qui ont été obtenues par action de cétones a-bromées a,(3-éthyléniques avec des amidines N-substituées (5). Il s&apos;agit plus particulièrement de la benzyl-1 diphényl-2,4 acétyl-5 A-2 imidazoline (2) et de l&apos;isopropyl-1 diphényl-2,4 benzoyl-5 A-2 imidazoline (3) qui ont été choisies comme témoins. Les résultats, discutés en se référant à ceux d&apos;une étude préliminaire (6) consacrée à l&apos;isopropyl-1 diphényl-2,4 pivaloyl-5 A-2 imidazoline (1), permettent une discussion comparative des configurations.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Les données cristallines comparées pour les deux composés sont rapportées dans le tableau 1. Les monocristaux des deux composés ont été obtenus par simple évaporation à température ambiante de leurs solutions saturées dans le chloroforme (2) ou dans un mélange équimolaire d&apos;acétate d&apos;éthyle et d&apos;ether éthylique (3). Les densités ont été mesurées par flottaison. La détermination des mailles et l&apos;enregistrement des intensités diffractées ont été effectués sur un diffractomètre automatique 4 cercles CAD-4 Enraf Nonius à monochromateur de graphite : A. (Mo Kâ) = 0,7107 A. Les paramètres des mailles ont été obtenus par moindres carrés à partir des positions angulaires de 25 réflexions pour les deux composés. Les conditions expérimentales d&apos;enregistrement des intensités peuvent être considérées comme identiques {T = 293 K) pour les deux composés. La technique de balayage en 8-28 a été utilisée. On a réalisé des contrôles d&apos;orientation toutes les 300 mesures et des contrôles d&apos;intensité toutes les 10 000 secondes. La déviation angulaire maximum acceptée était de 0,12 et les variations d&apos;intensité ont toujours été. inférieures à 3% (2) ou 2% (3). Aucune correction particulière d&apos;absorption n&apos;a été effectuée. Les structures ont été déterminées par les méthodes directes (7). Elles ont été ensuite précisées par une succession de synthèses de différences- Fourier et de cycles d&apos;affinements par moindres carrés. Les atomes d&apos;hydrogène, en partie localisés sur les cartes de densités-différences et construits géométriquement pour les autres, ont été inclus mais non affinés dans les deux derniers cycles d&apos;affinement qui ont eu lieu en matrice entière. Tous les atomes ont été affectés d&apos;un facteur d&apos;agitation thermique anisotrope sauf les atomes d&apos;hydrogène affectés d&apos;un facteur d&apos;agitation fixé à 5 À 2 pour les deux composés. La fonction à minimiser était 2w(IF0l — IFCI) 2 avec w = 1. Les facteurs de diffusion atomique proviennent de la réf. 8. Tous les calculs ont été effectués sur ordinateur DEC PDP 11/44 sous logiciel SDP (9). L&apos;enregistrement et les calculs ont été réalisés dans le Service de cristallochimie de l&apos;Université d&apos;Aix-Marseille III, rue Henri Poincaré 13397 Marseille Cedex 13. Les tableaux 2 et 3 donnent les coordonnées atomiques. 2 Dans les tableaux 4 et 5 sont portés les paramètres angulaires et de liaison. Les valeurs des angles de torsion les plus significatives sont présentées dans le tableau 6. On doit noter ici que la présence dans chacune des molécules considérées de centres asymétriques implique l&apos;existence d&apos;images non superposables. Les structures ont été résolues dans des groupes d&apos;espace centrosymétriques. Cependant, les coordonnées atomiques ont été transformées pour se rapporter toutes au même conformère. Les représentations géométriques de ces conformères sont données sur la <ref type="figure">figure 2</ref>.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Discussion</head>
+
+			<p>Les trois composés adoptent une conformation du cycle imidazoline en forme d&apos;enveloppe. Cela ressort du tableau 7, qui donne les distances des atomes du cycle et celles du premier atome de chaque substituant au plan moyen défini par les atomes coplanaires N(l), C(2), N(3) et C(5). La position de C(4) est nettement hors du plan moyen chez 1 et 2 mais, les cotes étant opposées par rapport à ce plan, les conformations sont inversées. En revanche, le composé 3 est à ce niveau plus plan que les précédents, la tendance au pliage ayant lieu, dans ce cas, de part et d&apos;autre d&apos;un axe imaginaire C(2)-C(4) avec un atome N(3) qui ne s&apos;élève qu&apos;à 0,05 A au dessus d&apos;un plan formé par C(4), C(5), N(l) et C(2). Quant aux substituants, leurs cotes sont de même signe pour les trois composés et ils conservent ainsi une même orientation trans, ce qui s&apos;accorde avec les mesures antérieures des constantes de couplage 3 /(H4-H5) (10). On peut également évaluer la planéité du cycle en s&apos;intéressant aux plans des moindres carrés formés par N(l), C(2), N(3), C(4) et C(5). Il apparaît alors que les distances maximales au plan moyen sont de 0,089 Â (1), 0,069 Â (2) et 0,021 Â (3). En ce qui concerne les différences dans les longueurs de liaison, elles sont relativement faibles entre liaisons de nature identique : 0,018 A en moyenne, avec un maximum de 0,053 Â pour la liaison C(4)—C(7). La liaison N(l)—C(2) est en moyenne de 1,28 Â, les liaisons N(3)—C(4), C(3)—C(6) et N(l)—C(5) sont de 1,48 Â, celle entre C(2)—N(3) étant de 1,38 Â. Ces valeurs peuvent être comparées aux valeurs théoriques d&apos;une double liaison carbone-azote (1,29 A) ou d&apos;une simple liaison carbone-azote (1,48 Â). On en déduit que si la liaison N(l)—C(2) est bien une liaison double N îp 2—C jp 2, si les liaisons N(3)—C(4), N(3)—C(6) et N(l)—C(5) sont bien des liaisons simples N jp 3—C jp 3, la liaison C(2)—N(3), en revanche, présente un caractère partiel de double liaison IV—C sp --. On notera, en outre, que ces valeurs concordent avec celles de 1,27(1) et 1,33(1) données pour la dihydro-7,8 diphényl-2,5 imidazo <ref type="bibr">[1,2-/] [1] [3] [4] [6] triazépine (11) ou avec celles de 1,28(3) et 1,37(2) données pour la (dihydro-4,5 imidazolyl-2</ref>)-2 benzophénone (12) ou encore avec celles de 1,28(7) et 1,38(2) données pour les A^N-diméthylamidoximes (13).</p>
+			
+			<p>D&apos;autre part, la moyenne des variations des angles n&apos;est que de 2,04°. L&apos;angle C(2)—N(3)—C(4) a une valeur moyenne de 106,8°. Ce résultat s&apos;accorde avec ceux deBeagley et al. (ll)et ceux de MacKechnie et Paul (12) qui, dans le cas des composés déjà cités, donnent la valeur 105,8°. De plus le substituant C(6) porté par l&apos;azote N(3) est situé nettement hors du plan comme cela apparaît dans le tableau 7. Tout ceci, compte tenu par ailleurs du caractère partiel de double liaison pour la liaison C(2)—N(3), est en faveur d&apos;un état intermédiaire d&apos;hybridation de l&apos;azote N(3). Pour ce qui est des substituants portés par le cycle en position 2, 3, 4 et 5, on peut relever les observations suivantes liées aux valeurs des angles de torsion présentées dans le tableau 6 : (/) Le phényle en 2 prend chez les trois composés une angulation voisine afin de s&apos;éloigner au maximum du substituant greffé en N(3). Donc il n&apos;y pas de conjugaison entre ce groupement et la liaison imine intracyclique comme en témoigne la valeur moyenne de l&apos;angulation qui est égale à 41,5°. (ii) On note également une angulation assez voisine pour les substituants isopropyle ou benzyle greffés en N(3). Le cycle phényle du substituant benzyle dans le composé 2 prend la place d&apos;un des groupements méthyles de 1 ou 3. Les angulations de 2 et 3 autour de la liaison N(3)—C(6) sont très proche de 60° et donc de la valeur théorique pour une conformation décalée. D&apos;autre part dans le cas de 3 le calcul des distances entre l&apos;hydrogène porté par C(4) et les hydrogènes respectivement portés par C(61) et C(62) : 2,37 A et 2,42 Â, révèle une proximité entre ces atomes conforme aux résultats observés en rmn par effet Overhauser (10) et s&apos;accorde avec l&apos;état d&apos;hybridation de N(3) mentionné précédement. De même, la distance de 2,55 Â entre l&apos;hydrogène porté par C(6) et l&apos;hydrogène porté par C(22) confirme aussi les résultats de rmn (10). (iii) La projection de l&apos;angle C(4)—N(3)—C(2) dans un plan perpendiculaire à la liaison N(3)—C(6), qui serait de 180° pour un azote N(3) purement sp 2 ou de 120° pour un azote purement sp 3 , vaut respectivement 156,2(9)° pour 1, 136,0(5)° pour 2 et 131,1(5)° pour 3. On en déduit 40% de caractère sp 3 pour 1, 73% pour 2 et 81% pour 3. (iv) La liaison C(7)—0(70) est, dans les trois cas, située dans le même quadrant que la liaison C(4)—N(3) ce qui correspond à une forme cisoide, 3 ayant en outre même conformation que 1. On doit souligner, à ce propos, que par nOe-différence entre les atomes d &apos; hydrogène portés par C ( 5 ) et C ( 72 ) on avait abouti à la même conclusion (10).</p>
+			
+			<p>(t>) Enfin, le phényle greffé en 5 est toujours presque quasiment perpendiculaire au plan du cycle imidazoline comme le montre la distance entre l&apos;atome d&apos;hydrogène porté par C(5) et celui porté par C(52). Cette valeur (2,36 A) est proche du minimum observable par simulation de rotation autour de la liaison C(5)—C(51) (2,13 Â). Ce résultat concorde avec l&apos;interaction notée par nOe-différence (10).</p>
+			
+			</div>
+
+			<div type="section">
+				<head>Conclusion</head>	
+				 
+			<p>La différence structurale essentielle relevée dans cette étude tient à une inversion d&apos;enveloppe chez 2. Néanmoins, la similitude conformationnelle est particulièrement marquée entre 1 et 3 . Il semblerait donc que les substituants greffés sur N ( 3 ) influencent de manière prépondérante la conformation du carbonyle dans ces espèces fonctionnalisées . L &apos; ensemble de ces résultats est en stricte conformité avec ceux observés en solution . Il reste à savoir désormais si cette particularité intervient dans une corrélation avec les activités biologiques.</p>
+			</div>
+
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Dabire</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Mouille</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Andrejak</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Fournier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Schmitt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Int. Pharmacodyn. Ther</title>
+		<imprint>
+			<biblScope type="vol">254</biblScope>
+			<biblScope type="pp">252</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Gaedcke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Zymalkowski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Pharm</title>
+		<imprint>
+			<biblScope type="vol">312</biblScope>
+			<biblScope type="issue">812</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Gaedcke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Knorr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Zymalkowski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Pharm</title>
+		<imprint>
+			<biblScope type="vol">313</biblScope>
+			<biblScope type="pp">166</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Foks</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hanowiec</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Pol. Pharm</title>
+		<imprint>
+			<biblScope type="vol">39</biblScope>
+			<biblScope type="pp">79</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Hoefke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Kobinger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arzneim. Forsch</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">1038</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">B</forename>
+				<surname>Timmermans</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Jonge</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Van Meel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Slothorst-Grisdijk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Lam</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Van Zwieten</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">24</biblScope>
+			<biblScope type="pp">502</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Cambridge</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Pharmacol</title>
+		<imprint>
+			<biblScope type="vol">72</biblScope>
+			<biblScope type="pp">413</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Marsura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Gellon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synthesis</title>
+		<imprint>
+			<biblScope type="vol">537</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Brouant</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Barbe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Marsura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Luu-Duc</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallogr. Sect. C: Cryst. Struct. Commun</title>
+		<imprint>
+			<biblScope type="vol">41</biblScope>
+			<biblScope type="pp">1369</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">MULTAN 80. A system of computer programs for the automatic solution of crystal structures from X-ray diffraction data</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Main</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">J</forename>
+				<surname>Fiske</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">E</forename>
+				<surname>Hull</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Lessinger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Germain</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<meeting><address>Univ. York (Angleterre) et Louvain (Belgique)</address></meeting>
+		<imprint>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Computing. in crystallography</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">A</forename>
+				<surname>Frenz</surname>
+			</persName>
+		</author>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Schenk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Olthof-Hazekamp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>van Koningsveld</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">C</forename>
+				<surname>Bassi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978" />
+			<biblScope type="fpage">44</biblScope>
+			<biblScope type="lpage">71</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Marsura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Luu-Duc</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Nardin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Magn. Reson. Chem</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">639</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Beagley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">F</forename>
+				<surname>Moss</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">G</forename>
+				<surname>Pritchard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallogr. Sect. B: Struct. Crystallogr. Cryst. Chem</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">486</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">S</forename>
+				<surname>Mackechnie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">C</forename>
+				<surname>Paul</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. B</title>
+		<imprint>
+			<biblScope type="pp">984</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Gozlan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Michelot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Richie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Rips</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">33</biblScope>
+			<biblScope type="pp">2535</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Régiosélectivité d'additions de nucléophiles sur des dialkoxycarbonyle quinoxalinotropones</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Alain</forename>
+								<surname>Turck</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Hétérocyclique</orgName>
+								<orgName type="institution" key="instit1">Université de Rouen</orgName>
+								<orgName type="institution" key="instit2">Institut National Supérieur de Chimie Industrielle de Rouen</orgName>
+								<address>
+									<postCode>F-76I30</postCode>
+									<settlement>Mont Saint Aignan</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roland</forename>
+								<surname>Boutte</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Hétérocyclique</orgName>
+								<orgName type="institution" key="instit1">Université de Rouen</orgName>
+								<orgName type="institution" key="instit2">Institut National Supérieur de Chimie Industrielle de Rouen</orgName>
+								<address>
+									<postCode>F-76I30</postCode>
+									<settlement>Mont Saint Aignan</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<surname>Quéguiner</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Hétérocyclique</orgName>
+								<orgName type="institution" key="instit1">Université de Rouen</orgName>
+								<orgName type="institution" key="instit2">Institut National Supérieur de Chimie Industrielle de Rouen</orgName>
+								<address>
+									<postCode>F-76I30</postCode>
+									<settlement>Mont Saint Aignan</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Régiosélectivité d'additions de nucléophiles sur des dialkoxycarbonyle quinoxalinotropones</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Nous avons étudié la régiosélectivité d'additions de type Michaël sur des troponcs accolées à la quinoxaline: les di-alkoxycarbonyle quinoxalinotropones. Nous avons utilisé des nucléophiles carbonés (malonate d'éthyle et malononitrile), oxygénés (méthylate de sodium), soufrés (méthyl et benzyl mercaptans), azotés (méthyl, phénylhydrazine et aniline). Nous avons pu montrer que ces additions conduisaient en général à des monoadditions de type 1,4 (par référence aux a énones) ou à des produits pontés provenant d'une bis-addition de type 1,4 (aa diénone). Nous avons pu élucider les structures complexes obtenues par référence aux travaux de B. Fôhlisch et coll. en série homoaromatique. Dans le cas des hydrazines substituées nous avons pu apporter un élément de réponse au mécanisme du réarrangement proposé par ces mêmes auteurs.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>We have studied the regioselectivity of Michael type additions on tropones attached to quinoxalines, i.e. dialkoxycarbonyl quinoxalinotropones. We used carbon nucleophiles (ethyl malonate and malononitrile), oxygen nucleophiles (sodium meth-oxide), sulphur nucleophiles (methyl and benzyl mercaptans), and nitrogen nucleophiles (methyl and phenylhydrazine, aniline). We have shown that, in general, these reactions lead to 1,4-monoadditions or to bridged products arising from a bis-1,4-addition process. We have determined the structures of the complexes obtained by comparison to the work of Fohlisch et al. in the homoaromatic scries. For the case of substituted hydrazines, we present some evidence on the rearrangement mechanisms proposed by these authors.</p>
+			</div>
+		</front>
+		<body>
+			<p>L'intérêt chimique et biologique des dérivés troponiques suscite depuis quelques années de nombreuses publications. En particulier plusieurs dérivés comportant un cycle aromatique accolé au cycle troponique ont été synthétisés (1 — 10). Après avoir étudié la réduction par divers borohydrures alcalins de tropones de la quinoxaline l, nous avons entrepris une étude de</p>
+			<p><formula>1 la R = COOR' lb R = phényl</formula></p>
+			<p>la régiosélectivité d'additions de type Michaël de nucléophiles carbonés, oxygénés, soufrés, azotés sur un cycle troponique accolé à un cycle aromatique. Cette étude sur les dialkoxy-carbonyl-7,9 oxo-8 (8 H) cyclohepta [i&gt;] quinoxalines la s'appuie sur les résultats obtenus par B. Fôhlisch et coll. à partir des benzotropones (1, 11, 12, 15).</p>
+			<p>Une structure telle que la présente trois sites électrophiles principaux 6, 8, 10. Les agents nucléophiles peuvent donc conduire à des composés résultants (/) d'une simple attaque en 6, 10, ou 8; (/'/') d'une double attaque 6,8 ou 6,10 avec un nucléophile monofonctionnel; une attaque de type 6,10 sur une diénone a été observée par Foster et Payne (13); (Ht) d'une double attaque 6,8 ou 6,10 avec un nucléophile polyfonctionnel conduisant éventuellement à un produit ponté. House et al. (14) ont donné un exemple d'une telle attaque de type 6,8 sur une a énone; 2 (iv) d'une triple attaque 6,8,10 comme indiquée par Thiele et Hàdicke (15) avec des hydrazines.</p>
+			<p>Il faut souligner l'intérêt de ces réactions conduisant en particulier à des analogues d'antiparkinsoniens tels que la benzotropine et à des analogues hétérocycliques de précurseurs de la tropanone et de l'atropine (parasympatholytiques) (16).</p>
+			<div>
+				<head>Addition de nucléophiles carbonés</head>
+				<div n="1">
+					<head>Addition de Michaël avec l'acétone dicarboxylate d'éthyle-1,3</head>
+					<p>Nous avons obtenu les produits de bis-addition 6,10 4« et 4b par action des acétones dicarboxylate de méthyle et d'éthyle 2a et 2b sur le composé la.</p>
+					<p><formula>COOR laa R' = CH, ab R' = C,HS 2A R = CH, b R = C:H5 COOR 4 a R = CH, b R = C2H5</formula></p>
+					<p>Remarquons que lors de la synthèse de la dicarbethoxy-7,9 oxo-8 (H) cyclohepta [6] quinoxaline 1 ab nous avions constaté la formation du même produit d'addition 4b au cours de la réaction de l'acétone dicarboxylate d'éthyle 2b sur la diformyl quinoxaline 3.</p>
+					<p>Le composé 4b présente un spectre de rmn complexe qui ne correspond pas à la formule développée d'un composé dicétonique . La comparaison du spectre de rmn de 4b avec celui du composé analogue en série benzénique dont la structure a été démontrée par Fôhlisch (I) montre que le composé 4b est sous la forme du bisénol 6.</p>
+					<p>Nous observons un singulet à 13,28 ppm correspondant à deux protons échangeables par D 2 0. Ce signal doit correspondre à des protons d'énols chélatés avec des fonctions ester voisines. Le déplacement chimique supérieur à ceux observés par Rhoads (17) pour la forme énol de carbethoxy-2 cyclanones 5 indique une très forte liaison hydrogène.</p>
+					<p>La présence de protons de type énol est confirmée par le spectre infrarouge qui montre une bande d'absorption large vers 1650 cm" 1 et une plus étroite vers 1615 cm" 1 ; ces bandes sont caractéristiques (18) d'un groupe C=0 chélaté de l'ester d'une part et du groupe C=C de l'énol d'autre part. De même le spectre ultraviolet montre une absorption dont la longueur d'onde et le coefficient d'extinction (\ = 255 nm, log e 4,12) sont typiques d'une forme énol chélatée (19).</p>
+					<p>La synthèse de composés analogues a été signalée par quelques auteurs: (/) D. J. Bertelli (20) lors de la synthèse du composé homologue dans la série de l'indane:</p>
+					<p>La dernier auteur a montré que la forme préférentielle en solution était de type 6.</p>
+					<p>Synthèse du tétrahydro-6,7,9,10 époxy-8,13 propano-6,10 (SH) cyclohepta [b] quinoxaline cliol-8,13 11</p>
+					<p>Le tétraester 6 présente deux fois l'élément de structure d'un (3-oxoester énolisé et peut donc s'hydrolyser et se décarboxyler facilement. Nous l'avons traité par un mélange d'acides chlorhydrique et acétique et avons obtenu la dicétone 10.</p>
+					<p>Ce type de composé est susceptible par des attaques nucléophiles de conduire à une cyclisation intramoléculaire (1). Par chauffage de 10 dans l'eau on obtient 11 dont la structure est confirmée par infrarouge et rmn.</p>
+				</div>
+				<div n="2">
+					<head>Addition de Michaël avec des composés présentant un seul méthylène actif</head>
+					<p>Nous envisageons ensuite la réaction de nucléophiles carbonés ne présentant qu'un site nucléophile pour déterminer si nous obtiendrons un produit résultant de l'addition d'une mole de nucléophile sur un site 6 ou 8 ou sur deux sites (pontage) 6,8 ou 6,10 ou de deux moles de nucléophiles sur deux sites 6,8 ou 6,10.</p>
+					<p>Nous étudions la réaction avec le malonate d'éthyle et le malononitrile.</p>
+					<p>(a) Malonate de méthyle</p>
+					<p>Si la réaction est conduite à 20°C dans le méthanol en présence de triéthylamine on obtient le produit de monoaddition en 6, 12.</p>
+					<p>A 60°C l'action du malonate de méthyl sur 1 aa conduit au composé de diaddition pontée 6,10, 13.</p>
+					<p><formula>COOCH 3 H3COOCW 0CH3 / ' // ,c=o 1 aa 60 °C oçxzf / H o COOCH3 13</formula></p>
+					<p>Le produit 13 peut présenter deux isomères 14« et 15a suivant que le substituant carbométhoxylé en C(9) se trouve en position axiale ou équatoriale.</p>
+					<p>Le composé 13 présente une constante de couplage Jt)_io = 6 Hz qui est très proche de celle trouvée par Fôhlisch sur son homologue en série benzénique J s . 9 = 5.6 Hz pour un composé sous la forme équatoriale (J s . 9 &lt; 2 Hz pour la forme axiale) ce qui indique comme celui-ci l'a démontré (12) que 13 est sous la forme équatoriale 15a.</p>
+					<p>(b) Action du malononitrile</p>
+					<p>Nous n'avons jamais pu isoler de composé de monoaddition. Dans le méthanol, en présence de triéthylamine, on obtient directement la dicarbométhoxy-7,9 dicyano-12,12 hydroxy-8 dihydro-9,10 méthano-6,10 (6H) cyclohepta[Z?]quinoxaline 16 (produit d'addition ponté en 6,10).</p>
+					<p>Notons que Fôhlisch (11) a synthétisé des composés analogues à partir du dicarbométhoxy-6,8 oxo-7 (7H) benzocycloheptène , il n'observe qu'un isomère équatorial alors que nous avons mis en évidence la présence des 2 isomères axiaux et équatoriaux.</p>
+					<p>Le composé 16 dont la structure est proche de celle du tétraester 13 présente un spectre de résonance magnétique nucléaire nettement différent. Nous avons en particulier constaté la présence de deux singulets correspondant à des protons de type énol (ô = 12,63 et 6 = 12,4 ppm). Il y a donc un mélange de deux isomères. Nous pouvons écarter les isomères correspondant à une monoaddition. En effet de tels composés donneraient en rmn un massif fortement déblindé correspondant à cinq protons (quatre protons du cycle benzénique et le proton H(10)). Ceci se traduirait, dans le mélange, par une intégration excédentaire dans la zone des protons aromatiques, or celle-ci indique exactement quatre protons. Ce spectre ne peut donc s'expliquer que par un mélange de deux isomères 14b et 15b où les groupes carbométhoxyles en C(9) se trouvent respectivement en position axiale ou équatoriale, ce dernier composé étant majoritaire (75%).</p>
+					<p>L'encombrement stérique du groupe — C=N, plus faible que celui d'une fonction ester, explique que l'on observe la formation de 25% de composé axial dans le cas du composé 13.</p>
+					<p>L'action des nucléophiles carbonés envisagés conduit soit à des monoadditions en 6 soit à des adduits pontés en 6,10. Ces résultats concordent avec ceux de Britten Kelly et Willis (21) dans le cas d'une aa'diénone. Dans le cas des additions avec pontage on constate la formation prépondérante du dérivé possédant une fonction ester en position équatoriale sur (C9).</p>
+					<p>Notons qu'avec les nucléophiles carbonés utilisés nous n'avons pas observé de produits résultants d'une attaque nucléophile sur le carbone C(8) (C=0) ni de bis-addition de deux moles de nucléophile à la fois en 6 et 10 ou 6 et 8 alors que House et al. (14) ont obtenu une addition de type 6,8 avec la cyclohéxène-2 one.</p>
+				</div>
+			</div>
+			<div n="II">
+				<head>Nucléophiles oxygénés et soufrés</head>
+				<div n="1">
+					<head>Nucléophile oxygéné</head>
+					<p>Par action du méthylate de sodium sur 1 aa nous obtenons la dicarbométhoxy-7,9 hydroxy-8 méthoxy-6 (6H) cyclohepta[Z?]quinoxaline 17.</p>
+					<p>Nous constatons sans ambiguïté d'après le spectre rmn une monoaddition.</p>
+					<p>Foster et Payne (13) ont isolé au cours d'une réaction analogue sur la diméthoxy-4,4' cyclohexadiène-2,5 one 18 la tétraméthoxy-3,4,4'5' cyclohexanone-2,5 19 avec un rendement de 17%.</p>
+					<p>Dans le but d'obtenir une bis-addition nous avons fait réagir deux équivalents de méthylate de sodium sur 1 aa; nous avons obtenu le même composé de monoaddition 17.</p>
+				</div>
+				<div n="2">
+					<head>Nucléophiles soufrés</head>
+					<p>Nous avons fait réagir dans le méthanol à chaud les méthyl et benzylmercaptans. Nous avons obtenu avec de bons rendements les composés d'addition 20 et 21.</p>
+					<p>En faisant agir CH3SH sur le composé 18, Foster et Payne nous n'avons pas rencontré de bis-addition de deux moles de nucléophile en 6 et 10 ou 6 et 8, ni d'addition en C(8).</p>
+				</div>
+			</div>
+			<div n="III">
+				<head>Nucléophiles azotés</head>
+				<p>Les nucléophiles azotés tels que les méthyl, phénylhydrazines et l'aniline sont susceptibles comme les nucléophiles carbonés de donner lieu à des pontages.</p>
+				<p>Les méthyl et phénylhydrazines conduisent aux composés 22 et 23.</p>
+				<p>Les produits 22 et 23 ont été identifiés grâce à leur spectre de rmn par analogie avec celui du carbométhoxy-3 oxo-2 tétrahydro-2,3,3a,8 (1H) pyrazolo[5, l-«]isoindole 24 dont Fôhlisch et coll. (15) ont démontré la structure par RX.</p>
+				<p>La formation de ce type de composé peut s'expliquer à partir du monoadduit 25 par deux mécanismes différents proposés par Fôhlisch et coll. (15).</p>
+				<p>(a) Attaque nucléophile sur C( 10) conduisant à un produit ponté 25 puis attaque de l'azote libre sur (C8) (carbonyle) suivie d'une ouverture du cycle en (C7)—C(8). Remarquons que l'attaque du C(8) est favorisée par la proximité géométrique de l'azote.</p>
+				<p>(b) Attaque de l'azote substitué sur le carbonyle puis attaque en (C10) après ouverture du cycle en C(8).</p>
+				<p>Pour essayer de mettre en évidence la formation d'un des intermédiaires 26 ou 27 nous avons tenté de suivre cette réaction en rmn. Nous avons fait agir à température ambiante la phénylhydrazine sur le diester 1 aa dans le méthanol deutérié CH3OD. 3 Nous avons observé directement l'apparition du composé deutérié 28 caractérisé par les signaux des protons H(10) et H(11).</p>
+				<p>Nous avons pu synthétiser 29, un analogue de l'intermédiaire 26 par l'action de l'aniline sur le composé lab. La synthèse de.29 prouve la possibilité d'existence d'un intermédiaire de réaction ponté de type 26. De plus, nous n'avons jamais rencontré avec les nucléophiles utilisés une attaque nucléophile directe sur le sommet 8. Tout ceci nous permet de proposer le premier des deux mécanismes envisagés par Fôhlisch et coll. (15).</p>
+			</div>
+			<div>
+				<head>Conclusions</head>
+				<p>Les différentes réactions d'additions nucléophiles réalisées sur la 8H cyclohepta[/;]quinoxaline dicarboxylate de méthyle-7,9 la conduisent exclusivement à des monoadditions de type 1 et à des produits pontés de bis-addition 6,10 de type 11 ou 11'. Nous n'avons jamais obtenu d'addition provenant d'une attaque nucléophile initiale en C(8) conduisant à une structure de type IV, de produits non pontés de bis-addition en 6 et 10 de type III ni de produits provenant d'un pontage en 6,8 de type V comme dans le cas d'une a énone (14).</p>
+				<p>Nous avons rencontré une triple attaque 6,10 puis 8 lors de l'action de dérivés de l'hydrazine. L'attaque en 8 conduit à une réarrangement complexe et nous avons pu apporter un élément au mécanisme de ce réarrangement.</p>
+				<p>Les additions de Michaël ainsi que les additions nucléophiles sur les cétones sont connues pour être réversibles. Fôhlisch et coll. ont montré que pour la benzotropone le pontage 6,10 était aussi réversible dans les conditions de la réaction. Ce sont donc des réactions sous contrôle thermodynamique et le facteur déterminant est la stabilité des produits finals. De l'étude de nos résultats il ressort que les produits de structure III, IV et V sont moins stables que ceux de structure I, II ou II'. Les structures IV et V ne possèdent plus la stabilisation apportée par la liaison hydrogène forte de l'H énolique avec l'oxygène de l'ester en a qui existe dans toutes les autres structures.</p>
+				<p>Nous n'avons pas d'hypothèse satisfaisante pour expliquer la plus faible stabilité des produits de structure III par rapport à ceux de structure I et II ou II'.</p>
+				<p>La réaction avec le malonate de méthyle montre la plus grande stabilité de la structure pontée II par rapport à la structure I. Par action d'un nucléophile polyfonctionnel: acétone dicarboxylate de méthyl-1,3 nous observons une structure pontée de type II' et non de type II. La structure II' présente deux liaisons hydrogènes intramoléculaires alors que la structure II n'en présente qu'une, de plus cette forme II' a des tensions de cycle plus faibles.</p>
+				<p>En outre ce travail nous a permis d'accéder à de nombreux composés polycyliques complexes dont nous avons pu préciser les structures.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les points de fusion ont été déterminés sur un banc de Kofler et n'ont pas été corrigés.</p>
+				<p>Les microanalyses ont été réalisées sur un appareil Technicon. Les spectres ir ont été enregistrés soit avec un spectrographe Perkin —Elmer 237 soit avec un spectrographe Beckman 1R 4250. Les spectres de rmn ont été enregistrés dans le deutériochloroforme avec le TMS comme référence interne ou dans le DMSO avec le HMDS comme référence interne avec un appareil Varian T 60. Les déplacements chimiques sont exprimés en ppm par rapport au TMS.</p>
+				<p>Dihydroxy-8,13 dihydro-9,10 propéno-10,6 (6 H) cydoliepta(b)quinoxaline tétracarboxylate d'éthyle-7,9,¡2,14 4b</p>
+				<p>Méthode (a)</p>
+				<p>Ce produit a d'abord été obtenu lors de la synthèse de la diméthoxycarbonyl-7,9 oxo-8 (8H) cyclohepta(i&gt;)quinoxalinc. Après filtration du mileu réactionnel, on ajoute dans le filtrat de l'éther de pétrole jusqu'à éclaircissement de la solution. On filtre, puis on évapore à sec. Le résidu ainsi obtenu est extrait à l'éther sulfurique à chaud.</p>
+				<p>Méthode (b)</p>
+				<p>500 mg (2,69 mmol) de quinoxaline dicarboxyaldéhyde-2,3 3 sont dissous dans 50 cm 3 de methanol. On ajoute 1,09 g (5,4 mmol) d'acétone dicarboxylate d'éthyle-1,3 et trois gouttes de triéthylamine. On agite une heure à température ambiante. Un précipité apparaît. Après filtration et lavage à l'éther on obtient 870 mg (55%) de produit d'addition. Recristallisation dans l'éthanol.</p>
+				<p>Méthode fc)</p>
+				<p>500 mg (1,42 mmol) de diéthoxycarbonyl-7,9 oxo-8 (8H) cyclohepta(è )quinoxaline lab sont mis en suspension dans 50 cm 3 de méthanol. On ajoute 290 mg (1,42 mmol) d'acétone dicarboxylate d'éthyle-1,3 et trois gouttes de triéthylamine. On agite à froid pendant une heure. Un précipité blanc apparaît. On filtre, lave à l'éther. On obtient 630 mg (80%) de composé d'addition. Recristallisation dans l'éthanol, F: étalé à partir de 210°C; ir (KBr, cm" ') : 3000, 2950 (CH), 1730, 1650 (C=0), 1615 (C=C); 'H rmn (CDC1,) 5: 0,76 (t, 6H, J = 1 Hz, CH 3 ), 1.46 (t, 6H, CH 3 ), 3.76 (q, 4H, CH 2 ), 3,90 (d, 2H, y 9 -io = 4,5 Hz, H(9) et H(14), 4,36 (q, 4H, CH 2 ), 5,05 (d, 2H, COOCHJ*/ " -,4 = 4,5 Hz, H(6) et H(IO), 7,83 (m. 4H, H(l), H(2), H(3), H(4)), 13,28 (s, 2H, H énol). Anal. calc. pour C 28 H 28 N 2 H I0 : C 60,86, H 5,1 1, N 5,07; trouvé: C 60,92, H 4,85, N 5,42.</p>
+				<p>Dihydroxy-8,13 dihydro-9.10 propano-10,6 (6H) cycloliepta(b)quinoxaline tétracurboxylate de méthyle-7,9,12,14 4a</p>
+				<p>Ce composé peut être synthétisé par l'une ou l'autre des méthodes (b) et (c); F: étalé à partir de 208°C: ir (KBr, cm ') : 3000, 2960 (CH). 1735, 1650 (C=0), 1615 (C=C); 'H rmn (CDC13) 5: 3.33 (s, 6H, CH.,), 3,94 (s, 6H, CH.,), 3,96 (d, 2H, U w = 4,5 Hz, H(9) et H( 14)), 5,08 (d, 2H, J ( ,-, 4 = 4,5 Hz, H(6) et H(10)), 7,85 (m, 4H, H( 1 ), H(2), H(3), H(4)), 13,28 (s. 2H, H énol). Anal. calc. pour C 24 H " ,N,0 1() : C 58,07, H 4,06, N 5,64; trouve: C 58,43, H 3,87, N 5,33.</p>
+				<p>Tétrahxdro-6,7,9,10 propano-6,10 (&lt;SH) cxclohepta(b)qu\noxaline dione-8,13 10</p>
+				<p>500 mg (1,0 mmol) de dihydroxy-8,13 dihydro-9,10 propano-6,10 (6H) cyclohepta(6)quinoxaline tétracarboxylate de methylc-7,9,12,14 4a sont dissous dans un mélange de 10 cm' 1 d'acide acétique concentré et 2,5 cm 1 d'acide chlorhydrique concentré. On laisse à reflux 16 h. On évapore à sec. On reprend le résidu solide à chaud dans 20 cm 1 d'éther. On refroidit, on filtre. On obtient 230 mg (85%) de produit; F &gt; 250°C; ir (KBr. cm"'): 3040. 3000, 2920 (CH), 1690, (C=0); 'H rmn (DMSO) 5: 2,87 (m, 8H, H(7). H'(7), H(9), H'(9), H(11), H'(l 1), H( 13). H'( 13)), 3,68 (m. 2H, H(6) et H(10)), 7,93 (m, 4H, H(l), H(2), H(3), H(4)). Anal. calc. pour C " ,H l4 N 2 0 2 : C 72,17, H 5.30, N 10,52; trouvé: 72,31 H 5,43, N 10,24.</p>
+				<p>Tétrahydro-7.8.9,10 epoxy-8,13 diol-8.13 propano-6,10 (6H) cycloliepta(b)quinoxaline 11</p>
+				<p>200 mg (0,75 mmol) de tétrahydro-6,7,9,10 dione-8,13 propano-6,10 (8H) cyclohepta(6)quinoxaline 10 sont recristallisés dans 20 mL d'eau. Après filtration le produit est séché sur chlorure de calcium sous vide. On obtient 110 mg (55%) de dialcool; F &gt; 250°C: ir (KBr, cm" 1 ): 331Û(0H), 2960, 2915, 2560 (CH), 1635 (C=C); 'H rmn (DMSO) 5: 1,82 (m, 8H, H(7), H'(7), H(9), H'(9), H(11), H'(l 1), H( 12), H'( 12)), 3,59 (m, 2H, H(6) et H(10)), 6,24 (s, 2H, OH), 7,81 (s, 4H, H( 1), H(2), H(3), H(4)). Anal. cale, pour C " ,H 1( ,N 2 0,: C 67,59, H 5,67. N 9,85; trouvé: C 67,85, H 5.48, N 9,73. [bis(methoxycarbonyl)inetliyl]-6 (6H) cyclohepta(b)quinoxaline dicarboxylate de méthyle-7,9 12 200 mg (0,62 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) cyelo-hepta(6)quinoxaline sont mis en suspension dans 10 cm' 1 de méthanol. On ajoute 81 mg (0,61 mmol) de malonate de méthyle et une goutte de triéthylamine. On agite 12 heures à froid. Un précipité apparaît. Après filtration et rinçage avec deux fois 5 cm" 1 d'éther, on obtient 150 mg (55%) d'un produit blanc; F = I85°C; ir (KBr. cm"" 1 ): 3000 (OH), 2950, 2840 (CH). 1725 (C=0), 1645 (C=C); 'H rmn (CDC1.,) 5: 3,30 (s, 3H, CH.,), 3,75 (s, 3H, CH.,), 3,97 (s. 6H, CH.,), 3,98 (d, 1H, H( 11)), 5,53 (s, 1H, H(6)), 7,96 (m, 4H. H(l), H(2), H(3), H(4)), 8,2 (s, 1H, H( 10)), 12,88 (s, 1H, H énol). Anal. calc. pour C 22 H 20 N 2 O 9 : C 57,90, H 4,42, N 6,14; trouvé: C 57,63, H 4,65, N 6,08.</p>
+				<p>Hydroxy-8 dihydro-9,10 methano-6,10 (6H)cyclohepta(b)quinoxaline tétracarboxylate de méthyle-7,9,11 13</p>
+				<p>200 mg (0,62 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) eyelo-hepta(6)quinoxaline sont mis en suspension dans 10 cm 1 de méthanol. On chauffe à environ 50°C. On ajoute trois gouttes de triéthylamine et une solution de 99 mg (0,745 mmol) de malonate de méthyle dans 10 cm 3 de méthanol jusqu'à dissolution complète du diester de départ. On agite une demi-heure à 50°C, puis on refroidit la solution. Le précipité apparu est filtré, lavé avec un peu d'éther. On obtient 190 mg (65%) d'un composé blanc. F = 205°C; ir(KBr, cm" 1 ): 3000 (OH), 2955, 2905, 2840 (CH), 1740, 1720 (C=0), 1640, 1615 (C=C); 'H rmn (CDC1.,) 5: 3,58 (s, 6H. CH.,), 3,78 (s, 3H, CH.,), 3,93 (s, 3H, CH,), 4,42 (s, 2H, H(9) et H(10)), 4,92 (s, 1H, H(6)), 7,80 (m, 4H, H(l), H(2), H(3), H(4)), 12,08 (s, 1H, H énol). Anal. calc. pour C 22 N 20 N 2 O 9 : C 57,90, H 4,42, N 6,14; trouvé C 58,13, H 4,28, N 6,39.</p>
+				<p>Dicyano-11,11 hydroxy-8 dihydro-9,10 methano (6 H) cycloliepta(b)quinoxaline dicarboxylate de méthyle-7,9 16</p>
+				<p>200 mg (6,17 mmol) de diméthoxycarbonyl-7,9 oxo-8(8H) cyclo-hepta(6)quinoxaline sont dissous dans 5 cm' de méthanol. On ajoute trois gouttes de triéthylamine et du malononitrile par petites quantités jusqu'à dissolution complète du diester. On agite à température ambiante pendant une heure. On évapore à sec. On dissout dans 100 mL de chloroforme et on lave la solution obtenue avec une solution de 2.5 cm 1 d'acide chlorhydrique concentré dans 90 cm' 1 d'eau. Après séparation la phase chloroformée est séchée sur sulfate de magnésium, puis évaporée à sec. Recristallisation méthanol/éther. On obtient 160 mg (65%) d'un solide jaune; F = 194°C; ir (KBr, cm" 1 ): 3000 (OH), 2960 (CH), 2255 (C=N), 1745 (C=0), 1665, 1620, 1610 (C=C); 'H rmn (CDC1,) 14b 5: 3,96 (s, 6H, CH.,), 4.80 (d, 1H, J b -9 = 1,5 Hz, H(9)), 4,96 (d, 1H, H(6)), 7,95 (m, 4H, H(l), H(2), H(3), H(4)), 12,63 (s, IH, H énol), H(10) indéterminé; 'H rmn (CDC1,) 156 5: 3,67 (s, 3H, CH.,), 3,96 (s, 3H, CH.,). 4,28 (d, 1H, *A,-,,, = 5,5 Hz,J b -v = 1,5 Hz, H(9)), 4,46 (q, IH, H( 10)), 4,96 (d, 1H, H(6)), 7,95 (m, 4H, H(l), H(2). H(3), H(4)), 12,40 (s, IH, H énol). Anal. calc. pour C 20 H l4 N 4 O,: C 61,54 H 3,62, N 14,35; trouvé: C 61,78 H, 3,92, N 14,95.</p>
+				<p>Méihoxy-6 hydroxy-8 (6 H) cyclohepta(b)quinoxaline dicarboxylate de méthyle-7,9 17</p>
+				<p>100 mg (0,31 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) cyclo-hepta(6)quinoxaline sont mis en suspension dans 10 mL de méthanol. On ajoute 30 mg de sodium et on agite pendant 20 minutes à la température de reflux. On refroidit et on filtre le précipité formé. Après rinçage avec 5 mL d'éther sulfurique et séchage sous vide on obtient 80 mg (72%) d'un solide jaune pâle; F = 222°C; ir (KBr, cm" 1 ): 3440 (OH), 3060, 3000, 2860, 2820 (CH), 1740, 1735 (C=0), 1650 (C=C); 'H rmn (CDC1,) 5: 3,16 (s, 3H, CH,), 3,93 (s, 6H, CH,), 5,88 (s, IH, H(6)), 7,96 (m, 5H, H(l), H(2), H(3), H(4), H( 10)), 13,07 (s, IH, H énol). Anal. calc. pour C lit H, 6 NA,: C 60,67, H 4,53, N 7,86; trouvé: C 60,89, H 4,67, N 7,95.</p>
+				<p>Méthylthio-6 hydroxy-8 (6 H) cyclohepta(b)quinoxaline dicarboxylate de méthyle-7,9 20</p>
+				<p>100 mg (0,3 I mmol) de dimcthoxycarbonyl-7,9 oxo-8-(8H) cyclo-hepta(6)quinoxaline sont dissous dans 5 mL de méthanol saturé en méthylthiol. On ajoute 3 gouttes de triéthylamine et on agite 10 heures à température ambiante. Le précipité formé est filtré, lavé à l'éther, séché sous vide. On obtient 70 mg (60%) d'un solide jaune; F = décomposition à partir de 220°C; ir (KBr, cm" 1 ): 3420 (OH), 3040, 2960, 2950, 2920, 2840 (CH), 1730 (C=0), 1645 (C=C); 'H rmn (CDC1,) 5: 1,90 (s, 3H, SCH,), 3,97 (s, 3H, OCH,), 5,65 (s, IH, H(6)), 7,98 (m, 5H, H(l), H(2), H(3), H(4), H(10)), 13,05 (s, IH, H énol). Anal. calc. pour C, s H l6 N 2 0 5 S: C 58,06, H 4,33, N 7,52; trouvé: C 58,35, H 4,09. N 7,28.</p>
+				<p>Benzylthio-6 hydroxy-8 (6 H) cyclohepta(b)quinoxaline dicarboxylate de méthyle-7,9 21</p>
+				<p>100 mg (0,31 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) cyclo-hepta(6)quinoxaline sont mis en suspension dans 20 mL de méthanol. On ajoute 3 gouttes de triéthylamine et 80 mg (0,65 mmol) de benzylthiol . On agite 2 heures à température ambiante. On filtre le précipité apparu; on le lave avec 10 mL d'éther puis on le sèche sous vide. On obtient 80 mg (55%) d'un solide jaune; F = décomposition à partir de 240°C; ir (KBr, cm" 1 ): 3010 (OH), 2960, 2940 (CH), 1725 (C=0), 1650, 1640 (C=C); 'H rmn (CDC1,) 5: 3,54 (s, 2H, CH 2 ), 3,77 (s, 3H, CH,), 3,94 (s, 3H, CH,), 5,68 (s, IH, H(6)), 7,13 (m, 5H, H phényl), 7,93 (m, 5H, H(l), H(2), H(3), H(4), H(10)), 12,9 (s, IH, H énol). Anal. calc. pour C24H 20 N 2 O 5 S: C 64,27, H 4,49, N 6,25; trouvé: C 64,57, H 4,71, N 6,22.</p>
+				<p>Carbométhoxyméthyl-11 méthoxycarbonyl-7 tétrahydro-6,7,8,10 oxo-8 phenyl-9(9)pyrazolo(5, l-a)pyrrolo(3,4-b)quinoxaline 23</p>
+				<p>100 mg (0,31 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) cyclo-hepta(6)quinoxaline sont mis en suspension dans 5 mL de méthanol. On ajoute 65 mg de phénylhydrazinc. On chauffe à reflux une demiheure . Un précipité apparaît après refroidissement. Après filtration, on reprend le solide dans 5 mL d'éther à chaud et on filtre à nouveau après refroidissement. On obtient 80 mg (60%) d'un solide blanc; F = 154°C; ir (KBr, cm" 1 ) : 3050. 2940 (CH), 1720, 1700 (C=0), 1585 (C=C); 'H rmn (CDCl,) S: 2,81 (m, 2H, J,= 16,5 Hz, H(12) et H'( 12)), 3,46 (s, 3H, CH,), 3,9 (s, 3H, CH,). 4,22 (d. 1H. H(7)), 5,32 (m, 1H, y,,-l2 = y,,-.2' = 5,5 Hz, H(ll)), 5.88 (d, 1H, H(6b)), 7,7 (m, 9H, H(2), H(3), H(4), H(5). H'(2), H'(3), H'(4), H'(5), H'(6)). Anal. calc. pour C 2 ,H 2 " N 4 0 5 : C 63,88, H 12,96. N 4,66; trouvé: C 63,42, H 12,91, N 4,61.</p>
+				<p>Même mode opératoire que précédemment mais en utilisant CD,OD comme solvant: on obtient le composé trideutcric en C( 12) et C(7) 28; 'H rmn (CDCl,) S: 3,45 (s, 3H, CH,), 3,93 (s, 3H. CH,). 5,35 (s, 1H, H(11)), 5,89 (s, 1H, H(6b)), 7,81 (m, 9H, H(2). H(3), H(4), H(5). H'(2), H'(3), H'(4), H'(5), H'(6).</p>
+				<p>Carbométhoxyméthyl-11 tétrahydro-6b,7,8,10 mélhyl-9 mélhoxycarbonyl-7 oxo-8 (9H) pyrazolo(5,1 -&lt;i)pyrrolo(3,4-b)-quinoxaline 22</p>
+				<p>Même mode opératoire que précédemment avec 100 mg (0,31 mmol) de diméthoxycarbonyl-7,9 oxo-8 (8H) cyclohepta(6)-quinoxaline et 30 mg (0,65 mmol) de méthylhydrazine. On obtient 65 mg (55%) d'un solide blanc; F = 219°C; ir (KBr, cm"' ): 2940 (CH), 1735, 1720 (C=0), 1680 (C=C); 'H rmn (CDCl,) S: 2,89 (d, 2H, */,,_,, = J,y-M = 6 Hz, H(12) et H'(12)), 3,2 (s, 3H, CH,). 3,67 (s, 3H, CH,), 3,92 (s, 3H, CH,), 3,95 (d, 1H, J 7 -()b = 11 Hz, H(7)), 5,3 (t. 1H, H( 11 )), 5,74 (d, 1H, H(6b)), 7,95 (m, 4H, H(2), H(3), H(4), H(5)). Anal. calc. pour C 11( H ll( N 4 0,: C 58,37, H 4,90, N 15,13; trouvé: C 58,14, H 4,63, N 14,96.</p>
+				<p>Phénylamino-6,10 dthydro-9,10 hydroxy-8 (6 H) cyclohepla(b)quinoxaline dicarboxylaie de méthyle-7,9 29</p>
+				<p>100 mg (0,31 mmol) de diméthoxycarbonyl-7,9 oxo-8-(8H) cyclo-hepta(6)quinoxaline dicarboxylate de méthyle sont mis en suspension dans 20 mL de méthanol. On ajoute 75 mg (0,69 mmol) d'aniline et 3 gouttes de triéthylamine. On porte à reflux pendant trois heures, puis on refroidit à -20°C. Un précipité apparaît. Après filtration et rinçage</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<title level="m" type="main">avec 5 mL d'éther, on obtient 70 mg (50%) d'un solide ¡aune pâle</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Kbr</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C=C</title>
+							<imprint>
+								<biblScope type="vol">3040</biblScope>
+								<biblScope type="issue">3000</biblScope>
+								<biblScope type="fpage">3070</biblScope>
+								<biblScope type="lpage">2950</biblScope>
+							</imprint>
+						</monogr>
+						<note>C=0. ). 1645. 1640</note>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">'h Rmns, 3h</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Hz. H</title>
+							<editor>d, 1H, Hs, 1H. H</editor>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="issue">7234</biblScope>
+								<biblScope type="pp">659814588214</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">H(4)). Anal. calc. pour C 2</title>
+							<editor>m, 4H, H</editor>
+							<imprint>
+								<biblScope type="pp">8838</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Fôhlisch</forename>
+									<surname>Justus</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Clicm</title>
+							<imprint>
+								<biblScope type="pp">1839</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+									<surname>Cook</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+									<surname>Forbes</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">4501</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Fournari</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">1436</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Bodern</forename>
+									<surname>Ber</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Pesce J</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Cliem</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="pp">676</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Gaumann</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Heilbronner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">1985</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Bertelli</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jr</forename>
+									<forename type="middle">P. O. Crews. J</forename>
+									<surname>Am</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chcm. Soc</title>
+							<imprint>
+								<biblScope type="vol">91</biblScope>
+								<biblScope type="pp">5286</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de 3èmc cycle</title>
+							<imprint>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de 3ème cycle. Université de Rouen</title>
+							<imprint>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de Docteur Ingénieur</title>
+							<imprint>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Fôlisch</forename>
+									<surname>Justus</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chcm</title>
+							<imprint>
+								<biblScope type="pp">1851</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Fôlisch</forename>
+									<surname>Justus</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chcm</title>
+							<imprint>
+								<biblScope type="pp">1861</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">A J</forename>
+									<surname>Payne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Am</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chcm. Soc</title>
+							<imprint>
+								<biblScope type="vol">100</biblScope>
+								<biblScope type="pp">2834</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">O</forename>
+									<surname>House</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">B</forename>
+									<surname>Detar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">V</forename>
+									<surname>Derveer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="pp">3545</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<forename type="middle">Thiele</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Hàdicke</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Fôhlisch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="pp">1148</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">C</forename>
+									<surname>Beyerman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">M</forename>
+									<surname>Siegmann</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">L J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Wlsse</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Reel. Trav. Chim. Pays-Bas</title>
+							<imprint>
+								<biblScope type="vol">75</biblScope>
+								<biblScope type="pp">1445</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">J Rhoads</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">31</biblScope>
+								<biblScope type="issue">171</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Leonard</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">S</forename>
+									<surname>Gutowsky</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">M</forename>
+									<surname>Peterson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">74</biblScope>
+								<biblScope type="pp">4070</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Pryde</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">3212</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Bertelli</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chcm</title>
+							<imprint>
+								<biblScope type="vol">29</biblScope>
+								<biblScope type="issue">3032</biblScope>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">J</forename>
+									<surname>Willis</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">27</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réduction électrochimique de cétones aromatiques encombrées en milieu aprotique et en présence de chlorure de manganèse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Françoise</forename>
+								<surname>Fournier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution" key="instit1">CNRS ERA 557</orgName>
+								<orgName type="institution" key="instit2">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Berthelot</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution" key="instit1">CNRS ERA 557</orgName>
+								<orgName type="institution" key="instit2">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Yves-Louis</forename>
+								<surname>Pascal</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<orgName type="institution" key="instit1">CNRS ERA 557</orgName>
+								<orgName type="institution" key="instit2">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réduction électrochimique de cétones aromatiques encombrées en milieu aprotique et en présence de chlorure de manganèse</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La réduction élcctrochimique de eétones aromatiques encombrées et peu réductibles est réalisable en milieu aprotique (DMF), sur cathode de mercure, en présence de chlorure de manganèse, à un potentiel correspondant au système Mn(II)/Mn(0), mais beaucoup moins négatif que celui de réduction de la cétonc elle-même. Il y a hydrodimérisation sélective en glycol-a et absence totale de polymérisation. Dans le cas de cétones dissymétriques, les diastéréoisomères dl sont formés préférentiellement. L'action du manganèse est due soit à la réduction d'un complexe de manganèse (à bas degré d'oxydation) - cétone, soit à la réduction de la cétone par un film de manganèse colloïdal sur la surface de l'clectrodc.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The electrochemical reduction of hindered aromatic ketones which are difficult to reduce can be achieved in an aprotic medium (DMF) on a mercury pool cathode, in presence of Mn(ll) chloridc, at the reduction potential of the Mn(ll)/Mn(0) system, but less negative than that of the ketone itself. There is selective hydrodimerization into an cn-glycol, with total lack of polymerization. With dissymmetric ketones, the dl diastereoisomers of the diols are produced preferentially. The effect of manganese is due either to the reduction of a Mn(I) or Mn(0) - ketone complcx or to the reduction of the ketone by a film of colloidal manganese on the electrode surface.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>La réduction électrochimique d'aldéhydes et cétones aromatiques en milieu aprotique, en particulier dans le diméthylformamide (DMF), a suscité quelques travaux (1). L'avantage d'un tel milieu est surtout une grande étendue de la zone d'électroactivité d'où une bonne séparation des potentiels de réduction correspondant aux différents transferts électroniques. Selon les cas, l'électrolyse conduit à des glycols-a et à des alcools, mais les rendements sont souvent très diminués par des réactions de polymérisation.</p>
+				<p>La réduction de cétones aromatiques dans le DMF en présence de Cr(II), électrogénéré à partir de sels de Cr(III) favorise souvent l'hydrodimérisation en diol et inhibe totalement les polymérisations. En règle générale, que la cétone seule soit plus facile ou plus difficile à réduire que Cr(II), la réduction en présence du métal se fait toujours à un potentiel moins négatif que le £, /2 de la cétone (2-5). Malgré tout, la sélectivité de cette réaction d'électroréduction assistée est difficile à relier aux valeurs respectives des potentiels de réduction des composés organiques et du sel métallique. De plus, pour les cétones dont le E,/2 est plus positif que celui de Cr(II), on pourrait penser qu'il s'agit là de réduction chimique par les espèces Cr(II) électrogénérées; en effet les résultats sont les mêmes que ceux obtenus par action du chlorure ou de l'acétate chromeux (5).</p>
+				<p>Nous présentons ici les résultats de la réduction électrochimique de cétones aromatiques, en milieu organique aprotique, en présence de sel de manganèse Mn(II). Par rapport aux sels de chrome précédemment étudiés (4, 5), ce système ne présente pas la complexité engendrée par l'existence du système Cr(III)/Cr(II) et évite la compétition entre le phénomène électrochimique et la réduction chimique par le chrome(II). Les cétones étudiées dans ce travail sont représentées dans <ref type="figure">Fig. I</ref>.</p>
+			</div>
+			<div type="section">
+				<head>Résultats et discussion</head>
+				<div type="section">
+					<head>Analyse polarographique et voltammétrique </head>
+					<p>Les mesures ont été effectuées par rapport à l'électrode au calomel saturé (ECS) à double jonction, l'électrolyte support étant une solution de bromure de tétrabutyl ammonium (TBABr) 0,1 M dans le diméthylformamide (DMF).</p>
+					<p>Dans ces conditions, le polarogramme d'une solution de MnCl 2 -4H 2 0 (10~ 3 M) présente une seule vague de réduction biélectronique, irréversible à E [/2 = —1,55 V (système Mn(II)/Mn(0)); dans le DMSO, pour le même système, E¡/ 2 — — 1,68 V (6). En voltammétrie cyclique, en utilisant une goutte de mercure chaque fois renouvelée (électrode de Kémula) et pour des balayages effectués après agitation sous argon, de la solution de chlorure de manganèse, on observe une variation linéaire du potentiel du pic de réduction du système Mn(II)/Mn(0) avec le logarithme de la vitesse de balayage v (dans l'intervalle 5 mV s -1 à 500 mV s -1 ), avec une pente très faible d'environ 20 mV par décade de v. Avec une goutte non renouvelée, les voltamogrammes se modifient à chaque cycle.</p>
+					<p>Les cétones étudiées (Tableau 1) présentent toutes une première vague polarographique de nature réversible. Cette vague correspond à l'échange d'un électron comme le montre la comparaison avec le polarogramme du benzaldéhyde (à 10% près) dont la première vague est monoélectronique (7) et le coefficient de diffusion peu différent de ceux des cétones étudiées. Leur deuxième vague de réduction (monoélectronique et irréversible ) n'est pas toujour visible car masquée par la décharge du sel de fond.</p>
+					<p>Si à une solution KT 3 M en cétone, on ajoute des quantités croissantes de Mn(II), on observe d'abord une diminution régulière des vagues de la cétone tandis qu'apparaît une nouvelle vague aux alentours de —1,50 V. La hauteur de cette vague devient maximale pour un mélange équimoléculaire de cétone et de sel de manganèse. Pour ce rapport 1:1 les vagues de la cétone ont complètement disparu.</p>
+					<p>De la même façon, lorsqu'on ajoute la cétone à une solution 10~ 3 M de chlorure de manganèse(ll), la vague de réduction Mn(II)/Mn(0) se déplace très peu jusqu'à la valeur précédemment obtenue (— 1,50 V) (mélange cétone -sel de manganèse). Après l'équimolarité, les vagues propres à la cétone se superposent à la courbe i—E précédente.</p>
+					<p>Les mêmes observations avaient été faites dans le cas d'un mélange cétone -sel de chrome. Dans ce dernier cas, à l'équimolarité, la vague polarographique unique (système Cr(II)/Cr(0)) est contrôlée par la diffusion et avait été attribuée à l'existence d'un complexe chrome(Il)-cétone (2-5). L'analyse par voltammétrie cyclique de ce mélange Mn(Il)-cétone a été réalisée en prenant la tétralone comme exemple.</p>
+					<p>Sur le voltammogramme du mélange équimolaire (<ref type="figure">Fig. 2</ref>) le pic de réduction Mn(ll) en Mn(0) n'est pas modifié par la présence de la cétone; de même le pic de réduction de la cétone n'est pas modifié par la présence de l'espèce Mn(ll). Enfin au balayage retour, apparaît le pic de réoxydation de la cétone (système réversible). Cette indépendance des deux systèmes en présence est vérifiée pour toute vitesse de balayage supérieure à 5 mV s -'. Pour 5 mV s~' (vitesse d'enregistrement usuelle du polarogramme), il apparaît un seul pic de réduction à un potentiel voisin du potentiel de réduction Mn(ll)/Mn(0) et en balayage retour n'apparaît aucun pic de réoxydation de la cétone. A cette vitesse, la seule espèce réduite forme avec son produit de réduction un système irréversible.</p>
+					<p>Pour un mélange équimolaire de sel de manganèse et de cétone, la variation avec la vitesse de balayage (v) du potentiel Ep c du premier pic de réduction (réaction Mn(ll) —» Mn(0)) est la même qu'en absence de cétone (ô£V c /ôlogv ~ —20 mV) dans l'intervalle 10 à 500 mV s" 1 et dans le même temps, il apparaît le pic de réduction de la tétralone libre vers -1,975 V pour v &gt; 10 mV s -1 . Celui-ci d'intensité d'abord très faible et se déplaçant légèrement vers des potentiels moins négatifs se fixe à —1,96 V à partir de 100 mV s"' tandis que sa hauteur relative croît et que le système devient de plus en plus réversible.</p>
+					<p>Il apparaît donc que le complexe cétone-manganèse, mis en évidence par la polarographie, ne se forme que très lentement et n'affecte les voltammogrammes que pour des balayages à très faible vitesse. Une confirmation est apportée par l'étude de l'influence de la concentration en cétone en présence de Mn(II) (10~ 3 M) pour une vitesse de balayage fixée à 50 mV s' 1 . Le premier pic de réduction reste fixe, celui de la cétone n'apparaissant que pour une concentration de 0,75 x 10~3 M(— 1,955 V) et se déplaçant légèrement vers des potentiels plus négatifs, pour atteindre —2,015 V pour une concentration en cétone de 10"" 2 M. Tout au long de cette étude, il a été vérifié qu'une goutte de mercure non renouvelée reste passivée, et entraîne en conséquence la non-reproductibilité des voltammogrammes . Tout cela semble indiquer en fait, la formation d'un film, les modifications irréversibles de la surface de l'électrode étant imputables aux espèces Mn(0) formées (amalgame ou film de métal colloïdal); le film superficiel formé sur l'électrode étant plus ou moins inhibiteur pour la réduction des ions complexes métalliques mais non pour les molécules de cétone. On peut penser qu'il en est de même dans les conditions d'une électrolyse préparative à un potentiel contrôlé plus négatif que celui de la réduction de Mn(II) en Mn(0).</p>
+					<p>Electrolyse à potentiel contrôlé</p>
+					<p>Une autre méthode d'étude de la réaction qui se produit au niveau du pic correspondant au complexe manganèse-cétone est l'identification des produits préparés par électrolyse au potentiel de ce pic. Ces réductions ont été conduites sur des mélanges, en proportions équimolaires de cétone et chlorure de manganèse. Le résultat des électrolyses préparatives pour chaque cétone étudiée est consigné dans le tableau 1 et peut être comparé aux résultats obtenus pour ces mêmes cétones en présence de chlorure de chrome (4, 5).</p>
+					<p>Le potentiel de demi-vague correspondant au complexe manganèse-cétone permet de classer les cétones 1 à. 7 en 3 catégories.</p>
+					<p>(i) Les cétones beaucoup moins réductibles que Mn(Il) et dont le £,/ 2 du complexe est voisin de celui de Mn(II)/Mn(0) seul: 1 à 4. Pour ces composés, la réduction électrochimique en présence de Mn(II) conduit à des résultats semblables à ceux de la réduction effectuée en présence de Cr(II) en imposant le potentiel de la vague du complexe Cr(II)-cétone.</p>
+					<p>(ii) Une cétone de potentiel de réduction légèrement inférieur à celui de Mn(II) et dont le £1/2 du complexe est voisin de celui de Mn(II): la benzophénone 5 qui conduit quantitativement au benzhydrol alors qu'avec Cr(III) on isolait à côté du benzhydrol (18%), un pourcentage assez élevé de diol (74%).</p>
+					<p>(îii) Les cétones de potentiel de réduction voisin ou supérieur à celui de Mn(II) et dont le £1/2 du complexe est déplacé vers les potentiels moins négatifs: la xanthone 6 et la fluorénone 7 où il y a récupération quantitative du produit de départ alors qu'avec Cr(III) la xanthone 6 donnait le xanthol et la fluorénone 7 un mélange du diol (38%) et du fluorénol (48%). Pour ces trois dernières cétones (5, 6,7), nous ne pouvons actuellement apporter une explication satisfaisante de ces différences expérimentales. Une électrolyse à un potentiel correspondant au palier de la vague de réduction du complexe manganèse-cétone, permet d'obtenir avec un bon rendement les glycols-a d'hydrodimérisation lorsque le potentiel de demivague de la cétone est beaucoup plus négatif que celui de Mn(II). Les glycols-a obtenus avec les cétones dissymétriques sont en majorité comme avec le chrome (4, 5) les diastéréoisomères dl, ce qui s'explique bien par des effets stériques, si on admet qu'au moment de la soudure des radicaux ions cétyles, ceux-ci sont fixés au manganèse par leurs atomes d'oxygène, conduisant alors au pinacolate fixé sous sa forme cisoïde, dont la configuration, dl est beaucoup moins encombrée (un raisonnement analogue est développé dans la réf. 8 pour la réduction chimique de l'indanone). Seules les configurations des diols correspondants à 1 et 2 ont été jusque là déterminées de façon rigoureuse (8, 9), mais nous avons pu mettre au point une méthode spectrale d'attribution de toutes les configurations (10). Il est à remarquer que la réduction directe des cétones dans le DMF au potentiel de leur première vague polarographique donne surtout des polymères (plus de 80%).</p>
+					<p>Pour tenter d'analyser le mécanisme de la réduction indirecte , en présence de sel de manganèse, particulièrement dans le cas des cétones les moins réductibles, nous avons enregistré les polarogrammes sur des échantillons prélevés en cours d'électrolyse et ramenés à des concentrations de 10~ 3 M (<ref type="figure">Fig. 3</ref>). Pour l'équimolarité entre le manganèse et la tétralone 1 par exemple, au début de l'électrolyse, le polarogramme présente la seule vague de réduction du complexe manganèse -cétone. Pendant le passage du premier Faraday, outre la décroissance de cette vague proportionnellement au nombre de coulombs consommés on note l'apparition de la vague de la cétone libre. Pour 1 Faraday, les deux vagues ont même hauteur . Entre 1 et 2 Faradays, la vague du complexe cétone manganèse continue à décroître pour disparaître à 2 Faradays et alors seule la vague de réduction de la cétone libre apparaît. Après 2 Faradays la vague de la cétone diminue et disparaît peu après 3 Faradays. L'intensité du courant d'électrolyse (<ref type="figure">Fig. 3</ref>) est faible et constante (70 mA) jusque vers 0,6 F, décroît linéairement jusque 1 F à 40 mA, reste de nouveau constante jusque 1,6 F, décroît de nouveau linéairement pour rester sensiblement constante et très faible (de l'ordre de 10 mA) entre 2 et 3 F. Pour une électrolyse de Mn(II) seul, le courant initial est très faible vers 30 mV, constant jusque 0,6 F puis décroît linéairement pour s'annuler à 2 F. 11 y a donc libération d'une partie de la cétone en cours d'électrolyse, cela pourrait s'expliquer par la disparition progressive de Mn(II) sous forme de métal déposé et en suspension, ce qui libérerait les molécules de cétone complexées, quant aux courbes i = f (Q) elles seraient en faveur d'un complexe Mn(I)-cétone montré par l'existence d'un palier de courant de I à 1,6 F lors de l'électrolyse du mélange équimolaire cétone -Mn(Il). L'électrolyse a nécessité le passage total de 3 F pour obtenir les produits de réduction et disparition totale de la cétone initiale (1 F est nécessaire à la réduction de la cétone, 2 F pour réduire Mn(II) au stade Mn(0)).</p>
+					<p>Une autre façon d'évaluer le nombre d'électrons consommés par la réaction est d'arrêter l'électrolyse avant qu'elle soit terminée . Après passage de 2,2 F et traitement immédiat, on récupère 19% de cétone (tétralone 1) et il s'est formé 63% de diol (d, l: 45%; méso: 18%); 80% du produit initial a donc réagi dès le passage d'environ 2 F. D'autre part, en amenant Mn(II) sous forme Mn(0) par électrolyse puis en ajoutant ensuite la tétralone 1 dans le milieu, la cétone de départ est récupérée intégralement que l'on maintienne ou non le potentiel de réduction imposé lors des électrolyses normales.</p>
+					<p>Il semble donc, que l'hydrodimérisation se fait pendant l'électrolyse par réaction entre la cétone et une espèce électrogénérée instable contenant du manganèse à bas état d'oxydation . Une condition impérative étant la présence de la cétone dès le début de l'électrolyse pour obtenir les meilleurs rendements (Tableau 1) (85% de diol pour la tétralone I), en effet, l'addition de la cétone à 1,5 F puis poursuite normale de l'électrolyse jusqu'à 3 F fournit 65% de diol {d, I: 50%; méso: 15%) et polymérisation.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Comme dans le cas du chrome (2-5), le système actif est le système Mn(II)/Mn(0). L'avantage certain du manganèse par rapport à Cr(II) est la stabilité de l'espèce Mn(II), ce qui entraine une plus grande simplicité du système et notamment supprime toute sorte de réactions parasites. Il faut aussi bien sûr pour le temps d'électrolyse décompter l'étape Cr(IIl)/Cr(II) inutile à la réduction électrochimique. Ceci permet de distinguer la réaction électrocatalysée (uniquement présentée avec Mn(II)) de la réduction chimique (cas de Cr(II)). Cette réduction parasite, qui complique les phénomènes, explique peutêtre la non-réactivité de la xanthone et de la fluorénone avec Mn(II) (Tableau 1), bien que les 2 systèmes soient actifs avec Cr(III).</p>
+				<p>L'existence d'un complexe entre le métal et le composé carbonylé n'a pas pu être établie avec certitude mais est hautement probable. Pour les cétones 1 à 4 (plus difficiles à réduire que Mn(II) ou Cr(II)) où AV (£,/ 2 métal — £| /2 cétone) est de l'ordre de 400 mV, les résultats sont à toute fin pratique identiques en présence de Mn(II) et en présence de Cr(II): rendements , proportions de glycol et d'alcool, proportions de diastéréoisomères dl et méso. Il semble que le mécanisme puisse être le même avec les deux espèces métalliques: réduction d'un complexe entre le métal à bas degré d'oxydation (I ou 0) et la cétone ou le radical cétyle, soit encore formation d'un film de métal colloïdal à la surface de l'électrode (5) sans toutefois éliminer complètement la réduction d'un complexe avec Cr(II) ou Mn(II) (2-5). Par contre, avec les cétones 5 et 6, où A V est voisin de 150 mV, le mécanisme serait différent selon l'espèce métallique formée à l'électrode. Avec la cétone 7, plus réductible que Cr(II) ou Mn(II) (AV de l'ordre de -300 mV), la réduction pourrait être, au moins en partie, réalisée directement par le métal(II) électrogénéré pendant la durée de l'électrolyse, comme le montre la similitude des résultats des réactions chimiques et électrochimiques (5). Pour rendre compte de l'inhibition de la polymérisation, il semble nécessaire que le radical électrogénéré directement ou indirectement, soit fixé par coordination ou chimisorption grâce à son atome d'oxygène sur un site agissant comme acide de Lewis. Cela explique en même temps la formation préférentielle des isomères dl des diols quand la cétone est dissymétrique, ainsi que le gain d'énergie d'activation observé pour la réduction de la cétone.</p>
+				<p>Nous ne pouvons, faute de données suffisantes, proposer pour l'instant un mécanisme précis quant à cette réduction. Nous avons entrepris l'étude du film par des méthodes spectroscopiques et électrochimiques. Cependant, un premier mécanisme peut être envisagé pour l'ensemble des différentes étapes réactionnelles:</p>
+				<p><formula>L = DMF L ( , Mn" + ê ^ L ( , Mn' rapide L ( , Mn 1 + R 1 R J C = 0 "complexe cétone -Mn 1 " lent</formula></p>
+				<p>Ce mécanisme rend compte de l'apparition de la cétone libre en cours d'électrolyse et du caractère catalytique de la réduction (5). Nous poursuivons l'étude de cette réaction électrochimique avec d'autres sels de métaux de transition.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les points de fusion ont été déterminés au banc de Koflcr et au microscope à platine chauffante Leitz. Les spectres ir ont été obtenus avec un spectromètre Pye-Unicam SP 3 200; ceux de rmn 'H avec les appareils Brukcr WP 80 et Bruker SY 250. Les chromatographies sur couche mince ont été réalisées sur gel de silice fluorescente "Merck PF-254", (plaque 20 x 20, e = 0,1 cm).</p>
+				<p>En électrochimie, tous les potentiels ont été mesurés par rapport à une électrode de référence au calomel et K.C1 saturé, à double jonction Tacussel RDJ/C 10. Les polarogrammes ont été enregistrés sur une table traçante XY Iffelec IF 3802 couplée à un polarographe PAR 174 A. Les voltammogrammes ont été réalisés grâce à un potentiostat PAR 173 gouverné par un générateur de signaux PAR 175, sur goutte de mercure fournie par une électrode de Kémula à piston micrométrique.</p>
+				<p>Les électrolyscs ont été réalisées en atmosphère d'argon, à 20°C, avec un potentiostat PAR 173 muni d'un coulomètrc PAR 179, sur une cathode de mercure de 26 cm 2 environ de surface et agitée avec un barreau aimanté. Les compartiments anodique et cathodique sont séparés par une pastille de verre fritte de porosité 4 et de 2,5 cm de diamètre. L'anode est un disque de platine de 2 cm de diamètre.</p>
+				<p>Le DMF utilisé contient du bromure de tétrabutylammonium 0,1 M et un peu d'eau 2 x 10~2 M environ (dosage de Karl-Fischer). Ainsi pour les analyses voltammétriqucs avec des concentrations en MnCli -41-120 de 10"'1 M. la concentration d'eau est de l'ordre de 2 à 3 x 10~2 M, pour les électrolyses où la concentration de sel de manganèse est en général de 7 x 10~2 Ai (5 x 10 "-1 mol dans 70 cm3 de solvant), la concentration d'eau est de 0,45 M environ.</p>
+				<p>En fin de réaction (déterminée par analyse polarographique) le mélange obtenu est versé dans un grand volume d'eau (700 cm"1 au moins), extrait à l'éther et séché sur sulfate de sodium. Le solvant est chassé sous vide, le résidu séparé par chromatographie en couche mince de silice.</p>
+				<p>Beaucoup de produits obtenus sont connus (11-14) et nous les avons identifiés par leurs caractéristiques physiques et spectroscopiques, par comparaison avec celles d'échantillons authentiques. Les particularités observées et les spectres de rmn des glyeols obtenus sont donnés dans les réfs. 5 et 10.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Seguin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Uzan</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. R. Acad. Sci. Ser</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic/>
+						<monogr>
+							<title level="j">C</title>
+							<imprint>
+								<biblScope type="vol">278</biblScope>
+								<biblScope type="issue">129</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+									<surname>Michel</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Simonet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">319</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2090</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Lamy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Nadjo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">50</biblScope>
+								<biblScope type="pp">141</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Lasia</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">3256</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">E</forename>
+									<surname>Given</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Schoen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">2674</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Cleghorn</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">140</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Perrin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Pouillen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<biblScope type="pp">221</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Ser. C</title>
+							<imprint>
+								<biblScope type="vol">284</biblScope>
+								<biblScope type="pp">955</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H. P. Utley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">1087</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L Pascal. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">294</biblScope>
+								<biblScope type="issue">849</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron. À paraître</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">E</forename>
+									<surname>Johnson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="pp">2070</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Anthoine</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B. Wilmet-Devos</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Belg</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">465</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Majerus</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Ourisson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">4143</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Seebach</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Daum</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">110</biblScope>
+								<biblScope type="pp">2316</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Convert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<imprint>
+								<publisher>Tetrahedron. Soumis à publication</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Majerus</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Ourisson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">4143</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Seebach</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Daum</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">110</biblScope>
+								<biblScope type="pp">2316</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Goth</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Schmidt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">48</biblScope>
+								<biblScope type="pp">1395</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<surname>Altman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Ginsburg</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">1498</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

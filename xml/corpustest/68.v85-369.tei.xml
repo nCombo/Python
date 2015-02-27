@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Stéréochimie de la réduction des a-iminocétones. Étude de l'effet des substituants par une approche quantitative des facteurs gouvernant la stéréosélectivité</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Benito</forename>
+								<surname>Alcaide</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Carmen</forename>
+								<forename type="middle">L</forename>
+								<surname>Mardomingo</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Rafael</forename>
+								<surname>Pérez-Ossorio</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Joaquín</forename>
+								<surname>Plumet</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roger</forename>
+								<surname>Phan-Tan-Luu</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michelle</forename>
+								<surname>Sargent</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Benito</forename>
+								<surname>Alcaide</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Carmen</forename>
+								<forename type="middle">L</forename>
+								<surname>Mardomingo</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Rafael</forename>
+								<surname>P£rez-Ossorio</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Joaquin</forename>
+								<surname>Plumet</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roger</forename>
+								<surname>Phan-Tan-Luu</surname>
+							</persName>
+						</author>
+						<affiliation>
+							<orgName type="department" key="dep1">Departamento de Química Orgánica</orgName>
+							<orgName type="department" key="dep2">Facultad de Química</orgName>
+							<orgName type="laboratory">Laboratoire de Prospective Réactionnelle et d'Analyse de l'Information</orgName>
+							<orgName type="institution">Universidad Complutense</orgName>
+							<address>
+								<addrLine>Ciudad Universitaria</addrLine>
+								<postCode>28040</postCode>
+								<settlement>Madrid</settlement>
+								<country key="ES">Espagne</country>
+							</address>
+						</affiliation>
+						<affiliation>
+							<orgName type="institution">Université d'Aix-Marseille III</orgName>
+							<address>
+								<addrLine>Rue Henri Poincaré</addrLine>
+								<postCode>13397</postCode>
+								<settlement>Marseille</settlement>
+								<country key="FR">France</country>
+							</address>
+						</affiliation>
+						<title level="a" type="main">Stéréochimie de la réduction des a-iminocétones. Étude de l'effet des substituants par une approche quantitative des facteurs gouvernant la stéréosélectivité</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">63</biblScope>
+							<biblScope type="fpage">2241</biblScope>
+							<date type="published" when="1985">1985</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>À partir du rapport RR,SS/RS,SR des 2-aminoéthanols isomères obtenus par réduction de 24 a-iminocétones (LiAlH4) les auteurs ont étudié l'influence des substituants sur la stéréochimie de la réaction en postulant un modèle mathématique à 7 coefficients. Les valeurs de ces coefficients calculées par regression multilinéaire sont d'accord avec le mécanisme de réduction postulé précédemment et mettent en évidence quelques conclusions additionnelles. L'application des méthodes modernes de construction de matrices d'expériences permet d'en choisir 10 d'un ensemble de 24 expériences et montre que ce sous-ensemble permet d'extraire des informations de la même qualité.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Using the isomeric ratio of RR,SS to RS,SR of a series of 2-aminoethanols obtained by the LiAlfL reduction of 24 oi-iminoketones we propose a mathematical model with 7 coefficients for the effect of substituent on the stereochemical course of the reaction. The values of these coefficients obtained by multilinear regression analysis are in agreement with the previously proposed mechanism for reduction but allow for some additional conclusions. The use of modern methods for the construction of experimental matrices allows us to choose 10 from a total can be obtained from this subset.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>La réduction des a-iminocétones par l'action de l'hydrure de lithium-aluminium (HAL) conduit à la formation de mélanges de 2-aminoéthanols stéréoisomères (1, 2).</p>
+				<p>L'étude du cours du processus permet d'établir que la stéréochimie de la réaction est le résultat d'une compétition entre deux chemins réactionnels formulés dans la fig. 1. Le chemin a est le résultat de l'attaque préalable du groupement carbonyle conduisant à l'isomère RR,SS, et le chemin b, issu de l'attaque préalable du groupement imino conduisant à l'isomère RS,SR. Cette simplification fondée sur les données expérimentales dans le cas des a-iminocétones dérivées des systèmes benzyliques 2 et raisonnablement étendue aux autres a-iminocétones 3 a été expliqué précédemment à l'aide des modèles stéréochimiques qui rendent compte du résultat du processus (2).</p>
+				<p>L'objectif de ce travail est de déduire une équation multiparamétrique , en utilisant les données expérimentales disponibles et qui nous permettra d'établir quantitativement l'influence de la modification structurelle des a-iminocétones sur la stéréochimie de la réduction. Dans ce but, nous avons fait varier les substituants R 1 et R 2 (Ph ou Me, <ref type="figure">fig. 1</ref>), et R 3 par le changement de la nature et de la position (m ou p) du substituant aromatique X. Pour caractériser ce substituant, nous avons choisi deux paramètres électroniques qui décrivent les effets inductif et de résonance que nous voulons considérer. Finalement nous effectuerons une critique méthodologique "a posteriori" de la démarche suivie dans le traitement du problème.</p>
+			</div>
+			<p>Modèle mathématique</p>
+			<p>Notre modèle mathématique est une équation dont la réponse étudiée est le pourcentage du stéréoisomère RR,SS, et qui comprend quatre termes du premier degré, traduisant l'effet global des variables étudiées et deux termes d'intéraction qui tiennent compte de la possibilité de que l'effet de la nature du substituant R 3 n'est pas indépendant de la nature du substituant R 2 . L'effet global de R 3 est décrit par les paramètres a* et c^ (5). Le modèle peut donc s'écrire:</p>
+			<p><formula>[1] Y = (%RR,SS) = a 0 + a,(R') + a 2 (R 2 ) + «3(^0 de X) + a 4 (o"i de X) + a 23 (R 2 ) (a* de X) + a 24 (R 2 ) (CT, de X)</formula></p>
+			<p>Nous avons réuni l'ensemble de 24 molécules dont on a étudié la réduction avec HAL/Et 2 0 dans le tableau 1, ainsi que les valeurs des variables correspondantes et la réponse expérimentale obtenue. Pour éviter le danger d'une interprétation du modèle exprimé avec des variables naturelles, nous utilisons pour le facteur R 3 des variables codées (6) qui sont obtenues à partir de la transformation:</p>
+			<p><formula>[2] variable codée = (variable naturelle — centre)/pas</formula></p>
+			<p>Pour chaque variable, le centre choisi est la valeur médiane et le pas de variation est tel que la variable codée est comprise entre +1 et — 1. Le tableau 2 résume les valeurs du centre et pas choisies pour chaque variable.</p>
+			<p>L'équation [1] peut alors s'écrire:</p>
+			<p><formula>[3] Y = ¿»o+ b\X\ + b2x2 + bjXj + bAxA + ¿&gt;23*2*3+ ¿24*2*4</formula></p>
+			<p>Nous donnons dans le tableau 3 la matrice d'expériences exprimée en variables codées.</p>
+			<p>Les valeurs trouvées pour les facteurs d'inflation 4 étant satisfaisantes (tableau 4), nous pouvons calculer par la méthode des moindres carrés des estimations valables des coefficients du modèle:</p>
+			<p><formula>[4] Y = 55,7 -1,1*, + 27,9;c 2 -6,9x 3 -1,5* 4 -11,6*2*3-3,2*2*4 (R\ = 0,96) 5</formula></p>
+			<p>Interprétation</p>
+			<p>Nous pouvons constater la faible influence de la variable x, {b 1 = —1,1). Les autres coefficients b 2 , et respectivement égaux à +27,9, —6,5 et —1,5 ne peuvent être interprétés seuls, les effets des variables x 2 , x 3 etx 4 n'étant pas indépendants par hypothèse (intéractions x 2 x 3 et x 2 x*). D'autre part, la haute valeur du coefficient b 23 (—11,6) et la petite valeur (-3,2) de b 24 sont significatives. L'intéraction la plus importante, b 23 , correspond aux variables (R 2 ): (ctq de X) ce qui signifie que les effets des substituants en position 3 sur la réponse étudiée ne sont pas additifs, c'est-à-dire, l'influence de o"o de X sur %RR,SS n'est pas la même suivant la nature de R 2 (Me ou Ph). Ceci peut être visualisé facilement en représentant la réponse Y en fonction de CTq de X ( <ref type="figure">fig. 2</ref>).</p>
+			<p>Nous en déduisons que l'influence de CTq de X sur la stéréochimie de la réaction est beaucoup plus importante dans le cas de monoimines dérivées du benzyl (expériences 1-10, correspondant à la présence d'un groupement phényl en position 2) que dans le cas où R 2 est un groupement méthyl, expériences 11 -24 pour lesquelles l'influence de ao est pratiquement nulle.</p>
+			<p>Conclusion du point de vue chimique</p>
+			<p>L'étude de la réaction de réduction réalisée sur l'ensemble de 24 a-iminocétones et celle du modèle confirment le schéma réactionnel proposé ( <ref type="figure">fig. 1</ref>) et mettent en évidence le changement de mécanisme en passant des composés avec R 2 = Ph aux composés avec R 2 = Me.</p>
+			<p>Pour les molécules 1-10, le chemin de réaction a est choisi de préférence au chemin b: les caractéristiques électroniques du groupement phényl en position 2 provoquent un "durcissement" du groupement carbonyle (chemin a) et donc l'augmentation du pourcentage de l'isomère RR,SS (voir <ref type="figure">fig. 1</ref>). Ceci implique que la cétone n'est pas conjugée au groupe imino, ce qui a été confirmé pour ces composés par analyse au rayons-X (8) et rmn du carbone-13 (9).</p>
+			<p>Dans le premier groupe de molécules l'influence de la nature électronique de R 3 est confirmée (2). Plus le substituant R 3 est électrodonneur plus la conjugaison augmente, c'est-à-dire, plus grande est la planarité entre groupements aromatique R 3 et imino. Par conséquent il y a une augmentation du pourcentage de l'isomère RR,SS.</p>
+			<p>Par contre cette influence est nulle pour le deuxième sousensemble d'iminocétones (11-24, R 2 = Me). Nous constatons que la substitution d'un méthyl par un phényl en position 1, et le caractère inductif du substituant R 3 n'ont pas d'influence sur la stéreochimie de la réduction de ce genre de composés.</p>
+			<p>Présentation d'une strategie optimale</p>
+			<p>Les données que nous avons utilisées dans la première partie de cette étude ont été obtenues sans suivre une strategie bien définie, le problème se précisant au fur et à mesure de l'avancement du travail.</p>
+			<p>Nous allons illustrer l'application de la Méthodologie de la Récherche Expérimentale (10) à notre problème en supposant qu'aucune expérience n'a été faite. Nous avons à notre disposition 24 molécules candidates.</p>
+			<p>1. Cet ensemble de molécules contient-il assez d'information?</p>
+			<p>Les valeurs des coefficients d'inflation permettent de dire que cet ensemble est bien structuré et que les informations obtenues sont de bonne qualité. Rappelons que les facteurs d'inflation peuvent être calculés avant d'avoir effectué des expériences.</p>
+			<p>2. Peut-on réduire le nombre d'expériences sans affecter sensiblement la qualité des informations fournies?</p>
+			<p>Nous avons extrait de l'ensemble de 24 points candidats le meilleur sous-ensemble permettant d'étudier le modèle postulé . Le critère choisi est le critère d'optimalité-D (maximisation du déterminant de la matrice d'information normée |M|). Pour différentes valeurs de/V (yV = nombre de molécules) nous avons calculé la matrice d'expériences optimale-D. Dans la <ref type="figure">fig. 3</ref>, nous montrons la variation de |M| en fonction de N. On peut constater l'existence d'un maximum pour TV = 10. La matrice d'expériences correspondente comporte les molécules données dans le tableau 5. La valeur du déterminant normé décroit régulièrement de N = 10 àyV = 24 ( <ref type="figure">fig. 3</ref>). Les valeurs des facteurs d'inflation sont satisfaisantes pour la matrice d'expériences optimale-D (tableau 4).</p>
+			<p>Nous avons calculé les coefficients du modèle (éq. [3]) par la méthode des moindres carrés en utilisant le sous-ensemble des 10 molécules. Les valeurs de ces coefficients ne diffèrent pas significativement de celles que nous avons calculées plus haut avec la totalité de molécules (tableau 6). Dans le tableau 7, nous avons réuni les valeurs expérimentales (%RR,SS) et les valeurs de la réponse calculées à partir des modèles à 24 et à 10 expériences. L'accord entre ces valeurs est satisfaisant.</p>
+			<p>Matrice d'expériences robuste</p>
+			<p>La structure de la matrice d'expériences optimale n'est valable que pour le modèle formulé. Si nous changeons de modèle , il est évident que la matrice d'expériences sera modifiée, les informations nécessaires n'étant pas les mêmes.</p>
+			<p>Dans une deuxième démarche, nous envisageons le cas où nous ne faisons aucune hypothèse sur le modèle. Nous avons utilisé une démarche analoge à celle de Kennard et Stone (11) qui propose une répartition uniforme de points dans le domaine expérimental. La procédure originale est insuffisante à certain niveau: elle ne donne que l'ordre d'apparition des points mais ne permet pas de mettre en évidence des arrangements de points constituants des structures optimales que nous appelons "stables". Nous avons utilisé un algorithme modifié mettant en évidence ces structures. Ceci nous permet de sélectionner un sous-ensemble de points qui nous donne suffisamment d'information pour envisager une interpolation ultérieure. La meilleure distribution de points donnant une structure stable est celle donnée dans le tableau 8.</p>
+			<p>Les deux matrices obtenues comportent de nombreux points communs. Notons la proximité topologique des points 19 et 20.</p>
+			<note>2 L'hydrogénation catalytique d'iminocétones benzyliques et la réduction ultérieure des aminocétones intermédiaires avec HAL conduit exclusivement à l'isomère RS,SR (3, 4). </note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Alcaide</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Fernandez</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">López</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Mardomingo</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Pérez-Ossorio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Plumet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">3234</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Alcaide</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">López</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Mardomingo</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Pérez-Ossorio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Plumet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1649</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Alcaide</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Escobar</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">López</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Mardomingo</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Pérez-Ossorio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Plumet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">2033</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Alcaide</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Escobar</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Pérez-Ossorio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Plumet</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Prep. Proc. Int. (Brief)</title>
+							<imprint>
+								<date type="published" when="1982"/>
+								<biblScope type="pp">220</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<title level="m" type="main">Correlation analysis in chem-istry</title>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1978"/>
+								<publisher>Plenum Press</publisher>
+								<biblScope type="pp">439</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Mathieu</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse d'Etat. Université d'Aix-Marseille III</title>
+							<imprint>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<title level="m" type="main">Regression analysis by example</title>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">Wiley</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<biblScope type="pp">182</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Fonseca</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S. García-Blanco</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Martinez</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Crys-tallogr. Sect. B</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">2643</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>García Ruano</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Haro</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Pascual</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Pérez-Ossorio</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Plumet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">An. Quim</title>
+							<imprint>
+								<biblScope type="vol">75</biblScope>
+								<biblScope type="pp">165</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<title level="m" type="main">New Efficient Methodology of Research using Opti-mal Design</title>
+							<author>
+								<persName>
+									<forename type="first">Nemrod</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">A</forename>
+									<surname>Stone</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Technometrics</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="pp">137</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">D J</forename>
+									<surname>Snee</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Quai</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Technol</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="issue">159</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

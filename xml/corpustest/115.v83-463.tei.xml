@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude polarographique du niobium dans les mélanges eau — fluorure d'hydrogène</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">H</forename>
+								<surname>Ménard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department" key="dep1">Département de chimie</orgName>
+								<orgName type="department" key="dep2">Faculté des sciences</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K 2R1</postCode>
+									<settlement>Sherbrooke</settlement>
+									<region>Qué</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">R</forename>
+								<surname>Beaudoin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department" key="dep1">Département de chimie</orgName>
+								<orgName type="department" key="dep2">Faculté des sciences</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K 2R1</postCode>
+									<settlement>Sherbrooke</settlement>
+									<region>Qué</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude polarographique du niobium dans les mélanges eau — fluorure d'hydrogène</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'analyse de certains minerais requiert leur solubilisation dans le fluorure d'hydrogène. Nous avons élaboré une méthode d'analyse directement applicable aux mélanges eau —fluorure d'hydrogène.</p>
+				<p>Cependant, dans l'acide fluorhydrique 50% le niobium est soluble sous la forme du complexe NbF6 qui est réductible à l'électrode polarographique à un potentiel de - 0 , 8 8 0 volt vs. ECS. Pour des concentrations inférieures à 45% en HF, le complexe du niobium s'hydrate pour donner l'ion NbOF5 " non réductible.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Solubilization in hydrogen fluoride is required for the analysis of some minerals. A method of analysis directly applicable to water — hydrogen fluoride mixtures was worked out.</p>
+				<p>However, in 50% hydrofluoric acid niobium is soluble as NbF6 complex, which can be reduced with a polarographic electrode at a potential of —0.880 V vs. E.C.S. For concentrations lower than 45% in HF, the niobium complex is hydrated and exists as a non-reducible ion NbOF5</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>La polarographie du niobium peut s'effectuer dans un grand nombre de milieux (1), pour autant que les éléments interférents soient absents au facilement éliminables. Le minerai de niobium contient généralement du tantale. Il est donc important de pouvoir analyser le mélange de ces deux métaux doués de propriétés similaires. Quoique le tantale ne donne que rarement une vague polarographique (2), il peut toutefois interférer dans certains milieux en formant un complexe contenant à la fois le tantale et le niobium. Ces complexes diffusent plus lentement à cause de leur taille accrue, ce qui contribue à la diminution du courant de diffusion lié à la réduction du niobium. Il existe quelques études polarographiques de la réduction du niobium dans divers solvants et électrolytes supports (1, 3-6).</p>
+				<p>Les solutions sont généralement préparées par fusion de l'oxyde de niobium dans le carbonate de potassium, suivie de la dissolution' du mélange dans le milieu choisi.</p>
+				<p>La réduction dans l'acide chlorhydrique dilué est impossible à cause de l'instabilité de la solution. Selon <ref type="bibr">Henrion et Aider (7)</ref> et <ref type="bibr">Elving et Oison (8)</ref>, la vague présente son amplitude maximale pour une concentration de 11 mol/L en HC1. Aux concentrations plus faibles, il y a formation hydrolytique d'acide niobique. <ref type="bibr">McCullough et Meites (9, 10</ref>) ont étudié en détail le mécanisme du transfert d'électrons. Ils arrivent à la conclusion que le transfert monoélectronique est suivi par une disproportion du type suivant:</p>
+				<p><formula>[1] Nb +5 + é^&gt;Nb +4 [2] 2Nb +4 Nb +5 + Nb +3</formula></p>
+				<p>la contribution de la réaction [2] étant relativement négligeable.</p>
+				<p>L'oxyde de niobium est très soluble dans les mélanges eau -fluorure d'hydrogène à partir de faibles concentrations en HF. La polarographie dans ce milieu permet donc d'éliminer l'étape de la fusion alcaline suivie de la redissolution dans le milieu désiré. De plus le tantale ne donne pas de vague de réduction et n'interfère pas sur celle du niobium dans ce milieu; il n'est donc pas nécessaire d'éliminer le tantale de la solution avant la détermination du niobium. La présence des complexes NbF 6 et NbOF 5 ~ 2 peut aussi être mise en évidence, l'ion NbOF 5 ~ n'étant pas électroactif. Plusieurs auteurs (11-14) ont étudié les complexes du niobium dans les mélanges eau — fluorure d'hydrogène. Pour des solutions contenant plus de 35% en HF, le complexe prédominant est NbF^, alors que pour une concentration inférieure à 25% en HF, l'espèce prépondérante devient NbOFj.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>La cellule polarographique est constitutée d'un bêcher en polyméthylpentane d'une capacité de 50 mL surmonté d'un couvercle de Teflon qui sert à maintenir les électrodes. L'électrode de référence au calomel saturé est munie d'une double jonction séparée de la solution par une gaine de Teflon et un disque de polyéthylène poreux. L'électrode auxiliaire est un fil de platine. L'électrode de travail est un capillaire polarographique Sargent—Welch S-2418 recouvert de polyéthylène ( 15) et dont la période de chute est contrôlée par un dispositif électronique réalisé dans nos ateliers. Tous les potentiels se réfèrent à l'électrode de calomel saturé. L'analyseur polarographique PAR est le modèle 364. La table traçante est une techneurop, Sefram T.G.M.</p>
+				<p>Les produits utilisés sont: niobium métallique en poudre de Pfaltz and Bauer; Nb 2 0 5 99,9% de Alfa Product et HF 49% de Baker. Le niobium métallique n'est soluble que dans un mélange d'acide nitrique et fluorhydrique. Pour faire une mesure polarographique, il suffit d'évaporer à sec pour éliminer l'acide nitrique et redissoudre dans l'acide fluorhydrique. Le résidu obtenu après évaporation dans un bain d'huile est un fluorure de niobium qui peut être redissous en un temps très court.</p>
+				<p>La mise en solution du minerai s'effectue en pesant environ 0,25 g dans un erlenmeyer de polyéthylène auquel au ajoute 10 mL d'acide fluorhydrique à 49% puis 5 mL d'acide nitrique concentré. Le mélange est agité et évaporé à sec sur bain d'huile. Le résidu est redissous dans HF 49% et jaugé à 100 mL. Le polarogramme peut être pris directement ou en diluant à la concentration requise.</p>
+				<p>Pour l'analyse des minerais bruts dont la teneur en niobium se situe entre 0 et 1%, il est préférable d'utiliser la méthode des ajouts dosés. La technique consiste à peser des échantillons du minerai (soit un gramme) auxquels on additionne des quantités croissantes de Nb 2 0 5 . Après resolubilisation, les polarogrammes sont enregistrés et la concentration de niobium dans le minerai est déduite par extrapolation.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<p>Dans l'acide fluorhydrique, on observe une vague de réduction de niobium. La figure 1 montre la vague obtenue par rapport au courant résiduel du HF 49%. Quoiqu'assez près du mur de réduction de l'hydrogène la vague est suffisamment bien résolue. Le potentiel de demi-vague est de —0,880 V.</p>
+				<p>La réversibilité de la vague a été vérifiée à partir de différentes techniques polarographiques: le graphique du potentiel en fonction du log i/(id—i) présente une droite dont la pente est de 59 mV; le potentiel de demi-vague obtenu par polarographie impulsionnelle est le même que celui obtenu par polarographie classique; le pic que l'on obtient par polarographie impulsionnelle différentielle est situé à la valeur de potentiel prévue par Parry et Osteryoung (16), plus positive de 25 mV que la valeur obtenue par polarographie classique, dans le cas d'une impulsion de 50 mV.</p>
+				<p>A partir de l'équation du courant en polarographie impulsionnelle différentielle:</p>
+				<p><formula>[3] 8i = nF AD 1/2 CQ IÏ 1/2 (T - T') 1/2 PA(1 - FF 2 ) (CT + P A )(1 + P aCT)</formula></p>
+				<p>où T' est le temps immédiatement avant l'impulsion et T est le temps juste avant la fin de l'impulsion, [4] et [5] = S) eXP nF RT E + ^f-E 0 ' er = exp nF A E RT 2 où A£ est le saut de potentiel. On démontre facilement par dérivation d(8i)/dP A que hi est maximum pour P A = 1. Dès lors:</p>
+				<p><formula>O LO X &lt; C O 6,0 4,0 2,0 3 O CJ&gt; 0,0 100 200 300 400 Niobium (PPM)</formula></p>
+				<p>La largeur du pic à mi-hauteur augmente avec l'amplitude de l'impulsion imposée (17); elle est de 100 mV pour une amplitude de 50 mV.</p>
+				<p>Ces mesures confirment le caractère réversible et monoélectronique de la réaction.</p>
+				<p><formula>[7) Nb +5 + Nb +</formula></p>
+				<p>Cette conclusion peut être correlée au fait que Senderoff et Mellors (17) ont établi que la réduction du niobium V au niobium IV est également une réaction réversible en milieu fluorure fondu.</p>
+				<p>Les résultats polarographiques permettent de calculer le coefficient de diffusion du niobium dans HF commercial à 49% à partir de l'équation d'Ilkovic. La valeur est de 9,1 x 10" 6 cm 2 /s.</p>
+				<p>Du point de vue analytique, il est préférable d'utiliser la polarographie impulsionnelle différentielle. Le niobium présente un pic à un potentiel de -0,855 V pour une hauteur d'impulsion de 50 mV et une vitesse de balayage de 2 mV par seconde, le temps de chute de la goutte de mercure étant de 1.00 s.</p>
+				<p>La hauteur du pic est proportionnelle à la concentration. La figure 2 montre une courbe d'étalonnage à laquelle correspond une limite de détection de l'ordre de 15 ppm. Cette valeur est essentiellement déterminée par l'interférence entre le mur de réduction de l'hydrogène et le pic de réduction du niobium.</p>
+				<p>Il est à remarquer que la concentration minimale détectable ne varie pas en fonction du vieillissement des solutions de niobium dans le fluorure d'hydrogène. Le tableau 1 montre les résultats obtenus pour des échantillons de minerais concentrés ayant une teneur en niobium de l'ordre de 60%. Ces résultats sont reproductibles à environ 1 %.</p>
+				<p>Lorsque l'on diminue la concentration en HF, la hauteur de la vague de niobium décroît et finit par disparaître complètement pour un pourcentage en HF de 22% (<ref type="figure">Fig. 3</ref>). Le potentiel de demi-vague n'étant pas déplacé, on peut conclure à la simple disparition de l'espèce électroactive. L'observation de la solution ne montre aucun signe de précipitation, la décroissance de l'onde polarographique étant due à la formation d'un nouveau complexe, selon</p>
+				<p><formula>Echantillon % Nb 2 0 5 Moyen % Fluorescence X* 1 60,4 61,4 62,7 61,5 60,5 2 63,6 63,4 64,1 64,0 64,0 3 63,7 63.1 62.2 63,0 61,6 4 55,9 55,8 55,4 55,7 56,2</formula></p>
+				<p>"Valeurs fournies par la compagnie Niobec.</p>
+				<p><formula>0,8 -ECS 1,0 1,2</formula></p>
+				<p>Les espèces HNbF 6 et H 2 NbOF 5 étant les espèces ioniques fortement solvatées, l'équilibre est essentiellement contrôlé par l'activé du HF et de H 2 0 en solution. Les activités sont calculées selon Vaillant (18) à partir des valeurs de pression partielle de 1' eau, PH^O et de HF, PHF publiés par Munter et cil. (19). L'activité de l'eau est calculée à l'aide de la loi de Raoult (état de référence: eau pure):</p>
+				<p><formula>[9] Ph-,O = Ch,O ^H,O</formula></p>
+				<p>L'activité du fluorure d'hydrogène est calculée à partir de la loi de Henry (référence: solution infiniment diluée de HF dans l'eau):</p>
+				<p><formula>[10] fugacités = «hf^hf</formula></p>
+				<p>Le coefficient de Henry, À" HF , est déterminé à partir de la courbe de variation de P H F en fonction de la concentration (en molarité).</p>
+				<p>La constante d'équilibre peut être calculée si on fait l'approximation que l'activité des complexes du niobium est'égale à leur concentration. A la concentration en HF où le courant est la moitié de sa valeur maximale (HF à 50%), la valeur est de 0,7 x 10 2.</p>
+				<p>Le complexe NbOFJ 2 n'est pas réductible à l'électrode polarographique et il est responsable de la disparition de la vague de réduction. La <ref type="figure">figure 4</ref> montre les courbes obtenues pour trois concentrations de niobium en fonction de la concentration en HF. Le point de convergence pour la disparition complète de la vague du niobium est le même dans les trois cas, soit 22% en HF.</p>
+				<p>Keller (13) puis Howell et Moss (15) ont démontré par spectroscopie que la totalité du niobium se retrouve sous la forme de NbF(~ dans HF 50% et sous forme NbOFs 2 dans une solution contenant moins de 20% en HF. A partir des données polarographiques, confirmées par spectroscopie, il est aisé de calculer le pourcentage de chacun des deux complexes en fonction de la concentration en HF (Tableau 2). L'accord entre les données spectroscopiques et électrochimiques démontre que la réaction d'interconversion est très lente, à l'échelle de la période de chute de l'électrode à goutte.</p>
+				<p>Keller et Chetham-Strode (20) ont comparé le comportement du niobium et du tantale dans les mélanges eau — fluorure d'hydrogène. Le niobium a tendance à s'hydrater lorsque la concentration en HF diminue (11). En milieu chlorhydrique, on observe la précipitation d'acide niobique à acidité décroissante (7). Dans l'acide fluorhydrique, le complexe NbOF^"" très stable s'observe pour des concentrations inférieures à 40% en HF. Le tantale forme également un complexe oxyfluorure mais celui-ci disparaît à une concentration de 0,1 mol/L en HF pour faire place au complexe heptafluoré (18). Les complexes heptafluorés étant généralement instables, le niobium ne donne le complexe NbF 7 ~ 2 qu'en sel fondu (21) où la concentration en fluorure libre est très élevée par rapport aux mélanges eau fluorure d'hydrogène.</p>
+			</div>
+			<div type="section">
+				<head>Conclusions</head>
+				<p>Nous avons étudié le comportement polarographique du niobium dans les mélanges eau — fluorure d'hydrogène jusqu'à 50%. Dans les mélanges à 50%, on observe une réduction monoélectronique réversible dont le potentiel de demi-vague est de -0,880 V.</p>
+				<p>Du point de vue analytique, il est possible de déterminer la concentration de niobium contenue dans un minerai avec une limite de détection de 15 ppm, même en présence de tantale. Pour des concèntrations en HF inférieures à 45% il y a formation du complexe NbOF^ 2 non réductible, qui devient prépondérant aux concentrations en HF inférieures à 25%.</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Nous remercions le Ministère de l'Education du Québec et le Conseil de Recherches en Sciences naturelles et en Génie du Canada pour leur support financier. Nous remercions aussi la compagnie NIOBEC pour nous avoir fourni des échantillons de minerais analysés par fluorescence des rayons X.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<title level="m" type="main">Nouveau traité de chimie minérale</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1961"/>
+								<pubPlace>Tome VI. Masson et Cie, Paris</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">A</forename>
+									<surname>Vlcek</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Listy</title>
+							<imprint>
+								<biblScope type="vol">49</biblScope>
+								<biblScope type="pp">260</biblScope>
+								<date type="published" when="1955"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">I</forename>
+									<surname>Krylov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<forename type="middle">A</forename>
+									<surname>Samarina</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Zh. Anal. Khim</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="issue">144</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Kennedy</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">943</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">D. Ferrettetg. W. C. Milner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. London</title>
+							<imprint>
+								<biblScope type="pp">1186</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Popa</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. CAZACU. An. Univ. Bucuresti Chim</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="issue">9</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. Chem</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">321</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">C</forename>
+									<surname>Olson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">28</biblScope>
+								<biblScope type="pp">338</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Meites</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem. Inter-facial Electrochem</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">123</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Meites</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem. Inter-facial Electrochem</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">111</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">S A</forename>
+									<surname>Yu</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Buslaev</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Russ</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">84</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">L</forename>
+									<surname>Keller</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">2</biblScope>
+								<biblScope type="pp">783</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">L</forename>
+									<surname>Muettertjes</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="pp">3035</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">C</forename>
+									<surname>Moss</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. A</title>
+							<imprint>
+								<biblScope type="pp">2481</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<surname>Menard</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F. Lebond-Routhier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">50</biblScope>
+								<biblScope type="pp">687</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Osteryoung</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="pp">1634</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">W</forename>
+									<surname>Mellors</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">113</biblScope>
+								<biblScope type="pp">66</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de troisième cycle</title>
+							<imprint>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">E</forename>
+									<surname>Munter</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">G</forename>
+									<surname>Kossaty</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ind. Eng. Chem</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">1504</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">L</forename>
+									<surname>Keller</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A. Chetham-Strode</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="pp">367</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">L</forename>
+									<surname>Baum</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Abstract</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1965"/>
+								<publisher>American Chemical Society</publisher>
+								<biblScope type="fpage">13</biblScope>
+								<biblScope type="lpage">17</biblScope>
+								<pubPlace>Atlantic City, NJ, Sept</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Volumes molaires partiels de composés tensioactifs dans les milieux salins concentrés eau—KC1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Sabah</forename>
+								<surname>Bouguerra</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physiochimie des Solutions</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie, E.N.S.C.P</orgName>
+								<address>
+									<addrLine>11 Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Hamed</forename>
+								<surname>Bahri</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physiochimie des Solutions</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie, E.N.S.C.P</orgName>
+								<address>
+									<addrLine>11 Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Pierre</forename>
+								<surname>Letellier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physiochimie des Solutions</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie, E.N.S.C.P</orgName>
+								<address>
+									<addrLine>11 Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Volumes molaires partiels de composés tensioactifs dans les milieux salins concentrés eau—KC1</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p> Les volumes molaires apparents de quatre détergents cationiques CH. 1 (CH 2) &quot; N(CH 1)3Br pour n = 9, 11, 13 et 15 ont été déterminés dans les mélanges eau — chlorure de potassium à 298 K, pour des concentrations en électrolyte support comprises entre 0,5 et 3,5 mol L~&apos;. La très faible dépendance des volumes molaires apparents des tensioactifs, une fois micellisés, avec la concentration du sel de fond laisse supposer que les interactions entre les amphiphiles eux-mêmes et entre les amphiphiles et leur environnement ne sont pas fondamentalement modifiées par l&apos;addition de sel. L&apos;utilisation de résultats antérieurs obtenus pour ces mêmes milieux, concernant le comportement des sels d&apos;ammonium symétriques permet d&apos;accéder aux volumes intrinsèques des amphiphiles et, par conséquence, d&apos;estimer le volume réel occupé par la phase micellaire dans la solution. Des mesures des volumes molaires apparents du bromure de dodécyltriméthylammonium et du dodécylsulfate de sodium dans les mélanges eau—NaCl permettent de confirmer les rôles dissymétriques joués par les anions et les cations en milieu salin concentré.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p> Apparent molar volumes of 4 cationic detergents CH 3 (CH 2) &quot; N(CHi)iBr (« = 9,11, 13, and 15) have been determined in water — potassium chloride mixtures at 298 K over a wide range of concentrations (from 0.5 to 3.5 mol L~&apos;). The small dependence of values of apparent molar volume of micellized detergent on the salt concentration suggests the interactions between amphiphiles themselves and between amphiphiles and their surroundings are not modified by the variation of KC1 concentration. Previous results lead to estimates of intrinsic volumes of micellized detergents and consequently actual volumes of the micellar phase in the solution. In addition, apparent molar volumes of dodecyltrimethylammonium bromide and sodium dodecylsulfate have been determined in water — sodium chloride mixtures. The results agree fairly well with the previous conclusions and prove the dissymmetric behaviour of the anions and cations in very highly concentrated aqueous salt solutions.</p>
+			</div>
+		</front>
+			
+		<body>
+
+			<p>L&apos;étude des volumes molaires partiels et apparents des composés tensioactifs est généralement entreprise dans le but de déterminer avec précision des valeurs de concentration micellaire critique (cmc) (3), le phénomène de micellisation s&apos;accompagnant le plus souvent, dans l&apos;eau d&apos;une importante variation des propriétés volumiques des amphiphiles.</p> 
+			
+			<p>À ce titre, différents travaux ont été réalisés dans l&apos;eau pure, mais également en présence de faibles quantités d&apos;additifs moléculaires (4) ou ioniques (5) dont on a pu ainsi préciser les modes d&apos;action dans le processus de micellisation. Peu d&apos;études, en revanche, s&apos;attachent à décrire le comportement volumique des détergents en milieu salin concentré, bien que de nombreux travaux se basant sur la mesure d&apos;autres paramètres physiques (viscosité, diffusion de la lumière . . .) (6—9) montrent que les édifices micellaires sont profondément affectés par la présence d&apos;un électrolyte concentré.</p> 
+			
+			<p>Des travaux antérieurs ( 1,2) nous ayant permis de préciser les propriétés volumiques individuelles des anions et des cations, minéraux et organiques, mono chargés dans les mélanges eau—KC1 pour des concentrations en chlorure de potassium comprises entre 0,5 et 3,5 mol L&quot;&apos;^nous avons entrepris l&apos;étude des volumes molaires partiels V/ et apparents &lt;| &gt;, de composés tensioactifs dans ces mêmes milieux.</p> 
+			
+			<p>Nous nous sommes plus particulièrement intéressés à quatre halogénures d&apos;alkyltriméthylammonium de formule générale CH 3 (CH 2 ) &quot; N + (CH 3 ) 3 X~ : les bromures de décyl (n = 9) dTA, dodécyl (n = 11) DTA, tétradécyl (n = 13) TTA, hexadécyl (n = 15) HTA triméthylammonium. Afin de juger de l&apos;influence de la nature de l&apos;électrolyte support et du signe de la charge portée par l&apos;amphiphile, lescomportements du dodécylsulfate de sodium DSNa et du DTA ont été également étudiés dans les milieux eau—NaCl pour une gamme de concentrations comprise entre 0,25 et 0,75 mol L&quot;&apos; en chlorure de sodium.</p>
+			
+			<div type="section">
+				<head>I. Conditions expérimentales</head>
+		
+			<p>Le bromure de décyltriméthylammonium est un produit Eastman Kodak; les autres détergents cationiques sont des produits Sigma. Différents essais de reproductibilité ont montré que les résultats expérimentaux obtenus avec des produits recristallisés ne différaient pas notablement de ceux obtenus à partir des produits bruts. La purification n&apos;a donc pas été systématiquement effectuée.</p> 
+			
+			<p>Le dodécylsulfate de sodium, d&apos;origine Prolabo RP, ne conduit en revanche à des résultats reproductibles que recristallisé au moins deux fois dans un mélange méthanol — éther éthylique. Les chlorures de potassium et de sodium sont des produits Prolabo RP. L&apos;eau utilisée est fraîchement distillée. Sa masse volumique à 298 K a été prise égale à 0,997047 g cm&quot; 3 . Les mesures de masses volumiques ont été réalisées au moyen d&apos;un &quot;densimètre vibratomètre à flux&quot; Sodev (modèle 03D) maintenu à la température constante de 298 ± 2 x 10&quot; 3 K par un thermostat Setaram. Les mesures des périodes ont été effectuées sur un fréquencemètre Hewlett Packard 5315A. Le calcul de la valeur du volume molaire apparent &lt;)&gt;, @BULLET du soluté i, de masse molaire Mi, à la molalité m référée à 1000 grammes de la solution eau—KC1 considérée , s&apos;effectue à partir de la relation classique:</p>
+
+	<p><formula>= IOOO (! _ ±) + ^ m \pi p 0 / Pi</formula></p>
+
+			<p>p, et p 0 sont respectivement les masses volumiques de la solution i et du solvant eau—KC1.</p>
+
+			</div>
+
+			<div type="section">
+				<head>II. Résultats expérimentaux</head>
+				
+			<div type="section">
+				<head>II-1. Définition des systèmes étudiés</head>	
+
+			<p>L&apos;addition d&apos;un électrolyte à une solution de tensioactif favorise, en règle générale, le phénomène de micellisation, ce qui se traduit par un abaissement de la valeur de la cmc (10).</p> 
+			
+			<p>La technique de détermination des volumes molaires apparents mise en oeuvre dans cette étude, nécessite l&apos;emploi d&apos;une concentration minimale de soluté égale à 10 -2 mol kg&quot; 1 (11). À cette concentration les tensioactifs utilisés, qui possèdent déjà dans l&apos;eau des seuils critiques micellaires relativement faibles (tableau 1), se trouvent pour la plupart partiellement ou même totalement micellisés en présence de l&apos;électrolyte support . A titre d&apos;exemple, les variations des volumes molaires apparents du dTA en fonction de la molalité en détergent, pour différentes teneurs de la solution en chlorure de potassium, sont reportées sur la <ref type="figure">fig. 1</ref>. On peut ainsi constater que même pour la plus faible concentration de KC1 utilisée, 5 x 10 -l molL -1 , le dTA à 10 -2 mol kg -1 est déjà partiellement associé.</p>
+
+			<p>Il n&apos;est donc pas envisageable d&apos;étudier, au moyen de la technique de mesure précédemment décrite, le comportement des amphiphiles sous leur forme monomère dans les mélanges eau-KCl.</p> 
+			
+			<p>En revanche, l&apos;utilisation d&apos;une concentration suffisante en détergent permet d&apos;obtenir des systèmes totalement micellisés pour lesquels les propriétés physicochimiques des amphiphiles sont parfaitement définies. C&apos;est dans ce cadre précis que s&apos;inclut la présente étude.</p> 
+			
+			</div>
+
+			<div type="section">
+				<head>II-2. Volumes molaires apparents des bromures d&apos;alkyltriméthylammonium micellisés</head>
+			
+			<div type="section">
+				<head>II-2.1. Variations avec la molalité du tensioactif</head>
+			
+			<p>Les résultats expérimentaux regroupés dans le tableau 2 et illustrés par ailleurs sur la fig. 2 montrent que dans un milieu eau-KCl donné, une fois le système totalement micellisé, les volumes molaires apparents des détergents, de la même manière que ceux des halogènures alcalins (1), sont indépendants de leur molalité dans la gamme de concentration utilisée (m &lt; 3 x 10&quot;&apos; mol kg -1 ). On pourra donc caractériser le détergent micellisé par un volume molaire apparent 4&gt; m correspondant à cette valeur constante.</p> 
+			
+			</div>
+
+			<div type="section">
+				<head>II-2.2 Variations avec la concentration en KCl</head>
+				
+			<p>Les valeurs moyennes des volumes molaires apparents 4&gt;, &quot; pour les différents détergents étudiés, à plusieurs concentrations en chlorure de potassium sont regroupées dans le tableau 3. On remarque que ces valeurs varient très peu, pour un tensioactif donné, avec la teneur de la solution en KCl. À titre de comparaison, les variations de 4&gt;, &quot; pour les quatre détergents cationiques, et celles des volumes molaires apparents à dilution infinie de deux autres électrolytes KBr et (C 4 H 9 ) 4 NBr sont représentées sur la <ref type="figure">fig. 3</ref>. La différence de comportement entre ces deux derniers sels a été justifiée dans une étude précédente (2).</p> 
+			
+			<p>Les mesures réalisées avec le DSNa et le DTA dans les mélanges eau-NaCl seront évoquées ultérieurement dans le chapitre consacré à l&apos;interprétation des résultats.</p>
+
+		</div>
+		
+		</div>
+
+		<div type="section">
+			<head>II-3. Discussion des résultats</head>
+
+			<p>La modification des propriétés structurales des systèmes micellaires , en présence de quantités variables de sel a fait l&apos;objet de nombreux travaux et une littérature abondante existe actuellement sur ce sujet (6—9). Nous en retiendrons les conclusions suivantes en rapport avec notre étude:</p> 
+			
+			<p>A. La création d&apos;édifices micellaires dans l&apos;eau pure conduit à l&apos;apparition en solution de structures comportant un nombre élevé de charges identiques. Pour des raisons électrostatiques évidentes la majeure partie des contre-ions se trouve située dans l&apos;environnement immédiat de la micelle. La répartition des contre-ions s&apos;effectue selon une loi de distribution radiale continue, partant d&apos;une forte concentration près de la surface de la micelle qui décroit régulièrement lorsque l&apos;on s&apos;en éloigne (12,13).</p> 
+			
+			<p>Ce phénomène de &quot;surconcentration&quot; au voisinage de l&apos;interface micelle—solvant peut être traité au moyen d&apos;un concept d&apos;association qui suppose des contre-charges &quot;liées&quot; à la micelle au niveau de sa surface par l&apos;intermédiaire d&apos;un équilibre d&apos;échange (14).</p>
+			
+			<p>Cependant, la notion de &quot;liaison&quot; dans ce type de modèle doit être prise au sens large car elle n&apos;implique pas l&apos;existence de sites spécifiques sur la micelle pour le rattachement des contre-ions (15). Il en résulte que l&apos;on ne différenciera pas au niveau de leurs propriétés thermodynamiques et en particulier de leurs volumes molaires partiels, les contre-ions qui se &quot;fixent&quot; sur la micelle des autres ions de la solution, cette séparation étant essentiellement formelle.</p>
+
+			<p>Lorsque l&apos;on ajoute à ces solutions une quantité importante d&apos;électrolyte, on modifie notablement la répartition des contreions dans l&apos;environnement des édifices micellaires. Deux cas peuvent alors se présenter:</p> 
+			
+			<p>(a) L&apos;électrolyte possède le même contre-ion que le détergent (ajout par exemple du sel M + Y&quot; à une solution de détergent cationique T + Y~).</p> 
+				
+			<p>Cette opération a pour conséquence d&apos;augmenter la concentration des ions Y -dans l&apos;environnement immédiat de la micelle. Ceci peut se traduire dans le concept de l&apos;équilibre d&apos;association par un déplacement de l&apos;équilibre d&apos;échange (contre-ions associés ^ contre-ions libres) vers la forme associée , ce qui correspond à une saturation en contre-ions de l&apos;interface micelle—solvant.</p> 
+			
+			<p>Ce phénomène dont la conséquence est un affaiblissement des répulsions électrostatiques entre les &quot;têtes&quot; polaires des amphiphiles de la micelle est à l&apos;origine de l&apos;abaissement du seuil critique micellaire (16).</p> 
+			
+			<p>(b) L&apos;électrolyte possède un contre-ion différent (par exemple l&apos;ajout du sel M + X~ à une solution de détergent cationique T + Y~). Les ions X -introduits tendent à participer, en concurrence avec les ions Y&quot;, à l&apos;électroneutralité des édifices micellaires. Divers travaux (17—20) montrent que la répartition des ions dans le proche environnement de la micelle n&apos;est pas contrôlé exclusivement par le facteur entropique, mais qu&apos;il faut également prendre en compte la nature chimique des contre-ions.</p> 
+			
+			<p>Dans le cadre du concept de l&apos;équilibre d&apos;association, on considère qu&apos;il s&apos;établit un équilibre d&apos;échange entre les ions X~ et Y~ plus ou moins déplacé vers l&apos;une ou l&apos;autre des deux formes associées (T + ,X~ et T + ,Y~) selon la sélectivité relative de la micelle pour les ions X&apos; et Y&quot;.</p>
+			
+			<p>Toutefois, en présence de fortes quantités d&apos;électrolyte MX il se crée, par simple &quot;effet de masse&quot;, un environnement de la micelle constitué presque exclusivement d&apos;ions X~. On peut ainsi admettre que les édifices micellaires cationiques en présence de KC1 à forte concentration sont associés aux ions chlorure, même si à l&apos;origine les détergents comportaient un contre-ion différent (Br -).</p> 
+			
+			<p>Les remarques précédentes permettent d&apos;interpréter les propriétés des détergents cationiques dans les milieux eau—KC1 et en particulier le fait que leur volume molaire apparent 4&gt;, &quot; ne dépend pas de leur molalité. Ce comportement est identique à celui observé pour les halogènures alcalins mais sa justification en est différente. En effet dans le cas d&apos;un sel minéral P + Y~ introduit dans une solution concentrée eau-KCl, il est légitime de considérer qu&apos;aux faibles concentrations les ions P + et Y&quot; se comportent dans le milieu comme des entités indépendantes (pas d&apos;interactions P + -P + , P + -Y~, Y&quot;-Y&quot;) (2) et en conséquence que les propriétés de ces ions peuvent être décrites par les lois des solutions diluées. La valeur du volume molaire apparent de PY est alors constante tant que la concentration du sel reste faible devant celle de l&apos;électrolyte support. Elle s&apos;identifie alors à sa valeur extrapolée à dilution infinie.</p> 
+			
+	<p><formula>[1] 4»pv = 4&gt;P+ + 4&gt;Y- </formula></p>
+			
+			<p>Dans le cas des tensioactifs, au contraire, les cations T + sont agrégés sous forme d&apos;édifices micellaires et seuls les contreions Y&quot; peuvent être supposés sans interactions réciproques tant que la concentration en détergent reste faible. La valeur constante observée indique donc, selon toute vraisemblance, que l&apos;intensité des interactions entre les amphiphiles T + eux-mêmes dans l&apos;édifice micellaire, mais également entre T + et Cl~ ne varie pas lorsque la concentration du tensioactif augmente.</p>
+
+			<p>B. Lorsque la concentration de l&apos;électrolyte support croit, la structure de l&apos;édifice micellaire se modifie. La configuration initialement sphérique évolue selon la nature du détergent vers des structures de symétrie moindre (15).</p> 
+			
+			<p>Toutefois au cours des ces modifications, les interactions entre les têtes polaires des amphiphiles et les constituants du solvant ne sont pas fondamentalement modifiées, pas plus d&apos;ailleurs que celles qui existent entre les chaînes aliphatiques regroupées au coeur de la micelle. Il faut donc s&apos;attendre à ce que ces modifications n&apos;entraînent pas de variations notables des volumes molaires apparents des amphiphiles micellaires.</p> 
+			
+			<p>L&apos;indépendance des valeurs de 4&gt; &quot; , avec la concentration en KC1 confirme cette hypothèse. Il a été en effet montré dans une étude précédente que les volumes molaires apparents individuels à faible concentration des halogènures Y&quot; s&apos;identifiaient à leurs volumes intrinsèques ceux-ci étant eux-mêmes reliés à leurs volumes cristallins (calculés à partir des rayons de Pauling) par l&apos;équation:</p> 
+			
+	<p><formula>[2] &lt;t&gt; Y -= Vy-= 1,92</formula></p>
+
+			<p>Les volumes molaires apparents des détergents T + Y~ étant indépendants de la concentration en KC1, ct&gt; Y -l&apos;étant également , il en est nécessairement de même pour les amphiphiles T + . Les valeurs de &lt;}&gt; ra (T + ) ne varient donc pas avec la teneur de la solution en chlorure de potassium.</p>
+
+			</div>
+
+			</div>
+
+			<div type="section">
+				<head>III. Exploitation des résultats</head>
+
+			<p>Une précédente étude sur le comportement des bromures de tétraalkylammonium symétriques ((CH 3 (CH 2 ) x )4NBr) a permis de montrer que les volumes molaires apparents des ions organiques de grande taille {x &gt; 2) pouvaient être identifiés à leur volume intrinsèque en solution saline concentrée (2). L&apos;indépendance de 4&gt; m (T + ) avec la concentration en KC1 laisse supposer qu&apos;il doit en être de même pour l&apos;amphiphile dans l&apos;édifice micellaire. S&apos;il est ainsi, on peut alors écrire:</p> 
+			
+			<p><formula>[3] cWT + ,Br&quot;) = &lt;MT + ) + c|&gt; Br -= + &lt;{) Br</formula></p> 
+			
+			<p>soit encore en utilisant la relation [2]</p>: 
+			
+	<p><formula>[4] Vt + = cMT + ,Br&quot;) ~ 1,92</formula></p>
+
+			<p>Les amphiphiles étudiés appartenant à une même famille de composés CH 3 (CH 2 ) &quot; N(CH 3 ) 3 (n = 9, 11, 13 et 15), il est possible de scinder leur volume intrinsèque en deux contributions: Vg relative au groupement polaire (CH 3 )4N + , et nV l cH , relative aux n groupements CH 2 constituant la chaîne aliphatique , en supposant que chacun d&apos;entre eux possède des propriétés voisines (Vcti,)- Le volume intrinsèque de T + s&apos;écrit alors:</p> 
+			
+	<p><formula>= V\ + n V^</formula></p> 
+			
+			<p>soit:</p> 
+			
+	<p><formula>[5] = &lt;WT + Br&quot;) -1,92 = V l t + n V^ &quot; 2</formula></p> 
+		
+			<p>Les valeurs de ont été calculées pour les quatre détergents cationiques (tableau 4) et reportées en fonction de n sur la <ref type="figure">fig. 4</ref>. Le graphe représentatif est une droite de pente Vc H , = 16,5 cm 3 mol -1 et d&apos;ordonnée à l&apos;origine Vg = 78,5 cm 3 mol&quot; 1 . Le volume intrinsèque de l&apos;amphiphile CH 3 (CH 2 ) &quot; N + (CH 3 ) 3 s&apos;écrit donc:</p>
+			
+	<p><formula>[6] V\+ (cm 3 mol&quot; 1 ) = 78,5 + 16,5 n</formula></p> 
+	
+			<p>La valeur trouvée pour le volume intrinsèque du groupement tétraméthylammonium (n = 0) s&apos;identifie à celle que l&apos;on calcule pour l&apos;ion tétraméthylammonium à partir du rayon ionique proposé par Masterton et al. (r = 2,51 Â) (21) en appliquant la relation [2]. L&apos;incrément de volume pour chaque CH 2 correspond à celui observé pour les alcanes purs (8 &lt; n &lt; 14) (22), laissant ainsi supposer que l&apos;association des chaînes aliphatiques au sein de l&apos;édifice micellaire conduit à la constitution d&apos;un &quot;milieu interne&quot; dont les propriétés s&apos;apparentent à celles des carbures saturés.</p> 
+			
+			<p>Cet incrément est nettement supérieur à celui que l&apos;on détermine dans ce mêmes milieux pour les ions ammonium quaternaires symétriques (CH 3 (CH 2 ),) 4 N + pour lesquels les CH 2 possèdent un environnement aqueux (23). La représentation des variations du volume intrinsèque des cations ammonium en fonction de x conduit au tracé d&apos;une droite de pente égale à 4Vc H2 et d&apos;ordonnée à l&apos;origine V&apos; g relatif au même groupement tétraméthylammonium ( <ref type="figure">fig. 4</ref>). On obtient:</p>
+
+	<p><formula>V\ = 78,5 cm 3 mol&quot; 1 VCH2 =15,3 cm 3 mol&quot; 1</formula></p>
+
+			<p>Même si l&apos;on tient compte de la faible précision des extrapolations , il est à noter que l&apos;on retrouve pour cette famille de composés, une valeur identique à la précédente pour le volume intrinsèque du groupement (CH 3 ) 4 N + , ce qui semble justifier les partitions des volumes telles qu&apos;elles ont été réalisées. La différence de volume intrinsèque observée entre les groupements —CH 2 — selon qu&apos;ils possèdent un environnement ionique aqueux ou hydrophobe est à l&apos;origine du phénomène d&apos;expansion lié à la micellisation qui apparaît ainsi comme une conséquence du changement d&apos;environnement de la partie hydrophobe du détergent (24, 25).</p>
+
+			<p>Cas d&apos;un détergent anionique: le dodécylsulfate de sodium</p>
+
+			<p>L&apos;influence des électrolytes sur les micelles de NaDS et entre autres, les variations de la cmc avec la teneur en sel ont fait l&apos;objet de nombreux travaux (26-29). Dans le cas du sel NaCl, il a été établi que le volume des micelles et donc leur rayon, ne varie que très faiblement (27) tant que la concentration de l&apos;électrolyte reste inférieure à 0,45 mol L&quot; 1 (26,28). Au delà de cette limite la forme sphérique évolue vers une forme cylindrique (28) dont la stabilité a pu être étudiée thermodynamiquement (29). Toutefois, comme nous l&apos;avions fait remarquer précédemment, il est probable que cette transition n&apos;affecte pas de manière notable les volumes molaires partiels des amphiphiles et l&apos;on pourra considérer que le volume molaire apparent de l&apos;ion dodécylsulfate (DS _ ) reste identique à son volume intrinsèque, c&apos;est-à-dire invariant avec la teneur de la solution en électrolyte support dès que celle-ci est suffisamment importante. Il n&apos;en sera pas de même, en revanche, pour le volume molaire apparent individuel du cation associé puisque celui-ci varie avec la teneur de la solution en électrolyte support (2). Il s&apos;ensuit que contrairement aux détergents cationiques, il faille s&apos;attendre à observer pour les anioniques une variation de leur volume molaire apparent avec la concentration du sel de fond.</p>
+
+			<p>Pour des raisons de solubilité, nous n&apos;avons pas pu étudier le comportement de NaDS dans les mélanges eau—KC1. La vérification des hypothèses précédentes a donc été tentée dans les mélanges eau—NaCl entre 0,25 et 0,75 molaire en chlorure de sodium où nous avons étudié à titre de comparaison les volumes molaires partiels de NaDS, NaBr, NaCl, C, 2 H 25 N(CH 3 )3Br.</p> 
+			
+			<p>Les résultats expérimentaux sont regroupés dans le tableau 5. Comme on peut le remarquer sur la <ref type="figure">fig. 5</ref>, le volume molaire apparent du détergent cationique est indépendant de la concentration de la solution en NaCl, alors que l&apos;on assiste à des variations tout à fait comparables pour NaDS, NaCl et NaBr, dues essentiellement au comportement particulier de l&apos;ion sodium.</p> 
+			
+			<p>Le volume molaire intrinsèque attribuable à l&apos;ion dodécylsulfate est de l&apos;ordre de 262 cm 3 mol&quot;&apos;. Cette valeur est tout à fait comparable avec celle calculée pour le volume intrinsèque de l&apos;amphiphile cationique, ayant même chaîne aliphatique (CH 3 (CH 2 ) n N(CH 3 ) 3 ) qui est de l&apos;ordre de 260 cm3 mol&quot;&apos;.</p> 
+		
+			<p>Ces résultats confirment les rôles dissymétriques joués par les cations et les anions dans les solutions salines concentrées. La connaissance des valeurs des volumes intrinsèques des amphiphiles micellisés (anioniques ou cationiques) dans les mélanges eau—sel permet également d&apos;estimer de manière pré- cise la contribution volumique de la phase micellaire au volume total de la solution.</p>
+			
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

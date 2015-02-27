@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Rôle de l'alcool dans les microemulsions. II. Volumes et capacités calorifiques molaires apparents du système eau + dodécylsulfate de sodium + isopropanol à 298,15 K</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Vladimir</forename>
+								<surname>Majer</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Alain-Henri</forename>
+								<surname>Roux</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Geneviève</forename>
+								<surname>Roux-Desgranges</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">André</forename>
+								<surname>Viallard</surname>
+							</persName>
+						</author>
+						<author>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Thermodynamique et Cinétique Chimique</orgName>
+								<orgName type="institution">Université de Clermont-Ferrand</orgName>
+								<address>
+									<addrLine>B.P. 45-F</addrLine>
+									<postCode>63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Rôle de l'alcool dans les microemulsions. II. Volumes et capacités calorifiques molaires apparents du système eau + dodécylsulfate de sodium + isopropanol à 298,15 K</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les masses volumiques et les capacités calorifiques par unité de volume du système ternaire: eau + dodécylsulfate de sodium (NaDS) + isopropanol (iPrOH) ont été mesurés en fonction de la concentration en alcool et en tensioactif à 298,15 K. Les volumes et les capacités calorifiques molaires apparents ou partiels de l'alcool dans le système ternaire en sont dérivés. Leur évolution en fonction de la composition reflète le comportement de l'alcool. En milieu dilué, il se solubilise partiellement dans les micelles et contribue à la formation de micelles mixtes. En milieu concentré, il se solubilise dans des microagrégats de nature très proche de celle de l'alcool. La variation de la capacité calorifique molaire apparente à dilution infinie de l'isopropanol en fonction de la concentration en NaDS, révèle l'existence d'une transition dans la structure micellaire vers 0,3 m.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Densities and heat capacities per unit volume of the ternary system: water + sodium dodecylsulfate (NaDS) + isopropanol (iPrOH) have been measured as a function of concentration of alcohol and surfactant at 298.15 K. Apparent and partial molar volumes and heat capacities of isopropanol have been derived therefrom. These quantities reflect the behavior of alcohol in the solution. The results confirm that in the dilute region, iPrOH is partially solubilized in the micelles and contributes to the formation of mixed micelles, and that in the concentrated alcohol region, iPrOH is solubilized in microaggregates of alcohol. The variation of apparent heat capacity at infinite dilution of iPrOH as a function of NaDS concentration shows the existence of a transition in the micellar structure around 0.3 m.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Depuis quelques années, un intérêt croissant est porté à l'étude des microémulsions, du fait de leurs applications dans des domaines variés (1, 2) et plus particulièrement en Récupération Assistée du Pétrole (3) et dans l'extraction d'hydrocarbures à partir des sables bitumineux (4). La présence d'un alcool est indispensable pour la formation et la stabilité de ces microémulsions, mais son rôle n'est pas encore clair.</p>
+				<p>En milieu micellaire, l'action des alcools apparaît complexe. Ils affectent la structure de l'eau et perturbent la constante diélectrique du milieu (5), mais ils se solubilisent aussi partiellement dans les micelles. De ce fait, ils interviennent sur la formation (6), la structure et la stabilité des micelles (7—12). Tous ces effets sont simultanés et difficiles à séparer (13, 14). L'étude des propriétés thermodynamiques des systèmes eau + tensioactif + alcool est un moyen d'investigation du comportement des alcools. Dans un travail précédent, nous avons étudié le système ternaire eau — dodécylsulfate de sodium — n-butanol (15).</p>
+				<p>Ce système est utilisé pour solubiliser le toluène et la microémulsion formée est une microémulsion modèle qui a déjà fait l'objet de nombreuses études (16—18), thermodynamiques entre autres (19, 20). Dans ce système ternaire, au-delà d'une certaine concentration en tensioactif, le butanol, peu soluble dans l'eau, devient totalement miscible. L'interprétation des résultats (15) conduit à considérer un partage de l'alcool entre 'Department of Physical Chemistry, Institute of Chemical Technology , Suchbatarova 5, 166 28 Prague 6, Czechoslovakia. phase aqueuse et phase micellaire et la formation de micelles mixtes alcool —tensioactif. Lorsque la concentration en alcool augmente, l'évolution des propriétés thermodynamiques permet de penser qu'il y a alors formation de "microphases" à caractère alcool proche de celui du corps pur.</p>
+				<p>Il nous a alors semblé nécessaire d'étudier le comportement d'un alcool totalement soluble dans l'eau, mais possédant un faible caractère hydrophobe. Nous avons choisi l'isopropanol qui a été particulièrement étudié dans l'eau (21). Son influence sur les propriétés des solutions micellaires reste encore controversée (22, 23). L'étude des propriétés volumiques et calorifiques du système ternaire eau + dodécylsulfate de sodium + isopropanol doit permettre de mieux comprendre les interactions de l'isopropanol avec le milieu et ses effets sur la structure micellaire.</p>
+			</div>
+			<div type="section">
+				<head>Conditions expérimentales</head>
+				<p>Les solutions sont préparées par pesée avec de l'eau déionisée et distillée. Le dodécylsulfate de sodium (NaDS) est un produit Touzart et Matignon recristallisé deux fois dans l'éthanol et séché sous vide. 2 L'isopropanol (iPrOH) (Merck pour analyses 99,7%) conservé sur tamis moléculaires est utilisé sans purification ultérieure.</p>
+				<p>Les masses volumiques p des solutions sont déterminées à l'aide d'un densimètre à écoulement liquide permanent (Sodev 02D — Canada) (24). Les mesures de capacités calorifiques volumiques cr sont réalisées à l'aide d'un calorimètre à écoulement pour chaleur spécifique type Picker. Cet appareil, ainsi que les procédures mises en oeuvre, ont été déjà décrits dans la littérature (25). L'appareil utilisé (Sétaram — France) est équipé de cellules en or. Les mesures sont effectuées avec une puissance de base de 21 mW, un débit liquide de 0,5 cm 3 min -', l'élévation de température est alors environ de 0,6 K. Les mesures de p et cr sont effectuées à 298,15 K, la température de référence est régulée à ±0,005 K et contrôlée à l'aide d'un thermomètre à quartz. Dans ces conditions, la précision des mesures est de 3 x 10~ 6 g cm -3 pour les masses volumiques et 7 x 10~ 5 J K~ 1 cm -3 pour les capacités calorifiques volumiques. Selon le domaine de concentration étudié, deux procédures de détermination de cr sont utilisées: soit par rapport à une référence fixe pour les solutions diluées, soit suivant la méthode des "références successives" pour les solutions concentrées.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<p>Les grandeurs expérimentales p et a sont traitées sous la forme de grandeurs molaires apparentes Y^ de la propriété Y pour un soluté i. Pratiquement, les volumes ( V^,) et capacités calorifiques (Q,,) molaires apparents du soluté i dans le système ternaire sont calculés à partir des différences (p — p 0 ) et (CT — CT 0 ) à l'aide des relations bien connues:</p>
+				<p><formula>[1] Mi V*; = 1000(p -Po) [2] C 6if = M;C p + m-, ppo 1000(c p -c P0 ) m,</formula></p>
+				<p>dans lesquelles M, est la masse molaire du soluté i et m : sa molalité par rapport au solvant de référence; p 0 et c Po sont les masses volumiques et capacités calorifiques du solvant de référence; dans le cas d'un système ternaire, le solvant de référence est le système binaire dans lequel est ajouté le soluté ('. Les différences (c p — c Po ) sont calculées à partir des capacités calorifiques volumiques mesurées (CT — CT 0 ), à l'aide de la relation:</p>
+				<p><formula>[3] c p -c P0 = c P0 (— + l) --c P0 O"o ' p</formula></p>
+				<p>dans laquelle CT 0 = c Po p 0 et cr = c p p.</p>
+				<p>Le soluté i est l'isopropanol (i = 3), le solvant de référence est le mélange binaire H 2 0 (1) + NaDS (2). Les valeurs p 0 et c Po du binaire sont déterminées par rapport à l'eau (26, 27). Les masses volumiques et capacités calorifiques déterminées en fonction de la molalité en isopropanol, ainsi que les grandeurs apparentes V^_ 3 et C$,3 qui en résultent sont indiquées tableau 1.</p>
+				<p>Les variations de V^ et C (! , 3 sont représentées respectivement sur les figures 1 et 2. L'erreur estimée sur V^j est de 0,1 cm 3 mol -1 à m 3 = 0,1 mol kg" 1 , mais diminue très rapidement pour de plus fortes concentrations (elle est de 0,03 cm 3 mol -1 pour m 3 = 0,5 mol kg -' par exemple). Pour les mêmes molalités, l'erreur sur Q i3 est respectivement 1 et 0,2 J K" 1 mol -1 . Les valeurs à dilution infinie Vj, 3 et sont obtenues par extrapolation à partir des courbes V^ = f(m 3 ) et C&lt;t &gt;, 3 = f(m 3 ) quand m 3 —» 0. Pour le domaine dilué en alcool, une équation du type Redlich—Meyer peut être utilisée pour répresenter les variations de et C^y.</p>
+				<p><formula>[4] y 6 = y; + Aytn + B r m 2 + ...</formula></p>
+				<p>avec 7 = V ou C. Une méthode de moindres carrés (premier ou second degré) permet l'évaluation des paramètres yj, et A y , ainsi que leur incertitude dans le domaine de molalité 0—w 3 , max en isopropanol. Ces différentes valeurs sont données dans le tableau 2. Cependant, pour les molalités en NaDS comprises entre 0,2 et 0,3 m, la forme particulière des courbes Ou = A m 3) dans leur partie initiale n'autorise pas l'utilisation d'une méthode de moindres carrés aussi simple. Les valeurs de C4, 3 et A cj sont alors obtenues graphiquement; elles sont entichées d'une erreur relativement importante.</p>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>Les grandeurs molaires partielles ou apparentes d'un soluté sont caractéristiques de l'environnement moléculaire du soluté dans le milieu. Ces grandeurs traduisent non seulement la contribution propre du soluté, mais aussi la contribution des interactions subies par le soluté et des perturbations subies par le solvant. Ainsi, l'examen des variations des grandeurs molaires apparentes d'un soluté apporte des informations sur les changements de structure de la solution qui résultent de l'addition du soluté.</p>
+				<div type="section" n="A">
+					<head>Evolution des grandeurs molaires apparentes de l'alcool dans le système ternaire</head>
+					<div type="section" n="1">
+						<head>Examen des variations de V^j et C^</head>
+						<p>L'allure des différentes courbes V,^ = /(w 3 ) (<ref type="figure">Fig. 1</ref>) d'une part, et = /(m 3 ) (<ref type="figure">Fig. 2</ref>) d'autre part, est comparable à celle de et Q de l'isopropanol dans l'eau pure (21). Lorsque la concentration en NaDS augmente, pour une même concentration en alcool, croît et C^ décroît. Les pentes initiales A v } et A c , 3 varient peu (tableau 2).</p>
+						<p>Les variations particulières observées au voisinage de la cmc (0,008 m), et entre 0,2 et 0,3 m, traduisent des changements de structure à propos desquels nous reviendrons au paragraphe B-2. Les variations des grandeurs molaires partielles V 3 et C P3 sur tout le domaine de fraction molaire en isopropanol sont données (<ref type="figure">Fig. 3</ref>) pour différentes compositions du binaire H 2 0 + NaDS. V } et C Pi ont été déterminés à partir des variations de et CV 3 selon la procédure utilisée par Desnoyers et al. (28). Les variations de V 3 et C P} sont comparables à celles de V et C p de l'isopropanol dans l'eau pure. Au-delà des extremums situés dans le domaine dilué, V' 3 et C p , tendent très rapidement vers le volume et la capacité calorifique molaire de l'isopropanol pur. Pour les fractions molaires en alcool supérieures à 0,15, quelle que_soit la concentration en NaDS dans le domaine étudié, V 3 et C Pi apparaissent confondus avec V et C p de l'alcool dans l'eau.</p>
+					</div>
+					<div type="section" n="2">
+						<head>Interprétation</head>
+						<p>A l'examen de ces différentes variations, une remarque générale s'impose: le comportement de l'isopropanol en solution micellaire est similaire à son comportement dans l'eau pure.</p>
+						<p>En système binaire eau + isopropanol (21), l'isopropanol se comporte comme d'autres solutés organiques dans l'eau tels que le terbutanol (29), des alkoxyéthanols (30), des aminés (21), des aminés oxydes (31), etc. La similitude observée entre les variations de V, b et Q, en fonction de la molalité pour ces solutés et celles pour des tensioactifs vrais (32), suggère que de tels solutés ont la propriété de s'agréger pour former des microhétérogénéités dans l'eau. La formation de ces agrégats se traduit par une variation rapide de V rt , et Q (et surtout V et C p ) dans un étroit domaine de concentration en soluté. Ensuite V et C p ont sensiblement les valeurs du corps pur V 0 et C Po . Ceci indique que les molécules de soluté sont essentiellement localisées au sein d'un microenvironnement organique de nature proche de celui qui leur est offert dans le corps pur.</p>
+						<p>En système ternaire H 2 0 + NaDS + iPrOH, on constate (Figs. 1 et 2) que les variations de V^ et C +&gt;3 en fonction de la concentration en alcool, pour différentes concentrations en tensioactif ont toutes la même allure générale, même à des concentrations élevées en tensioactif. Dans le domaine dilué en alcool, les variations de V^, 3 sont essentiellement représentatives des interactions soluté—soluté dans la phase aqueuse: elles traduisent les interactions hydrophobes de l'alcool. Avec l'augmentation de la concentration en tensioactif du binaire (H 2 0 + NaDS) à même teneur en alcool, les faibles variations de n, 3 et C^j conduisent à admettre que la quantité d'isopropanol solubilisée dans les micelles est faible. En effet, le caractère hydrophile de la molécule d'isopropanol fait qu'en solution diluée, en présence de tensioactif, il est pour l'essentiel dans la phase aqueuse. Les propriétés apparentes sont alors assez peu différentes de celles dans l'eau pure, et ce, d'autant plus que certains auteurs (12-14) ont suggéré qu'il serait solubilisé dans la partie la plus externe de la micelle.</p>
+						<p>Dans le domaine plus concentré en alcool, au-delà du minimum de V^j (du maximum de C^) la contribution du phénomène d'agrégation de l'isopropanol l'emporte; le tensioactif serait susceptible de stabiliser ces agrégats sous forme de "micelles mixtes". Les variations de V^ et C, K3 traduisent la résultante des interactions entre molécules d'alcool en phase aqueuse et celle de l'alcool solubilisé dans les micelles ou sous forme d'agrégats. Pour des valeurs de ,r 3 supérieures à 0,15 (<ref type="figure">Fig. 3</ref>), l'alcool est presque entièrement sous forme de microagrégats et l'isopropanol se solubilise dans un milieu ressemblant à un milieu alcool pur. L'existence de ces microhétérogénéités est encore discutée, mais de récents travaux sur les systèmes eau + iPrOH + benzène (33) et eau + iPrOH + hexane (34) confortent cette hypothèse, les auteurs qualifiant même l'isopropanol de composant actif d'une "microémulsion sans détergent".</p>
+					</div>
+				</div>
+				<div type="section" n="B">
+					<head>Grandeurs à dilution infinie V^ 3 et C^ j</head>
+					<div type="section" n="1">
+						<head>Volumes</head>
+						<p>La variation de Vj -3 en fonction de la molalité m 2 en NaDS est représentée (<ref type="figure">Fig. 4</ref>). 3 reste constant avant la cmc, puis ensuite augmente régulièrement sur tout le domaine de concentration en NaDS étudié. Dans le domaine prémicellaire, l'isopropanol est en phase aqueuse et V^ &gt;3 résulte des interactions de l'alcool avec les monomères de NaDS et l'eau; en milieu micellaire , comme il est réparti entre la phase aqueuse et les micelles sa propriété molaire apparente est une moyenne pondérée de celles dans chacune des deux phases. Les valeurs de très proches de celle de l'isopropanol à dilution infinie dans l'eau pure et la très faible variation de dans tout le domaine de concentration étudié montrent que la contribution de l'alcool dans la phase micellaire est très faible; l'isopropanol est donc solubilisé dans une très large proportion en phase aqueuse. Ce résultat est en accord avec ceux de Manabe et al. (35); ces auteurs ont étudié de part et d'autre de la cmc dans un étroit domaine de concentration en NaDS pour la série des alcools linéaires; ils n'observent pas de variation de cette grandeur pour les alcools inférieurs à C 4 , ce qui va dans le sens d'une solubilisation de ces alcools, essentiellement en phase aqueuse. Pour des alcools à longue chaîne, peu solubles dans l'eau, Vj, ,, est alors très proche du volume molaire de l'alcool pur, en raison de la solubilisation quasi totale de l'alcool dans la phase micellaire de nature organique (23, 35).</p>
+					</div>
+					<div type="section" n="2">
+						<head>Capacités calorifiques</head>
+						<p>L'évolution de C^ 3 en fonction de la molalité m 2 en NaDS, représentée <ref type="figure">Fig. 4</ref>, apparaît plus complexe que celle de Au voisinage de la cmc C$ i3 semble tendre vers une valeur maximum. Pour m 2 compris entre 0,2 et 0,35 m, C^ 3 reste d'abord à peu près constant, puis décroît rapidement. Dans ce domaine, compte-tenu de l'incertitude sur les valeurs extrapolées de C^ 3 , la forme de la courbe Cjj, 3 reste significative et traduit l'existence d'un phénomène réel. Ce phénomène observé à dilution infinie est encore là pour des concentrations finies en alcool, mais disparaît progressivement lorsque la concentration en alcool augmente, comme en témoigne la forme des courbes C4.3 (m 2 ) pour différentes valeurs de m 3 ( <ref type="figure">Fig. 4</ref>). Bien que le partage de l'isopropanol se fasse préférentiellement en faveur de la phase aqueuse, la contribution à C^ 3 des interactions de l'alcool solubilisé dans les micelles permet de mettre en évidence vers 0,3 m un changement dans la structure micellaire du binaire H 2 0 + NaDS. Ce changement observé lors de l'étude du binaire H 2 0 + NaDS (36) a aussi été mis en évidence dans l'étude du système ternaire H 2 0 + NaDS + n-BuOH (15). Des changements de même type ont également été observés avec des carboxylates de sodium (37) et, si l'on admet l'existence de "pseudo-phases" (37), ils correspondraient à des transitions entre des structures stables différentes.</p>
+						<p>Les variations particulières de C^ 3 au voisinage de la cmc et vers 0,3 m en NaDS, sont liées aux déplacements des équilibres chimiques, par suite de l'élévation de température provoquée pour l'évaluation de la capacité calorifique (38). Ainsi, les équilibres du tensioactif entre phase aqueuse et phase micellaire au voisinage de la cmc et entre les structures différentes vers 0,3 m sont modifiés. Il en résulte une perturbation du partage de l'alcool entre les différentes structures évoquées et, corrélativement, des valeurs de 3 .</p>
+					</div>
+				</div>
+				<div type="section" n="C">
+					<head>Grandeurs molaires apparentes relatives à NaDS en milieu eau + isopropanol</head>
+					<p>Les mesures de masses volumiques et de capacités calorifiques réalisées dans le système ternaire permettent, au moyen d'interpolations, de calculer les grandeurs molaires apparentes Vf,j et C^T associées au tensioactif dans des solvants mixtes H 2 0 + iPrOH de composition donnée lorsque varie la concentration en NaDS. Les courbes représentant les variations de et C&lt;| &gt;, 2 en fonction de m 2 pour des solutions 0,5, 1, 2, 3 et 4 m en iPrOH sont données respectivement figs. 5 et 6. Il est bien connu que l'isopropanol abaisse la cmc du dodécylsulfate de sodium (11); à l'examen de ces courbes, on remarque que l'augmentation rapide de et la décroissance de C$,2 se produisent pour des concentrations en tensioactif de plus en plus faibles, au fur et à mesure que la quantité d'alcool augmente dans le solvant mixte.</p>
+					<p>Dans la région prémicellaire, étant donné la très faible valeur de la cmc de NaDS (8,3 x 10" 3 m (39)), il est difficile d'effectuer l'étude quantitative de l'influence de l'alcool sur les propriétés molaires du monomère de tensioactif, comme l'ont réalisée Vikingstad et Kvammen (14) avec la série des alcools à chaîne courte dans les solutions de décanoate de sodium ou Guveli et al. (40) avec les mêmes alcools dans le système H 2 0 — bromure de dodécyltriméthylammonium. Qualitativement, lorsque la quantité d'isopropanol augmente, on observe que le volume apparent du monomère NaDS augmente et sa capacité calorifique décroît, en accord avec les résultats précités. Ces auteurs expliquent ces variations à la fois par une diminution de l'hydratation hydrophobe de la partie hydrocarbonée du tensioactif et par une diminution de l'hydratation hydrophile de sa tête ionique, le monomère se trouvant dans un environnement de plus en plus organique.</p>
+					<p>Dans la région post-micellaire, les valeurs de V^.? augmentent et celles de diminuent lorsque la quantité de l'alcool croît dans le solvant mixte H 2 0 + iPrOH. L'effet de l'alcool doit être relié à des changements de la couche superficielle micellaire par suite de la solubilisation de l'alcool dans les micelles (12). Vikingstad et Kvammen (14) considèrent que l'augmentation de volume apparent du tensioactif est due à une réduction de l'électrostriction des molécules d'eau sur la surface micellaire.</p>
+					<p>Les courbes V^j (m 2 ) passent par un maximum (un minimum pour puis tendent vers la valeur du volume apparent (et de la capacité calorifique apparente) de NaDS dans les micelles. Il semble que ces extremums soient d'autant plus prononcés que la composition du binaire H 2 0 + iPrOH est proche de celle pour laquelle il se forme des microhétérogénéités dans le binaire.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>L'étude des volumes et capacités calorifiques du système ternaire H 2 0 + NaDS + iPrOH contribue à une meilleure connaissance du rôle de l'alcool dans les solutions micellaires. La nature de l'isopropanol, de par son caractère légèrement amphiphile, fait qu'il est susceptible de former des microagrégats dans l'eau, aussi certains auteurs ont-ils évoqué le "rôle actif de l'isopropanol dans les microémulsions sans détergent" (33, 34). Dans les solutions micellaires, l'isopropanol agit à la fois sur la structure du solvant et sur les propriétés micellaires provoquant un abaissement de la cmc du tensioactif. Nos résultats corroborent l'hypothèse selon laquelle l'isopropanol s'incorpore dans la micelle à l'interface micelle—solvant pour former des micelles mixtes, sans pénétrer profondément dans le coeur micellaire. En jouant un rôle d'écran entre les têtes ioniques du tensioactif, il abaisserait la densité superficielle de charge et contribuerait ainsi à stabiliser la micelle. Les alcools à plus longue chaîne, leur caractère hydrophobe augmentant, pénètrent alors plus à l'intérieur de la micelle et perturbent de façon plus importante la structure de la micelle (12, 40).</p>
+				<p>L'étude des capacités calorifiques molaires apparentes à <ref type="figure">FIG. 5</ref>. Volumes molaires apparents de NaDS à 298,15 K en fonction de la molalité en NaDS m 2 à différentes molalités en isopropanol dans le solvant mixte H 2 0 + iPrOH: «3 = 0 (36), 0,5, 1, (3&gt;, 2, @; 3, (5); 4, ©. lution infinie de l'isopropanol (ou dans le domaine très dilué en alcool) a permis de mettre en évidence des changements de structure dans le binaire H 2 0 + NaDS. En plus de la transition correspondant à la concentration critique micellaire du tensioactif , l'existence d'une seconde transition pourrait être responsable des changements observés vers 0,3 m en NaDS (plus clairement mise en évidence que lors de l'étude du seul binaire H 2 0 + NaDS (36)). Cette transition semblerait jouer un rôle essentiel pour la solubilisation de molécules organiques telles que le butanol (15) et pour la solubilisation des hydrocarbures en milieu microémulsion (19, 20).</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>L'un de nous (V. M.) tient à exprimer ses remerciements pour l'obtention d'une bourse de la D.G.R.C.S.T., Ministère des Relations Extérieures, dans le cadre des échanges France—Tchécoslovaquie. Nous remercions aussi M. le Professeur J. E. Desnoyers (Université de Sherbrooke, Canada) pour les discussions fructueuses et l'intérêt qu'il a bien voulu porter à ce travail.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<title level="m" type="main">Micellization, solubilization and micro-emulsions. Vols</title>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>Plénum Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<monogr>
+							<title level="m" type="main">PRINCE {Editeur). Microemulsions. Theory and practice</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">Chemistry of oil FIG. 6. Capacités calorifiques molaires apparentes de NaDS, à 298,15 K, en fonction de la molalité en NaDS m 2 , à différentes molalités en isopropanol dans le solvant</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">L</forename>
+									<surname>Berg</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">O</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+	</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="m">Sym-posium Séries N° 91</title>
+							<editor>4, ©. recovery. Edité par R. T. Johansen et R. L. Berg. A.C.S.</editor>
+							<meeting>
+								<address>Washington, DC.</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1979"/>
+								<biblScope type="pp">81</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Quirion</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Perron</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Fuel. Sous presse</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Franks</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J. G. Ives</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Q. Rev</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">N</forename>
+									<surname>Singh</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Swarup</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">1534</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+									<surname>Ubbelohde</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid. Sci</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">428</biblScope>
+								<date type="published" when="1953"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Shinoda</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">58</biblScope>
+								<biblScope type="pp">1136</biblScope>
+								<date type="published" when="1954"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Holtzer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="issue">3320</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">S C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">T</forename>
+									<surname>Parson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Trans. Faraday Soc</title>
+							<imprint>
+								<biblScope type="vol">63</biblScope>
+								<biblScope type="pp">495</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Kashiwabara</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">65</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Zana</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Yiv</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Lianos</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">208</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">B</forename>
+									<surname>Tepley</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">49</biblScope>
+								<biblScope type="pp">113</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Kvammen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">74</biblScope>
+								<biblScope type="pp">6</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G. Roux-Desgranges</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Viallard</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Solution Chem</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="issue">357</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+									<surname>Bellocq</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Biais</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Clin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+									<surname>Et</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">B. LEMANCEAU. J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="issue">70</biblScope>
+								<biblScope type="pp">524</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lang</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Zana</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">84</biblScope>
+								<biblScope type="pp">1541</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse Doctorat d'Etat</title>
+							<meeting>
+								<address>Université de Pau, France</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Roux</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Desgranges</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Viallard</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">84</biblScope>
+								<biblScope type="pp">250</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G. Roux-Desgranges</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Viallard</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">84</biblScope>
+								<biblScope type="pp">536</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Roberts</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Perron</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Solution Chem</title>
+							<imprint>
+								<biblScope type="vol">9</biblScope>
+								<biblScope type="pp">629</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">S</forename>
+									<surname>Birdi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Backlund</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">S0rensen T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Dalsager</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">66</biblScope>
+								<biblScope type="pp">118</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Vikingstad</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">72</biblScope>
+								<biblScope type="pp">75</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Picker</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<surname>Tremblay</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Jolicoeur</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Solution Chem</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">377</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Picker</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A</forename>
+									<surname>Leduc</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Thermodyn</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">631</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">S</forename>
+									<surname>Kell</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Eng. Data</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">66</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">F</forename>
+									<surname>Stimson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Am. J. Phys</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">614</biblScope>
+								<date type="published" when="1955"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<title level="a" type="main">Solution chemistry of surfactants</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<surname>De Lisi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Ostiguyetg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Edité par K. L. Mittal et A. S. Kertes</title>
+							<imprint>
+								<publisher>Plenum Press</publisher>
+								<date type="published" when="1979"/>
+								<publisher>Plenum Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>De Visser</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Perron</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">856</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Perron</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Solution Chem</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">639</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<title level="a" type="main">Solu-tion behaviour of surfactants: theoretical and applied aspects</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Roberts</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Edité par E. J. Fendler et K. L. Mittal</title>
+							<imprint>
+								<publisher>Plenum Press</publisher>
+								<publisher>Plenum Press</publisher>
+							</imprint>
+						</monogr>
+						<note>Sous. presse</note>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+									<surname>Musbally</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Perron</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">48</biblScope>
+								<biblScope type="pp">494</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lara</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Perron</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="pp">1600</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">D</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+									<surname>Barden</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">488</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b37">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Manabe</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Koda</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">49</biblScope>
+								<biblScope type="pp">2904</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b38">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">Majer</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Roux</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Desgranges</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</monogr>
+						<note>En. préparation</note>
+					</biblStruct>
+					<biblStruct xml:id="b39">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Viallard J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">85</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b40">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Perron</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pure Appi. Chem</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">433</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b41">
+						<analytic>
+							<title level="a" type="main">Critical micelle concentrations of aqueous surfactant systems</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Natl. Stand. Ref. Data Ser. N.B.S</title>
+							<imprint>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b42">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">E</forename>
+									<surname>Güveli</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">S</forename>
+									<surname>Davis</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">307</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b43">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">H</forename>
+									<surname>Roux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+						</monogr>
+						<note>En. préparation</note>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

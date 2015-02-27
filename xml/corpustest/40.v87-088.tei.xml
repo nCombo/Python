@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude comparative de l'adsorption d'acide déoxyribonucléique sur le chrysotile et le chrysotile phosphorylé (chrysophosphate)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean-Claude</forename>
+								<surname>Touray</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">École supérieure de l'énergie et des matériaux</orgName>
+								<orgName type="institution" key="instit1">Université d'Orléans</orgName>
+								<orgName type="institution" key="instit2">Unité associée du Centre national de la recherche scientifique n° 724</orgName>
+								<address>
+									<postCode>45067</postCode>
+									<settlement>Orléans CEDEX 2</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Patrick</forename>
+								<surname>Baillif</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">École supérieure de l'énergie et des matériaux</orgName>
+								<orgName type="institution" key="instit1">Université d'Orléans</orgName>
+								<orgName type="institution" key="instit2">Unité associée du Centre national de la recherche scientifique n° 724</orgName>
+								<address>
+									<postCode>45067</postCode>
+									<settlement>Orléans CEDEX 2</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Marie-Claude</forename>
+								<surname>Jaurand</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Institut national de la santé et de la recherche médicale</orgName>
+								<orgName type="institution" key="instit1">Unité 139 et Unité associée du Centre national de la recherche scientifique 604</orgName>
+								<orgName type="institution" key="instit2">Centre hospitalier universitaire Henri Mondor</orgName>
+								<address>
+									<postCode>94010</postCode>
+									<settlement>Créteil CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<surname>Bignon</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Institut national de la santé et de la recherche médicale</orgName>
+								<orgName type="institution" key="instit1">Unité 139 et Unité associée du Centre national de la recherche scientifique 604</orgName>
+								<orgName type="institution" key="instit2">Centre hospitalier universitaire Henri Mondor</orgName>
+								<address>
+									<postCode>94010</postCode>
+									<settlement>Créteil CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Laure</forename>
+								<surname>Magne</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'étude des particules inhalés</orgName>
+								<address>
+									<addrLine>44 rue Charles Moureu</addrLine>
+									<postCode>75013</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude comparative de l'adsorption d'acide déoxyribonucléique sur le chrysotile et le chrysotile phosphorylé (chrysophosphate)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">65</biblScope>
+							<biblScope type="fpage">508</biblScope>
+							<date type="published" when="1987">1987</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'adsorption d'acide déoxyribonucléique (ADN) sur un échantillon de chrysotile ainsi que sur deux échantillons de chrysophosphate a été étudiée par analyse chimique et par analyse de surface (spectrométrie de photoélectrons, XPS). Le chrysophosphate dérive du chrysotile par un traitement au POCl 3 en voie gazeuse; l'un des échantillons de chrysophosphate a été défibré par passage dans un défibreur Pallmann. L'analyse XPS des échantillons, avant traitement par l'ADN, a montré qu'une partie du phosphore fixé à la surface des fibres de chrysophosphate n'était pas stable puisqu'elle était solubilisée lorsque les fibres étaient dispersées dans l'eau distillée. Après traitement par l'ADN, la quantité d'ADN adsorbée par ces fibres était inférieure à celle adsorbée sur les fibres de chrysotile non phosphorylées (12,6 ± 1,7 p-g/mg et 74,0 ± 4,0 p-g/mg respectivement). L'échantillon défibré avait un comportement intermédiaire ce qui indiquerait qu'une partie des fibres a échappé à la phosphorylation (28,3 ± 5,6 p,g/mg). Les résultats indiquent que l'adsorption d'ADN est une méthode sensible pour apprécier l'état de surface des fibres de chrysotile. On peut également formuler l'hypothèse que ce processus de phosphorylation masque ou bloque des sites superficiels, actifs dans l'adsorption d'ADN.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Deoxyribonucleic acid (DNA) adsorption on one sample of Canadian chrysotile and two samples of chrysophosphate has been studied using chemical analysis and a surface method of analysis (photoelectron spectroscopy, XPS). Chrysophosphate was obtained using a phosphorylation process applied to chrysotile fibres; one chrysophosphate sample was opened in a Pallmann device. XPS analysis of the samples before DNA adsorption has shown that some surface phosphorus was dissolved following suspension of the fibres in distilled water. After DNA treatment, the amount of DNA adsorbed at the surface of the chrysophosphate sample was lower than that adsorbed at the chrysotile surface (12.6 ± 1.7 p,g/mg and 74.0 ± 4.0 p-g/mg respectively). In addition, the opened sample adsorbed an intermediary DNA amount (28.3 ±5.6 p,g/mg), suggesting that the phosphorylation process has not reached all the bulk fibres. The results indicate that DNA adsorption is a sensitive method for investigation of the surface state of the fibre. Moreover, it seems that the phosphorylation process masks or blocks the reactive surface sites for DNA adsorption.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>L'usage commercial des fibres d'amiante fait peu à peu place à celui d'autres matériaux, le plus souvent fibreux, dont le potentiel toxique n'est pas toujours connu. Les données reportées dans la littérature ont montré que, in vitro, la toxicité des fibres d'amiante était caractérisée par une diminution de la viabilité cellulaire (1-4), une altération de la structure des chromosomes (5, 6), et une transformation des cellules (7, 8). Sur le plan physico-chimique, la réactivité de surface des fibres dans les phénomènes d'adsorption a été suggérée comme étant l'un des facteurs responsables de certains effets toxiques. Les fibres d'amiante montrent, en effet, une capacité à adsorber différentes molécules, aussi bien des cancérigènes chimiques exogènes tels que le benzo(a)pyrène (9) que des macromolécules endogènes. Bien que non absolue, une relation a pu être trouvée entre la capacité des minéraux à adsorber des membranes synthétiques et leur potentiel cytotoxique (10-12). L'adsorption d'acide déoxyribonucléique (ADN), macromolé-cule qui contient le matériel génétique, a été reportée par Chang et al. (12) qui, de plus, ont mis en évidence une modification de l'activité enzymatique de la DNAse après adsorption sur les fibres de chrysotile. Compte tenu de ces différents travaux, nous avons étudié les propriétés d'adsorption des fibres de chrysophosphate, fibres de chrysotile ayant subi un traitement de phosphorylation en voie gazeuse par POCl 3 . Les études ont porté sur l'adsorption d'ADN analysée par la méthode de spectrométrie de photoélectrons (XPS) et par l'analyse chimique.</p>
+			</div>
+			<div type="section">
+				<head>Méthodes</head>
+				<div type="section" n="1">
+					<head>Matériel</head>
+					<p>Les fibres de chrysotile phosphorylé (chrysophosphates 3-4-5 et 3-13-5) et non phosphorylé (4-4-3) ont été fournies par la Société Nationale de l'Amiante, Sherbrooke, Quebec, Canada. La phosphorylation a été obtenue par traitement des fibres à l'oxychlorure de phosphore, POCl 3 (17). Un courant de gaz sec (air, azote) est chargé en POCl 3 , par barbotage dans ce liquide maintenu à une température contrôlée. Le gaz porteur, chargé de POCl 3 en quantité variable, selon la température utilisée, est dirigé vers un cylindre rotatif contenant l'amiante à traiter. Un arrangement à contrecourant a été utilisé,l'amiante arrivant par une extrémité du cylindre et le POCI3 par l'autre. Les échantillons 3-4-5 et 3-13-5 se distinguent par le fait que le second échantillon a été soumis à un défibrage mécanique après phosphorylation (défibreur Pallmann).</p>
+				</div>
+				<div type="section" n="2">
+					<head>Caractérisation des échantillons en XPS</head>
+					<p>Avant traitement par l'ADN, les fibres ont été caractérisées par analyse XPS. Celles-ci ont été mises en suspension dans de l'eau distillée à la température ambiante pendant 5 min, puis filtrées sur membrane Millipore. Une expérience complémentaire de plus longue durée a été réalisée en incubant les fibres à 37°C pendant 6 h dans l'eau distillée.</p>
+				</div>
+				<div type="section" n="3">
+					<head>Adsorption d'ADN</head>
+					<p>Pour le traitement par l'ADN, les fibres ont été dispersées par sonication pendant 10 min (50 kHz, 20 watts); la concentration en fibres était de 2 mg/mL dans une solution de KCl/NaCl 0,145 M. L'ADN utilisé provenait de la Société Sigma, Saint Louis, Missouri, U.S.A. (ADN de thymus de veau). Les suspensions de fibres ont été mélangées, volume à volume, avec des solutions d'ADN à des concentrations croissantes. Le mélange était incubé à 37°C pendant 15 min.</p>
+					<p>Après incubation, le mélange était centrifugé pendant 30 min à 10 000 tours/min (12 000 x g) et les fibres lavées 2 fois à l'aide de la solution de KCl/NaCl 0,145 M. Pour l'analyse XPS, les fibres étaient recueillies, après lavage, sur un filtre, comme décrit précédemment (13). </p>
+				</div>
+				<div type="section" n="4">
+					<head>Méthodes analytiques</head>
+					<p>Le tracé des isothermes d'adsorption a été effectué, pour des concentrations en ADN croissantes, par détermination de la densité optique, à 255 nm, du surnageant obtenu après centrifugation, et par référence à une courbe d'étalonnage. Les mesures ont été effectuées à l'aide d'un spectrophotomètre Beckman modèle 24 (Beckman Instruments France, Gagny, France).</p>
+					<p>L'analyse XPS a été réalisée à l'aide d'un spectromètre AEI ES 200. Les pics de photoélectrons Si 2p et Mg 2j ont été utilisés comme référence pour la matrice silicatée; les pics P 2p et Cl 2p ont été enregistrés pour mettre en évidence le traitement par POCl 3 . Enfin, l'ADN a été caractérisé par le pic d'azote N lt . La puissance de radiation (MgKa) était de 240 W. Le temps de balayage du spectre était réduit à 15 min/échantillon afin de minimiser les effets de l'irradiation sur la molécule d'ADN. Le pic N u caractéristique de la molécule d'ADN est un pic complexe qui présente 2 composantes principales qui ont pu être déterminées par ajustement en utilisant la méthode des moindres carrés à l'aide d'un microordinateur HP 85 ( <ref type="figure">fig. 1</ref>).</p>
+					<p>La spectrométrie XPS, méthode d'analyse basée sur le processus photoélectronique, est quantitative lorsqu'elle est appliquée à une série d'échantillons de même nature. Pour un solide dont l'épaisseur est supérieure à 4 fois le libre parcours moyen (X) des électrons étudiés, l'intensité du signal XPS est de la forme :</p>
+					<p>où a = aire de l'échantillon, F = flux des rayons X incidents, S = facteur de transmission de l'analyseur, cr = section efficace de photoionisation , et C = concentration atomique de l'élément considéré.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Résultats et discussion</head>
+				<div type="section" n="1">
+					<head>Analyse XPS des échantillons lessivés dans l'eau distillée</head>
+					<p>Les résultats sont présentés dans le tableau 1 où sont indiquées les intensités des pics XPS ainsi que les intensités normalisées au pic Si 2p qui est utilisé habituellement comme référence.</p>
+					<p>Sur les deux échantillons de chrysophosphate (3-4-5 et 3-13-5), on constate la présence de phosphore (£j = 134,6 eV, valeur proche d'un phosphate) et de chlore (E t = 199,2 eV, valeur observée généralement pour un chlorure). L'échantillon 3-4-5 est le plus enrichi en ces deux éléments.</p>
+					<p>On peut noter que l'intensité du pic Mg 2j normalisée au pic de silicium Si 2p est, pour l'échantillon 4-4-3, la même avant et après traitement dans l'eau distillée, alors que cette intensité est nettement plus faible, après lavage, pour les 2 chrysophosphates . Pour ces derniers, l'abaissement significatif du rapport Mg 2j /Si 2p s'accompagne d'une diminution importante des pics P 2p et Cl 2p ainsi que des rapports P 2p /Si 2p et Cl 2i ,/Si 2i , qui sont diminués d'un facteur 4 et 10, respectivement . Cependant, la composition superficielle semble se stabiliser rapidement puisque l'essai 6 h à 37°C fournit des résultats très voisins de ceux obtenus après quelques minutes à la température ambiante.</p>
+					<p>Les intensités des pics Si 2p des échantillons avant traitement par l'ADN sont indiquées dans le tableau 2. On peut remarquer que les valeurs sont voisines pour les trois échantillons étudiés. En outre, les valeurs du rapport Mg 2j /Si 2p montrent que la surface du chrysophosphate est appauvrie en magnésium et que l'échantillon défibré (3-13-5) présente une composition intermédiaire entre le chrysophosphate non défibré (3-4-5) et le chrysotile témoin (4-4-3). Ces résultats montrent qu'une partie du phosphore fixé à la surface des fibres de chrysophosphate l'est sous forme soluble. Par ailleurs, lors du traitement par POCI3, l'extraction du magnésium sous la forme probable d'un phosphate acide, mobilise essentiellement la couche brucitique externe des fibrilles de chrysotile. Un argument est apporté par la valeur théorique du rapport XPS Mg 2j /Si 2p pour une fibrille élémentaire entièrement lixiviée sur la première couche. Ce rapport s'établit à 0,69 alors qu'il est de 0,81 pour le chrysotile de référence (13, 14). La valeur 0,63 obtenue pour le chrysophosphate (3-4-5) traité dans l'eau est donc très proche de celle qui caractérise une fibre dont la couche brucitique externe aurait été lessivée.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Adsorption d'ADN</head>
+					<div type="section" n="2a">
+						<head>Isothermes d'adsorption : analyse chimique</head>
+						<p>Les résultats sont exprimés sur la figure 2. L'affinité pour l'ADN est la plus grande pour le chrysotile témoin (4-4-3) pour lequel la quantité d'ADN adsorbée au plateau est 74,0 ± 4,0 (xg/mg (n = 6); elle est plus faible pour le chrysophosphate non défibré: 12,6 ± 1,7 (xg/mg (n = 6); elle est intermédiaire et moins reproductible pour le chrysophosphate défibré 28,3 ± 5,6 (xg/mg (n = 7), ce qui suggère que l'intérieur des fagots de fibrilles a pu échapper au traitement par POCl 3 . En effet, on peut admettre que le défibrage Pallmann a, de manière plus ou moins aléatoire, ouvert les fagots de fibrilles, permettant ainsi d'exposer des fibres entières et (ou) des parties de fibres vierges.</p>
+					</div>
+					<div type="section" n="2b">
+						<head>Analyse XPS</head>
+						<p>Les résultats sont présentés sous la forme de courbes où le rapport N lf /Si2 P a été reporté en fonction de la concentration initiale en ADN ( <ref type="figure">fig. 3</ref>).</p>
+						<p>On peut constater, sur la figure 3, qu'il existe une dispersion variable des résultats, faible pour les échantillons 4-4-3 et 3-4-5, et maximale pour l'échantillon de chrysophosphate défibré. Ceci était également observé sur les isothermes ( <ref type="figure">fig. 2</ref>). Par ailleurs, l'examen des courbes indique que la valeur au plateau est atteinte très rapidement pour le chrysophosphate alors qu'il faut des concentrations en ADN nettement supérieures dans le cas du chrysotiie témoin. Le chrysophosphate défibré présente un comportement intermédiaire entre les deux autres. Toutefois , la comparaison des figures 2 et 3 montre que le rapport des hauteurs des plateaux relatifs aux échantillons 4-4-3 et 3-4-5 est d'environ 6 pour les isothermes d'adsorption alors qu'il est d'environ 3 pour les courbes XPS. Nous n'avons pas d'explication simple de ce fait qui, selon nous, pourrait traduire une différence dans la configuration des molécules adsorbées. Cette hypothèse repose sur un calcul simple qui compare les données de l'analyse XPS et de l'analyse chimique; elle est basée sur les résultats montrant que le chrysophosphate fixait 6 fois moins d'ADN que le chrysotiie témoin, alors que le taux de recouvrement ne diminuait pas dans les mêmes proportions.</p>
+						<p>Si nous faisons l'hypothèse que les macromolécules d'ADN adsorbées à la surface des fibres ont une épaisseur / &gt; 4X, le signal N lJ; caractéristique de l'adsorbat, sera proportionnel au taux de recouvrement 6 de l'ADN, tandis que le signal Si 2p , caractéristique du substrat, sera proportionnel à (1 -0). Le paramètre R = I(N ls )/I(Si 2 p) ( <ref type="figure">fig-3</ref>) sera alors proportionnel à 6/(1 -0).</p>
+						<p>Par ailleurs, on peut supposer que les molécules d'ADN adsorbées sur le chrysophosphate et sur le chrysotiie témoin ont le même volume moléculaire; soit n, le nombre de molécules d'ADN adsorbées sur le chrysophosphate et n', le nombre de molécules d'ADN adsorbées sur le chrysotiie témoin, on aura, d'après les résultats de l'analyse chimique, n' = 6«. L'analyse XPS nous indique par ailleurs que R' = 3R; ou encore</p>
+						<p>Le taux de recouvrement du chrysophosphate par l'ADN est égal au nombre n de molécules par unité de surface multiplié par s, aire d'une molécule projetée sur la surface. Il vient:</p>
+						<p>La combinaison des relations [1], [2] et [3]  permet d'obtenir une relation qui relie s, s' et 9' : 6s'/s + 29' = 3; par exemple, pour 9' = on obtient Î = 3s' et, d'après [1], 9 = Ce calcul simple ne permet pas de résoudre le système mais les résultats de l'analyse chimique et ceux de l'analyse XPS conduisent finalement à formuler l'hypothèse d'un plus grand étalement des macromolécules d'ADN à la surface du chrysophosphate qu'à celle du chrysotile témoin.</p>
+					</div>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Les expériences effectuées montrent que l'adsorption d'ADN est un test sensible pour apprécier l'état de surface des fibres de chrysotile. L'interprétation complète des résultats suppose des comparaisons avec l'adsorption de molécules biologiques de plus petite taille et de forme non fibrillaire. À l'heure actuelle, les résultats relatifs à l'ADN conduisent cependant à formuler l'hypothèse d'un blocage des sites superficiels actifs par le phosphore ou par un composé phosphaté. On soulignera qu'il n'est pas indispensable que tous les sites actifs aient été bloqués par la phosphorylation pour expliquer les résultats obtenus : la possibilité de fixation d'une macromolécule organique est, en particulier, fonction de sa dimension et de sa forme. Un effet de barrière stérique (15) peut jouer un rôle pour contrôler l'adsorption de macro molécules fibrillaires telles que l'ADN.</p>
+				<p>La présence de phosphore fixé superficiellement diminue les propriétés sorptives du matériau vis-à-vis des molécules biologiques telles que l'ADN; il a été également observé une diminution des capacités d'adsorption de certains phospholipides du surfactant pulmonaire (résultats non publiés). Ces différents résultats peuvent être en relation avec la diminution de l'effet cytotoxique des fibres de chrysotile phosphaté (16). On peut par ailleurs se demander si la diminution du pouvoir clastogène (cassures de chromosomes) de ces fibres (16), comparativement au chrysotile non phosphaté, a un lien avec la diminution de l'adsorption d'ADN reportée ici.</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Ce travail a été réalisé à l'aide de financement Société Nationale de l'Amiante, Québec, Canada et au moyen de fonds du Centre National de la Recherche Scientifique et de l'Institut National de la Santé et de la Recherche Médicale.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Reiss</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Solomon</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+									<surname>Williams</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Environ. Res</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">109</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Wade</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Lipkin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">L</forename>
+									<surname>Frank</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<imprint>
+								<biblScope type="vol">264</biblScope>
+								<biblScope type="pp">444</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Brown</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Br. J. Exp. Pathol</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">183</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Jaurand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I. Bastie-Sigeac</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Stoebner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Environ. Res</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">255</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Seabright</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<imprint>
+								<biblScope type="vol">257</biblScope>
+								<biblScope type="pp">56</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">K</forename>
+									<surname>Livingston</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Morris</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Environ. Pathol. Toxicol</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">373</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Cancer Res</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<biblScope type="pp">2170</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Paterour</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. JAURAND. Carcinogenesis</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="pp">523</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Menard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Noel</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Kimmerle</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Tousignant</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Lambert</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">1240</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Jaurand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Magne</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bignon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Toxicology</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="pp">323</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Jaurand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Magne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bignon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Toxicol. Lett</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">205</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J W</forename>
+									<surname>Chang</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">B</forename>
+									<surname>Joseph</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+									<surname>Stephens</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+									<surname>Hart</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Coll. Toxicol</title>
+							<imprint>
+								<biblScope type="vol">2</biblScope>
+								<biblScope type="pp">187</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Jaurand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Baillif</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Thomassin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Magne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Touray</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Colloid Interface Sci</title>
+							<imprint>
+								<biblScope type="vol">95</biblScope>
+								<biblScope type="pp">1</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Thomassin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Goni</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Baillif</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Jaurand</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys. Chem. Miner</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">385</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<title level="a" type="main">Surfactants and interfacial phenomena</title>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J. Rosen. M. C. Jaurand</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Renier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Gaudichet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Kheuang</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Wiley and Sons MAGNE et J. BIGNON. Ann. NY Acad. Sci. Sous presse</title>
+							<imprint>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<title level="a" type="main">Patent 4,356,057. 26 octobre 1982; Canadian Patent 1169230</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Dunnigan. U. S. ; J. M. Lalan-Cette</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Delvaux</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">U.S. Patent</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="issue">223</biblScope>
+								<biblScope type="fpage">495</biblScope>
+								<biblScope type="lpage">22</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

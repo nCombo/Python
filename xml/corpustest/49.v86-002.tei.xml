@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Influence de nitrates métalliques sur l&apos;équilibre de dissociation ionique: N 2 0 4 ^ NO + + N0 3 ~ dans le sulfolane</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Abdellatif</forename>
+								<surname>Boughriet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie analytique et marine</orgName>
+								<orgName type="institution">Université de Lille</orgName>
+								<address>
+									<addrLine>bâtiment C8</addrLine>
+									<postCode>59655, D&apos;</postCode>
+									<settlement>Villeneuve, Ascq Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Wartel</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie analytique et marine</orgName>
+								<orgName type="institution">Université de Lille</orgName>
+								<address>
+									<addrLine>bâtiment C8</addrLine>
+									<postCode>59655, D&apos;</postCode>
+									<settlement>Villeneuve, Ascq Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Claude</forename>
+								<surname>Fischer</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie analytique et marine</orgName>
+								<orgName type="institution">Université de Lille</orgName>
+								<address>
+									<addrLine>bâtiment C8</addrLine>
+									<postCode>59655, D&apos;</postCode>
+									<settlement>Villeneuve, Ascq Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Influence de nitrates métalliques sur l&apos;équilibre de dissociation ionique: N 2 0 4 ^ NO + + N0 3 ~ dans le sulfolane</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p> Au cours de la nitration des noyaux aromatiques par le N 2 0 4 en milieu aprotonique, la présence d&apos;un nitrate métallique tel que Zn(N0 3) 2 , Cu(N0 3) 2 ou U0 2 (N0 3) 2 , génère l&apos;espèce catalytique NO + selon la réaction N 2 0 4 + M(N0 3) 2 &lt;=t NO + + M(N0 3) 3 [ 1 ]. L&apos;étude voltampérométrique de la réduction de N 2 0 4 en présence de nitrates métalliques M(N0 3) 2 sur électrode de platine a permis d&apos;atteindre la valeur de la constante de l&apos;équilibre [ 1 ] et celle de la constante de stabilité du complexe trinitrato formé selon M(N0 3) 2 + N0 3 ï=s M(N0 3) 3 [2] dans le sulfolane (M = Zn, Cu, U0 2). La forte stabilité des complexes trinitrato M(N0 3)J est due aux propriétés peu solvatantes du solvant. Les comportements des ligands CF et N0 3 étant très voisins, cette hypothèse est vérifiée par l&apos;étude de la stabilité des complexes chlorozincates[II] (ZnCl 2-1 (i = 1, 2, 3, 4)) dans le sulfolane, par voltampérométrie à courant nul sur électrode d&apos;argent.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p> The addition of a metallic nitrate such as Zn(N0 3) 2 , Cu(N0 3) 2 , or U0 2 (N0 3) 2 to N 2 0 4 solutions in aprotic media leads to the reclaiming of the NO + species (which is considered as a catalyst for the nitration of aromatics by N 2 0 4) as follows: N 2 0 4 + M(N0 3) 2 &lt;=i NO + + M(N0 3)J [1]. Using linear voltammetry, the study of the N 2 0 4 reduction in the presence of metallic nitrates with a platinum electrode has allowed us to derive the equilibrium constant for reaction [ 1 ] and that corresponding to the formation of the trinitrato complexes in sulfolane according to: M(N0 3) 2 + N0 3 M(N0 3)J [2] (M = Zn, Cu, U0 2). The strong stability of the M(N0 3) 3 complexes is due to the weak solvating character of the sulfolane. This hypothesis is also confirmed by the stability constants of zinc[II] chloride complexes: ZnCl? -&apos; &lt;=* ZnCl/Ij + CP (i = 1, 2, 3,4) in sulfolane from a potentiometric study by means of a silver chloride -silver electrode.</p>
+			</div>
+		</front>
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>La nitration du naphtalène par N 2 0 4 en milieu aprotonique a lieu selon un mécanisme faisant intervenir l&apos;espèce catalytique NO + (1) provenant de la dissociation ionique de N 2 0 4 selon N 2 0 4 NO + + NOJ. Cependant, la constante de dissociation de N 2 0 4 dans différents solvants aprotoniques est faible (AT&apos; N 2 O 4 = 7,1 X 10&quot; 8 mol dm&quot; 3 à 303 K dans le sulfolane (2), et kCo, = 6,3 x 10&quot; 10 moldm&quot; 3 à 298 K dans le nitrométhane (3a)). Des composés tels que les nitrates métalliques (U0 2 (N0 3 ) 2 , Cu(N0 3 ) 2 et Zn(N0 3 ) 2 ) dans des solvants peu solvatants (favorisant les homoconjugaisons ou hétéroconjugaisons) favorisent la dissociation ionique de N 2 0 4 par formation de complexes nitrato M(N0 3 )-~&apos; (i = 1, 2, 3, 4 et M = U0 2 , Cu et Zn). Afin de mieux connaître le phénomène d&apos;interaction entre N 2 0 4 et ces nitrates métalliques, nous avons étudié les constantes de stabilité de ces complexes nitrato-métalliques:</p> 
+				
+	<p><formula>[1] M(N0 3 )f=i + NOJ i* M(N0 3 )? </formula></p>
+				
+				<p>N&apos;ayant pu intégrer ces différentes entités chimiques dans un couple électrochimique, mais également en raison de la faible concentration des espèces M(N0 3 ) + , M 2+ et NOJ en solution, les constantes de stabilité des complexes M(N0 3 ) 2 et M(N0 3 ) + n&apos;ont pas pu être déterminées. Néanmoins, une étude voltampérométrique sur électrode de platine poli des solutions des dérivés oxygénés de l&apos;azote (3) a montré que le système NO + /NO est rapide dans le sulfolane, ce qui nous a permis d&apos;entreprendre l&apos;étude de la réaction entre N204 et M(N03)2 selon</p>
+
+	<p><formula>[2] N204 + M(N03)2 NO+ + M(N03)3-</formula></p>
+
+			<p>La formation de NO + au cours de cette réaction a été suivie par ampérométrie. Il est à noter que si les nitrates de cuivre et d&apos;uranyle conduisent à des complexes trinitrato (M(N0 3 )J) (4), Addison et al. (4) soulignent, dans le cas du zinc, l&apos;existence d&apos;un complexe tétranitrato ((N0 + ) 2 Zn(N0 3 )|~). Ce complexe, formé lors d&apos;un mélange Zn(N0 3 ) 2 et N 2 0 4 en excès, est peu stable et se décompose à température ordinaire. Peu d&apos;informations n&apos;ont pu être relevées dans la bibliographie quant à sa stabilité en solvant aprotonique dipolaire. Les ions nitrate et chlorure ayant des propriétés solvatantes très proches dans le sulfolane, la transposition de l&apos;étude des complexes ZnCl 2 (i = 1,2,3, 4), par potentiométrie à courant nul sur électrode d&apos;argent, au complexe Zn(N0 3 ) 4 ~ devrait permettre de justifier la nonstabilité du tétranitratozincate[II] de dinitrosyle dans notre solvant.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Le sulfolane (Prolabo) est purifié selon la méthode déjà décrite (5). Les perchlorates d&apos;argent (Fluka) et de tétraéthylammonium (Carlo Erba) sont séchés à 333 K sous pression réduite durant 1 mois. Les chlorures de tétraéthylammonium (Eastman Kodak) et de zinc (Merck) sont séchés respectivement à 353 et 423 K sous pression réduite durant 8 jours.</p> 
+			
+			<p>Le U0 2 (N0 3 ) 2 anhydre est obtenu par déshydratation à 373 K de U0 2 (N0 3 ) 2 ,6H 2 0 (Merck) sous pression réduite. Une telle technique n&apos;est pas applicable aux nitrates de zinc et de cuivre qui se décomposent en conditions de déshydratation. Les nitrates Zn(N0 3 ) 2 et Cu(N0 3 ) 2 rigoureusement exempts d&apos;eau sont donc préparés &quot;in situ &quot; par réaction dans le sulfolane entre de la poudre de métal (Cu, Zn) et un excès de N 2 0 4 . Quand la réaction est terminée, le mélange réactionnel est placé sous pression réduite, ce qui permet l&apos;élimination de N 2 0 4 en excès et des oxydes d&apos;azote NO et N 2 0 3 formés au cours de la réaction. Le perchlorate de nitrosyle est préparé dans le nitrométhane par addition d&apos;un excès de N 2 0 3 à une solution de HC10 4 ,H 2 0. Le solide recueilli après filtration est lavé au tétrachlorure de carbone. Un millivoltmètre Isis 20000 Tacussel est utilisé pour la potentiométrie . La stabilité des mesures est contrôlée sur un enregistreur Tacussel EPL2, relié au millivoltmètre. Toutes les préparations de solutions sont effectuées en boîte à gants. Les manipulations sont réalisées à 303 ± 0,1 K. L&apos;électrode d&apos;argent est recouverte d&apos;un dépôt de AgCl, avant chaque manipulation, selon la méthode déjà décrite (2).</p>
+
+			<p>intensité-potentiel, en régime stationnaire, sont tracées à 303 ± 0,1 K à l&apos;aide d&apos;un ensemble voltampérométriqueTacussel. La vitesse de rotation de l&apos;électrode indicatrice de platine (diamètre, 0.8 mm) est de 10 tours/s. La vitesse de balayage des potentiels est de 5 mV/s. La voltammétrie cyclique est réalisée soit à l&apos;aide de la même électrode soit avec une électrode de diamètre = 2 mm. L&apos;électrode de référence a déjà été décrite (2). Le potentiel de demi-vague du système ferrocène-ferricinium est pris comme origine de l&apos;échelle de potentiel. Le dosage de l&apos;eau est effectué par la méthode de Karl-Fischer (réactif généré par coulométrie (6)). Les spectres Raman de solutions équimoléculaires des mélanges de N 2 0 4 et nitrate métallique dans le sulfolane ont été obtenus à l&apos;</p>
+
+			<p>Les courbes intensité-potentiel, en régime stationnaire, sont tracées à 303 ± 0,1 K à l&apos;aide d&apos;un ensemble voltampérométriqueTacussel. La vitesse de rotation de l&apos;électrode indicatrice de platine (diamètre, 0.8 mm) est de 10 tours/s. La vitesse de balayage des potentiels est de 5 mV/s. La voltammétrie cyclique est réalisée soit à l&apos;aide de la même électrode soit avec une électrode de diamètre = 2 mm. L&apos;électrode de référence a déjà été décrite (2). Le potentiel de demi-vague du système ferrocène-ferricinium est pris comme origine de l&apos;échelle de potentiel. Le dosage de l&apos;eau est effectué par la méthode de Karl-Fischer (réactif généré par coulométrie (6)). Les spectres Raman de solutions équimoléculaires des mélanges de N 2 0 4 et nitrate métallique dans le sulfolane ont été obtenus à l&apos;aide d&apos;un spectromètre Raman Dilor R.T. 30. Pour cela, nous avons utilisé des tubes scellés contenant des solutions de 0,2 mol dm""3 en nitrate métallique et 0,2 mol dm- 3 en N2 04 . La radiation excitatrice est la raie à 488,0 nm d&apos;un laser à argon ionisé, avec une puissance de 150 mW.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Les courbes voltampérométriques sur électrode de platine poli de solutions de nitrate métallique (U0 2 (N0 3 ) 2 , Cu(N0 3 ) 2 ou Zn(N0 3 ) 2 ), en présence de perchlorate de tétraéthylammonium comme électrolyte indifférent, ne révèlent pas dans le sulfolane la vague d&apos;oxydation caractéristique de l&apos;ion nitrate (£4 = +1,57 V (3)). Ce résultat suggère donc que ces nitrates métalliques sont peu dissociés dans notre solvant. L&apos;addition de N 2 0 4 à ces solutions fait apparaître sur les courbes i = f(E) une vague cathodique différente de celle correspondant à la réduction de N 2 0 4 , et qui croît avec le rapport de concentration [N 2 0 4 ]/[M(N03) 2 ]. De même, si l&apos;on ajoute une solution de nitrate métallique à une solution de N 2 0 4 , il apparaît une nouvelle vague dont le potentiel, — +0,74 V, correspond à celui du système NO + + e~ NO en présence de N 2 0 4 (3b) ( <ref type="figure">fig. 1</ref>, cas du nitrate d&apos;uranyle). La présence de l&apos;entité NO + en solution est confirmée par l&apos;étude en spectroscopie Raman des mélanges équimoléculaires N 2 0 4 -Cu(N0 3 ) 2 , N 2 0 4 -U0 2 (N0 3 ) 2 et N 2 0 4 -Zn(N0 3 ) 2 dans le sulfolane. En effet, les spectres présentent une bande intense à 2285 cm -1 , caractéristique de la vibration d&apos;élongation v NO de NO + ( <ref type="figure">fig. 2</ref>) (7). Nous représentons en figure 3 l&apos;évolution du courant limite de diffusion de la vague cathodique attribuée à NO + lors de l&apos;addition de nitrate métallique à une solution de N 2 0 4 . La hauteur de cette vague tend vers une limite, ce qui laisse supposer l&apos;existence d&apos;un équilibre partiellement déplacé. Addison (4) signale, pour le cuivre et l&apos;uranium, la formation des complexes Cu(N0 3 ) 3 &quot; NO + et U0 2 (N0 3 )J&quot; NO + , et pour le zinc, la formation des complexes Zn(N0 3 ) 3 ~ NO + et Zn(N0 3 )2~ 2NO + , lors de l&apos;addition de nitrate métallique à N 2 0 4 liquide. La réaction peut donc s&apos;écrire, dans le cas des ions cuivrique et uranyle,</p>
+
+	<p><formula>[2] M (N0 3 ) 2 + N 2 0 4 M(NO a )r + NO +</formula></p>
+
+			<p>Cette réaction laisse présager que la dissociation de M(N0 3 )F en M(N0 3 ) 2 et NOJ est plus faible que celle de N 2 0 4 selon N 2 0 4 NO + + NOS&quot;. Il est à noter que le complexe [Zn(N0 3 ) 4 ] [N0]2 se décompose à température ambiante (4). Des travaux récents (8) confirment, dans le cas de l&apos;uranium, que seul le complexe [U0 2 (N0 3 )^&quot;][N0 + ] existe. Notre étude portera, dans une première étape, sur les sels de cuivre et d&apos;uranyle.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>1. Constantes d&apos;équilibre de la réaction de N204 avec les nitrates de cuivre et d&apos;uranyle dans le sulfolane</head>
+
+			<p>L&apos;étude électrochimique des mélanges N 2 0 4 -M(N0 3 ) 2 (avec M 2+ = Cu 2+ et UOi + et [M(N0 3 ) 2 ]/ [N 2 0 4 ]-1) montre que: (z) en voltammétrie cyclique, l&apos;intensité du courant du pic  cathodique est proportionnelle à la racine carrée de la vitesse de balayage de potentiel; (ii) par voltammétrie linéaire, le courant limite /] est proportionnel à la racine carrée de la vitesse de rotation de l&apos;électrode. Le processus électrochimique n&apos;est donc pas contrôlé par la cinétique de la réaction chimique [2]. La réduction de N 2 0 4 en présence de nitrate métallique peut s&apos;interpréter selon le processus</p>
+
+	<p><formula>[2] N 2 0 4 + M(N0 3 ) 2 ç± NO + + M(N0 3 )Î NO + + e~ &lt;=* NO</formula></p>
+
+			<p>Le courant limite de diffusion étant proportionnel à la concentration de NO + , soit ij(NO + ) = &amp; NO +[NO + ], il est possible, connaissant le coefficient de proportionnalité z&apos; 1 (NO + )/[NO + ] de la réduction de NO + (obtenue lors de l&apos;étude d&apos;une solution de N0C10 4 ) pour une même électrode tournante (surface: 0,50 mm 2 ) animée d&apos;une vitesse de rotation identique (« = 62,8 rad s -1 ): k NO + = 770 ± 15 pu A dm 3 mol&quot;&quot; 1 , d&apos;atteindre la concentration en NO + libre. Nous pouvons ensuite déduire la constante d&apos;équilibre Kh = [N0 + ][M(N0 3 )S&quot;]/ [N 2 0 4 ] x [M(N0 3 ) 2 ], relative à la réaction [2]. A 303 K, les constantes Km sont égales à 2,5 ± 0,4 et 1,7 ± 0,2, respectivement, pour M 2+ = Cu 2+ et U0 2+ . Ces constantes sont en accord avec une réaction [2] non totalement déplacée. En utilisant la valeur de la constante de formation de N 2 0 4 selon NO + + NOS&quot; ** N 2 0 4 , soit /^¡v 2 o 4 = 1,6 x 10 +7 mol _1 dm 3 (2), nous pouvons atteindre les constantes de stabilité des complexes métalliques trinitrato à partir de la relation</p>
+
+	<p><formula>Àt(M) = [M(N0 3 ) 3 -]/[M(N0 3 ) 2 ][N0 3 &quot;] </formula></p>
+
+			<p>À 303 K, la constante /¡T*(M) est égale à 4,0 x 10 +7 et 2,7 x 10 +7 mol~ 1 dm 3 respectivement pour le cuivre[II] et l&apos;ion uranyle.</p> 
+			
+			<p>Les valeurs des constantes de dissociation des complexes trinitrato M(N0 3 )J* (1/A&apos;*(M)) sont donc très proches de celle relative à la constante de dissociation ionique de N204 (^N2O4 = 1 /K^2q4), ce qui confirme la présence d&apos;une réaction [2] équilibrée entre les nitrates métalliques et N 2 0 4 . Généralement les constantes de stabilité des complexes tétracoordonnés sont plus faibles que celles des complexes tricoordonnés; c&apos;est le cas du cuivre[II] en présence du ligand Cl -dans les solvants eau (9-11), acétonitrile (12), diméthylsulfoxyde (13, 14). Il était intéressant de confirmer cette hypothèse dans le cas du zinc [II] afin de montrer que le complexe Zn(N0 3 ) 4 (N0) 2 n&apos;existe pas dans le sulfolane. Ne pouvant déterminer la constante de stabilité du complexe Zn(N0 3 ) 4 ~, nous nous sommes intéressés à la complexation du zinc[II] avec le ligand Cl&quot; de comportement voisin de celui de l&apos;ion NOS&quot;.</p>
+			
+			</div>
+			
+			<div type="section">
+				<head>II. Constantes de stabilité des complexes chlorozincates[II] dans le sulfolane</head>
+				
+			<p>Il existe peu de travaux relatifs à la stabilité des complexes du zinc [II] en milieu aprotonique. Citons pour exemple ceux réalisés dans le solvant DMSO (16).</p>
+
+			<p>Afin d&apos;accéder aux valeurs des constantes de stabilité K* des complexes chlorozincates[II] relatives aux équilibres</p> 
+				
+	<p><formula>[3] ZnClflj + Cl&quot; ZnClf</formula></p>
+
+			<p>avec i = 1, 2, 3, 4</p>
+
+	<p><formula> [ZnCl?&quot;&apos;] Kl * _ [ZnCl ?Z{][Cl </formula></p>
+
+			<p>nous avons cherché à intégrer chacun de ces équilibres dans un couple électrochimique. Les complexes ZnCl 4 ~, ZnClJ, ZnCl 2 et ZnCl&quot; 1 &quot; étant meilleurs donneurs de CP que AgCl, nous avons pensé atteindre les constantes de stabilité de ces espèces grâce à l&apos;utilisation de l&apos;électrode d&apos;argent recouverte de chlorure d&apos;argent. En effet, cette électrode est indicatrice de la concentration de chlorure dans le sulfolane (2).</p>
+			
+			<p>Nous avons suivi la neutralisation d&apos;une solution de ZnCl 4 ~ (obtenue en mélangeant ZnCl 2 et (C 2 H 5 ) 4 NC1 dans un rapport de concentrations égal à 1/2) par une solution de perchlorate d&apos;argent, par potentiométrie à courant nul. La courbe de titrage fait apparaître trois sauts de potentiel pour les rapports [Ag + ]/ [CP]: 0,25; 0,5; 1 ( <ref type="figure">fig. 4</ref>). Ces sauts sont caractéristiques respectivement des réactions suivantes:</p>
+
+	<p><formula>[4] ZnCir + Ag </formula></p>
+		
+	<p><formula>[5] ZnClJ + Ag + * AgClj + ZnCl 3&quot; AgClj + ZnCl</formula></p>
+		
+			<p>et des deux réactions non discernables</p> 
+		
+	<p><formula>[6] ZnCl 2 + Ag + -» AgClj + ZnCl +</formula></p> 
+		
+	<p><formula>[7] ZnCl + + Ag + -» AgClj + Zn 2+</formula></p> 
+	
+			<p>qui peuvent s&apos;écrire globalement</p> 
+		
+	<p><formula>ZnCl 2 + 2Ag + 2AgCl| + Zn 2+</formula></p>
+
+			<p>L&apos;équation de Nernst appliquée au système électrochimique ([4H7])</p>
+
+	<p><formula>[8] ZnCl 2 &quot;&apos; + A^ ç± AgClj + ZnCl?r{ + e&quot;</formula></p> 
+	
+			<p>avec i = 1, 2, 3, 4, donne</p> 
+				
+	<p><formula>f [ZnCl? I i] E = Ek + 2,303 — log =—:- nF 6 [ZnCl/ -&apos;]</formula></p>
+
+			<p>L&apos;analyse mathématique de la courbe de titrage montre que les réactions [4] et [5] sont rapides. Les coefficients de la loi de Nernst expérimentaux sont très proches de la valeur théorique (59 mV par unité logarithmique pour le couple [4] et 61 mV par unité logarithmique pour le couple [5]). Les potentiels normaux Eq et El ont été déterminés et ont pour valeurs respectives —420 mV et —124 mV (±3 mV). Ces valeurs jointes aux valeurs du potentiel normal du système Ag + /Ag (+373 mV (5)) et du produit de solubilité de AgCl (3,7 x 10&quot; 19 mol 2 dm&quot; 6 (5)), dans le sulfolane, permettent de calculer les constantes log K$ et log qui ont respectivement pour valeurs +5,2 ± 0,2 et + 10,1 ± 0,2.</p> 
+			
+			<p>En ce qui concerne la variation de potentiel relative aux deux réactions simultanées [6] et [7], nous avons effectué un traitement mathématique des données par affinement selon la méthode des moindres carrés. Les résultats obtenus sont: coefficient expérimental de la loi de Nernst, 60 ± 0,5 mV; log K* = 12,1 ± 0,2; log K$ = 13,4 ± 0,2; potentiels normaux E¿ = +71 ± 3mV et Eq = -7 ± 2mV. Nous constatons que la constante K* est supérieure à K* comme le laissait présager la courbe potentiométrique où les neutralisations de ZnCl 2 et ZnCl + ne sont pas séparées. Ce phénomène a déjà été observé dans des solvants autres que le sulfolane: DMSO (16), méthanol (17), avec les ligands Cl&quot;, Br~, I&quot; et SCN&quot;.</p> 
+			
+			<p>A l&apos;aide des valeurs des constantes K* et K*, nous avons effectué la simulation d&apos;un dosage d&apos;une solution de ZnCl 2 par AgC10 4 (<ref type="figure">fig. 5</ref>). Nous avons également reporté sur cette figure l&apos;évolution de la concentration des différentes espèces au cours du dosage. Les deux réactions [6] et [7] donnent naissance a une seule vague, comme nous l&apos;avons constaté expérimentalement. Les complexes ZnCl 2 &quot;, ZnClJ&quot; sont plus stables dans le sulfolane et le diméthylsulfoxyde (16) (solvants aprotoniques) que dans le méthanol (17) et l&apos;eau (18), en raison des propriétés peu solvatantes du sulfolane et du DMSO (tableau 1). Ces résultats sont en accord avec les hypothèses formulées par Ahrland (19), relatives à la solvatation des complexes métalliques en milieux protoniques et aprotoniques. En effet, les ligands susceptibles de former des liaisons hydrogènes sont fortement solvatés par les solvants protoniques, ce qui diminue la stabilité des complexes.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>III. Constante de stabilité du complexe trinitratozincate[II] dans le sulfolane</head>
+
+			<p>Nous avons vu que la stabilité du complexe tétrachlorozincate[II] est plus faible que celle du trichlorozincate [II] (log = +10,1 ± 0,2 et log K* = 5,2 ± 0,2 à 303 K), ce qui est en accord avec les résultats relevés, dans le cas du cuivre, pour un solvant à propriété physique voisine du sulfolane (pouvoir donneur (DN) = 14,8), l&apos;acétonitrile (DN = 14,1) (12). Cet écart de stabilité doit être retrouvé avec les complexes du nitrate tri-et tétra-coordonnés puisque les ligands Cl&quot; et NOJ ont, dans notre solvant, des solvatations très voisines: (i) les constantes d&apos;acidité de HNO3 et HC1 sont proches, soit 16 (3a) et 14,5 (20), respectivement; (ii) les constantes d&apos;homoconjugaison de HN0 3 et HC1 (AH + A&quot; A 2 H&quot;) sont toutes deux égales à 3,1 (2, 3a).</p> 
+			
+			<p>La réaction de N 2 0 4 avec le complexe trinitrato selon</p>
+
+	<p><formula>[9] N204 + Zn(N03)3 ^ NO+ + Zn(N03)2~</formula></p>
+
+			<p>doit être peu déplacée vers la formation du complexe nitrosyle, et donc négligeable. Cette hypothèse est d&apos;ailleurs confirmée par l&apos;allure des courbes i = f(E) obtenues au cours de l&apos;addition de nitrate de zinc à une solution de N 2 0 4 ( <ref type="figure">fig. 6</ref>), allure très semblable à celle des courbes relatives aux mélanges N 2 0 4 + U0 2 (N0 3 ) 2 ( <ref type="figure">fig. 1</ref>) donnant lieu uniquement à la formation d&apos;un complexe [(U0 2 (N0 3 ) 3 ] [N0].</p> 
+			
+			<p>De plus, la courbe représentant l&apos;évolution du courant limite 0j(NO + )) de réduction de NO + (formé au cours de la réaction [2]) en fonction du rapport [Zn(N0 3 ) 2 ]/ [N 2 0 4 ]( <ref type="figure">fig. 3</ref>), coïncide bien avec celle exprimant ;j(NO + ) en fonction de [U0 2 (N0 3 ) 2 ]/ [N 2 0 4 ]. Il est alors possible de déterminer la constante de la réaction</p> 
+			
+	<p><formula>[10] N 2 0 4 + Zn(N0 3 ) 2 ?± NO + + Zn(N0 3 )J</formula></p>
+
+			<p>par une étude similaire à celle réalisée avec les nitrates de cuivre et d&apos;uranyle. La constante de la réaction [10] est égale à 1,8 — 0,3, et la constante de stabilité du complexe trinitratozincatefll] est égale à 2,9 x 10 +7 mol&quot; 1 dm 3 à 303 K. Cette valeur, proche de celle de la constante de dissociation ionique de N 2 0 4 , empêche, dans le sulfolane, la formation par N 2 0 4 de complexes plus coordonnés. La spectroscopie Raman apporte une preuve directe de la formation d&apos;un sel de nitrosyle, lors de l&apos;étude d&apos;une solution équimoléculaire N 2 0 4 -Zn(N0 3 ) 2 ( <ref type="figure">fig. 2</ref>), mais ne permet pas de conclure sur l&apos;absence en solution du complexe Zn(N0 3 ) 4 ~; les bandes caractéristiques des vibrations de NOJ libre ou complexé sont masquées par les raies intenses et larges du sulfolane. Notons que la stabilité du complexe Zn(N0 3 ) 3 &quot; (KUZn) = 2,9 x 10 +7 dm 3 mol _1 à 303 K) est légèrement plus faible que celle du complexe Cu(N0 3 ) J (K$(Cu) = 4,0 x 10 +7 dm 3 mol -1 à 303 K), ce qui est en accord avec la classification des métaux en fonction de leur pouvoir complexant proposée par Irving et Williams (21). En résumé, la présence de l&apos;acide de Lewis Zn(N0 3 ) 2 , dans une solution de N 2 0 4 , conduit dans le sulfolane à la formation de NO + et du complexe trinitratozincate [II]. Cette réaction est observée dans notre solvant grâce à une stabilité du complexe Zn(N0 3 )i&quot; (KUZn) = 2,9 x 10 +7 dm 3 mol&quot; 1 à 303 K) voisine de celle de N 2 0 4 selon NO + + N0 3 &quot; ^ N 2 0 4 (Â^ 2 o, = +1,6 x 10 +7 dm 3 mol _1 à 303 K).</p>
+
+			</div>
+		
+			<div type="section">
+				<head>Conclusion</head>
+
+			<p>L&apos;utilisation de la voltampérométrie a permis d&apos;élucider le mécanisme de la réduction de N 2 0 4 en présence des nitrates métalliques Zn(N0 3 ) 2 , Cu(N0 3 ) 2 et U0 2 (N0 3 ) 2 en milieu aprotonique:</p>
+
+	<p><formula>[C] N 2 0 4 + M(N0 3 ) 2 NO + + M(N0 3 )J</formula></p> 
+	<p><formula>[E] NO + + e&quot; NO</formula></p>
+
+			<p>Le processus électrochimique est contrôlé par le transfert monoélectronique réversible mis enjeu lors de la réduction de NO + en NO (système [E]). Ce résultat a rendu possible la détermination de la constante d&apos;équilibre de la réaction [C], (£M) &gt; et celle relative à la formation du complexe métallique trinitrato, AT*(M), selon M(N0 3 ) 2 + N0 3 ~ M(N0 3 ) 3 &quot;. À 303 K, les valeurs trouvées sont: K% n = 1,8 ± 0,3; K£ u = 2,5 ± 0,4; o 2 = 1,7 ± 0,2; KUM) = 2,9 x 10+ 7 , 4,0 x 10+ 7 et 2,7 x 10+ 7 mol -1 dm 3 , respectivement pour M = Zn, Cu et UO z . Nous avons négligé l&apos;intervention des entités M(N0 3 ) 4 ~, M(N0 3 ) + et M 2+ , dans les réactions précédentes, en raison de leur concentration trop faible dans la solution. Cette hypothèse a été confirmée par des travaux sur les mélanges N 2 0 4 -M(N0 3 ) 2 signalés dans la littérature, et par nos résultats obtenus dans la série des complexes chlorozincates[II] où la base CF a un comportement vis-à-vis du métal Zn 2+ très semblable à celui de NO 3 ~.</p>
+
+			<p>L&apos;addition de ces nitrates métalliques dans une solution de N 2 0 4 permet donc, en milieu aprotonique, le déplacement de la base nitrate dans l&apos;équilibre de dissociation ionique N 2 0 4 ^ NO + + NO^, en libérant l&apos;espèce NO + . L&apos;emploi facile de ces sels minéraux ainsi que leur grande solubilité dans le sulfolane, nous ont conduits à les utiliser comme agent catalytique dans les réactions de nitration par N 2 0 4 des noyaux aromatiques (en générant en solution l&apos;espèce catalytique NO + ) (1).</p>
+
+			</div>
+
+			<div type="section">
+				<head>Remerciements</head>
+
+			<p>Nous tenons à remercier Monsieur le professeur M. Wozniak (Université de Lille I) pour les discussions fructueuses.</p>
+			
+			</div>
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">C</forename>
+				<surname>Addison</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Karcher</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemie in Fliissigem Distickstofftetrioxid und Schwefeldioxid</title>
+		<imprint>
+			<date type="published" when="1967" />
+			<publisher>Pergamon Press</publisher>
+			<pubPlace>Braunschweig, W. Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Pierens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Auger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Fischer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Wartel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">53</biblScope>
+			<biblScope type="pp">2989</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bizot</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">151</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Infrared and Raman spectra of inorganic and coordination compounds</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Nakamoto</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970" />
+			<publisher>John Wiley &amp; Sons</publisher>
+			<biblScope type="pp">78</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2. ed. Wiley-Interscience</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">V</forename>
+				<surname>Kobets</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">N</forename>
+				<surname>Klavsutetd</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Umreiko</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zh. Neorg. Khim</title>
+		<imprint>
+			<biblScope type="vol">26</biblScope>
+			<biblScope type="pp">173</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">94</biblScope>
+			<biblScope type="pp">681</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">V</forename>
+				<surname>Kobets</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">N</forename>
+				<surname>Klavsut</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">S</forename>
+				<surname>Umreiko</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983" />
+			<biblScope type="pp">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">98</biblScope>
+			<biblScope type="pp">483</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">N</forename>
+				<surname>Klavsut</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">V</forename>
+				<surname>Kobets</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zh. Neorg. Khim</title>
+		<imprint>
+			<biblScope type="vol">28</biblScope>
+			<biblScope type="pp">1542</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">99</biblScope>
+			<biblScope type="pp">357</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">V</forename>
+				<surname>Kobets</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">N</forename>
+				<surname>Klavsut</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">M</forename>
+				<surname>Dolgov</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983" />
+			<biblScope type="pp">661</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">99</biblScope>
+			<biblScope type="pp">443</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+				<surname>Schwing-Weill</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">823</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Khan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+				<surname>Schwing-Weill</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="pp">2202</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bjerrum</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">H</forename>
+				<surname>Skibsted</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand. Ser. A</title>
+		<imprint>
+			<biblScope type="vol">31</biblScope>
+			<biblScope type="pp">673</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">E</forename>
+				<surname>Manahanetr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">T</forename>
+				<surname>Iwamoto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">4</biblScope>
+			<biblScope type="pp">1409</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Foll</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Courtot-Coupez</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electro-anal. Chem</title>
+		<imprint>
+			<biblScope type="vol">35</biblScope>
+			<biblScope type="pp">41</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+				<surname>Suarez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kleinberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">7</biblScope>
+			<biblScope type="pp">292</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Gutmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Technol</title>
+		<imprint>
+			<biblScope type="vol">255</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Mayer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Gutmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Struct. Bonding (Berlin)</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">113</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ahrlandetn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N.-O</forename>
+				<surname>Bjork</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand. Ser. A</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">270</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hoffmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Franke</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. 16th Int. Conf. Coord. Chem. Paper 3.35</title>
+		<meeting>16th Int. Conf. Coord. Chem. Paper 3.35</meeting>
+		<imprint>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gerding</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">1695</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ahrland</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pure Appl. Chem</title>
+		<imprint>
+			<biblScope type="vol">54</biblScope>
+			<biblScope type="pp">1451</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+				<surname>Coetzee</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Bertozzi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Chem</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="pp">961</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Irving</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Williams</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">3192</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

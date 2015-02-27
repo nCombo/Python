@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structures cristallines des (±) oxy-2p bis(bromo-3a phényl-5fi tétrahydrofuranne), (±) oxy-2(5 bis(bromo-3a méthyl-4a phényl-5(5 tétrahydrofuranne) et (±) oxy-2(5 bis(bromo-3a (triméthyl-2',4',6' phényl)-5(5 tétrahydrofuranne)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Gilbert</forename>
+								<surname>Dana</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Stéréochimie Réactionnelle</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 8, rue Cuvier</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Estera</forename>
+								<surname>Touboul</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Stéréochimie Réactionnelle</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 8, rue Cuvier</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Martha</forename>
+								<surname>Morales-Rios</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Stéréochimie Réactionnelle</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 8, rue Cuvier</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michèle</forename>
+								<surname>Philoche-Levisalles</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Structurale des Matériaux</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 8, rue Cuvier</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Claudette</forename>
+								<surname>Bois</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Structurale des Matériaux</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Bâtiment F, 8, rue Cuvier</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structures cristallines des (±) oxy-2p bis(bromo-3a phényl-5fi tétrahydrofuranne), (±) oxy-2(5 bis(bromo-3a méthyl-4a phényl-5(5 tétrahydrofuranne) et (±) oxy-2(5 bis(bromo-3a (triméthyl-2',4',6' phényl)-5(5 tétrahydrofuranne)</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les trois éthers A, B et C formés aux cours de l'hydrolyse des dérivés dibromés tétrahydrofuranniques 1 ont une structure racémique. Dans les trois cas, la sélectivité de la réaction correspond donc à une association entre énantiomères de même configuration absolue. Dans les trois molécules étudiées, le cycle tétrahydrofurannique a une conformation caractérisée notamment par des groupes polaires en 2 (effet anomère) et en 3 diaxiaux et un groupe aromatique d'autant plus équatorial qu'il est volumineux.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The three ethers A, B, and C formed during the hydrolysis of dibrominated tetrahydrofuran derivatives 1 are racemic. In all three cases, the reaction selectivity corresponds to an association between enantiomers of the same absolute configuration. In the three molecules studied, the tetrahydrofuran ring assumes a conformation characterized by polar groups in the 2-position (anomeric effect) and in the 3-position being diaxial and by the bulky aromatic group being equatorial.</p>
+			</div>
+		</front>
+		<body>
+			<p>L'hydrolyse des dérivés dibromés racémiques de type 1 con-duit à des hémiacétals bromés 2 accompagnés d'une quantité parfois importante (30 à 50%) d'un éther bis-tétrahydro-furannique 3 sous forme d'un isomère pur ou largement pré-dominant.</p>
+			<p>La rmn du proton ou du l3 C ne nous a pas permis de déterminer s'il s'agit de l'isomère 3 méso ou 3 dl.</p>
+			<p>L'étude du mécanisme de la reconnaissance énantiomérique (1) au cours de cette réaction nécessitant la connaissance de la structure du produit formé, nous avons entrepris sa détermination par diffraction de rayons X, dans trois cas: composé A: Ar = C 6 H 5 , R = H; composé B: Ar = C 6 H 5 , R = CH 3 ; composé C: Ar = (CH 3 ) 3 C 6 H 2 , R = H. Par ailleurs, ce travail conduit à la connaissance de la conformation des cycles tétrahydrofuranniques correspondants, utile pour une étude en cours des propriétés des bromhydrines 2 et de leurs dérivés.</p>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les monocristaux ont été obtenus par évaporation lente de solutions dans l'éther de pétrole léger à température ambiante. Les mesures ont été faites sur un diffractomètre automatique quatre cercles Philips PW 1100, à monochromateur de graphite, en utilisant la radiation MoKa (0,7107 A). Les réflexions ont été enregistrées dans un intervalle 2° &lt; 9 &lt; 25°, avec une vitesse de balayage en co/20 de 0,05° s" 1 et une amplitude de balayage de 1,2° + 0,3° tg 9. Le fond continu a été mesuré de part et d'autre de chaque tache. L'enregistrement d'une tache de référence toutes les 120 minutes a permis de vérifier que le cristal ne s'altérait pas. Les paramètres de la maille ont été obtenus par affinement à partir des angles de 25 réflexions. L'enregistrement des composés B et C a été fait à température ambiante. Celui de B a été refait à 233 K pour tenter d'obtenir un plus grand nombre de données utilisables pour les affinements, mais les résultats furent similaires. L'enregistrement de A a été effectué directement à 233 K.</p>
+				<p>Les intensités ont été corrigées des facteurs de Lorentz et de polarisation. Pour les corrections d'absorptionune tentative a été faite pour la première structure étudiée (B), sans apporter d'amélioration notable . A notre avis, la difficulté du problème réside plutôt dans le trop grand nombre de réflexions faibles (mesurées avec trop peu de précision ). Cette correction d'absorption n'a donc pas été faite pour les deux structures suivantes. Les structures ont été résolues, par interprétation de la fonction de Patterson qui a permis la localisation du brome. Une série de Fourier "différence" a fait alors apparaître les autres atomes lourds. Les coordonnées de ces atomes ont été affinées (leur agitation thermique étant supposée anisotrope). Les atomes d'hydrogène ont tous pu être placés sur une série de Fourier différence; leurs coordonnées ont été affinées (pour A et B) et on leur a attribué un facteur d'agitation thermique isotrope, égal au B équivalent de l'atome porteur. L'affinement a été poursuivi jusqu'à ce que les variations des paramètres soient toutes inférieures à 0,05 fois l'écart type. Les dernières séries-différences ne laissent alors apparaître que des résidus de 0,4 e Â~ 3 . En ce qui concerne C, le nombre insuffisant de réflexions conservées en fonction du critère F &gt; 2a (F) n'a pas permis d'affiner leurs coordonnées; de plus les pics correspondant aux atomes d'hydrogène des groupes méthyle étaient diffus, en raison sans doute du grand nombre de ces groupes et de leur rotation quasi-libre.</p>
+				<p>Les affinements par la méthode des moindres carrés ont été réalisés à l'aide du programme AFFINE adapté de ORXFLS (2), utilisant une matrice complète. Les réflexions ont été pondérées par un facteur co = 1/cr 2 (F). On a tenu compte de la correction de dispersion anomale (partie réelle) pour le brome.</p>
+				<p>Les tableaux l, 2 et 3 donnent les coordonnées atomiques respectivement pour les composés A, B et C ainsi que leurs écarts types. Notons que pour le composé B (groupe P4 2 /n) nous avons choisi l'origine sur un centre d'inversion. Les tableaux des amplitudes des facteurs de structure, des coordonnées des atomes d'hydrogène, et des facteurs d'agitation thermique anisotrope sont disponibles.'</p>
+			</div>
+			<div>
+				<head>Résultats et discussion</head>
+				<p>Les structures des 3 composés sont constituées de molécules discrètes, liées entre elles par des forces de van der Waals. Pour B et C, la molécule a une symétrie C 2 , l'atome 0(2) occupant une position spéciale (j, z) sur un axe binaire. Pour A, les deux fragments de la molécule sont symétriquement indépendants, cependant on peut observer aussi une symétrie C 2 très approximative (<ref type="figure">fig. 1</ref>). Les figures 1, 2 et 3 tracées à l'aide du programme ORTEP (3) représentent les molécules et donnent la numérotation des atomes; les ellipsoïdes correspondent à une probabilité de présence de 40% et les tailles des atomes d'hydrogène sont arbitraires, la molécule du composé C est projetée sur un plan perpendiculaire à son axe binaire, la molécule de A sur un plan perpendiculaire à 0(2)M (M est le milieu de C(2)—C'(2)). Le tableau 4 donne les principales distances et les angles de valence pour les trois composés. Bien que certaines liaisons équivalentes présentent des différences notables, celles-ci ne sont pas significatives, compte tenu des écarts types.</p>
+				<p>Le tableau 5 donne les dièdres entre les substituants comportant un atome lourd, aussi que les angles de ces substituants avec le plan moyen tétrahydrofurannique T. Les angles de torsion de ce cycle sont donnés dans la <ref type="figure">figure 4</ref>. Il apparaît dans les trois cas examinés que l'isomère formé dans la réaction 1 est le produit 3 racémique et non pas méso, c'est à dire que la duplication deshydratante ne se produit qu'entre substrats de même configuration absolue. Une étude plus détaillée de cette énantiosélectivité est en cours.</p>
+				<p>L'étude conformationnelle des cycles pentagonaux connaît actuellement un grand développement utilisant le concept de pseudorotation (4-6).</p>
+				<p>En désignant par 0,, 0 2 ... les dièdres C3—C4, C2—C3, 01—C2 .. ., on évalue (6) la phase de pseudorotation P par:</p>
+				<p><formula>_ 8 3 + 85 -8, -84 tg P ~ 3,08 e, </formula></p>
+				<p>et le gauchissement du cycle 8 m par 8 m = 8,/cos P.</p>
+				<p>Nous pouvons alors comparer la conformation des cycles tétrahydrofuranniques dans les trois structures étudiées. Dans la <ref type="figure">fig. 4</ref>, nous avons représenté les 4 cycles obtenus pour A, A', B et C en utilisant les dièdres des liaisons des cycles et le caractère axial des substituants (8) (pour les valeurs positives, le substituant axial est vers l'avant; le caractère axial est réputé faible pour une valeur absolue inférieure à 30 ou 40°).</p>
+				<div n="1">
+					<head>Gauchissement du cycle 8,„</head>
+					<p>On peut remarquer que le puckering 8 m du cycle tétrahydrofurannique des molécules B, C et de la première partie du composé A est de l'ordre de 37° alors qu'il n'est que de 33,5° pour la deuxième partie de A (partie primée des tableaux). Ce cycle est donc plus aplati que les trois autres. En recherchant les distances courtes entre atomes non liés, nous avons remarqué que la distance de deux bromes appartenant aux parties A' de deux molécules voisines est de 3,75 A, ce qui est légèrement inférieur à la somme (2 x 1,95 À) des rayons de van der Waals de deux bromes. Une telle compression dans l'empilement moléculaire ne se retrouve pas pour les autres cycles. On peut penser que le faible puckering du cycle A' résulte de l'écrasement de cette partie de la molécule et la valeur 8 m = 37° apparaît comme la valeur normale pour les molécules de cette étude. Cet écrasement se manifeste également par la rotation du cycle benzénique dont l'angle a avec T (tableau 5) se réduit à 50° alors qu'il est de 78 à 88° dans les trois autres cas. De plus la densité de A est particulièrement élevée (1,63 g/cm3) comparée à celles des deux autres composés et sa température de fusion (109°C) bien plus basse.</p>
+				</div>
+				<div n="2">
+					<head>Phase de pseudorotation P</head>
+					<p>Notons la grande analogie des conformations entre le premier cycle A et le cycle B (même forme enveloppe avec P = 198° ± 1°). (Le cycle A' en raison de ses tensions particulières se rapproche plutôt d'une forme twist.)</p>
+					<p>Le groupe aromatique y occupe une position à peine équatoriale et ce n'est pas le groupe anomère (9) (—OR en 2) qui occupe la position la plus axiale, mais le brome en 3 (cf. figures 1, 2, 3 et angles (3 et 7 du tableau 5). Pour B, on note que le méthyle occupe la position d'un hydrogène équatorial de A et n'introduit pas de nouvelle tension dans le cycle (même valeur P et 0m pour A et B). Tout au plus, peut-on noter que l'angle a du plan du benzène avec le plan moyen du tétrahydro-furannique (tableau 5) augmente en présence du méthyle et les deux plans deviennent presque perpendiculaires (a = 78°5 pour A devient 87°9 pour B).</p>
+					<p>Dans le cas du composé C, le groupe aromatique, plus volumineux, occupe une position plus nettement équatoriale. Mais ceci semble obtenu au détriment du caractère axial de l'oxygène anomère (voir également l'angle (3, tableau 5). On peut en effet noter que les méthyles ortho du groupe mésitylène exercent une pression sur l'oxygène 0(2) qui entraine à la fois le groupe aromatique dans une position plus équatoriale et le groupe anomère dans une position moins axiale; la distance 0(2)—C(521) n'est en effet que de 3,33 Â, c'est-à-dire à peine égale à la somme des rayons de van der Waals de l'oxygène (1,40 À) et du méthyle (2 Â).</p>
+					<p>Toutefois l'angle a entre les plans des deux cycles reste identique à celui trouvé pour A (78,6°).</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Feringa</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">2831</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+									<surname>Busing</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">O</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Oak Ridge National Laboratory</title>
+							<imprint>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">Report ORNL-3794. Oak Ridge National Labora-tory, Oak Ridge</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">K</forename>
+									<surname>Johnson</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Sundaralingam</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">94</biblScope>
+								<biblScope type="pp">8205</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J A</forename>
+									<surname>Cremeret</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Pople</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">1358</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Pople</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">1354</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">A. G. Haasnoot</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">A. A. M. De Leeuw</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Altona</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Magn. Reson. IS</title>
+							<imprint>
+								<biblScope type="pp">43</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Bucourt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2080</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Deslongchamps</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">D</forename>
+									<surname>Rowan</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Pothier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Saunders</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">1105</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

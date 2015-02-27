@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Époxydes a-éthyléniques et phénate de sodium: accès à des éthers phénoliques et phénols ortfto-allyliques</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Michèle</forename>
+								<surname>David</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie pharmaceutique</orgName>
+								<orgName type="institution">U.E.R. médico-pharmaceutiques</orgName>
+								<address>
+									<addrLine>avenue du Professeur Léon Bernard</addrLine>
+									<postCode>35043</postCode>
+									<settlement>Rennes Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<surname>Sauleau</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie pharmaceutique</orgName>
+								<orgName type="institution">U.E.R. médico-pharmaceutiques</orgName>
+								<address>
+									<addrLine>avenue du Professeur Léon Bernard</addrLine>
+									<postCode>35043</postCode>
+									<settlement>Rennes Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Armelle</forename>
+								<surname>Sauleau</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie pharmaceutique</orgName>
+								<orgName type="institution">U.E.R. médico-pharmaceutiques</orgName>
+								<address>
+									<addrLine>avenue du Professeur Léon Bernard</addrLine>
+									<postCode>35043</postCode>
+									<settlement>Rennes Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Époxydes a-éthyléniques et phénate de sodium: accès à des éthers phénoliques et phénols ortfto-allyliques</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p> L'ouverture d'époxydes a-éthyléniques par le phénate de sodium conduit à un mélange de composés. Les attaques nucléophiles qui entrent en compétition (composés A au niveau du carbone le moins substitué du cycle ou composés B et C au niveau du carbone (3-éthylénique) peuvent être résolues par un choix judicieux des conditions opératoires (solvant, stéréochimie des époxydes). La régiosélectivité de l'attaque nucléophile est sous la dépendance d'états de transition impliquant une faible gêne stérique et une conjugaison oxiranne -double liaison.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p> The ring cleavage reactions of a-ethylenic epoxides by sodium phenoxide afforded a mixture of products. Problems of competitive attack by this nucleophile, at the less substituted carbon (compounds A) or at the (3-ethylenic carbon atom (compounds B and C), were encountered and could be resolved by judicious choice of reaction conditions (solvents, stereochemistry of the oxiranes). The regioselectivity of the attack was dependent on the transition states, implying weak steric hindrance and a conjugation oxirane -double bond.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>L'action de phénols en milieu alcalin sur des époxydes à restes saturés ou aromatiques a déjà été étudiée (1-4). Dans ce travail, nous envisageons le cas d'époxydes a-éthyléniques qui ne semble pas avoir fait l'objet d'une étude systématique, puisque les seuls exemples mentionnés dans la littérature sont ceux d'Al-bitskaya et al. (5) rapportés schéma 1. Nous montrons ici que le bilan réactionnel est plus complexe ; la nature, la géométrie R*R*,R*S* des époxydes insaturés , la qualité du solvant utilisé, influent en effet sur la régiosélectivité de l'attaque nucléophile par l'anion phénoxy.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<p>Trois composés notés A, B et C sont le plus fréquemment obtenus lors de la réaction phénol-sodium, époxydes ainsaturés (schéma 2).</p>
+				<p>Ce schéma fait ainsi apparaître une nette différence entre nos résultats et ceux d'Al'bitskaya. Si comme cet auteur, nous observons une ouverture C(l)—O époxydique (obtention de A), aucune attaque nucléophile sur le carbone-2 n'est mise en évidence. Par contre, les composés B et C formés résultent d'une attaque nucléophile sur le carbone sp 2 , en p de la chaîne insaturée (cf. Discussion).</p>
+				<p>Les résultats des condensations réalisées dans le dioxanne (tableau 1) font apparaître les influences du degré de substitution du cycle époxydique et de sa stéréochimie.</p>
+				<p>Si les produits A sont préférentiellement formés avec les époxydes primaires-tertiaires la et 1 b, on constate que pour 3, la substitution du carbone-1 époxydique, sa géométrie R*R*, favorisent l'obtention de B et C accompagnés d'une certaine proportion de composés d'hétérocyclisation. 2 L'importance de la nature du solvant de condensation apparaît dans le tableau 1 à propos de l'époxyde la le plus facilement accessible. La compétition alcoylation O/C peut être orientée selon le solvant et l'on compare alors les taux relatifs de A, B et C.</p>
+				<p>Dans les solvants polaires, la régiosélectivité élevée— formation majoritaire des produits A + B d'alcoylation 1 Révision reçue le 4 janvier 1985. 2 II s'agit de dihydro-2,3 benzo [£] furannes. O—s'explique par l'accroissement de la nucléophilie de l'anion phénoxy. Avec les solvants protiques, les résultats corroborent ce qui est connu sur les anions ambivalents phénoxy (6, 7). La solvatation de l'oxygène époxydique et de l'anion, par interactions ion-dipole et par liaisons hydrogènes, favorise cette fois la nucléophilie du site ortho-carboné benzénique. Les phénols C (alcoylation C) deviennent majoritaires et ceci d'autant plus que le solvant est acide, assertion que l'on peut vérifier avec l'éthanol et le trifluoroéthanol, solvants de pK a très différents (8).</p>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>Pour que l'on observe une attaque nucléophile sur le carbone sp 2 , en (3 du cycle oxiranne, l'époxyde doit pouvoir se présenter dans une conformation où le système éthylénique et le cycle oxiranne sont conjugés: coplanarité des liaisons C(l)—C(2)— C 0 —Cp pour un recouvrement maximum des orbitales. Tout effet stérique empêchant ou diminuant cette conjugaison modulera alors l'attaque précitée et favorisera le site carbone-1 époxydique (formation de A).</p>
+				<p>Cas des époxydes secondaires-tertiaires 3a.(R"' = H),</p>
+				<p>3b(R"' = CH 3 ) R*R* et R*S*</p>
+				<p>Nous envisageons deux des rotamères possibles 3' et 3" pour chacune des configurations R*R* et R*S* (schéma 3).</p>
+				<p>Pour les isomères R*S* le méthyle en C(l) et le reste éthylénique sont en position cis: Quand R'" = H, le rotamère 3' est à exclure compte tenu de la forte gêne stérique qui implique la perte totale de la conjugaison. Seul le rotamère 3", moins contraint, reste à envisager; la coplanarité pouvant être atteinte, on conçoit alors la formation majoritaire de B et C de géométrie uniquement E. Lorsque R'" = CH 3 , la gêne stérique dans chacun des rotamères 3' et 3" est telle que la conjugaison cycle double liaison n'a pas lieu. L'attaque (3 est alors exclue: seul C(l) peut être attaqué (formation unique de A).</p>
+				<p>Dans les configurations R*R*, les conformations 3' et 3", favorables à la conjugaison précitée, rendent majoritaire l'attaque du site (3: obtention d'un mélange Z/E où E est préférentiel.</p>
+				<p>Avec le rotamère 3' (rapprochement oxygène époxydique double liaison), on peut invoquer une complexation contre ion-oxygène plus facilement atteinte lorsque R'" = H (30% de Z). Avec R'" = CH 3 , plus volumineux, 5% de Z sont obtenus. Signalons que ce type de système cyclique a été invoqué lors de la réaction époxydes p-éthyléniques -hydrures ou thiolates (9, 10). Le conformère 3" reste cependant privilégié: le système plus étendu, permettant une meilleure délocalisation des charges lors de l'attaque nucléophile, explique le taux majoritaire en isomère E.</p>
+				<p>Cas des époxydes primaires-tertiaires 1 et 2 (tableau 1)</p>
+				<p>Avec les oxirannes 1, l'absence d'encombrement du carbone-1 (contrairement à 3) fait de ce carbone un site d'attaque préférentiel (obtention de A) par rapport au carbone p, bien que la conjugaison soit ici possible. Le taux (12%) de produits B et C obtenus pour la se justifie par une coplanarité cycle double liaison plus facilement atteinte que dans 1 b (aucune attaque P) où, comme nous l'avons montré par calculs théoriques et rmn l7 0 (11), une légère gêne stérique intervient. Il ne s'agit pas d'un effet de température, puisque des essais réalisés à 150°C, pendant 3 jours, ne modifient pas les pourcentages obtenus avec la.</p>
+				<p>Le cas de leurs homologues phénylés 2 est particulier: formation préférentielle de B et C (tableau 1). Si l'on considère le modèle oxyde de styrène (4, 12, 13) où l'électrophilie du carbone-2 oxiranique favorise son attaque nucléophile, on interprète les résultats. Puisque l'ouverture C(2)—O ne peut ici se concevoir (forte gêne reste phénylé -groupe éthylénique), la délocalisation de la charge positive de ce carbone vers la double liaison explique l'attaque nucléophile en p.</p>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>La réaction étudiée permet l'accès à des éthers phénoliques et (ou), des phénols orf/îo-allyliques en proportions variables selon les choix du substrat, de son éventuelle géométrie et du solvant. Cette réaction est d'ailleurs généralisable puisque l'utilisation de divers phénols substitués conduit, dans le dioxanne , aux composés A, B et C, sans changement notable dans leurs pourcentages.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les spectres infra-rouge (solvant CC1 4 ) sont enregistrés sur un appareil Perkin-Elmer 377. Les spectres (CDC1 3 ) rmn 'H sont réalisés sur un appareil Varian EM 360 L (60 MHz). Pour la rmn 13 C, on utilise un appareil Brücker 20,1 MHz à transformée de Fourier. Les valeurs des déplacements chimiques sont à ±0,05 ppm et les constantes de couplage à ±1 Hz.</p>
+				<p>Un contrôle de pureté est réalisé sur chacun des produits par Chromatographie en phase vapeur (Fractovap GT Carlo Erba, colonne SE30) et (ou) par Chromatographie sur gel de silice HF254 (type 60 Merck). Pour la spectrométrie de masse, un appareil Varian MAT 311 avec procédé M.I.K.E. est utilisé.</p>
+				<p>Les époxydes a-éthyléniques sont préparés selon une méthode mise au point au laboratoire (14). Les oxirannes 3a et 3b, R*R* et R*S* sont séparés par distillation du mélange des stéréoisomères, au moyen d'une colonne à bande tournante Perkin-Elmer (200 plateaux théoriques).</p>
+				<p>Identification spectrale de A, B et C</p>
+				<p>C L'infra-rouge met en évidence les produits de type A par leur reste vinyle terminal (905 et 970 cm"'). En rmn 'H, les valeurs différentes observées dans les déplacements chimiques des restes méthylènes suffisent à différencier les trois types de produits (tableau 2). L'intégration de ces signaux, entre autre, permet de déterminer les pourcentages de chacun de ces composés dans les mélanges bruts réactionnels, ainsi que les proportions alcoylations O/C.</p>
+				<p>La rmn ,3 C réalisée sur quelques échantillons confirme les données de rmn 'H et permet l'attribution certaine de la géométrie £/Z de la double liaison dans B et C (tableau 3); par exemple, l'effet -y gauche subit par le carbone hydroxylé (pour B et C), uniquement dans les géométries Z, explique le blindage réciproque des carbones-1 et -4, et est en accord avec des données de la littérature (15-17) à propos d'alcools allyliques.</p>
+				<p>Enfin, la synthèse de l'éther phénolique 21, réalisée par transposition allylique de 4 selon Babler (18), prouve sans ambiguïté la structure de la chaîne éthylénique de B et C. 21</p>
+				<p>Condensation époxydes-phénol-sodium</p>
+				<p>Du phénol (0,05 mol) dissous dans 15 mL de solvant et 0,013 mol de sodium sont chauffés au reflux du solvant jusqu'à disparition du sodium. Après refroidissement puis introduction de 0,05 mol d'époxydes la ou 1 b ou 2, on chauffe à 120°C (bain thermostaté) jusqu'à disparition quasi complète de l'époxyde. L'avancement de la réaction est suivi en chromatographie à phase gazeuse.</p>
+				<p>Avec les époxydes 3, le mélange réactionnel précédent est chauffé à 150°C pendant 3 jours dans un autoclave Mécabar (Prolabo, 250 mL) équipé d'un dispositif d'agitation et muni d'un régulateur de température.</p>
+				<p>Quelle que soit la technique, après retour à température ambiante, le milieu réactionnel versé sur 20 mL d'alcali de Claisen (35 g KOH en pastilles, 25 mL d'eau, quantité suffisante pour 100 mL CH 3 OH absolu) atteint un pH —13. Après extractions à l'éther éthylique, les phases éthérées alcalines sont successivement lavées par une solution de NH 4 OH 2 N puis de NaOH 2 N. Après séchage et évaporation sous vide, les spectres rmn montrent qu'il s'agit des éthers de type A et B (très peu souillés de C).</p>
+				<p>La séparation de ces produits est réalisée par distillation sous pression réduite et (ou) par chromatographie sur plaque. Pour les éthers dérivés des époxydes 1 et 2, on utilise le système benzène -acétate d'éthyle (70:30); pour ceux dérivés de l'époxyde 3, on utilise CHC1 3.</p>
+				<p>La phase aqueuse alcaline est acidifiée à froid (HC1 concentré) jusqu'à pH — 1. Après extraction éthérée, séchage, on isole les composés C toujours souillés de phénol résiduel; celui-ci éliminé par passage de la solution éthérée à pH —5 (NaOH, 1 N). Les produits C sont distillés et isolés à l'état pur, exception faite pour 20 très facilement hétérocyclisable dont seul le spectre rmn 'H a pu être réalisé.</p>
+				<p>La séparation des isomères géométriques £/Z des composés B et C (mis à part pour 15 et 20) est effectuée par chromatographie sur gel de silice, avec le système de solvant benzène -acétate d'éthyle (70:30).</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">R</forename>
+									<surname>Marle</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">105</biblScope>
+								<biblScope type="pp">2117</biblScope>
+								<date type="published" when="1914"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">F</forename>
+									<surname>Thomas</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">115</biblScope>
+								<biblScope type="pp">1239</biblScope>
+								<date type="published" when="1919"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">C</forename>
+									<surname>Brjtton</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">70</biblScope>
+								<biblScope type="pp">3606</biblScope>
+								<date type="published" when="1948"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">P</forename>
+									<surname>Macsweeney</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J. C. Wood</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">O</forename>
+									<surname>Guss</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="pp">3460</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">1809</biblScope>
+								<date type="published" when="1951"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">678</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">M. Al 'bitskaya</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">M</forename>
+									<surname>Blyakhman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Zh. Obshch. Khim</title>
+							<imprint>
+								<biblScope type="vol">31</biblScope>
+								<biblScope type="pp">2166</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Chem. Abstr</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">2363</biblScope>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Tchoubar</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim</title>
+							<imprint>
+								<biblScope type="pp">2069</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Kornblum</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+									<surname>Lenoble</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="pp">1141</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Sinnott</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">P</forename>
+									<surname>Jencks</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">102</biblScope>
+								<biblScope type="pp">2026</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Katzenellenbogen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">95</biblScope>
+								<biblScope type="pp">958</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Yasuda</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Takahashi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Takaya</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">2413</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Monti</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Faure</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sauleau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="pp">403</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Etrillard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sauleau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Lissilour</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">77</biblScope>
+								<biblScope type="pp">875</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">S</forename>
+									<surname>Isaacs</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Rev</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">737</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Villa</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim</title>
+							<imprint>
+								<biblScope type="pp">2584</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Huet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sauleau. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Sér. C</title>
+							<imprint>
+								<biblScope type="vol">271</biblScope>
+								<biblScope type="pp">430</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sauleau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Huet. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Sér. C</title>
+							<imprint>
+								<biblScope type="vol">279</biblScope>
+								<biblScope type="pp">887</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de Doctorat ès-Sciences Physiques</title>
+							<meeting>
+								<address>Rennes, n° 250</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Coffinet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">380</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Faulkner</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">175</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<surname>Vonphilips</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Born</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">617</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Babler</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">1262</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

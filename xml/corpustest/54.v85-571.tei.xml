@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structure cristalline du complexe de magnésium de la calcimycine (A. 23187)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Marc</forename>
+								<surname>Alléaume</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de cristallographie</orgName>
+								<orgName type="department">U.A. 144 C.N.R.S</orgName>
+								<orgName type="institution">Université de Bordeaux 1</orgName>
+								<address>
+									<postCode>33405</postCode>
+									<settlement>Talence Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Yvette</forename>
+								<surname>Barrans</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de cristallographie</orgName>								
+								<orgName type="department">U.A. 144 C.N.R.S</orgName>
+								<orgName type="institution">Université de Bordeaux 1</orgName>
+								<address>
+									<postCode>33405</postCode>
+									<settlement>Talence Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structure cristalline du complexe de magnésium de la calcimycine (A. 23187)</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p> Le complexe de magnésium 1:2 de l&apos;antibiotique calcimycine (A. 23187) cristallise dans le groupe spatial P2,, avec des paramètres de maille a = 11,152(2), b = 27,684(2), c = 10,168(2) Â, (3 = 107,02(2)° et Z = 2. La structure a été affinée jusqu&apos;à un facteur de reliabilité R = 0,063 pour 3473 réflexions observées. La coordination octaédrique de l&apos;ion Mg 2+ est hautement symétrique. Chaque ion calcimycine est lié à Mg 2+ par un oxygène carbonyle, un oxygène carboxyle et l&apos;azote du cycle benzoxazole. Les distances Mg—O sont respectivement de 2,00 A et 2,06 Â, les distances Mg—N sont de 2,23 À (ct = 0.01 Â).</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The 1:2 magnesium ion complex of the antibiotic calcimycine (A. 23187) crystallizes in the space group P2, with cell dimensions a = 11.152(2), b = 27.684(2), c = 10.168(2) A, (3 = 107.02(2)°, and Z = 2. The structure was refined to an R = 0.063 based on 3473 observed reflections. The octahedral coordination of the Mg 2+ ion is highly symmetrical. Each calcimycine ion is bound to Mg 2+ through a carboxyl oxygen, a carbonyl oxygen, and the nitrogen of the benzoxazole ring system. The Mg—O distances are respectively 2.00 A and 2.06 A, the Mg—N distances 2.23 A (cr = 0.01 A).</p>
+			</div>
+		</front>
+		
+		<body>
+			
+			<p>La calcimycine ou A. 23187 est un polyéther monocarboxy-lique doué de propriétés ionophores: il complexe et transporte essentiellement les cations divalents Ca 2+ , Mg 2+ . Plusieurs structures cristallines de la calcimycine 2 ont été déterminées: calcimycine, acide libre (1); 2[calci]~ Ca 2+ , 2 éthanol (2); 2[calci]~ Ca 2+ , H 2 0 (3); et, plus récemment, 2 [calci] -Fe 2+ , 2 éthanol (4). Nous publierons prochainement la structure du complexe 2[calci]~ Mn 2+.</p>
+
+ 			<p>Les conditions d&apos;extraction et de purification de la calci-mycine à partir de la souche de Streptomyces chartreusensis sont précisées dans l&apos;article suivant (5).</p>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+ 
+ 			<p>Les cristaux du complexe 2[calci]~ Mg 2+ ont été obtenus par cristallisation d&apos;une solution dans un mélange méthanol + acétone. Le cristal utilisé pour la collection des données était une aiguille prismatique de dimensions 0,20 x 0,30 x 0,25 mm 3 . Toutes les données cristallographiques—paramètres cristallins et intensités diffractées—ont été mesurées sur un diffractomètre Enraf-Nonius CAD-4 équipé d&apos;un monochromateur au graphite (XK &quot; i = 1,5405 Â). Le tableau 1 résume les données cristallographiques et les conditions de mesure.</p>
+ 
+			<p>Ajfinement de la structure Sur les 5207 réflexions indépendantes mesurées, 3473 réflexions &quot;observées&quot; (/ &gt; 3cr(/)) ont été utilisées dans la suite des calculs, après correction de Lorentz et de polarisation. Aucune correction d&apos;absorption n&apos;a été appliquée &lt; 0,002). La structure a été déterminée par méthodes directes en utilisant le programme MULTAN. Les 2/3 des atomes &quot;lourds&quot; sont apparus sur la première carte de densité électronique. Après 7 cycles d&apos;affinement isotrope portant sur les 77 atomes &quot;lourds&quot;, 3 cycles d&apos;affinement anisotrope furent conduits avant l&apos;introduction des atomes d&apos;hydrogène. Tous les atomes d&apos;hydro-gène ont été affectés d&apos;un coefficient d&apos;agitation thermique isotrope. Les hydrogènes portés par les groupements méthyle n&apos;ont pas été introduits dans raffinement. Trois nouveaux cycles d&apos;affinement sur ces 119 atomes ont conduit à un facteur de reliabilité /f = 0,063 pour les 3473 réflexions observées (R = 2||/\,| -|/\||/2|/\,|), et un paramètre d&apos;accord s = I I = 1,52. La densité électronique Vn — n&apos; résiduelle sur la carte de Fourier-différence finale est inférieure à 0.30 e A -3 . Les coordonnées atomiques (tableau 2), les paramètres d&apos;agitation thermique anisotrope 3 ou isotrope (atomes d&apos;hydrogène) ont été affinés par moindres carrés, en bloc diagonal; valeur minimisée S w(|f &quot; |-|F c |) 2 ; schéma de pondération: Vvv = 1 si | F &quot; | &lt; p et Vw = p/Fo si | F &quot; | &gt;p avec p = [/%&lt; inax) /l0] l/2 ; facteurs de dif-fusion de International Tables for X-Ray Crystallography (1974) pour les atomes lourds et de Stewart et al. (6) pour les atomes d&apos;hydrogène.</p>
+			
+			</div>
+
+			<div type="section">
+				<head>Discussion</head>
+
+			<p>Comme dans le complexe de Ca2 + , 2 ions [calci]" s&apos;asso- cient tête-bêche pour créer une cavité complexante fermée. Chaque ion [calci]" forme une demi-coquille (fig. 1). Les 2 demi-coquilles identiques qui encagent le cation Mg2+ se déduisent l&apos;une de l&apos;autre par un pseudo-axe binaire passant par le cation (fig. 1). Deux liaisons hydrogène iden- tiques N(32)—H(321).. . 0(73) et N(72)—H(721). . . 0(33), avec N — O quasi identiques (2,84 A et 2,85 A), complètent la stabilisation de ce système complexant. Il faut cependant remarquer que les angles OH ... N sont voisins de 150° (a = 10°), ce qui implique une liaison hydrogène moins forte que ne l&apos;indiquent les seules distances N . . . O.</p>
+		
+			</div>
+			
+			<div type="section">
+				<head>1. Ions calcimycine</head>
+				
+			<p>A l&apos;exception des distances autour des carbones homologues C(5) et C(45), aucune variation significative n&apos;apparaît entre les ions [calci], -et [calci]^. La <ref type="figure">figure 2</ref>donne les valeurs moyennes des distances et des angles. 4 Cette identité conformationnelle des ions I et II est confirmée par l&apos;accord entre les deux séries d&apos;angles de torsion x (tableau 3) ((5X), &quot; ax = 4°, (Sx)moy = 2,3°, ci(5 nioy ) = 1,5°)). Il faut noter que dans le complexe de Ca 2+ (3) les variations d&apos;angles de torsion entre les ions I et II sont beaucoup plus importantes ((8x) ra &quot; = 20°; (5x)mo y = 6,4°; a(5 moy ) = 4,2°).</p>
+
+			<p>Le tableau 4 donne les écarts significatifs aux groupements plans benzoxazole et cétopyrrole. L&apos;écart de l&apos;atome C(9) est dû aux contraintes stériques imposées par le spiroacétal. La variation de position des méthyles C(25)I et C(65)II pourrait être liée aux variations de distances autour du carbone C(5) signalées plus haut. Il faut noter que l&apos;ion Mg 2+ est toujours voisin du plan du cycle, ce qui correspond à la géométrie la plus favorable de l&apos;interaction ion-ligande pour les 3 ligandes O(carboxyle), O(carbonyle), N(pyrrole).</p>
+
+			</div>
+			
+			<div type="section">
+				<head>2. Environnement du cation</head>
+
+			<p>La complexation hexacoordonnée de l&apos;ion Mg 2+ est assurée par 4 atomes d&apos;oxygène et 2 atomes d&apos;azote, chacun des 2 ions [calci] -apportant la même contribution à cette complexation (tableau 5). Ces 6 ligandes forment un octaèdre quasi parfait autour de Mg 2+ . La <ref type="figure">figure 3</ref>donne une représentation schématique de cet octaèdre, le pseudo-axe binaire i|i(A 2 ) étant dans le plan de la figure.</p> 
+			
+			<p>Si l&apos;on admet que les distances cation-ligande sont pratiquement égales à la somme (rayon ionique + rayon de van der Waals), et que pour les atomes impliqués dans ces coordinations octaédriques, les contacts [calci] f [calci] &quot; (comme N(31).... N(71) ou 0(38)... 0(73)) sont de type contacts de van der Waals, on est conduit à prendre les valeurs suivantes: = 0,60 Â; R 0 carboxylc = 1,40 Â; R 0 carbone = 1,46 À; R n = 1,65 Â.</p> 
+			
+			<p>Les valeurs que nous proposons sont légèrement différentes de celles habituellement admises (7, 8). Le tableau 5, colonnes (a) et (b), montre qu&apos;elles donnent, pour le complexe étudié, un excellent accord entre les distances &quot;observées&quot; et les distances calculées à partir de nos propres valeurs. 11 en est de même pour d&apos;autres complexes hexacoordonnés de Mg 2+ . La structure de Mg-malate pentahydrate (9) donne des résultats comparables: Mg 2+ ... O de 2,02 à 2,11 Â. Ces valeurs sont aussi en accord avec les distances cation-ligande observées dans le complexe de Ca 2+ monohydraté (3), à condition de prendre un rayon ionique R ca 2+ — 0,90 Â. Les distances cation-ligande calculées vont de 2,30 Â à 2,55 Â, les distances moyennes observées étant de 2,27 Â à 2,63 Â.</p> 
+			
+			<p>De plus, ces deux séries de valeurs calculées pour les complexes de Mg 2+ et de Ca 2+ sont identiques aux valeurs obtenues par minimisation d&apos;énergie (10). La comparaison des distances cation —ligande dans ces deux structures permet d&apos;affirmer que la première structure de complexe publiée (2) a été interprétée incorrectement: il ne s&apos;agit pas d&apos;un complexe de Ca 2+ , mais bien d&apos;un complexe de Mg 2+ . Les distances cation—ligande vont de 1,92 A à 2,22 Â. Ces valeurs, voisines de celles produites par le présent travail, ne peuvent être attribuées à des distances Ca 2+ -ligande, qui sont de 0,30 A plus grandes.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Conclusion</head>
+
+			<p>Les deux traits majeurs du complexe 2 [calci]~ Mg 2+ à l&apos;état cristallin sont (/) l&apos;identité conformationnelle des 2 ions [calci]; et (ii) la symétrie octaèdrique quasi parfaite des 6 ligandes qui assurent la complexation de l&apos;ion Mg 2+ . La grande symétrie du complexe de Mg 2+ ne se retrouve pas dans le complexe de Ca 2+ ; nous pensons que ces caractéristiques structurales, si elles se conservent en solution, pourraient être liées au transport préférentiel du Ca 2+ par rapport au Mg 2+ (5). La décomplexation du cation est, avec ce type de omplexe, une opération de "rupture de symétrie", que favoriserait une dissymétrie préexistante, comme celle que présente le complexe de Ca2+.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Remerciement</head>
+
+			<p>Ce travail a été mené dans le cadre de la Recherche Coopérative sur Programme 80/605 du C.N.R.S.</p>
+
+			</div>
+
+		</body>
+		
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Approximate temperature range</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">J</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Leyshon</surname>
+			</persName>
+		</author>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Evaluated kinetic data on gas phase hydrogen transfer reactions of methyl radicals. Butter-worths</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Kerr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+				<surname>Parsonage</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Handbook of bimolecular and ter-molecular gas reactions</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Kerr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">J</forename>
+				<surname>Moss</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981" />
+			<publisher>CRC Press</publisher>
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The foundations of chemical kinetics</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">W</forename>
+				<surname>Benson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">L</forename>
+				<surname>Arthur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">F</forename>
+				<surname>Donchi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Mcdonnell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<biblScope type="vol">71</biblScope>
+			<biblScope type="issue">4</biblScope>
+			<biblScope type="pp">2431</biblScope>
+			<date type="published" when="1960" />
+			<publisher>McGraw-Hill</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S.-L</forename>
+				<surname>Cheng</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Nimoy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Toby</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">71</biblScope>
+			<biblScope type="pp">3075</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">M</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Chem. Kinet</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">1031</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">S B</forename>
+				<surname>Paxinos</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975" />
+			<pubPlace>Aus-tralia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">18</biblScope>
+			<biblScope type="pp">1097</biblScope>
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gomer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope type="vol">46</biblScope>
+			<biblScope type="pp">499</biblScope>
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A. F. Trotman-Dickenson</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Birchard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">19</biblScope>
+			<biblScope type="pp">163</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Nicholson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">73</biblScope>
+			<biblScope type="pp">3981</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">B</forename>
+				<surname>Kistiakowsky</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">19</biblScope>
+			<biblScope type="pp">85</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">20</biblScope>
+			<biblScope type="pp">578</biblScope>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">T</forename>
+				<surname>Jacquiss</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">S</forename>
+				<surname>Roberts</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Szwarc</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">74</biblScope>
+			<biblScope type="pp">6005</biblScope>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">800</biblScope>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">993</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1953" />
+			<publisher>Faraday Soc</publisher>
+			<biblScope type="pp">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">O</forename>
+				<surname>Pritchard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">O</forename>
+				<surname>Pritchard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A. F. Trotman-Dickenson</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">1425</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Mandelcorn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">331</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Mandelcorn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">79</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">W</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">G</forename>
+				<surname>Harrison</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">41</biblScope>
+			<biblScope type="pp">2455</biblScope>
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">S</forename>
+				<surname>Hollingsworth</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Chem</title>
+		<imprint>
+			<biblScope type="vol">38</biblScope>
+			<biblScope type="pp">353</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">62</biblScope>
+			<biblScope type="pp">379</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Endrenyi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Leroy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">71</biblScope>
+			<biblScope type="pp">1334</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Herod</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">64</biblScope>
+			<biblScope type="pp">1568</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Toby</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">72</biblScope>
+			<biblScope type="pp">2337</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">L</forename>
+				<surname>Arthur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">424</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Berkley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Safarik</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">E</forename>
+				<surname>Gunning</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<forename type="middle">P</forename>
+				<surname>Strausz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">77</biblScope>
+			<biblScope type="pp">1734</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">J</forename>
+				<surname>Leyshon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">780</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Srinivasan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">I</forename>
+				<surname>Sonntag</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">47</biblScope>
+			<biblScope type="pp">1627</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">T</forename>
+				<surname>Pearson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">66</biblScope>
+			<biblScope type="pp">910</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Sato</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Takahashi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Tsunashima</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Chem. Soc. Jpn</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="pp">1319</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">R</forename>
+				<surname>Donovan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Dorko</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">G</forename>
+				<surname>Harrison</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">49</biblScope>
+			<biblScope type="pp">828</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">L</forename>
+				<surname>Arthur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">S</forename>
+				<surname>Lee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem</title>
+		<imprint>
+			<biblScope type="vol">29</biblScope>
+			<biblScope type="pp">1483</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">F M</forename>
+				<surname>David</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976" />
+			<pubPlace>Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">L</forename>
+				<surname>Arthur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">J</forename>
+				<surname>Newitt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">1025</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">A</forename>
+				<surname>Holbrook</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+		<imprint>
+			<biblScope type="vol">76</biblScope>
+			<biblScope type="pp">1232</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">L</forename>
+				<surname>Arthur</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">36</biblScope>
+			<biblScope type="pp">2185</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Shepp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">24</biblScope>
+			<biblScope type="pp">939</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Parkes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+				<surname>Paul</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">P</forename>
+				<surname>Quinn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+		<imprint>
+			<biblScope type="vol">72</biblScope>
+			<biblScope type="pp">1935</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">H J</forename>
+				<surname>Wijnen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">22</biblScope>
+			<biblScope type="pp">1074</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Mcnesby</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">W</forename>
+				<surname>Davis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">S</forename>
+				<surname>Gordon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">76</biblScope>
+			<biblScope type="pp">823</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">38</biblScope>
+			<biblScope type="pp">2161</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A</forename>
+				<surname>Creak</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">S</forename>
+				<surname>Dainton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">J</forename>
+				<surname>Ivin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">58</biblScope>
+			<biblScope type="pp">326</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">62</biblScope>
+			<biblScope type="pp">104</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">M</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Chem. Kinet</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">1031</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Kerr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Stephens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Young</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Chem. Kinet</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">339</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Timlin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. A</title>
+		<imprint>
+			<biblScope type="pp">1241</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">N</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">E</forename>
+				<surname>Platt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Chem. Kinet</title>
+		<imprint>
+			<biblScope type="vol">3</biblScope>
+			<biblScope type="pp">307</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Tables of molecular vibrational frequencies</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NSRDS-NBS</title>
+		<imprint>
+			<biblScope type="vol">39</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Kinetics and dynamics of elementary gas reac-tions</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">W M</forename>
+				<surname>Butterworths</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<imprint>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Salomon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">42</biblScope>
+			<biblScope type="pp">610</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">1018</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">593</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W R</forename>
+				<surname>Steacie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">33</biblScope>
+			<biblScope type="pp">47</biblScope>
+			<date type="published" when="1955" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">T</forename>
+				<surname>Gruver</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">80</biblScope>
+			<biblScope type="pp">1313</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">O</forename>
+				<surname>Kutschke</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">672</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Toby</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">82</biblScope>
+			<biblScope type="issue">3822</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">59</biblScope>
+			<biblScope type="pp">2275</biblScope>
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">J</forename>
+				<surname>Ausloos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">67</biblScope>
+			<biblScope type="pp">1925</biblScope>
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">60</biblScope>
+			<biblScope type="pp">1047</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">60</biblScope>
+			<biblScope type="pp">2207</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cher</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">68</biblScope>
+			<biblScope type="pp">1316</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Weiss</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">68</biblScope>
+			<biblScope type="pp">2492</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">61</biblScope>
+			<biblScope type="pp">474</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">61</biblScope>
+			<biblScope type="pp">2161</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">62</biblScope>
+			<biblScope type="pp">112</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">62</biblScope>
+			<biblScope type="pp">3388</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Nimoy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="issue">867</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Kerr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">H</forename>
+				<surname>Slater</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Young</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. A</title>
+		<imprint>
+			<biblScope type="pp">104</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">63</biblScope>
+			<biblScope type="pp">2708</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Herod</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">63</biblScope>
+			<biblScope type="pp">2489</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">G. L</forename>
+				<surname>James</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Suart</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">175</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C J</forename>
+				<surname>Thynne</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">73</biblScope>
+			<biblScope type="pp">3294</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Herod</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">J</forename>
+				<surname>Leyshon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">47</biblScope>
+			<biblScope type="pp">689</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Newitt</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982" />
+			<pubPlace>Australia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L B</forename>
+				<surname>Bullen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Sc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970" />
+			<pubPlace>Aus-tralia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">Deb</forename>
+				<surname>Darwent</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">48</biblScope>
+			<biblScope type="pp">2280</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

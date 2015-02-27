@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude cinétique de l'ouverture thermique de la liaison C—C d'aziridines et d'époxydes dipôles-1,3 potentiels. II. Influence des substituants</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Aïcha</forename>
+								<surname>Derdour</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut de Chimie</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution">Université d'Oran</orgName>
+								<address>
+									<postCode>ONRS 75B/033</postCode>
+									<settlement>Es-Sénia</settlement>
+									<country key="DZ">Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Fernand</forename>
+								<surname>Texier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut de Chimie</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution">Université d'Oran</orgName>
+								<address>
+									<postCode>ONRS 75B/033</postCode>
+									<settlement>Es-Sénia</settlement>
+									<country key="DZ">Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude cinétique de l'ouverture thermique de la liaison C—C d'aziridines et d'époxydes dipôles-1,3 potentiels. II. Influence des substituants</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'étude cinétique de l'ouverture thermique de la liaison C—C des cyano-2 aziridines 1, des alcoxycarbonyl-2 aziridines 2, des aroyl-2 aziridines 3 et des dicyano-2,2 époxydes 4 diversement substitués en I et 3 montre que (/') la stéréochimie des carbones cycliques a peu d'influence sur la vitesse d'ouverture électrocyclique; (ii) un substituant aryle en I favorise la réaction par rapport à un alkyle et d'une manière générale, la réaction est facilitée par des substituants qui rapprochent les niveaux d'énergie du doublet P de l'hétéroatome et l'OM ar*-2-c.y Elle est également favorisée par la dissymétrie de substitution des carbones 2 et 3. Les résultats sont discutés dans le cadre de la théorie des relaxations.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>A kinetic study concerning the thermal opening of the C—C bond of 2-cyanoaziridines (1), 2-alkoxycarbonylaziridines (2), 2-aroylaziridines (3), and 1,3-substituted 2,2-dicyanoepoxides (4) has shown that (/') the stereochemistry of the cyclic carbon atoms has little influence on the rate of the electrocyclic opening; (ii) the presence of an aryl substituent in position 1, as opposed to an alkyl substituent, favors this reaction and, in general, the reaction is favored by the presence of substituents which produce energy levels closer to those of the P doublet of the heteroatom and of the ot.2-c..i MO. This reaction is also favored by a dissymmetry of the substitution on the 2 and 3 carbons. The results are discussed in terms of the theory of relaxations.</p>
+			</div>
+		</front>
+		<body>
+			<p>Les facteurs qui favorisent l'ouverture thermique des hétérocycles isoélectroniques de l'anion cyclopropyle (aziridines, époxydes...) en dipôles-1,3 correspondants ne semblent pas être complètement dégagés, malgré quelques travaux expérimentaux (1-3) et les explications basées sur la méthode des relaxations (4).</p>
+			<p>Afin de préciser l'influence des substituants sur la réaction péricyclique, nous avons étudié, à l'aide des méthodes décrites dans l'article précédent (5), la cinétique d'ouverture de la liaison C—C des aziridines 1, 2 et 3 et des époxydes 4.</p>
+			<p>L'objet de ce mémoire est d'examiner l'influence de la configuration relative des carbones cycliques de l'aziridine et celle de divers substituants sur la réaction d'ouverture électrocyclique schématisée comme suit:</p>
+			<p><formula>&gt; &lt; I I / C \4e/ C \ N Z X</formula></p>
+			<div>
+				<head>Résultats expérimentaux</head>
+				<div n="1">
+					<head>Influence de la configuration relative des carbones cycliques de l'aziridine</head>
+					<p>la configuration relative des carbones cycliques de l'aziridine Huisgen et al. ont montré que la stéréochimie cis ou trans des deux aziridines isomères 2d (cis) et 2e (trans) influe peu sur leur vitesse d'ouverture électrocyclique (3a</p>
+					<p>Nous avons montré qu'il en était de même pour les deux aziridines isomères 3a (cis) et 3b (trans), quelle que soit la température de la réaction. Les résultats rassemblés dans le tableau 1 indiquent que la configuration relative des carbones cycliques ne joue qu'un rôle mineur sur la vitesse d'ouverture du cycle, contrairement à ce qui est observé lors de la transformation de dérivés cyclopropaniques en cations allyles, puisque dans ces cas, la stéréochimie joue un rôle prépondérant sur la vitesse de la réaction (6).</p>
+				</div>
+				<div n="2">
+					<head>Influence du substituant de l&amp;apos;azote (cas des aziridines)</head>
+					<p>Oehlschlager et al. ont montré que l'ouverture des ¿V-arylaziridines 5 en ylures d'azométhine 6 à 110°C est favorisée par des substituants X et X' électrodonneurs (2). Pour notre part, nous avons montré que l'ouverture de l'aziridine est favorisée par substituant phényle comparé à un alkyle.</p>
+					<p>Ainsi à la température de 121,5°C, l'aziridine 2b dont l'azote est substitué par un phényle s'ouvre 16 fois plus vite (k t (2a) = 6,35 x 10"" s"'; k { (2b) = 100 x 10~ 4 s" 1 ) que l'aziridine 2a dont l'azote est substitué par un cyclohexyle.</p>
+					<p>Il en est de même pour l'ouverture des cyano-2 aziridines 1/, et Ik; la réaction électrocyclique est favorisée par un phényle comparé au cyclohexyle; ainsi à T = 121,5°C: k¡ (1¡) = 0,86 x 10" 5 s" 1 et k, (1 k) = 1,5 x 10" 5 s" 1 .</p>
+					<p><formula>RI V V .CN R 1î: R 1 = Me; R 2 = H; R = C ( ,H,, Ik: R 1 = H; R 2 = Me; R = PhTABLEAU</formula></p>
+					<p>3. Constantes cinétiques d'ordre 1 (k,, 10 4 s ') et paramètres d'activation correspondant à l'ouverture thermique des aziridines la, 1¡, 1 j et 1 h (solvant: toluène)</p>
+					<p>"T, ±0,2°C.</p>
+					<p><formula>k, 10" (s -'), T = 120°C: 100,0 &gt; 10,3 &gt; 4,6 3,9</formula></p>
+				</div>
+				<div n="3">
+					<head>Influence des substituants des carbones cycliques</head>
+					<div n="3.1">
+						<head>Influence des groupements fonctionnels substituant C2</head>
+						<p>Selon la littérature, la formation d'un ylure d'azométhine à partir d'une aziridine est favorisée par un groupement électroattracteur activant, ester, cétone ou nitrile, substituant le(s) carbone(s) cyclique(s) (7). La comparaison de la vitesse d'ouverture des aziridines 1, 2 et 3 substituées en 1 par un cyclohexyle et en 3 par un phényle montre que la constante k t suit l'aptitude du groupement fonctionnel à stabiliser une charge négative: À T = 121,5°C, dans le toluène, k\ (3a): 43,4 x 10" 4 1 &gt; /t, (2a): 6,35 x 1(T 4 s" 1 &gt; k t (la): 2,92 x 10 4 s" 1 .</p>
+						<p>Si l'on considère les aziridines 3 dont le phényle lié au carbonyle est substitué en para par un groupement X, nous remarquons que l'effet du substituant X est modéré, mais lorsqu'il est électrodonneur, il ralentit l'ouverture, alors qu'il l'accélère quand il est électroattracteur, comme le montrent les résultats rassemblés dans le tableau 1.</p>
+						<p>Les paramètres d'activation correspondant à l'ouverture des aziridines 2 sont rassemblés dans le tableau 2. Ils montrent que le composé 2c s'ouvre plus facilement que les aziridines 2d et e étudiées par Huisgen et al. (3c), malgré la présence du méthoxy sur le phényle lié à l'azote. Il faut noter toutefois que l'aziridine 2b s'ouvre plus aisément que les composés 2c et 2d. A titre d'exemple, nous avons reporté ci-dessous les k, observées à T = 120°C.</p>
+					</div>
+					<div n="3.2">
+						<head>Substitution et aryles en position 3 par des groupements alkyles</head>
+						<p>3.2.1. Dans une publication préliminaire, nous avons montré que l'ouverture thermique des cyano-2 aziridines en ylures d'azométhine est favorisée en remplaçant l'hydrogène en 3 par un phényle (1). Les résultats rassemblés dans le tableau 3 concernant les paramètres d'activation des aziridines la, i,j et h, montrent que la facilité de formation de l'ylure d'azométhine suit la séquence: R 1 = Ph &gt; H &gt; Me &gt; Me 2 CH. Ainsi, à la température de 120°C, la constante k\ est divisée par environ un facteur 10 lorsque l'on remplace le phényle par un hydrogène et par un facteur 40 lorsque R' = Me. Toutefois, la variation de log k] en fonction des cr* de Taft (8) n'est pas une relation linéaire.</p>
+						<p>3.2.2. Cas des N-cyclohexyl-cyano-2 pX phényl-3 aziridines</p>
+						<p>Les résultats concernant l'ouverture d'une série de phényl-3 aziridines 1 dont le phényle est substitué en para par un groupement X (Me,N—, MeO—, H, Cl, Br, CN, N0 2 ) sont rassemblés dans le tableau 4.</p>
+						<p><formula>ki ^ f C C \ C 4e" 'C H' \ / N "H k-1 / \ H N CN c 6 h " c 6 h " </formula></p>
+						<p>Contrairement à ce qui était attendu, la réaction électrocyclique est favorisée par un substituant X électrodonneur et défavorisée par un groupement X électroattracteur. Si l'on prend la constante de vitesse d'ouverture de l'aziridine la (X = H) égale à l'unité, nous obtenons les valeurs relatives suivantes (7= 121,5°C, solvant: toluène): k* 1 (X = H) = 1,00; Me,N— = 4,41; MeO— = 1,97; Cl = 0,95; Br = 0,94; C=N = 0,89; NO, = 0,86.</p>
+						<p>L'influence du substituant X est donc modérée, mais elle est l'inverse de celle observée avec les aroyl aziridines dont le phényle lié au carbonyle est substitué en para. La figure 1 représentant log k t en fonction des a de Hammett (8) montre que les substituants ayant un a positif sont correctement alignés (p = —0,08); le diméthylamino et le méthoxy sont également alignés avec H, mais la droite n'a pas la même pente (p = -0,38).</p>
+						<p>Les résultats relatifs à l'ouverture thermique des époxydes 4 en ylures de carbonyle correspondants sont rassemblés dans le tableau 5.</p>
+						<p>Ils sont analogues à ceux obtenus avec les aziridines 1; l'ouverture est favorisée par un substituant X électrodonneur tel que MeO et défavorisée par un substituant électroattracteur: kf (T = 121,5°C, solvant: CC1 4 ) H = 1,00; MeO = 4,00; Cl = 0,91; NO, = 0,70.</p>
+						<p>3 . 2 . 4 . Paramètres d'activation</p>
+						<p>Si nous considérons l'ensemble des paramètres d'activation obtenus pour l'ouverture d'aziridines diversement substituées (tableaux 1-5), nous remarquons que l'enthalpie d'activation A//+ varie en sens inverse du facteur de fréquence log A cx qui est relié simplement au AS*. Plus l'ouverture de l'aziridine est facile (cas de l'aziridine 2b par rapport à 1 a ou 3a) et moins la constante de vitesse est dépendante de la température, ce qui se traduit par un facteur de fréquence log A cx faible et par voie de conséquence un AS'* largement négatif.</p>
+						<p>Les valeurs largement négatives des AS'* peuvent paraître surprenantes. Toutefois, il faut remarquer que la faible évolution des constantes de vitesse (pour une série donnée, le A G* varie peu) est due à la compensation de l'entropie d'activation.</p>
+						<p>Ce phénomène semble être une caractéristique des réactions unimoléculaires puisque une évolution analogue des A //+ et log A cx a été observée lors d'isomérisations unimoléculaires effectuées en phase gazeuse (9). De plus, il a été montré à l'aide de la rmn (résonance magnétique nucléaire) que si une aziridine est dissoute dans un solvant benzénique, le noyau aromatique a tendance à se placer le plus loin possible du doublet de l'azote (10). C'est pourquoi il a été envisagé une interaction spécifique entre les OF du solvant aromatique et l'OM cr*-c destinée à se rompre (1). La solvatation spécifique des aziridines dans le toluène est donc en partie à l'origine des A S* largement négatifs (11). 2 En effet, les paramètres d'activation de l'aziridine le mesurés dans le CC1 4 sont plus classiques (tableau 4, note de base de tableau), le AS* est moins négatif; dans un tel solvant, il n'y a pas de solvatation spécifique.</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<head>Discussion</head>
+				<div n="1">
+					<head>Influence de la stéréochimie des aziridines</head>
+					<p>L'ouverture conrotatoire d'une aziridine peut se faire, "a priori", de deux manières (droite ou gauche) conduisant ainsi à deux configurations U et IV de l'ylure d'azométhine correspondant , selon les schémas 1 et 2.</p>
+					<p>La constante de vitesse d'ouverture d'une aziridine de stéréochimie donnée est la somme des constantes de vitesse de formation des deux configurations de l'ylure d'azométhine correspondant:</p>
+					<p><formula>ki (Az. trans) = ki (D tr) + (G tr) ki (Az. cis) = ki (D cis) + k, (G cis)</formula></p>
+					<p>Ces différentes configurations U et W n'étant pas détectables par l'expérience, les mesures expérimentales ne peuvent distinguer ki (D) et ki (G).</p>
+					<p>D'après nos résultats et ceux de Huisgen et al. (3c), ki (Az. trans) — k t (Az. cis). Un raisonnement basé sur la minimisation des contraintes stériques dans l'ylure formé (12) permet de montrer que le mode d'ouverture le plus facile est celui qui conduit à l'ylure IV cis</p>
+					<p><formula>ki (D trans) &gt; k f (D cis) ou ki (G cis)</formula></p>
+					<p>Cependant, la stéréochimie de l'ouverture des cations et anions cyclopropyles n'est pas gouvernée par des interactions stériques, mais par les propriétés des orbitales (13). Lors de la solvolyse des dérivés cyclopropaniques, des deux modes d'ouverture disrotatoires possibles "a priori", un seul a lieu effectivement: il correspond à celui pour lequel l'énergie de relaxation est la plus grande en valeur absolue (4).</p>
+					<p>L'explication de la formation préférentielle d'un ylure d'azométhine à l'aide des interactions stériques ne tient que dans la mesure où les interactions orbitalaires pour les deux modes d'ouvertures, D ou G, sont équivalentes. Ceci serait toujours vérifié quels que soient les substituants portés par les carbones de l'aziridine, si l'azote était plan dans l'état de transition. Quel que soit le mode d'ouverture conrotatoire D ou G, l'énergie de relaxation due au transfert de charge P-» cr*-c serait la même (voir schéma 3). Si on se limite aux interactions entre les orbitales frontières, cette énergie est représentée par l'équation [1] (4):</p>
+					<p><formula>[1] A E =</formula></p>
+					<p>Elle serait la même pour les deux modes d'ouverture. Toutefois, comme l'ont montré les calculs ab initio effectués sur l'ouverture de l'anion cyclopropyle (14) ainsi que les calculs M1NDO effectués sur l'ouverture d'une aziridine (15), l'azote ne doit pas être plan dans l'état de transition et le doublet P n'est pas symétrique. Ceci entraîne que les interactions orbitalaires ne sont pas équivalentes des deux côtés du plan du cycle en train de s'ouvrir. Ce raisonnement implique que pour des aziridines dissymétriques, l'un des deux modes d'ouverture conrotatoire doit être privilégié (16).</p>
+				</div>
+				<div n="2">
+					<head> Influence des substituants</head>
+					<p>Le concept de stablisation de charges partielles ne permet pas d'expliquer la stéréochimie de l'ouverture électrocyclique et nous ne pensons pas qu'il puisse expliquer les effets des substituants observés. En effet, il faudrait admettre que dans l'état de transition il se développe une charge partielle positive sur le carbone 3. Or les calculs CNDO/2 effectués sur les ylures d'azométhine montrent que lors de l'ouverture de l'aziridine, l'azote initialement négatif devient positif alors que les carbones initialement positifs deviennent négatifs (voir partie expérimentale et tableau 6).</p>
+					<p><formula>.N: f c, " . —Ni 4e" V</formula></p>
+					<p>Compte tenu du fait que l'équilibre aziridine ^ ylure d'azométhine ou époxyde ^ ylure de carbonyle est considérablement déplacé vers l'hétérocycle fermé, selon le principe de Hammond, l'état de transition doit avoir une structure proche du dipôle-1,3 final. Des calculs ab initio effectués sur l'ouverture de l'anion cyclopropyle ont montré qu'il en devait être ainsi, tout au moins pour les longueurs de liaison (14).</p>
+					<p>Si l'on admet que la force motrice de la réaction est le transfert de charge du doublet de l'hétéroatome sur l'OM cx*_ c et que la réactivité est correctement interprétée par la théorie des relaxations, l'ouverture est d'autant plus aisée que l'énergie de relaxation (4) est grande en valeur absolue (éq. [1]).</p>
+					<div n="2.1">
+						<head>Substituants en position 1</head>
+						<p>Dans des séries distinctes d'hétérocycles (aziridines et époxydes) ou dans des séries d'hétérocycles portant les mêmes substituants sur les carbones, la différence d'énergie entre le doublet de l'hétéroatome et l'OM cr*_ c destinée à se rompre, gouverne l'aptitude à l'ouverture.</p>
+						<p>La réactivité comparée des aziridines et époxydes a été discutée précédemment (1, 4) et nos résultats sont en accord avec le fait qu'à substituants identiques sur les carbones, les aziridines s'ouvrent plus aisément que les époxydes (17, 18). L'énergie du doublet de l'oxygène est plus basse que celle du doublet de l'azote (19), ce qui entraîne un transfert de charge du doublet P sur l'OM cr£_ c plus important dans le cas des aziridines.</p>
+						<p>L'influence des substituants donneurs sur le phényle lié à l'azote des aziridines 5 a été expliquée de la même manière (4).</p>
+						<p>La plus grande réactivité des aziridines /V-phényles par rapport aux aziridines /V-alkyles observée expérimentalement s'explique par la méthode des relaxations, puisque l'énergie d'interaction du doublet P avec l'OM a* est la plus grande lorsque le substituant de l'azote est un phényle. 3</p>
+						<p>La facilité d'ouverture du cycle suit la facilité d'inversion de l'azote; en effet, la barrière d'inversion est plus faible dans le cas d'une aziridine /V-phényle que dans le cas des aziridines /V-alkyles; la différence est de l'ordre de 5 kcal mol -1 (20).</p>
+					</div>
+					<div n="2.2">
+						<head>Substituants en 2 et 3</head>
+						<p>L'examen des tableaux montre que l'ouverture de la liaison C—C est facilitée par une substitution dissymétrique des carbones 2 et 3. Parmi les aziridines étudiées, 2b est la plus réactive. Puisque l'influence des substituants sur l'énergie des OM est additive en première approximation, ceci indique que dans une série d'hétérocycles de structures peu différentes, lorsque l'on passe d'un composé à l'autre, la variation du numérateur de l'équation [1] l'emporte sur celle du dénominateur . En effet, si la réactivité péricyclique était gouvernée uniquement par la différence d'énergie entre le doublet P et l'OM cr*_ c , la réactivité de 2b devrait se situer entre celle de 2e et 5.</p>
+						<p>Cela n'a de sens que si l'on admet que l'azote qui passe de la forme pyramidale à la forme plane n'est pas encore plan dans l'état de transition (schéma 4). 4</p>
+						<p>Lorsque les substituants des carbones sont différents, l'OM a* est alors polarisée et les coefficients C 2 et C 3 sont d'autant plus différents que l'on a d'une part un substituant électroattracteur et d'autre part un substituant électrodonneur (effet "push-pull"). Dans ces conditions, quel que soit le mode d'ouverture conrotatoire privilégié a ou b, plus l'OM est dissymétrique et plus H' T 10-BV est important et plus l'ouverture est aisée.</p>
+						<p>La séquence de réactivité des aziridines la, la et 3a suit l'augmentation de la polarisation de l'OM a* due au substituant Y. L'influence des substituants X sur la polarisation de cette OM permet de comprendre la réactivité des aziridines et des époxydes dont le phényle en 3 est substitué: plus X est donneur et plus la dissymétrie de l'OM a* augmente entraînant un accroissement de l'hamiltonien d'interaction //H 0 -BV-Dans les composés 1 et 4, les substitants X ont deux effets antagonistes: (/) un substituant électrodonneur, en relevant l'énergie de l'OM c 1 ", défavorise le transfert de charge PN —&gt; o"'£_ c ; (ii) ce même substituant en augmentant la dissymétrie de l'OM a* favorise la réaction. L'antagonisme des deux effets pourrait expliquer que l'influence des substituants X est globalement faible, mais nos résultats expérimentaux indiquent que l'influence d'un tel substituant sur la dissymétrie (numérateur de l'équation [1]) l'emporte sur la variation du niveau d'énergie (dénominateur de l'équation [1]).</p>
+						<p>Dans les composés 3, X substitue le phényle lié au carbonyle et, dans ces conditions, les deux effets vont dans le même sens; ainsi, le groupement N0 2 abaisse l'énergie de l'OM a* et accroit la polarisation de cette OM, favorisant la réaction électrocyclique.</p>
+						<p>L'influence d'un méthyle en 3 comparé à un hydrogène (cas des aziridines 1/, R = Me, et lj, R = H) s'explique de la même manière. Un carbone sp 3 étant plus électronégatif que l'hydrogène, le méthyle compense partiellement l'influence du nitrile sur la dissymétrie de l'OM CT*_ c et de ce fait diminue la vitesse d'ouverture, par rapport à l'hydrogène.</p>
+						<p>Nos résultats semblent en accord avec les prévisions d'Épiotis qui, dans une approche théorique différente, prévoyait une augmentation de la réactivité péricyclique avec l'augmentation de la polarité de l'état de transition (21).</p>
+						<p>Le raissonnement qui précède permet de comprendre l'ouverture aisée des hétérocycles 7, 9 et 11. L'effet —/ des substituants en 2 et 3, en abaissant l'énergie de l'OM a* et la forte dissymétrie de cette OM due à l'effet "push-pull" des substituants + M en 3 et —M en 2, favorise le transfert de charge P N —&gt; cr'c—c et &gt; partant, l'ouverture du cycle.</p>
+						<p>D'après ce travail, on peut prévoir que quand deux aziridines portent des substituants identiques, celle qui présente la plus grande dissymetrie doit donner plus aisément l'ylure d'azométhine correspondant.</p>
+						<p>En conclusion, cette étude permet de dégager les points essentiels suivants: (0 la configuration relative des carbones cycliques a peu d'influence sur la vitesse d'ouverture électrocyclique des aziridines; (ii) l'ouverture est globalement favorisée par des substituants qui rapprochent les niveaux d'énergie du doublet P d'une part et de l'OM cr*_ c d'autre part. Toutefois , la dissymétrie de substitution des carbones 2 et 3 joue un rôle important; au fur et à mesure qu'elle croit, la vitesse d'ouverture augmente.</p>
+					</div>
+				</div>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<div n="1">
+					<head>Détermination des constantes de vitesse k/</head>
+					<p>Les constantes de vitesse k/ Les constantes cinétiques concernant l'ouverture électrocyclique des composés 1, 2, 3 et 4 étudiées au cours de ce travail sont déterminées en suivant la disparition de l'hétérocycle au cours de la réaction d'addition à l'ACDM. Le dosage des cyano-2 aziridines 1 est effectué à l'aide de l'ir (disparition de la bande v c = N vers 2240 cm" ') et celui des autres composés, à l'aide de la chromatographie en phase liquide selon le mode opératoire décrit dans un mémoire précédent (5).</p>
+				</div>
+				<div n="2">
+					<head>Détermination des paramètres d'activation</head>
+					<p>Les paramètres d'activation, A£ + , AH*', AS + et AG + sont déterminés à l'aide de méthodes standard (9), après avoir mesuré la constante de vitesse d'ouverture k, à, au moins, 5 températures différentes.</p>
+					<p>La pente de la droite (coefficient de corrélation r = 0,996), représentant le log ki en fonction de l/7\ permet de calculer l'énergie d'activation A£ + . L'ordonnée à l'origine correspond à log A cx . Compte tenu des diverses gammes de température étudiées en fonction des substituants du cycle, le A H* est calcule, dans chaque cas, à la température moyenne, alors que le AS* est toujours calculé pour T = 100°C. Dans les tableaux, nous n'avons reporté que les constantes de vitesse obtenues aux mêmes températures, dans une série donnée. Les résultats rassemblés dans les tableaux sont donnés avec un pourcentage de confiance de 90%.</p>
+				</div>
+				<div n="3">
+					<head>Calculs CNDO/2</head>
+					<p>Les calculs CNDO/2 ont été effectués sur les aziridines 7 et 8 en considérant les angles du cycle égaux à 60°, l'azote étant pyramidal et les longueurs de liaison C—N = 1,487 Â, C—C = 1,509 Â. Les valeurs des charges ainsi obtenues sont reportées ci-dessous.</p>
+					<p>La géométrie des ylures d'azométhine n'étant pas connue, les angles de liaison sont pris égaux à 120° pour les carbones terminaux du dipôle et de l'azote central.</p>
+					<p>Les calculs rassemblés dans le tableau 6 ont été effectués sur l'ylure d'azométhine non substitué pour diverses longueurs de la liaison C—N; ils montrent que les charges évoluent peu.</p>
+					<p>Les calculs CNDO/2 concernant les ylures d'azométhine résultant de l'ouverture des aziridines 2b nous</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Sér. C</title>
+							<imprint>
+								<biblScope type="vol">291</biblScope>
+								<biblScope type="pp">101</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">C</forename>
+									<surname>Oeheschlager</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">H</forename>
+									<surname>Akhtar</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">273</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">1777</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">572</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<surname>Scheer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">602</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O. Henri-Rousseau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. II</title>
+							<imprint>
+								<biblScope type="pp">496</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">63</biblScope>
+								<biblScope type="pp">2245</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">S A</forename>
+									<surname>Sorensenet</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pericyclic reactions</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">P</forename>
+									<surname>Édite</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+									<surname>Marchand</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Lehr</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>Academic Press</publisher>
+								<biblScope type="pp">1</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+									<surname>Lown</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Rec. Chem. Prog</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">51</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Kellogg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">2165</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<monogr>
+							<title level="m" type="main">Physical organic chemistry Dans Series in advanced chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1970"/>
+								<publisher>McGraw-Hill</publisher>
+								<biblScope type="pp">347</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<monogr>
+							<title level="m" type="main">The foundations of chemical kinetics. Dans Series in advanced chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1960"/>
+								<publisher>McGraw-Hill</publisher>
+								<biblScope type="pp">252</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Yonezaire</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Fukuta</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Jpn</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">2297</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Derdour</forename>
+									<surname>Thèse</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Oran</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">604</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<title level="a" type="main">The conservation of orbital symmetry</title>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">«</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">NGUYEN TRONG ANH. Les règles de Woodward et Hoffmann. Ediscience</title>
+							<meeting>
+								<address>Paris</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Merlet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Peyerimhoff</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Shih</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">959</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sauer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">2109</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Sér. C</title>
+							<imprint>
+								<biblScope type="vol">296</biblScope>
+								<biblScope type="pp">553</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Scheer</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Huber</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">397</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">439</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<monogr>
+							<title level="m" type="main">The organic chemist's book of orbitals</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<surname>Jorgensen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Salem</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>Academic Press</publisher>
+								<biblScope type="fpage">156</biblScope>
+								<biblScope type="lpage">159</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Pierre</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<surname>Baretet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Arnaud</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">3619</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">D</forename>
+									<surname>Epiotis</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">13</biblScope>
+								<biblScope type="pp">751</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrie</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">310</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bourgois</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">505</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

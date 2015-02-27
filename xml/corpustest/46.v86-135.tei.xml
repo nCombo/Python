@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Substitution régiosélective d'arènesulfonylhydrazones a,(3-insaturées via la réaction de Shapiro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<forename type="middle">Claude</forename>
+								<surname>Caille</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Farnier</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roger</forename>
+								<surname>Guilard</surname>
+							</persName>
+						</author>
+						<title level="a" type="main">Substitution régiosélective d'arènesulfonylhydrazones a,(3-insaturées via la réaction de Shapiro</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les arènesulfonylhydrazones de cyclopentanones a,(3-insaturées de type isopropylidène et cyclopentylidène cyclopentanones, ont été soumises à l'action successive d'organolithiens à —78°C et de divers agents électrophiles. La réactivité des hydrazones dépend étroitement de la nature de l'électrophile dont le choix permet d'orienter régiosélectivement la substitution. La structure des produits est établie par analyse des spectres rmn 'H et 13C. Les hydrazones conservent leur configuration au cours de la réaction. Un mécanisme réactionnel faisant intervenir un intermédiaire a « six centres » est proposé. Par ailleurs, la réactivité de ces hydrazones est mise à profit pour élaborer une nouvelle stratégie de synthèse d'aldéhydes monoterpéniques.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Arenesulfonylhydrazones of a,(3-unsaturated cyclopentanones such as isopropylidene and cyclopentylidene cyclopentanones have been treated with alkyllithium reagents at — 78°C followed by trapping with a variety of electrophiles. The reactivity of these hydrazones depends on the nature of electrophile that controls the regioselectivity of the reaction. The structure of all the products is established by 'H and 13C nmr. The reaction occurs with no inversion of configuration of the hydrazones. The formation of a "six centers" intermediate is discussed. Moreover, such a reactivity is used to prepare monoterpenic aldehydes.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Opposés aux dérivés organolithiens, les tosylhydrazones présentent une réactivité singulière (1) mise à profit dans un grand nombre de synthèses (2). Les travaux de Lipton et Shapiro (3) démontrent de plus que l'action des alkyllithiens s'accompagne de la formation d'un yy/i-dianion réagissant très aisément avec de nombreux agents électrophiles pour conduire à une hydrazone substituée en a (voie A, 
+                <ref type="figure">fig. 1</ref>). Par ailleurs, la décomposition du dianion conduit à un lithien vinylique pouvant également réagir avec un électrophile (voie B, 
+                <ref type="figure">fig. 1</ref>). En outre la décomposition du dianion est plus aisée dans le cas d'hydrazones encombrées telles les trisylhydrazones (4), sans que la réactivité à l'égard des électrophiles soit altérée. Cependant, peu de travaux ont été consacrés aux arènesulfonylhydrazones a,p-insaturées, depuis les études de Shapiro, Dauben et coll. (5). Dauben et al. ont toutefois montré le rôle déterminant de la stéréochimie de l'hydrazone et de la nature du solvant (6). Or nous avons rapporté dans une note préliminaire (7) qu'il était possible d'alkyler régiosélectivement la tosylhydrazone de la cyclopentylidène cyclopentanone. Dans ce travail nous nous sommes proposés de montrer l'influence de l'électrophile sur la régiospécificité de la réaction et d'étudier l'évolution de la stéréochimie des hydrazones. Dans ce but, nos travaux réalisés initialement au départ de la cyclopentylidène cyclopentanone ont été étendus à l'isopropylidène cyclopentanone , modèle plus proche de celui utilisé par Dauben et al. (6). De plus, nous avons tenté d'élaborer une voie d'accès à des aldéhydes monoterpéniques, applicable à la synthèse d'analogues naturels.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<div type="section">
+					<head>Réactivité d'hydrazones a, insaturées vis-à-vis d'électro-
+philes</head>
+					<p>Les hydrazones 1 ont été soumises à l'action du butyllithium, puis de divers agents électrophiles, selon la voie A schématisée sur la figure 1. Les proportions des produits 2 et 3 obtenus ( 
+                    <ref type="figure">fig. 2</ref>) dépendent étroitement de la nature de l'électrophile, et l'ensemble de nos résultats est regroupé en tableau 1.
+                </p>
+					<p>Au départ de l'hydrazone 1 b de l'isopropylidène cyclopentanone , et après transformation en dianion correspondant, l'action de l'iodure de méthyle et du propionaldéhyde conduit uniquement et respectivement aux produits 2c et 2d, résultant de l'attaque de l'électrophile sur l'atome de carbone porteur du reste isopropényle. Dans le cas du sulfure de diméthyle, à côté de l'hydrazone 2b issue du même type d'attaque, il est possible d'isoler dans une faible proportion (5%) un mélange des isomères 3d correspondant à une attaque sur les sommets 7 et 7' du reste isopropylidène.</p>
+					<p>Dans la série des hydrazones de la cyclopentylidène cyclopentanone , l'action du sulfure de diméthyle est alors régiospécifique et ne conduit qu'à l'hydrazone 2/. Cette même régiospécificité est observée par action de l'iodure de méthoxy-2 éthyle: seules les hydrazones le et 2g sont isolées, ceci indépendamment de la nature du reste aryle, tosyl (—S0 2 p-tolyle) ou trisyl (—SO9 triisopropyl-2,4,6 phényle), porté par l'hydrazone de départ. A l'opposé et, curieusement, lorsque l'on met en oeuvre le sulfure de diphényle, l'attaque ne porte jamais sur le carbone 2 de l'hydrazone de départ mais toujours sur les sommets 7 et 7' du reste alkylidène, quelle que soit la nature du reste alkylidène et celle du groupe aryle porté par l'hydrazone : dans tous les cas, seuls les mélanges d'hydrazones 3a, 3c et 3/ sont obtenus. De plus, nous avons vérifié que l'introduction d'un groupe alkyle sur le sommet 5 de l'hydrazone 1 de départ ne modifie pas cette spécificité : à partir de l'hydrazone le, seul se forme le mélange 3e. Toutefois, la régiosélectivité n'est pas toujours aussi marquée puisque dans un cas, en utilisant le chloroformiate de méthyle, nous isolons conjointement les hydrazones 2a et 3b dans des proportions de 68 et 32%.</p>
+					<p>Ainsi la réactivité des hydrazones a,(3-insaturées ne paraît dépendre ni de la nature du groupe alkylidène, ni de la nature du reste aryle porté par l'hydrazone. Par contre, le choix de l'agent électrophile est un facteur déterminant de la spécificité de la réaction.</p>
+				</div>
+				<div type="section">
+					<head>Synthèse d'aldéhydes monoterpéniques</head>
+					<p>Selon le schéma réactionnel représenté en figure 1 (voie B), les hydrazones lb et le sont traitées par le iec-butyllithium en excès dans le tétrahydrofuranne à -78°C. Le retour du milieu réactionnel  à 0°C permet d'accéder aux lithiens vinyliques résultant de la déprotonation du sommet 1' (<ref type="figure">fig. 3</ref>). La condensation du diméthylformamide (8) livre les aldéhydes correspondants 4b et 4c avec des rendements de l'ordre de 35%. Or, l'isomère 5 de l'aldéhyde 4c ainsi synthétisé est le précurseur du chrysomélidial (9). </p>
+					<p><formula>CHO H,C CHO CHO CH, CH, chrysomélidial</formula></p>
+					<p>Nous avons tenté de proposer une voie d'accès plus simple à ce précurseur en utilisant les deux types de réactivité des arènesulfonylhydrazones. En effet, l'introduction d'un groupement à priori facilement éliminable devait permettre la formation de la double liaison dans la position recherchée. Nos résultats sont schématisés en  <ref type="figure">figure 4</ref>.</p>
+					<p>Comme nous l'avons déjà décrit, l'hydrazone 1 ¿&gt; traitée parle sec-butyllithium puis le sulfure de diméthyle conduit régiosélectivement au dérivé 2b. L'alkylation de ce dernier par l'iodure de méthyle fournit l'hydrazone 6 avec un rendement de 40%. 11 est à noter que l'obtention de cette hydrazone a été également envisagée en traitant directement l'hydrazone le par le sulfure de diméthyle, mais cette voie ne permet d'isoler le composé 6 qu'avec un très faible rendement (de l'ordre de 10%). L'hydrazone 6, traitée comme décrit précédemment pour préparer les aldéhydes 4, conduit à l'aldéhyde thiométhylé 7 (rendement: 38%).</p>
+					<p>Pour accéder à l'aldéhyde 5 recherché, la coupure du groupe thiométhylé a été tentée par action du lithium en présence d'éthylamine. En effet, cette méthode a déjà été utilisée avec succès (10) pour éliminer un groupe thiophényle en position allylique. Malheureusement, tous nos essais ont laissé inaltéré l'aldéhyde thiométhylé 7. Par contre, dans le mémoire suivant, nous décrivons des exemples d'application de cette stratégie de synthèse permettant de proposer une nouvelle voie d'accès à des 8-lactones dont le squelette de base est celui des iridoïdes (11).</p>
+				</div>
+				<div type="section">
+					<head>Établissement des structures</head>
+					<p>La structure de chacun des produits obtenus a pu être établie sur la base des données de l'analyse élémentaire et des résultats de rmn 'H et 13 C. Nous avons regroupé dans le tableau 2 les caractéristiques de rmn protonique de la plupart des hydrazones d'alkylidène cyclopentanones 1 et 3. Les caractéristiques rmn 'H des autres hydrazones synthétisées et celles des aldéhydes 4b, 4c et 7 sont données dans la partie expérimentale où sont également reportées les caractéristiques rmn 13 C des hydrazones 2c et 3d. Dans le tableau 2 nous n'avons pas fait figurer les déplacements chimiques des protons du groupe aryle de la fonction hydrazone dont les caractéristiques sont en moyenne les suivantes : le reste tosyle donne un système AA'BB' entre 7,2 et 7,9 ppm et un singulet vers 2,4 ppm; le reste trisyle, un singulet à 7,2ppm pour les protons aromatiques, un doublet d'intensité 18 vers 1,3 ppm et deux heptuplets vers 2,9 et 4,2 ppm pour les protons des groupes isopropyle.</p>
+					<p>Comme il apparaît sur le tableau 2, les hydrazones 3 correspondent en fait à des mélanges des dérivés substitués respectivement en 1' et 3'. Les deux isomères d'un mélange 3 n'ont pu être séparés, mais des caractéristiques rmn sont individualisables pour chacun de ces isomères : de façon générale, les protons du groupe méthyle en 1' sont plus déblindés que ceux de groupe méthyle en 3', ceci par analogie avec les résultats observés sur les hydrazones 1 de départ. Il en est de même pour les protons du reste (CH 2 R). L'analyse des spectres de rmn 'H montre également que les isomères des mélanges 3 se forment sensiblement dans les mêmes proportions . Une preuve supplémentaire de la présence d'un mélange pour les hydrazones 3 est apportée par l'examen du spectre rmn13 C (écho de spin) 3 de 3d : des signaux distincts apparaissent pour les divers atomes de carbone des deux isomères. Nous avons de plus vérifié qu'après coupure de la fonction hydrazone ( 12) en cétone, ces dédoublements observés sur les spectres rmn 13 C persistent, ceci pour exclure l'existence éventuelle d'un mélange des deux configurations syn et anti d'hydrazones. D'autres arguments en faveur de la présence d'une seule configuration pour ces hydrazones sont discutés dans le paragraphe suivant.</p>
+					<p>Les spectres rmn 'H de toutes les hydrazones 2 mettent en évidence des protons éthyléniques sous la forme de deux singulets entre 4,0 et 5,2ppm pour un reste isopropényle, et d'un multiplet entre 5,1 et 5,7ppm pour un reste cyclopentényle . De plus, la présence d'un carbone quaternaire en position 2 est confirmée dans un cas particulier par le relevé du spectre rmn 13 C (écho de spin) pour l'hydrazone 2c.</p>
+					<p>Enfin, il convient de souligner que l'hydrazone 6 correspond à un mélange de diastéréoisomères, ce qui se traduit sur le spectre rmn par la présence de deux doublets pour le groupe méthyle en position 5.</p>
+				</div>
+				<div type="section">
+					<head>Stéréochimie des hydrazones</head>
+					<p>En opérant à température ambiante, il est classique (6) de n'obtenir que des hydrazones la (E) à partir des cétones correspondantes. Les caractéristiques rmn reportées au tableau 2 et dans la partie expérimentale pour les hydrazones 1, correspondent toujours à la forme E, sauf dans le cas de l'hydrazone la où nous avons de plus préparé l'isomère Z aux fins de comparaison des données rmn 'H. L'examen de ces données pour les hydrazones la (E) et la (Z) montre que les glissements chimiques des divers protons de la forme E sont toujours supérieurs à ceux de la forme Z. Les données rmn des autres hydrazones 1 synthétisées confirment la configuration E du produit obtenu sauf pour l'hydrazone le. Dans ce cas, nous obtenons en fait un mélange des configurations £ et Z dans des proportions relatives de 80 et 20% : en effet, sur le spectre rmn 'H, à côté des signaux relatifs aux groupes méthyle en 1 ' et 3' de la forme E respectivement à 1,89 et 1,74 ppm, apparaissent deux autres singulets à 1,61 et 1,54 ppm correspondant aux mêmes protons de la forme Z.</p>
+					<p>Nous avons voulu préciser si la configuration de l'hydrazone était conservée ou non au cours de la réaction conduisant aux hydrazones 2 et 3. La stéréochimie des hydrazones d'alkénylcyclopentanones 2 est démontrée sur un cas particulier: par coupure de l'hydrazone 2e, on isole la cétone 8 à partir de laquelle l'hydrazone E est régénérée à température ambiante (2g) (<ref type="figure">fig. 5</ref>). Les caractéristiques physicochimiques et rmn 'H du produit ainsi obtenu s'avèrent identiques à celles de l'hydrazone 2e mise en jeu qui doit donc être de configuration E.</p>
+					<p>La comparaison des glissements chimiques observés pour les protons des groupes méthyle en 1' et 3' des deux isomères la (E) et la (Z) et de ceux des mêmes groupes méthyle du mélange des hydrazones 3a issu de la(£) montre encore que la configuration de la fonction hydrazone est conservée lors de la transformation envisagée. L'examen des données rmn 'H des autres hydrazones 3 permet de généraliser ce résultat. Un dernier argument confirme la stéréochimie E des hydrazones 2 et 3 : la protonation à — 78°C du dianion issu de 1 b de configuration E ne modifie pas la stéréochimie de cette hydrazone.</p>
+					<p>Le fait que la configuration E de l'hydrazone reste toujours inchangée lors de la préparation des composés 2 et 3 nous a conduit à proposer un mécanisme réactionnel précisant la nature du dianion intermédiaire.</p>
+				</div>
+				<div type="section">
+					<head>Mécanisme réactionnel</head>
+					<p>Lipton et Shapiro (3), puis Chamberlin et Bond (13), ont montré que l'alkylation d'hydrazones £ en a procède par l'intermédiaire d'un syn-dianion (voie A, <ref type="figure">fig. 1</ref>). Le même mécanisme appliqué aux hydrazones a,(i-insaturées 1 que nous avons étudiées, aurait dû conduire aux produits de substitution en position 5. Or, nous n'avons jamais pu isoler de tels composés, mais uniquement les hydrazones de type 2 et 3. De plus, nous avons précisé dans le paragraphe précédent que la réaction s'effectue sans isomérisation de la fonction hydrazone E. Il n'est donc pas possible d'envisager un intermédiaire syw-dianion dans notre cas. L'hypothèse la plus plausible pour expliquer ces résultats paraît être l'intervention d'un intermédiaire à « six centres » qui se forme par déprotonation régiospécifique du sommet 1'. Le mécanisme réactionnel proposé est représenté en figure 6 : l'intermédiaire à six centres (A) conduit au dianion allylique (B), précurseur des hydrazones 2 et 3.</p>
+					<p>Il est à noter qu'un intermédiaire à six centres avait été évoqué par Bunnell et Fuchs (14) pour des hydrazones de (3-céto ester. Une interprétation possible du changement de régiospécificité observé lors de l'emploi du sulfure de diphényle comme agent électrophile serait la suivante: à partir du dianion (B), il y aurait formation initiale d'une sulfimine conduisant ultérieurement aux hydrazones 3a, 3c, 3e et 3/selon</p>
+					<p><formula>SOoAr 1 J. (B)</formula></p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>L'étude de la réactivité d'hydrazones a,(3-insaturées vis-àvis d'agents électrophiles montre que la déprotonation résultant de l'action de l'alkyllithien est régiospécifique et conduit à unintermédiaire à six centres. La configuration E des hydrazones est conservée au cours de la réaction. La formation d'un dianion allylique permet d'expliquer la formation concomitante ou non d'hydrazones d'alkényle et d'alkylidène cyclopentanones, la régiosélectivité de la réaction étant sous la dépendance essentielle de la nature de l'électrophile mis en jeu. Cette réactivité particulière a été appliquée à la synthèse d'aldéhydes monoterpéniques et sera également mise en oeuvre dans l'article suivant pour proposer de nouvelles voies d'accès à des ô-lactones cyclopenténiques.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Le déroulement des réactions est suivi par ccm (chromatographie sur couche mince) sur gel de silice (Kieselgel 60F254, Merck 5535). Les points de fusion mesurés sur banc Kofler ne sont pas corrigés. Les spectres infrarouges (ir) sont obtenus sur spectrophotomètre Perkin Elmer 580 B. Les spectres de résonance magnétique nucléaire (rmn) sont enregistrés à 400 MHz sur appareil Briiker WM 400. Les déplacements chimiques sont exprimés en ppm, le TMS étant pris comme référence interne (s, singulet; d, doublet; t, triplet; q, quintuplet; h, heptuplet; m, multiplet; M, massif). Les analyses sont effectuées par le Service central de microanalyses du Centre national de la recherche scientifique.</p>
+				<p>Le tétrahydrofuranne est distillé sur LiAlH 4 , l'hexane et le tétraméthyléthylènediamine sur CaH 2 . Les solutions d'alkyllithien sont commerciales. La lithiation des hydrazones est réalisée sous atmosphère d'argon.</p>
+				<p>Les produits de départ suivants sont préparés par les méthodes citées en référence : isopropylidène-2 cyclopentanone-1(15); isopropy-lidène-2 méthyl-5 cyclopentanone-1 (16); tosylhydrazone de la cyclo-pentylidène-2 cyclopentanone-1, ld (17).</p>
+				<div type="section">
+					<head>Tosylhydrazones de l' isopropylidène-2 cyclopentanone-</head>
+					<p><formula>1 1 a (E) et 1 a (Z) (a) Tosylhydrazone la. (b)</formula></p>
+					<p>On dissout au bain-marie 11,2g (60 mmol) de tosylhydrazide dans 20 mL d'éthanol à reflux en présence d'une goutte d'acide chlorhydrique concentré, puis on ajoute, à température ambiante, l'iso-propylidène-2 cyclopentanone-1 (7,5 g, 60 mmol). Après 12 h au réfrigérateur, puis filtration, on obtient 14 g (80%) d'un solide recristallisé dans l'éthanol; pf 216°C; R f 0,27 (éther éthylique hexane, 1:1); v max (KBr) : 3250 (NH), 1650 (C=C), 1600 aromatique, 1330 et 1150 (S0 2N) cm" 1 . Anal. calc. pour C, 5 H 20 N-,O 2 S :C 61,63, H 6,90, N 9,58, O 10,95, S 10,95; trouvé : C 61,79, H 7,01, N 9,70, O 11,00, S 11,19.
+            </p>
+				</div>
+				<div type="section">
+					<head>(b) Tosylhydrazone la. (Z)</head>
+					<p>A une suspension de tosylhydrazide (5,0 g, 26,9 mmol) dans l'éthanol (50 mL), on ajoute l'isopropylidène-2 cyclopentanone-1 (3,33 g, 26,9 mmol) et 0,4 mL d'acide chlorhydrique concentré. Le mélangé est porté à reflux pendant 3 h, puis évaporé sous pression réduite; l'huile brune obtenue est purifiée par chromatographie sur gel de silice (éluant: éther éthylique -hexane, 4:1). On recueille 4,7 g (60%) d'un solide recristallisé dans l'éthanol; pf 196°C; i? f 0,10 (éther éthylique -hexane, 1:1); v max (KBr) : 3200 (NH), 1640 (C=C), 1600 (aromatique), 1365 et 1160 (S0 2N) cm" 1 . Anal. calc. pour C 15 H 20 N 2 O 2 S : C 61,63, H 6,90, O 10,95; trouvé : C 61,36, H 6,72, O 11,27.
+            </p>
+				</div>
+				<div type="section">
+					<head>Trisylhydrazones 1 b, le et le</head>
+					<p>Le même mode opératoire est utilisé pour préparer ces trois hydrazones : à une suspension de triisopropyl-2,4,6 benzènesulfonylhydrazide (29,8 g, 100 mmol) dans le méthanol (100 mL), on ajoute l'alkylidène cyclopentanone fraîchement distillée (100 mmol) et 1 mL d'acide chlorhydrique concentré. On agite vigoureusement jusqu'à formation d'un précipité abondant. Le mélange est ensuite déposé au réfrigérateur pendant la nuit. Le précipité obtenu est filtré, lavé au méthanol froid (3 x 50 mL), séché, puis recristallisé dans l'éthanol. (a) Trisylhydrazone de /' isopropylidène-2 cyclopentanone-11 b Rendement: 80%; pf 196°C; R { 0,62 (éther éthylique -hexane, 1:1); v max (KBr) : 3250 (NH), 1655 (C=C), 1600 (aromatique), 1330 (S0 2 N), 1160 et 1150(S0 2N)cm-'. Anal. calc. pour C 23 H 36 N 2 0 2 S : C 68,29, H 8,97, N 6,92; trouvé : C 68,21, H 8,98, N 6,81. (b) Trisylhydrazone de l' isopropylidène-2 méthyl-5 cyclopentanone-1 le Rendement: 40%; pf 158°C; R f 0,69 (éther éthylique -hexane, 1:1); v max (KBr) : 3240 (NH), 1650 (C=C), 1600 (aromatique), 1330 (S0 2 N), 1160 et 1150 (S0 2 N) cm" 1 . Anal. calc. pour C 24 H 38 N 2 0 2 S : C 68,87, H 9,15, N 6,69, S 7, 64; trouvé : C 68,52, H 8,91, N 6,69, S 7,53. (c) Trisylhydrazone de la cyclopentylidène-2 cyclopentanone-1 le Rendement: 80%; pf 206°C; R r 0,59 (éther éthylique -hexane, 1:1); v max ( KBr) : 3240 (NH), 1665 (C=C), 1600 (aromatique), 1330 (S0 2 N), 1160et 1150 (S0 2 N) cm"'. Anal. calc. pourC 25 H 38 N 2 0 2 S : C 69,74, H 8,90, N 6,51, 0 7,43, S 7,43; trouvé : C 69,68, H 9,01, N 6,40, 0 7,47, S 7,61.</p>
+				</div>
+				<div type="section">
+					<head>Réactivité des tosylhydrazones la (E) et là. vis-à-vis d'agents électrophiles</head>
+					<p>Le mode opératoire général est le suivant : à une solution de tosylhydrazone la ou 1 d (6,84 mmol) dans le tétrahydrofuranne (30 mL) est ajoutée, à —78°C et goutte à goutte, une solution de n-butyllithium dans l'hexane (17,1 mmol). L'agitation est poursuivie pendant 20 min avant d'introduire goutte à goutte l'agent électrophile (10,26 mmol) en solution dans 5 mL de tétrahydrofuranne. A la fin de l'addition le milieu réactionnel est agité pendant 15 min à —78°C, puis 30min à température ambiante. Après hydrolyse par NH 4 C1 (50 mL), extraction par l'éther éthylique, lavage à l'eau et par une solution saturée en NaCl, puis évaporation du solvant, on obtient une huile éluée sur colonne de gel de silice par le mélange éther éthylique -hexane</p>
+					<p>(1:1). (a) Action du sulfure de diphényle sur la (E) Après recristallisation dans l'éthanol, on isole 0,87 g de tosylhydrazone de (phénylthio-l'(3') isopropylidène)-2 cyclopentanone-1 3a; pf 188-189°C; R f 0,44 (éther éthylique -hexane, 1:1); v max (KBr) : 3200 (NH), 1650 (C=C), 1600 (aromatique), 1340 et 1170 (S0 2 N) cm" 1 . Anal. calc. pour C 2 ,H 24 N 2 0 2 S 2 : C 62,98, H 6,04, 6,99, O 7,99, S 15,98; trouvé : C 63,27, H 5,89, N 6,85, O 8,53, S 15,69.</p>
+					<p>(b) Action du chloroformiate de méthyle sur la (E) Après recristallisation dans l'éthanol, on obtient successivement : 0,50 g de la tosylhydrazone de l'isopropényl-2 méthoxycarbonyl-2 cyclopentanone-1 2a; pf 124°C; Rf 0,52 (éther éthylique -hexane, 3:2); v max (KBr) : 3200 (NH), 1725 (C0 2 CH 3 ), 1640 (C=C), 1600 (aromatique), 1340 et 1170 (S0 2 N) cm" 1 ; rmn (CDC1 3 ) 8 : 7,82et 7,29 (2d, 4H, —C6H 4 —), 4,93 et 4,64 (2s, 2H, —C=CH 2 ), 3,63 (s, 3H, —C0 2 CH 3 ), 2,41 (s, 3H, — C 6 H 4 — CH 3 ), 2,31 (ddd, 1H, J 3a3b = 12,98, J 3a4a = 6,24 et J 3a4b = 9,83 Hz, H3a), 2,22 (dd, 2H, J 4a5 = 6,11 etJ 4b5 = 8,81 Hz, (CH-,)-5), 2,04 (ddd, 1H, 7 3a3b = 12,98, J 3b4a = 6,08, J 3b4b = 4,24 Hz, H3b), 1,80 (m, 1H, J 4a5 = 6,11, J 4a4b = 12,15, J 3a4a = 6,24 et 7 3b4a = 6,08 Hz, H4a), 1,73 (s, 3H, H 3 C—C=C), 1,69 (m, 1H, J 4b5 = 8,81, J 4a4b = 12,15, J 3a4b = 9,83 et J 3b4b = 4,24 Hz, H4b). Anal. calc. pourC, 7 H 22 N 2 0 4 S : C 58,28, H 6,33, N 7,99, O 18,26, S 9,13; trouvé : C 58,13, H 6,24, N 8,24, O 18,11, S 9,02; et 0,24g de la tosylhydrazone de (méthoxycarbonyll&amp;apos ;(3') isopropylidène)-2 cyclopentanone-1 3b; pf (dec.) 90°C; R { 0,36 (éther éthylique -hexane, 3:2); v max (KBr) : 3200 (NH), 1722 (C0 2 CH 3 ), 1655 (C=C), 1600 (aromatique), 1340 et 1170 (S0 2 N) cm~ l .Anal. calc. pour C 17 H 22 N 2 0 4 S: C 58,28, H 6,33, N 7,99, O 18,26, S 9,13; trouvé : C 58,46, H 6,28, N 7,96, O 17,92, S 9,05.</p>
+					<p>(c) Action de l'iodo-1 méthoxy-2 éthane sur là Après recristallisation dans le cyclohexane, on recueille 1,03 g de la tosylhydrazone de la cyclopentényl-2 (méthoxy-2 éthyl)-2 cyclo-pentanone-1 2e; pf 127°C; Rf 0,23 (éther éthylique -hexane, 2:1); v max (KBr): 3180 (NH), 1662 (C=C), 1600 (aromatique), 1360 et 1160 (S0 2 N), 1120 (OCH 3   ) cm" 1 ; rmn (CDC1 3 ) 8: 7,86 et 7,25 (2d, 4H, —C6H 4 —), 5,10 (m, 1H, —C=CH—), 3,30 (m, 2H, —C7/ 2 OCH 3 ), 3,23 (s, 3H, —OCH 3 ), 2,41 (s, 3H, — C 6 H 4 —C// 3 ), 2,00-1,60 (M, 14H, méthylènes cycliques et — C7/ 2 CH 2 OCH 3 ). Anal. calc. pour C 20 H 28 N 2 O 3 S : C 63,80, H 7,45, N 7,45, S 8,50; trouvé : C 64,17, H 7,52, N 7,38, S 8,33.</p>
+				</div>
+				<div type="section">
+					<head>Réactivité des trisylhydrazones</head>
+					<p>1 b, le et le vis-à-vis d'agents électrophiles Le mode opératoire général est le suivant : à une solution de trisylhydrazone (4,65 mmol) dans le tétrahydrofuranne (20 mL) à —78°C est ajoutée, goutte à goutte, une solution de sec-butyllithium dans le cyclohexane (11,62 mmol). Après agitation à —78°C pendant 1,5 h on ajoute lentement, et à cette même température, l'agent électrophile (7 mmol) en solution dans le tétrahydrofuranne (5 mL). On maintient le milieu réactionnel sous agitation pendant 7 h à —78°C. On réalise l'hydrolyse à l'aide d'une solution saturée de NH 4 C1, l'extraction par l'éther éthylique, puis on lave à l'eau et à l'aide d'une solution saturée de NaCl et l'on évapore les solvants organiques.</p>
+					<p>(a) Action du sulfure de diphényle sur 1 b L'huile obtenue est éluée sur gel de silice, sous pression moyenne, par le mélange éther éthylique -hexane ( 1:2,5). Après recristallisation dans l'éthanol, on obtient 1,45 g de trisylhydrazone de (phénylthiol&amp;apos ;(3') isopropylidène)-2cyclopentanone-1 3C; pf 120°C;I? f 0,55 (éther éthylique -hexane, 1:1); v max (KBr) : 3250 (NH), 1650 (C=C), 1600 et 1565 (aromatique), 1330 (S0 2 N), 1165 et 1155</p>
+					<p>(b) Action du sulfure de diméthyle sur lb Après chromatographie sur gel de silice (éluant : éther éthylique hexane , 1:2,5), on recueille, après recristallisation dans l'éthanol, 1,15 g de trisylhydrazone de l'isopropényl-2 méthylthio-2 cyclo-pentanone-1 2b; pf 140-141°C; R f 0,63 (éther éthylique -hexane, 1:1); v max (KBr) : 3240 (NH), 1640 (C=C), 1600 et 1560 (aromatique) , 1330 (S0 2 N), 1165 et 1150 (, S 14,20; trouvé : C 63,90, H 8,69, N 6,09, O 7,27, S 14,20; et 0,062 g de trisylhydrazone de (méthylthiol&amp;apos ;(3') isopropylidène)-2cyclopentanone-1 3d; pf 160°C; R f 0,59 (éther éthylique -hexane, 1:1); v max (KBr) : 3250 (NH), 1650 (C=C), 1600 et 1565 (aromatique), 1335 (S0 2 N), 1165 et 1150 (S0 2 N) cm" 1 ; rmn 13 C (CDC1 3 ) 8: 160,3 et 160,2 (C-l), 153,9 et 153,8 puis 151,9 et 151,8 (2C, quaternaires aromatiques), 135,2 et 134,7 (C quaternaires aromatiques), 133,1 et 133,0 puis 131,9 et 131,8 (C-2et C-2'), 41,2 et 35,6(—CH 2 SCH 3 ) ppm. Anal. calc. pourC 24 H 38 N 2 0 2 S, : C63,97, H 8,50, O 7,10, S 14,20; trouvé : C 63,90, H 8,69, O 7,27, S 14,20.</p>
+					<p>(c) Action de l'iodure de méthyle sur 2b L'huile obtenue traitée par le pentane abandonne 1,13 g de trisylhydrazone de l'isopropényl-2 méthyl-2 cyclopentanone-1 2c recristallisée dans l'éthanol; pf 137°C; Rf 0,65 (éther éthylique -hexane, 1:1); v max (KBr) : 3240 (NH), 1635 (C=C), 1600 et 1560 (aromatique), 1330 (S0 2 N), 1170 et 1155 () Action du propionaldéhyde sur lb Après élution sur gel de silice, sous pression moyenne, par le mélange éther éthylique -hexane (1:1) et recristallisation dans l'éthanol, on isole 1,03 g de trisylhydrazone de 1 '(hydroxy-1 propyl)-2 isopropényl-2 cyclopentanone-1 2d; pf 150°C; R f 0,33 (éther éthylique -hexane, 1:1); v max (KBr) : 3460 (OH), 3260 (NH), 1630 (C=C), 1600 et 1565 (aromatique), 1340 (S0 2 N), 1170 et 1155 (S0 2 N), 1110 ()-4 et (—CHOHC// 2 CH 3 )), 1,60 (s, 3H, H 3 C—C=C), 1,30 (d élargi, 18H, J = 6,80 Hz, —CH(C// 3 ) 2 ), 0,83 (t, 3H, J = 7,32 Hz, —CH 2 CH 3 ). Anal. calc. pour C 26 H 42 N 2 0 3 S : C 67,50, H 9,15, N 6,05, O 10,37, S 6,92; trouvé : C 67,59, H 9,22, N 6,00, O 10,51, S 7,20.</p>
+					<p>(e) Action du sulfure de diphényle sur le Après chromatographie sur gel de silice sous pression moyenne (éluant: éther éthylique -hexane, 1:5) et recristallisation dans l'éthanol, on recueille 1,27 g de trisylhydrazone de méthyl-5 (phénylthio-l&amp;apos ;(3') isopropylidène)-2 cyclopentanone-1 3e; pf (dec.) 50°C; Rf 0,61 (éther éthylique -hexane, 1:1); v max (KBr) : 3200 (&gt;NH), 1650 (C=C), 1600 et 1570 (aromatique), 1330 (S0 2 N), 1160 et 1150 (S0 2 N) cm" 1 . Anal. calc. pour C 30 H 42 N 2 O 2 S 2 : C 68,42, H 8,04, S 12,15; trouvé : C 68,26, H 7,94, S 12,47.</p>
+					<p>(f) Action du sulfure de diphényle sur le Après élution sur gel de silice, sous pression moyenne, par le mélange éther éthylique -hexane (1:5) et recristallisation dans l'éthanol, on recueille 1,78 g de trisylhydrazone de (phénylthio-l'(3') cyclopentylidène)-2 cyclopentanone-1 3/; pf 140°C; Rf 0,55 (éther éthylique -hexane, 1:1); v max (KBr) : 3240 (NH), 1650 (C=C), 1600 et 1570 (aromatique), 1330 (S0 2 N), 1165 et 1150 (S0 2 N) cm" 1 . Anal. calc. pour C 3] H 42 N 2 0 2 S 2 : C 69,12, H 7,86, O 5, 94, S 11,88; trouvé : C 69,01, H 7,94, 0 5,75, S 12,11.</p>
+					<p>(g) Action du sulfure de diméthyle sur le L'huile obtenue abandonne dans le pentane 1,20 g de trisylhydrazone de la cyclopentényl-2 méthylthio-2 cyclopentanone-1 2/, recristallisée dans l'éthanol; pf 163°C; Rf 0,65 (éther éthylique -hexane, 1:1); v max (KBr) : 3240 (NH), 1640 (C=C), 1600 et 1570 (aromatique), 1330 (S0 2 N), 1170et 1150 (S0 2 N) cm" 1 ; rmn (CDC1 3 ) 8 : 7,13 (s, 2H, aromatiques), 5,62 (m, 1H, —CH=C—), 4,20 (h, 2H, J = 6,80 Hz, o-CH(CH 3 ) 2 ), 2,88 (h, 1H, J = 6,80 Hz, p-CH{CH 3 ) 2 ), 2, 40-1,50 (M, 12H, méthylènes cycliques), 1,37 (s, 3H, —SCH 3 ), 1,30 (d élargi, 18H, J = 6,80 Hz, —HC(CH 3 ) 2 ). Anal. calc. pour Q-eH^OzS;, : C 65,52, H 8,46, N 5,88, S 13,43; trouvé : C 65,44, H 8,52, N 5,87, S 13,07.</p>
+					<p>(h) Action de l'iodo-1 méthoxy-2 éthane sur le L'huile obtenue traitée par le pentane abandonne 1,50 g de trisylhydrazone de la cyclopentényl-2 (méthoxy-2 éthyl)-2 cyclopentanone-1 2g, recristallisée dans l'éthanol; pf 144°C; Rf 0,48 (éther éthylique hexane , 1:1); v max (KBr) : 3240 (NH), 1650 (C=C), 1600 et 1570 (aromatique), 1330 (S0 2 N), 1165 et 1155 (S0 2 N), 1114 (OCH 3 ) cm -1 ; rmn (CDC1 3 ) 8: 7,13 (s, 2H, aromatiques), 5,11 (m, 1H, —C=CH—), 4,18 (h, 2H, J = 6,80 Hz, o-CH(CH 3 ) 2 ), 3,16 (m, 2H, —C// 2 OCH 3 ), 3,14 (s, 3H, —OCH 3 ), 2,88 (h, 1H, J = 6,80 Hz, p-CH(CH 3 ) 2 ), 2, 30-1,50 (M, 14H, méthylènes cycliques et —C// 2 CH 2 OCH 3 ), 1,30 (d élargi, 18H, J = 6,80 Hz, —CH(CH 3 ) 2 ). Anal. calc. pour C^H^N^S : C 68,82, H 9,07, N 5,73, O 9,82, S 6,55; trouvé : C 68,81, H 9,32, N 5,73, O 9,97, S 6,69. Trisylhydrazone de 1' isopropényl-2 méthyl-5 méthylthio-2 cyclopen-tanone-1 6</p>
+					<p>Selon le mode opératoire décrit pour préparer 2c, on obtient, à partir de 2,1 g (4,65 mmol) de 2b et 1,0 g d'iodure de méthyle, une huile éluée sur gel de silice, sous pression moyenne, par le mélange éther éthylique -hexane (1:5). Après recristallisation dans l'éthanol, on obtient 0,86 g (40%) d'un solide jaune pâle; pf 145°C; R f 0,66 (éther éthylique -hexane, 1: 1 ); v max (KBr) : 3172 (NH), 1635 (C=C), 1600 et 1560 (aromatique), 1380 (S0 2 N), 1160 et 1154 ( S0 2 N) cm -1 ; rmn (CDC1 3 ) 8 : 7,13 (s, 2H, aromatiques), 5,07 et 4,83 (2s, —C=CH 2 ), 4,15 (h, 2H, J = 6,80 Hz, o-C//(CH 3 ) 2 ), 2,88 (h, 1H, J = 6,80 Hz, p-CH(CH 3 ) 2 ), 2,20-1,60 (M, 5H, protons cyclopentaniques), 1,66 (s, 3H, H 3 C—C=C), 1,34 (s, 3H, —SCH 3 ), 1,30 (d élargi, 18H, J = 6,80 Hz, —CH(C// 3 ) 2 , 1,29 et 1,14 (2d, 7 5 . C h 3 = 8</p>
+				</div>
+				<div type="section">
+					<head>Méthode générale de synthèse des aldéhydes 4b, 4c et</head>
+					<p>7 À une solution de trisylhydrazone (lOmmol) dans le tétrahydrofuranne (20 mL) est ajoutée, à -78°C et goutte à goutte, une solution de iec-butyllithium dans le cyclohexane (35 mmolj. A la fin de l'addition, le milieu réactionnel est agité pendant 1 h à -78°C, puis 1 h à 0°C. On ajoute alors le diméthylformamide (3,1 mL, 40 mmol) en solution dans le tétrahydrofuranne (5 mL). La solution obtenue est agitée à 0°C durant 1 h, hydrolysée par une solution saturée de NH 4 C1, puis extraite par l'éther éthylique. Les phases organiques sont lavées à l'eau et par une solution saturée en NaCl, puis évaporées. Après élution du résidu sur gel de silice (solvant : éther éthylique -hexane, 1:5), l'aldéhyde est isolé sous forme d'une huile jaune pâle.</p>
+					<p>(a) Isopropényl-2 cyclopentènecarbaldéhyde-1 4b À partir de 1 b, on obtient 0,48 g (35%) de 4b; R f 0,57 (éther éthylique -hexane, 1:4); v max (film) : 1661 (CHO), 1607 (C=C) cm" 1 ; rmn (CDC1 3 ) 8: 9,92 (s, 1H, —CHO), 5,20 et 5,08 (2s, 2H, —C=CH 2 ), 2,72 (tt, 2H, J34 ou 54 = 7,60 et J 35 = 2,00 Hz, (CH 2 )-3 ou -5), 2,63 (tt, 2H, 7 5 4ou34 = 7,60 et J 35 = 2,00 Hz, (CH 2 )-5 ou -3), 1,96 (s, 3H, CH 3 —C=C), 1,90 (q, 2H, J 43 et J 45 = 7,60 Hz, (CH 2 )-4). Anal. calc. pour C 9 Hi 2 0 : C 79,37, H 8,88, O 11,75; trouvé : C 79,03, H 9,05, O 11,90.</p>
+					<p>(b) Isopropényl-2 méthyl-5 cyclopentènecarbaldéhyde-1 4c A partir de le, on obtient 0,55 g (37%) de l'aldéhyde 4c; R f 0,60 (éther éthylique -hexane, 1:4); v max (film) : 1662 (CHO), 1605 (C=C) cm" 1 ; rmn (CDC1 3 ) 8 : 9,88 (s, 1H, —CHO), 5,20 et 5,05 (2s, 2H, —C=CH 2 ), 3,14 (m, 1H, H-5), 2,75, 2,66, 2,09 et 1,51 (4m, 4H (CH 2 )-3 et (CH 2 )-4), 1,94 (s, 3H, H 3 C—C=C), 1,13 (d, 3H, J = 6,89Hz, —C—CH 3 ). Anal. calc. pour Ci 0 H 14 O : C 79,95, H 9,39, O 10,65; trouvé : C 80,20, H 9,01, O 11,12.</p>
+					<p>(c) lsopropényl-3 méthyl-1 méthylthio-3 cyclopentènecarbaldéhyde-2 7 À partir de 6, on obtient 0,74 g (38%) de l'aldéhyde 7; R ( 0,33 (éther éthylique -hexane, 1:7); v max (film) : 1678 (CHO), 1615 (C=C) cm 4 ; rmn (CDC1 3 ) 8: 9,76 (s, 1H, —CHO), 4,99 (m, 2H, —C=CH 2 ), 2,51-2,44 (M, 2H, (CH 2 )-5), 2,23 (t, 3H, J 5C H = 1,10Hz, H 3 C—C=C—CHO), 2,20 (m, 2H, (CH 2 )-4), 1,96 (s, 3H, —SCH 3 ), 1,83 (dd, y ra . C H 3 = 1,28 et J Vb . CU} = 0,55 Hz, H 3 C—C=C). Anal. calc. pourC,,H16OS:C67,32,H8,22,08,15,S16,31;trouvé:C67,29,H8,15,08,40,S16,01.</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+									<surname>Shapiro</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. React</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">405</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+									<surname>Chamberlin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">T</forename>
+									<surname>Bond</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="pp">147</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G M</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">1071</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Mimura</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">531</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G M</forename>
+									<surname>Barrett</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">2848</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">A</forename>
+									<surname>Paquette</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">E</forename>
+									<surname>Fristad</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">R</forename>
+									<surname>Bailey</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="pp">3017</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">/</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Dipietro</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">1315</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Baudouy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Choplin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">3293</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Isoe</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">66</biblScope>
+								<biblScope type="pp">755</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Caille</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Bellamy</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Guilard</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="issue">0</biblScope>
+								<biblScope type="pp">2345</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">F. Liptonetr. H. Shapiro</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="pp">1409</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">J</forename>
+									<surname>Cusack</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">B</forename>
+									<surname>Reese</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic/>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">2157</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">G</forename>
+									<surname>Dauben</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">E</forename>
+									<surname>Lorber</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">D</forename>
+									<surname>Vietmeyer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+									<surname>Shapiro</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Tomer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">90</biblScope>
+								<biblScope type="pp">4762</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">G</forename>
+									<surname>Dauben</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">T</forename>
+									<surname>Zimmerman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">3414</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Guilard</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">2771</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+									<surname>Traas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">J</forename>
+									<surname>Takken</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">2287</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">H</forename>
+									<surname>Jones</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M</forename>
+									<surname>Fales</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">1701</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Matsumoto</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">391</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<monogr>
+							<title level="m" type="main">Dans The total synthesis of natural products</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">F</forename>
+									<surname>Thomas</surname>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<editor>Éditeur : J. ApSimon. Wiley -Interscience</editor>
+							<imprint>
+								<date type="published" when="1973"/>
+								<biblScope type="pp">62</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Fuchs</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="pp">456</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">T</forename>
+									<surname>Bond</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Fuchs</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">5184</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Sandré</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">744</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Borrel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">301</biblScope>
+								<date type="published" when="1930"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">T</forename>
+									<surname>Sharp</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">B</forename>
+									<surname>Thorogood</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">102</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

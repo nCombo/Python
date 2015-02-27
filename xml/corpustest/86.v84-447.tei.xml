@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Etude structurale et thermodynamique des interactions entre des dérivés chlorés et bromés du méthane et des amides tertiaires</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<forename type="middle">M</forename>
+								<surname>Dumas</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physicochimie des diélectriques</orgName>
+								<orgName type="institution">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86002</postCode>
+									<settlement>Poitiers Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<surname>Geron</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physicochimie des diélectriques</orgName>
+								<orgName type="institution">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86002</postCode>
+									<settlement>Poitiers Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">A</forename>
+								<forename type="middle">R</forename>
+								<surname>Kribii</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physicochimie des diélectriques</orgName>
+								<orgName type="institution">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86002</postCode>
+									<settlement>Poitiers Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Lakraimi</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Physicochimie des diélectriques</orgName>
+								<orgName type="institution">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86002</postCode>
+									<settlement>Poitiers Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Etude structurale et thermodynamique des interactions entre des dérivés chlorés et bromés du méthane et des amides tertiaires</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<biblScope type="fpage">2634</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Une étude par polarisation diélectrique, microcalorimétrie et spectrométrie infrarouge a permis de mettre en évidence le rôle joué par l'halogène dans les interactions entre une série de dérivés chlorés et bromés du méthane, pris comme représentants d'anesthésiques halogénés et deux amides tertiaires prises comme modèle de constituant de la membrane des cellules nerveuses. Cette étude a eu lieu en solution diluée dans un solvant organique inerte, le cyclohexane. Les interactions sont de type liaison hydrogène et/ou liaison halogène.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>A study by dielectric polarization, microcalorimetry, and infrared spectrometry has allowed us to demonstrate the role played by the halogen in interactions between a series of chlorinated and brominated derivatives of methane (considered as types of halogenated anesthetics) and two tertiary amides taken as models for an element of the membranes of the nervous cells. The inert organic solvent used was cyclohexane. The interactions are of the hydrogen bonding and (or) halogen bonding types.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>L'activité biologique et, en particulier, les propriétés anesthésiques des dérivés halogénés ont retenu notre attention. Le mécanisme de l'anesthésie générale semble pouvoir être lié à des phénomènes d'interactions entre les anesthésiques volatils et différents sites d'action au sein de la membrane des cellules nerveuses (1-3). Aussi, les résultats des études sur la recherche des interactions entre les dérivés halogénés et des molécules simples prises pour modèle d'un site d'action possible, paraissent donc importants.</p>
+				<p>Des études effectuées par Sandorfy et coll. (4-8) ont montré que les dérivés halogénés peuvent entraver la formation de liaison hydrogène. D'autre part, les résultats des recherches menées dans notre laboratoire (9) ont permis de signaler l'existence très générale d'interactions moléculaires de type liaison hydrogène et/ou liaison halogène entre des bases organiques et des dérivés halogénés et d'étudier l'évolution de ces interactions en fonction de l'halogène. Notre contribution à une meilleure connaissance de ces interactions repose sur une étude structurale et thermodynamique de systèmes formés par des dérivés halogénés du méthane (essentiellement chlorés et bromés ) et par des amides tertiaires (/V,/V-diméthylacétamide et N-méthylpyrrolidone) utilisées comme modèle de constituant de la membrane et choisies pour leur caractère polaire (une part importante de notre étude s'appuyant sur la polarisation diélectrique ).</p>
+				<p>Pour cette étude nous avons suivi une démarche méthodologique rigoureuse qui s'appuie sur une sélection de techniques physicochimiques: (i) la polarisation diélectrique qui permet de conduire simultanément à la stabilité (constante d'équilibre ) et à des informations sur la structure des complexes formés. Tous les systèmes ont été étudiés par cette technique; (ii) la microcalorimétrie qui procure des valeurs d'enthalpie accompagnant les interactions étudiées et permet de comparer ces valeurs à celles habituellement mises en jeu dans le cas d'interactions non spécifiques (de l'ordre de 2 à 5 kJ mol -1 ). Seuls quelques systèmes sont concernés; (iii) la spectrométrie d'absorption infrarouge qui, par l'intermédiaire d'une étude à basse température, apporte des compléments d'information sur la structure des complexes. Cette étude est très partielle.</p>
+			</div>
+			<div type="section">
+				<head>Techniques et méthodes utilisées</head>
+				<p>En polarisation diélectrique Nous avons adopté la méthode de Cleverdon et al. (10) qui, dans le cadre de la théorie de Debye, permet d'accéder simultanément à la constante d'association A" ab , à l'incrément de polarisation AP et au moment dipolaire global |x AB , liés à la formation du complexe AB. Cette méthode consiste à déterminer la polarisation molaire du soluté A extrapolée à dilution infinie au sein d'un solvant inerte S (le cyclohexane) et dans une série de solvants mixtes BS. La relation fondamentale sur laquelle repose la détermination de la polarisation molaire du complexe AB de stoechiométrie 1:1 est</p>
+				<p><formula>1 1 M B V, B ' BS + 1 P' ajus -(PA^/bsLI. KabAP wï AP</formula></p>
+				<p>où A" A B: constante de formation du complexe AB; V BS : volume massique de la solution BS; M B : masse molaire du soluté B; VF B : fraction massique du soluté B dans le solvant S; A P: incrément de polarisation lié à la formation du complexe AB tel que A P + P A/ s + P B /s = Pab/s, Pajbspolarisation molaire apparente, à dilution infinie, de A dans BS. L'expression précédente tient compte de l'effet normal de solvant lorsque le soluté A en solution dans un solvant inerte S, se trouve en solution dans un solvant mixte BS.</p>
+				<p>(P Ai /Bs)cai. représente la polarisation molaire, à dilution infinie , de A dans un solvant inerte fictif de même permittivité que BS. Elle est calculée à partir de l'expression suivante:</p>
+				<p><formula>(^Ax/Bs)cal. — e BS — 1 : 1 + —e x e B s+ 2 4s 2 n A j PaJ s + 2 Ma 1 PA 1 + e s + 2 e' - 2 «S 2 «A + 2 «A' nl+ 2</formula></p>
+				<p>MA PAP A js'-polarisation molaire à dilution infinie du soluté A dans un solvant S; n A , n BS : indices de réfraction respectifs du soluté A et du solvant mixte BS; M A : masse molaire du soluté A; p A : masse volumique du soluté A; e s , e BS : constantes diélectriques respectives du solvant S et du solvant mixte BS; e*~: caractéristique du soluté A; x 2 2 2 _ c ~ a si a&gt; b &gt; c;x 2 = c — a b 2 si b &gt; a &gt; c; x 2 c — a~ si b &gt; c &gt; a\ a, b, c: dimensions de la molécule de soluté A; a: dimension suivant la direction du moment dipolaire; b, c: dimensions suivant les directions perpendiculaires à celle du moment.</p>
+				<p>Il a été vérifié par l'étude de systèmes témoins: dérivés halogénés (tétrahalogénés (18), trihalogénés (15)), chlorocyclohexane , cyclohexane, que la méthode utilisée corrige de toutes les interactions type van der Waals. Le graphe</p>
+				<p><formula>1 ^(A X /BS) (A«/BS)cal.</formula></p>
+				<p>conduit alors aux valeurs de K AB et du A P (11).</p>
+				<p>Les mesures diélectriques ont été effectuées à l'aide d'un dipolemètre de type DMOl '"Wissenshaftlich-Technische Werkstatten" équipé soit d'une cellule DFL1 (capacité 20 cm 3 ) soit d'une cellule DFL2 (capacité 8 cm 3 ) thermorégularisées. Les masses volumiques des corps purs et des solutions ont été mesurées à l'aide d'un densimètre digital AP.PAAR.DMA45 thermorégularisé.</p>
+				<p>En microcalorimétrie</p>
+				<p>Nous avons utilisé la relation de Lamberts et Zeegers-Huyskens (12) qui fournit simultanément les valeurs des constantes d'équilibre et les variations d'enthalpie au cours de la formation des complexes. Nous nous sommes placés dans les conditions expérimentales proches de celles préconisées par Deranleau (13) qui permettent de mesurer des valeurs de constantes d'association très faibles (&lt;1 L mol -1 ).</p>
+				<p><formula>A H = 2Qc Cl + Cl + k a c° + cl + k a 4C°C°</formula></p>
+				<p>où V: volume total de la solution; C A , C^: concentrations initiales en A et B en mol L" 1 ; Q c : chaleur de complexation obtenue à partir des chaleurs de dilution de A (dont la concentration C A est fixe dans le solvant mixte BS à plusieurs concentrations CB) corrigées de la chaleur de dilution de A dans le solvant S et de celle de S dans le solvant mixte BS pour les concentrations C B précédemment utilisées. Les graphes A H = /(C B ) établis pour diverses valeurs de K AE permettent de trouver la valeur de £ AB liée à une valeur de A H constante. Le calorimètre utilisé est un calorimètre CRMT (SETA-RAM), avec une cellule de 80 cm 3 , couplé à un intégrateur.</p>
+				<p>En spectrométrie infrarouge</p>
+				<p>Nous avons étudié la bande d'absorption caractéristique du vibrateur C=0 des amides tertiaires (nombre d'onde de vibration de l'ordre de 1680 cm" 1 ) à basse température, sur un spectrophotomètre Perkin Elmer 621. Le principe a été décrit par Asselin et Sandorfy (14). L'intervalle de température était compris entre 30°C et -80°C. Le solvant utilisé était le méthylcyclohexane afin de pouvoir atteindre les basses températures souhaitées.</p>
+				<p>Purification des produits</p>
+				<p>Le cyclohexane, produit de très grande pureté pour spectroscopie , a été utilisé sans traitement préalable. Tous les autres produits ont été distillés sous pression réduite d'azote et à l'abri de la lumière, puis conservés sur tamis moléculaire. Le trichlorométhane a été lavé avec un mélange de H 2 S0 4 + H 2 0 et séché sur MgS0 4 préalablement à la distillation. Le tétrabromométhane a été sublimé sous vide.</p>
+			</div>
+			<div type="section">
+				<head>Résultats et interprétation</head>
+				<p>D'une façon générale, les valeurs de A P, A H et K AE déterminées dans l'hypothèse d'un complexe 1:1 (cf. tableau 1) pour les systèmes étudiés, mettent en évidence l'existence d'interactions spécifiques entre les deux amides et les dérivés halogénés . Les composés tétrahalogénés en particulier donneraient lieu à des interactions de type liaison halogène. L'étude des systèmes témoins dérivés halogénés (tétrahalogénés (18), trihalogénés (15)), chlorocyclohexane, cyclohexane a montré que toutes les interactions type liaison de van der Waals étaient corrigées.</p>
+				<div type="section" n="I">
+					<head>Informations structurales sur le type de complexe formé</head>
+					<div type="section" n="I.1">
+						<head>Par polarisation diélectrique</head>
+						<p>En nous appuyant sur des travaux déjà publiés (15, 16) nous avons suivi dans les complexes formés de A et B l'évolution de l'incrément de moment dipolaire |A|x| (noté par la suite A|ji) défini vectoriellement comme (jî^ B = Afx + (|T A + |T B ).</p>
+						<p>La <ref type="figure">figure 1</ref>relative à un complexe formé entre la N,N-diméthylacétamide , et un trihalogénométhane, illustre le fait que: (Z) la direction de A|JI est celle de la liaison intermoléculaire; (ii) son sens correspond aux exigences du modèle (c'est-à-dire que le déplacement des charges positives doit avoir lieu du site accepteurs d'électrons vers le site donneur: il est vraisemblablement positif dans tous les cas considérés). L'ordre de grandeur de A|JI doit être comparable à celui trouvé pour des complexes présentant des liaisons intermoléculaires semblables et pour lesquels la structure est bien établie. Dans le cas d'un complexe de type liaison hydrogène, nous avons retenu comme valeur probable de référence (A|JIRÉF), celle qui concerne les complexes formés par le pyrrole et les cétones (17): 0,1 D pour une interaction avec les électrons -tt, 0,6 D pour une interaction avec les électrons n. Dans le cas d'un complexe de type liaison halogène, la valeur de Aix^ pour les dérivés chlorés a été calculée à partir des systèmes étudiés ici et mettant en jeu le tétrachlorométhane (A^f voisin de 0,5 D). Les mélanges de tétrabromométhane et d'amides tertiaires menant à la formation de combinaisons solides insolubles dans le cyclohexane, il est impossible d'accéder à une valeur sûre de A(jL rif pour les dérivés bromés. Des études faites sur les interactions entre les dérivés tétrahalogénés du méthane (18) et diverses bases organiques ont montré que A|JI(CBr 4) &gt; A|JI(CC14), on peut donc estimer, dans le cas d'une interaction par liaison halogène dont l'atome de brome est responsable, une valeur de supérieure à celle calculée précédemment pour CC1 4 .</p>
+						<p>Compte tenu de nos résultats expérimentaux, nous avons éliminé tous les modèles fournissant des valeurs de A(ji trop éloignées des valeurs de référence. Nous ne présentons que les résultats afférant au modèle que nous avons considéré comme le plus probable car permettant de calculer des valeurs de A|JI les plus rapprochées des valeurs de référence.</p>
+						<p>Pour le système /V,/V-diméthylacétamide (B), trihalogénométhane (A), le modèle le plus probable est schématisé <ref type="figure">fig. 1</ref>. La liaison intermoléculaire se fait suivant l'axe de l'orbitale occupée par une paire d'électrons n qui est du côté du groupement CH 3 . Le modèle retenu correspond, dans le cas d'une libre rotation autour de l'axe, au cas particulier où les dipôles s'orientent de manière à ce que l'énergie électrostatique du système soit minimisée. Sur la figure 1, il est indiqué le sens des moments de A et de B. La direction du moment de la /V,/V-diméthylacétamide est celle donnée par Nasyrov et al. (19).</p>
+						<p>Les valeurs de Ap, calculées pour ce modèle (cf. tableau 2) sont comparées aux valeurs de A(x réf retenues et précisées cidessus . La comparaison de ces valeurs mène aux remarques suivantes: dans le cas de CHC1 3 il est vraisemblable que la liaison soit de type hydrogène, dans celui de CHBr 3 une liaison halogène rendrait compte de nos résultats expérimentaux, dans ceux de CH 2 C1 2 et CH 2 Br 2 il faudrait envisager une compétition entre les deux modes de liaison intermoléculaire.</p>
+						<p>En conclusion, pour le modèle structural retenu (le seul pouvant mener à des valeurs d'incrément de moment dipolaire susceptibles de rendre compte de nos résultats expérimentaux) seul le dérivé chloré CHC1 3 présente des résultats compatibles avec l'hypothèse d'une liaison hydrogène, et seul le dérivé bromé CHBr 3 présente des résultats compatibles avec l'hypothèse d'une liaison halogène. Compte tenu des grandes incertitudes rattachées aux valeurs de A| JL et de l'interprétation donnée aux résultats obtenus sur des systèmes voisins (9, 15, 16), il nous paraît préférable d'émettre, pour tous les cas envisagés ici, l'hypothèse d'une compétition entre les deux modes d'interaction: l'interaction par liaison hydrogène étant prépondérante lorsque l'halogène est le chlore, l'interaction par liaison halogène devenant prépondérante lorsque l'halogène est le brome. Les électrons n de l'amide seraient les seuls concernés dans cette interaction.</p>
+					</div>
+					<div type="section" n="I.2">
+						<head>Par spectrométrie infrarouge</head>
+						<p>La région spectrale comprise entre 1630 et 1680 cm" 1 , dans laquelle se trouve la bande caractéristique du vibrateur C=0 de la /V,/V-diméthylacétamide, a été explorée. Les spectres des mélanges /V,/V-diméthylacétamide (NNDMA) -dérivés halogénés (CHC1 3 , CHCl 2 Br, CC1 4 ), obtenus dans le solvant méthylcyclohexane pour différentes températures ou différentes concentrations en dérivé halogéné sont comparés au spectre de la NNDMA en solution dans ce même solvant (cf. <ref type="figure">fig. 2</ref>). Cette comparaison mène aux remarques suivantes. À 30°C et pour des concentrations pour les deux solutés (NNDMA et dérivé halogéné) peu différentes, c'est-à-dire dans des conditions expérimentales proches de celles des études en polarisation diélectrique et en microcalorimétrie, une bande aux environs de 1655 cm" 1 apparaît (cf. figs. 3-5). Suivant les résultats obtenus en polarisation diélectrique cette bande pourrait être attribuée à l'existence d'un seul type de complexe de stoechiométrie 1:1 dont la liaison intermoléculaire se ferait par l'intermédiaire des électrons n de la NNDMA.</p>
+						<p>À basse température ou à forte concentration en dérivé halogéné , c'est-à-dire loin des conditions expérimentales utilisées en polarisation diélectrique ou en microcalorimétrie, on note un déplacement de la bande du CO "libre" vers les faibles nombres d'onde. D'autre part la bande vers 1655 cm -1 se dédouble et une nouvelle bande vers 1640 cm" 1 apparaît pour les plus fortes concentrations en dérivés halogénés ou pour les plus basses températures (cf. <ref type="figure">fig. 6</ref>). Ces conditions expérimentales particulières favoriseraient la formation de complexes de stoechiométrie différente de 1:1 ou de complexes présentant différents types de configuration (par l'intermédiaire des électrons n et/ou -TT de la NNDMA). Ce fait est révélé à l'extrême dans le cas du composé CF 2 Br-CF 2 Br, qui a pu être étudié jusqu'à la température de -80°C (cf. <ref type="figure">fig. 7</ref>).</p>
+					</div>
+				</div>
+				<div type="section" n="II">
+					<head>Comparaison des valeurs de K et AH</head>
+					<p>Les résultats de l'analyse structurale précédente nous ont conduit à postuler, pour l'interaction décelée entre les amides tertiaires et les dérivés CH,X r étudiés, dans le domaine expérimental utilisé, l'existence de complexes de type 1:1 formés par liaison hydrogène (LH) et/ou liaison halogène (LX). Il est donc nécessaire, pour interpréter des résultats issus de techniques différentes, d'élucider la signification des grandeurs à interpréter.</p>
+					<p>Un développement des équations utilisées en polarisation diélectrique (pd) et en calorimétrie (cal) pour i complexes de type 1:1 en équilibre compétitif mène aux résultas suivants (15):</p>
+					<p>LX LX LH: interaction par liaison hydrogène; LX: interactic-n par liaison halogène.</p>
+					<p>Les résultats portés dans le tableau 1 montrent qu'il apparaît bien une similitude entre les valeurs des constantes d'équilibre issues de ces deux techniques confirmant ainsi que les corrections d'effets secondaires ont été correctement faites. Mais une comparaison des valeurs de K ou de A H s'avère difficile car elle nécessite la connaissance de ces grandeurs thermodynamiques pour chaque équilibre mis en jeu. On peut toutefois envisager cette comparaison dans les deux cas extrêmes c'est-à-dire dans l'hypothèse d'une interaction unique par liaison hydrogène ou par liaison halogène. Dans ce cas, lors du passage du dérivé chloré au dérivé bromé on peut prévoir une décroissance de K et de |A//| pour une interaction unique par liaison hydrogène et une croissance de K et de |A//| pour une interaction unique par liaison halogène (15).</p>
+					<p>Suivant nos résultats expérimentaux (cf. tableau 1), on constate que les valeurs des constantes d'équilibre, qui augmentent lorsque le numéro atomique de l'halogène augmente, ne permettent pas d'admettre l'existence d'un unique mode d'interaction par liaison hydrogène mais elles ne seraient pas incompatibles avec celle d'un unique mode d'interaction par liaison halogène. Ces constatations, dans les quelques cas expérimentaux étudiés, sont inversées pour les valeurs de | AH\. Les valeurs de A S n'ont pas été notées, car les domaines d'incertitude sont tels que ces valeurs n'ont pas de signification . Toutefois, les résultats de l'analyse structurale nous ont amené à faire intervenir l'existence compétitive de ces deux modes d'interaction. Dans ce cas, pour expliquer une quelconque variation des valeurs de A H il est nécessaire de connaître les valeurs respectives de K Lil , A// L H et K LX , AH LX (voir cidessus ). Par contre, un sens de variation des valeurs de K, représentant une somme de constantes (A" LH + A" LX ), peut être interprété suivant le sens de variation probable de chacune des constantes d'équilibre (18): une augmentation de K lorsque le numéro atomique de l'halogène croît indique que K LX croît plus vite que K w ne décroît.</p>
+				</div>
+			</div>
+			<div type="section" n="II">
+				<head>Conclusion</head>
+				<p>Une étude menée par trois techniques différentes (polarisation diélectrique, spectrométrie infrarouge, microcalorimétrie ) nous a permis de mettre en évidence l'existence d'interactions moléculaires faibles entre les dérivés halogénés du méthane et des amides tertiaires.</p>
+				<p>L'étude structurale par polarisation diélectrique, à partir de modèles structuraux caractéristiques faisant intervenir les électrons n et les électrons TT des amides tertiaires, a permis d'une part, de minimiser le rôle des électrons TT et maximaliser le rôle des électrons n, d'autre part, de préciser la nature de l'interaction . Les résultats plaident en faveur d'une compétition entre deux modes d'interaction (par liaison hydrogène et par l'intermédiaire d'un atome d'halogène ou liaison halogène), à l'exception de CHC1 3 et CHBr 3 , pour lesquels respectivement une liaison hydrogène seule et une liaison halogène seule pourrait suffire à expliquer les résultats expérimentaux.</p>
+				<p>L'étude vibrationnelle par spectrométrie infrarouge a montré que dans les conditions expérimentales sélectionnées pour les deux autres techniques (25°C; concentrations molaires de l'ordre de 0,05 M), les liaisons intermoléculaires (hydrogène ou halogène) donneraient lieu à un complexe de stoechiométrie 1:1, d'autres types de complexes n'apparaissant qu'à basse température. Les valeurs identiques des grandeurs thermodynamiques déterminées par polarisation diélectrique et microcalorimétrie, dans le domaine d'incertitude considéré, confirment la validité des corrections d'effets secondaires apportées dans chacune des méthodes adoptées. La stoechiométrie des complexes étant postulée 1:1, la variation de ces grandeurs thermodynamiques en fonction du numéro atomique de l'halogène au sein d'une même molécule est incompatible avec une interaction unique par liaison hydrogène et pourrait être interprétée par une interaction par liaison halogène seule. Ce résultat associé aux résultats de notre analyse structurale et à ceux obtenus par ailleurs (9, 15, 16) nous permettent en fait, d'émettre l'hypothèse de l'intervention compétitive de ces deux types d'interaction, l'une ou l'autre devenant plus ou moins prépondérante suivant le type d'halogène porté par le dérivé halogéné.</p>
+				<p>En conclusion, cette étude des interactions entre une série de composés organohalogénés pris pour représentants d'anesthésiques halogénés et deux amides tertiaires prises comme modèles d'un constituant de la membrane des cellules nerveuses , nous a permis de mettre en évidence, en particulier, le rôle joué par l'halogène dans ces interactions (liaison halogène ). Les systèmes simples utilisés dans cette étude sont, bien sûr, loin des systèmes biologiques mais nous proposons l'intervention de ce type d'interaction dans ces milieux plus complexes et sa prise en compte dans un classement des anesthésiques généraux (1-3) suivant le type d'interactions principales auquel ils peuvent participer.</p>
+			</div>
+			<div type="section" n="II">
+				<head>Remerciements</head>
+				<p>Les spectres infrarouge ont été réalisés par l'un d'entre nous dans le laboratoire du Professeur Sandorfy (Université de Montréal) que nous tenons ici, à remercier. Ce séjour à Montréal a été rendu possible grâce à un programme d'échange scientifique France-Québec.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Trudeau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Dumas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Dupuis</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. San-Dorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Dans Topics in current chemistry</title>
+							<imprint>
+								<publisher>Springer</publisher>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="fpage">91</biblScope>
+								<biblScope type="lpage">125</biblScope>
+								<date type="published" when="1980"/>
+								<publisher>Springer</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<title level="m" type="main">Dans Progress in anesthesiology Édité par B. R. Fink</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<publisher>Raven Press</publisher>
+								<biblScope type="fpage">353</biblScope>
+								<biblScope type="lpage">359</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. M. Dumas. Nouv. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="issue">349</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Med. Chem</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="issue">809</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">3612</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Sandorfy</forename>
+									<surname>Etc</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">1593</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">3211</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Trudeau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">C</forename>
+									<surname>Cole</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">1681</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<title level="m" type="main">Dans The chemistry of functional groups, supp. D, part 2</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Dumas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Guérin</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<biblScope type="fpage">985</biblScope>
+								<biblScope type="lpage">1020</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Cleverdon</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">4499</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Monteau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Huser</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Gomel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Res. (S)</title>
+							<imprint>
+								<biblScope type="vol">256</biblScope>
+								<biblScope type="pp">3217</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Lamberts</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T. Zeegers-Huyskens</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">j. Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">435</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">A</forename>
+									<surname>Deranleau</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">91</biblScope>
+								<biblScope type="pp">4044</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Asselin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">6130</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Gomel J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">75</biblScope>
+								<biblScope type="pp">241</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Gomel J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">411</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de Doctorat d'Etat</title>
+							<meeting>
+								<address>Poitiers, France</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Dumas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Géron</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Gomel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">720</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">N</forename>
+									<surname>Vereshchagin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Izv. Akad. Nauk SSSR, Ser. Khim</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">571</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

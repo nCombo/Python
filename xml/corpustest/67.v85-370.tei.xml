@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude cinétique de l'ouverture thermique de la liaison C—C d'aziridines et d'époxydes dipôles-1,3 potentiels: I. Méthode d'étude expérimentale</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Îcha</forename>
+								<surname>Derdour</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut de Chimie</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution">Université d'Oran</orgName>
+								<address>
+									<postCode>ONRS 75B/033</postCode>
+									<settlement>Es-Sénia</settlement>
+									<country key="DZ">Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Fernand</forename>
+								<surname>Texier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Institut de Chimie</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution">Université d'Oran</orgName>
+								<address>
+									<postCode>ONRS 75B/033</postCode>
+									<settlement>Es-Sénia</settlement>
+									<country key="DZ">Algérie</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude cinétique de l'ouverture thermique de la liaison C—C d'aziridines et d'époxydes dipôles-1,3 potentiels: I. Méthode d'étude expérimentale</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les cyanó-2 aziridines 1, les alcoxy carbonyl-2 aziridines 2, les aroyl-2 aziridines 3 et les dicyano-2,2 aryl-3 oxiranes 4 s'ouvrent thermiquement entre les deux carbones pour donner respectivement un ylure d'azométhine et un ylure de carbonyle. La réaction de ces ylures d'azométhine avec l'ACDM (acétylène dicarboxylate de méthyle) conduit à une pyrroline-3 qui évolue, selon les substituants, en pyrroline-2 ou en pyrrole. L'addition des ylures de carbonyle donne des dihydrofuranes. Le traiternêrit cinétique de l'addition de ces hétérocycles 1 à 4 à l'ACDM permet la détermination de la constante de vitesse d'ouverture de la liaison C—C (k,). La réaction est suivie à l'aide de l'ir dans le cas des aziridines 1 et de la hplc dans tous les autres cas. La constante expérimentale de vitesse (ta) est toujours d'ordre 1 par rapport à l'hétérocycle. Dans le cas des /V-cyclohexyl cyano-2 alkyl-3 aziridines et de la /V-cyclohexyl carbométhoxy-2 phényl-3 aziridine, ta dépend de la concen-tration en ACDM, ce qui implique que la cycloaddition de l'ylure d'azométhine et sa refermeture en aziridine ont des vitesses comparables. Dans les autres cas, ta est indépendante de la concentration en ACDM, ce qui correspond à une lente transformation de l'hétérocycle en dipôle-1,3 suivie d'une cycloaddition rapide, ta — k,.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The thermolysis of the 2-cyanoaziridines (1), 2-alkoxycarbonylaziridines (2), 2-arylaziridines (3), and 2,2-dicyano-3-aryloxiranes (4) leads to a rupture of the carbon-carbon bond yielding an azomethine ylide and the ylide of a carbonyl. The reaction of these ylides of azomethine with methyl acetylene dicarboxylate (MADC) leads to the formation of a 3-pyroline, which is transformed, according to the substituants, to a 2-pyrroline or to pyrrole. The addition of the ylides of cafbonyl leads to the formation of dihydrofurans. Through the kinetic treatment of the addition of these heterocyclic compounds (1 to 4) to MADC, it is possible to determine the rate constants for the opening of the C—C bond (k,). In the case of the aziridines 1, the rates have been determined by ir while hplc has been used in the other cases. Relative to the heterocyclic compounds, the order of the experimental rate constants (ta) is always equal to one. In the cases of the /V-cyclohexyl-2-cyano-3-alkylaziridines and of the /V-cyclohexyl-2-carbomethoxy-3-phenylaziridine, ta varies with the concentration of MADC and this implies that the rate constants for the cycloaddition of the ylide of azomethine and its reclosing to give aziridine are similar. In the other cases, k E x is independent of the concentration of MADC and this implies that the heterocyclic compounds are slowly transformed into 1,3-dipoles, followed by a rapid cycloaddition, k cx — k,. </p>
+			</div>
+		</front>
+		<body>
+			<div>
+				<head>Introduction</head>
+				<p>Les aziridines et époxydes convenablement substitués s'ouvrent thermiquement entre les deux carbones (1, 2). Les dipôles-1,3 ainsi formés ne sont pas isolés, mais ils peuvent être additionnés à différents dipolarophiles permettant ainsi la synthèse d'hétérocycles à cinq chaînons variés (schéma 1).</p>
+				<p>Malgré la diversité des réactions de cycloaddition d'ylures d'azométhine et d'ylures de carbonyle obtenus par thermolyse du petit cycle à trois chaînons correspondant, l'étude cinétique de ces réactions n'a été que partiellement abordée (3, 4) et le but recherché par ces auteurs n'était pas l'étude des facteurs qui favorisent l'ouverture électrocyclique.</p>
+				<p>La stéréochimie de l'ouverture de ces petits cycles en dipôles-1,3 est bien expliquée par les règles de Woodward et Hoffmann (5). Par contre, les facteurs qui favorisent ces réactions ne semblent pas avoir été clairement dégagés malgré quelques tentatives faites par Epiotis (6) et Carpenter (7); récemment , l'un d'entre nous a tenté d'interpréter la réactivité péricyclique des cycles à trois chaînons à l'aide de la méthode des relaxations (8). C'est pourquoi, nous nous sommes proposés d'étudier la vitesse d'ouverture des aziridines 1, 2 et 3 substituées respectivement en 2 par un nitrile, un ester ou une cétone, et des époxydes 4 substitués en 2 par deux nitriles; en effet, selon la littérature, l'ouverture péricyclique des aziridines et époxydes est facilitée par des substituants électroattracteurs sur les carbones (1, 2, 8)</p>
+			</div>
+			<div n="1">
+				<head>Position du problème</head>
+				<p>Les ylures d'azométhine ainsi que les ylures de carbonyle obtenus par ouverture thermique des hétérocycles à trois chaînons correspondants sont des intermédiaires réactionnels qui ne sont mis en évidence que par leurs produits de cycloaddition. L'équilibre aziridine ^ ylure d'azométhine est considérablement déplacé vers l'aziridine (9), de telle sorte que les ylures d'azométhine ne sont pas détectables par les méthodes spectroscopiques usuelles. Cependant, il peut être démontré, grâce à des études cinétiques, que l'addition d'une aziridine, ou d'un époxyde, à un dipolarophile est précédée de la formation réversible d'un intermédiaire d'énergie élevée (3, 9, 10). C'est la raison pour laquelle nous avons étudié la cinétique de l'addition des aziridines 1 à 3 et des époxydes 4 à l'acétylène dicarboxylate de méthyle (ACDM) afin de déterminer les constantes de vitesse correspondant à l'ouverture thermique de la liaison C—C.</p>
+				<p>D'une manière générale, l'addition d'une aziridine ylure d'azométhine potentiel à un dipolarophile peut être schématisée comme suit (schéma 2):</p>
+				<p><formula>R .N, H' H Ri Az. cis ki R I A I X R I R 1 '' ^H Az. trans H k-k\ M k, Rl I H k-i Yl. trans R A i i H H Yl. cis .X +D ( ki« +D¡ k2cis H. R .À^x c c. R 1 "' I I ^ H d e R trans R 1 ' X R I A&gt; :c H' I I H d e P. cis k¡</formula></p>
+				<p>k[: constantes cinétiques d'ouverture des aziridines k~i k'-,: constantes cinétiques de refermeture des ylures ki.rans, k 2 ds: constantes cinétiques de la cycloaddition ta k~¡: constantes d'isomérisation Pc,s, Pir™, produits d'addition D¡ = dipolarophile (d=e) Az: aziridine Yl: ylure d'azométhine</p>
+				<p>Si l'on considère une aziridine cis, son ouverture conrotatoire , 1 dont la constante de vitesse est k t , conduit à l'ylure d'azométhine trans. En l'absence de dipolarophile, l'ylure trans peut s'isomériser en ylure cis; ce dernier peut se cycliser en aziridine trans. Ce phénomène explique l'isomérisation thermique des aziridines ylures d'azométhine potentiels (10-12). En présence d'un dipolarophile si la cycloaddition est rapide par rapport à l'isomérisation, c'est-à-dire lorsque k 2 [D¡] k " l'isomérisation de l'ylure peut être ignorée. C'est la 1 L'ouverture conrotatoire peut se faire a priori de deux manières différentes conduisant à deux isomères conformationnels de l'ylure d'azométhine (10, 13). raison pour laquelle nous avons utilisé l'ACDM qui est l'un des meilleurs dipolarophiles vis-à-vis des ylures d'azométhine et de carbonyle. Dans ces conditions l'ouverture thermique des aziridines peut se mettre sous la forme:</p>
+				<p><formula>k\ k 2 Az &lt;=s Yl + D, —&gt; P k-1</formula></p>
+				<p>Az: aziridine; Yl: ylure d'azométhine; D L : dipolarophile; P: produit d'addition. La vitesse de la réaction s'exprime de la manière suivante: [1] v=+f = fc [Yl] P5j</p>
+				<p>En appliquant le principe de l'état stationnaire au réactif intermédiaire (ylure), on obtient l'éq.</p>
+				<p>Cette expression de la vitesse peut s'écrire: HP [3] v = + ^ = ta [Az] avec</p>
+				<p>La constante expérimentale de vitesse correspond à une réaction du pseudo ordre 1 et varie avec la concentration en ACDM. La courbe représentant ta =/(ta/[Dj) est une droite de pente k-Jk 2 et d'ordonnée à l'origine k u la constante cinétique d'ouverture de l'aziridine. L'expression de la vitesse peut encore être simplifiée lorsque k-x « £ 2 [Dj, c'est-à-dire dans le cas où la vitesse de refermeture de l'ylure en aziridine est faible devant la vitesse de cycloaddition. La vitesse s'exprime alors par: [4] v = *, [ Az]</p>
+				<p>Dans ce cas, la constante cinétique de la réaction n'est autre que la constante d'ouverture k\ de l'aziridine. Celle-ci est alors indépendante de la concentration en dipolarophile.</p>
+			</div>
+			<div n="2">
+				<head>Méthode d'étude</head>
+				<p>La détermination des constantes d'ouverture (k,) des hétérocycles 1 à 4 se résume donc à suivre la vitesse de disparition de l'aziridine ou de l'époxyde lors de sa réaction avec l'ACDM et d'appliquer, selon le cas, l'éq. [3] ou [4]. La cinétique d'ouverture des cyano-2 aziridines 1 a été suivie à l'aide de l'ir (infrarouge ), dans les autres cas, nous avons utilisé la chromatographie en phase liquide (cpl).</p>
+				<div n="2.1">
+					<head>Utilisation de l'infra-rouge</head>
+					<p>L'addition des ylures d'azométhine 5 résultant de l'ouverture thermique des cyano-2 aziridines 1, à l'ACDM, conduit à des pyrroles 7 qui proviennent de l'élimination spontanée de HCN à partir du produit de cycloaddition 6, une pyrroline-3 (12) (schéma 3).</p>
+					<p>Après avoir vérifié que les aziridines 1 suivent la loi de Lambert-Beer, nous avons suivi la disparition de 1 en mesurant la transmission de la bande d'absorption vC=N vers 2240 cm" 1 ; HCN absorbe à 2095 cm -1 et il n'y a pas de chevauchement des bandes de l'aziridine et des produits formés . La constante expérimentale de vitesse k cx est déterminée graphiquement, après avoir fait pour chaque pointe un minimum de trois mesures de la transmission. La précision de la mesure de la transmission étant de 1% (voir la partie expérimentale pour l'appareillage), k\ est déterminée avec une précision de l'ordre de 10% après calcul de régression linéaire. Malgré l'importance relative de l'erreur commise sur k¡ (ceci étant dû à la méthode utilisée), les valeurs obtenues avec les aziridines diversement substituées sont suffisamment différentes pour qu'elles puissent être discutées.</p>
+				</div>
+				<div n="2.2">
+					<head>Utilisation de la chromatographie en phase liquide</head>
+					<p>L'addition des aziridines 2 et 3 et des époxydes 4 conduit respectivement à des pyrrolines-3 8(1, 11,15), qui parfois sont isomérisées en pyrrolines-2, et à des dihydrofuranes 9 (16) (schéma 4). Une étude ir et uv (ultraviolet) s'est avérée impossible à cause des chevauchements des bandes d'absorption des produits initiaux et des produits formés, c'est pourquoi nous avons suivi la vitesse de disparition des composés 2, 3 et 4 en les dosant tout au long de la réaction à l'aide de la cpl. Les constantes expérimentales de vitesse sont obtenues avec un pourcentage d'erreur inférieur à 5%. Nous avons vérifié que les constantes de vitesse ainsi obtenues sont tout à fait comparables à celles obtenues par ir, comme le montre l'exemple de l'aziridine la; les valeurs obtenues sont pratiquement les mêmes, compte tenu des pourcentages d'erreur inhérents à chaque méthode.</p>
+				</div>
+			</div>
+			<div n="3">
+				<head>Résultats et discussion</head>
+				<p>Les différents époxydes et aziridines dipôles-1,3 potentiels utilisées au cours de ce travail sont répertoriés dans les tableaux 1 et 1 bis; ils sont préparés en utilisant des méthodes connues et décrites dans la littérature.</p>
+				<p>Toutes les aziridines 1 utilisées au cours de ce travail n'ont pas été étudiées précédemment, c'est pourquoi, avant l'étude cinétique, nous avons vérifié que l'addition à l'ACDM conduit dans chaque cas à un pyrrole 7(14) selon la réaction décrite par Merah et Texier (12).</p>
+				<p>La réactivité des époxydes 4 vis-à-vis de l'ACDM a été étudiée par Robert et al. (16); toutefois, celle de l'époxyde 4d (X = N0 2 ) est si faible que le produit d'addition n'avait pas été isolé. Nous avons vérifié que la réaction conduit bien au dihydrofurane correspondant 9d (X = N0 2 ) que nous avons isolé et purifié. Les caractéristiques des nouveaux pyrroles 7 et du composé 9d sont rassemblées dans la partie expérimentale.</p>
+				<p>Pour toutes les aziridines 1 et 3, l'isomérisation de l'ylure d'azométhine peut être négligée (fc 2 / [Dj]» k,). Les époxydes 4 portent deux substituants identiques sur le carbone 2 et le problème d'isomérisation ne se pose pas. Lorsque R et R 1 sont des alkyles (composés 1 h à j), la constante expérimentale de vitesse ta dépend de la concentration en ACDM (tableau 2) et la constante k x est déterminée graphiquement en résolvant l'éq. [3], Ces résultats montrent que dans ces cas, la cycloaddition de l'ylure d'azométhine et sa refermeture en aziridine ont des vitesses comparables.</p>
+				<p>Lorsque R ou R 1 est un aryle, la constante expérimentale de vitesse ta est pratiquement indépendante de la concentration en ACDM, comme le montrent les résultats rassemblés dans les tableaux 3 et 4. Ceci correspond au fait que k-1 « k 2 [ACDM]; dans ces conditions, ta = la constante d'ouverture de l'hétérocycle. Ces résultats impliquent une lente transformation de l'hétérocycle en dipôle-1,3 suivie d'une cycloaddition rapide.</p>
+				<p>Les aziridines 2 (Y = C0 2 R') ont un comportement particulier. La vitesse d'isomérisation des composés 2a et 2b est du même ordre de grandeur que la vitesse d'addition de l'ylure d'azométhine à l'ACDM et de ce fait, elle ne peut être négligée. À titre d'exemple, nous avons rassemblé dans le tableau 5 les constantes de vitesse globale d'isomérisation de l'aziridine 2b cis. La constante k x doit donc être déterminée en cinétique initiale à partir de l'équation:</p>
+				<p><formula>V 0 = = k 2 [Y1 * trans] [ACDM]</formula></p>
+				<p>De plus, la constante ta (déterminée en vitesse initiale) de l'aziridine 2a (R = C 6 H n ) dépend de la concentration en ACDM, ki est obtenue en traçant la courbe ta = f(Kj [ACDM] ). Dans le cas des composés 2b et 2c, l'éq. [6] est applicable, ta — k¡. Avec l'aziridine 2c nous avons observé un phénomène particulier, la cycloaddition est réversible 2 et l'addition de l'aziridine à l'ACDM est équilibrée, ce qui explique que, dans les conditions de synthèse, le rendement en pyrroline-3 est toujours médiocre (23). La constante de vitesse doit donc être déterminée également en vitesse initiale; les différentes constantes de vitesse ainsi obtenues sont rassemblées dans le tableau 6.</p>
+				<p>Une partie des effets de substituant a été discutée dans deux courtes communications (24). Une discussion détaillée est effectuée dans l'article suivant, à partir des paramètres d'activation déterminés après avoir mesuré la constante d'ouverture k¡ à différentes températures.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les aziridines la, 1j, 1 k, 2 et 3 et les époxydes 4 sont connus. Ils sont préparés selon le mode opératoire décrit dans la référence correspondante du tableau 1.</p>
+				<p>Les aziridines 1 b à 1/ sont obtenues en appliquant la méthode de Cromwell, selon le mode opératoire décrit par Merah et Texier pour la synthèse de l'aziridine la (12).</p>
+				<p>Deux équivalents de cyclohexylamine (R = C 6 H M ) sont ajoutés goutte à goutte aux oléfines a-bromées 10, en solution dans le benzène ou l'éther lorsque R 1 est un aroyle (soit 0,1 mol de cyclohexylamine dans 100 mL de solvant), dans l'acétonitrile lorsque R' est un alkyle. La température est maintenue entre 5 et 10°C. Le mélange est alors abandonné à la température ambiante, dans l'obscurité. L'état d'avancement de la réaction est suivi par pesée du bromhydrate qui précipite. Finalement, le solvant est évaporé et le résidu est recristallisé dans l'éthanol à 95%. L'aziridine lb a été purifiée par chromatographie sur colonne d'alumine (80 g/1 g d'huile) avec éther/éther de pétrole 50:50 comme éluant.</p>
+				<p>La synthèse des cyano-2 aziridines pour lesquelles R' est un substituant aromatique s'accompagne toujours de la formation d'énamines 11 isomères (12). Dans tous les cas, l'aziridine précipite en premier, et par recristallisation fractionnée dans l'éthanol à 95°C, on obtient parfois l'énamine qui précipite à partir du 3ème jet de cristallisation. Le pourcentage relatif aziridine/énamine, déterminé par analyse rmn (résonance magnétique nucléaire) du produit brut réactionnel, est donné dans le tableau 7, mais nous n'avons pas cherché à isoler et purifier l'énamine 11 dans tous les cas.</p>
+				<p><formula>^CN /?XPhCH=C + 2RNH 2 —@BULLET pXPhCH CH—CN \ Br 10 I R 1 pX Ph R—NH \:=CH—CN + RNH 3 + Br" / ; u</formula></p>
+				<p>Toutes les aziridines 1 ainsi obtenues pour lesquelles R' est un substituant aryle ont la configuration cis (R 1 par rapport à CN). Les caractéristiques physiques des aziridines ainsi que les rendements en produits isolés sont rassemblés dans le tableau 8, les résultats des analyses centésimales figurent au tableau 9.</p>
+				<p>Synthèse des pyrroles 7</p>
+				<p>L'aziridine 1 (1 g) et l'ACDM en quantité stoechiométrique sont portés à l'ébullition dans 30 cm 3 de toluène anhydre, pendant 24 h. Le solvant est distillé et le résidu dissous dans le minimum de méthanol. Par refroidissement, le produit d'addition cristallise; il est essoré, lavé puis séché. Les caractéristiques des pyrroles ainsi que les rendements sont consignés dans le tableau 10; leurs analyses centésimales sont rassemblées dans le tableau 11.</p>
+				<p>Synthèse du dihydrofurane 9 d (X = N0 2 )</p>
+				<p>L'époxyde 4d (1 g) est additionné à 0,66 g d'ACDM dans 30 cm 3 de xylène anhydre. La solution est portée à reflux pendant 30 h. Après distillation du solvant, le résidu est dissous dans le minimum de méthanol chaud. Par refroidissement, le dihydrofurane 9d précipite. Après recristallisation dans le méthanol, il fond à 124-125°C; ir: 1744 et 1758 cm"' (vC=0 ester), 2250 (vC=N); rmn (CDCl,): 3,85 et 4,05 (s, méthyles ester), 6,95 (H, s). Anal. calc. pour C^HUNJO,: C 53,78, N 11,77, O 31,37; tr.: C 53,50, N 11,70, O 31,48.</p>
+				<p>Solvants et ACDM</p>
+				<p>Les solvants utilisés pour les études cinétiques sont purifiés selon les méthodes décrites dans la littérature (25) et utilisés fraîchement distillés. L'ACDM est un produit commercial Fluka purissimum.</p>
+				<p>Méthodes d'analyse</p>
+				<p>L'infra-rouge</p>
+				<p>L'appareil utilisé est un spectrophotomètre Perkin-Elmer 457 à double faisceau. La longueur d'onde est celle de la bande d'absorption du nitrile, vers 2240 cm -'. Après avoir vérifié que les aziridines 1 suivent la loi de Lambert-Beer, une courbe d'étalonnage est établie pour chaque cas. La solution est préparée par dissolution de l'aziridine dans 9 cm 3 de solvant contenant l'ACDM à la concentration de 8 x 10~ 4 mol L -1 . La concentration initiale en aziridine est mesurée par ir, elle est déduite de la courbe d'étalonnage, elle est choisie de façon à obtenir une densité optique initiale D 0 voisine de 0,75. Suivant l'aziridine, la concentration varie de 0,2 à 0,4 x 10~ 4 mol L -1 . Cette solution est partagée en 10 fractions qui sont placées dans des tubes en verre de 2 cm 3 . Ces derniers sont scellés et placés au temps t = 0 dans un bain thermostaté. Les tubes, prélevés au cours du temps sont refroidis immédiatement dans l'azote liquide et dosés par ir. 3</p>
+				<p>Nous avons vérifié pour chaque aziridine qu'elle ne se dégrade pas au cours du temps à la température de l'expérience. Pour celà, l'aziridine est placée dans un tube témoin, sans ACDM, dans les mêmes conditions de T (°C), concentration et solvant. Le dosage ir permet de s'assurer que la dégradation est négligeable aux températures utilisées. Détermination expérimentale de k " </p>
+				<p>La vitesse globale de la réaction d'ouverture est d'ordre 1 par rapport à la concentration en aziridine, elle s'exprime à l'aide de l'éq. [3]</p>
+				<p><formula>[3] v = g = ta [Az] [ 5] et À l'instant t — 0, [Az] = [Az] 0</formula></p>
+				<p>et l'expression peut s'écrire:</p>
+				<p><formula>djc [Az] 0 -JC = ta df log [Az] 0 -log ( [Az] 0 ^ x) = ta t</formula></p>
+				<p>En appliquant la loi de Beer-Lambert, nous pouvons écrire:</p>
+				<p><formula>[6] log D = log e / + log [Az]</formula></p>
+				<p>D étant la densité optique, e le coefficient d'extinction, et l la largeur de la cuve. A t = 0:</p>
+				<p><formula>[7] log Do = log e / + log [Az] 0</formula></p>
+				<p>En comparant les équations [5] et [7] , on en déduit l'éq. [8],</p>
+				<p><formula>[8] log D 0 — log D = ta t</formula></p>
+				<p>La constante expérimentale de vitesse est déterminée graphiquement à partir de la pente de la droite —log D = /(?); elle est précisée par un calcul de régression linéaire. Dans tous les cas, le coefficient de corrélation est de l'ordre de 0,999.</p>
+				<p>Méthode chromatographique</p>
+				<p>L'appareil utilisé est un Waters 440, ayant un système de détection uv à 254 nm. Les références des colonnes utilisées, de longueur 30 cm, ainsi que les éluants sont donnés dans le tableau 12.</p>
+				<p>Le facteur de sensibilité de l'appareil est donné par la relation [9], il est déterminé pour chaque produit. m p : masse du composé p (g), m¡: masse de l'étalon interne, A p : surface de pic du composé, A¡: surface de pic de l'étalon interne. Connaissant différentes masses m-,, m p et leurs surfaces correspondantes, on en déduit/ p.</p>
+				<p>La quantité d'aziridine (tableau 12) pesée exactement est dissoute dans 5 cm 3 de solution, 0,5 cm 3 est utilisé comme référence et dans le reste de la solution, on ajoute en excès (10:1) la quantité d'ACDM. Cette solution est répartie dans 10 tubes en verre qui sont scellés et plongés à t = 0 dans un bain thermostaté à la température désirée.</p>
+				<p>Les tubes sont prélevés à différents temps et refroidis dans l'azote liquide. Ensuite ils sont dosés après y avoir ajouté une quantité bien déterminée d'étalon interne.</p>
+				<p>Notre choix s'est porté sur le méthacrylate de dodécyle qui a un volume de rétention très différent des produits réactionnels. Nous avons préféré ajouter l'étalon interne après réaction pour éviter de fausser l'effet du solvant. Mais il est vrai que les erreurs engendrées par cette manière d'opérer ne sont pas négligeables, et nous avons comparé la précision des mesures à celle obtenue par un dosage statistique (injection d'une même quantité de solution à plusieurs reprises) en mesurant directement la surface du pic. Il s'est avéré, après calcul de régression linéaire, que la précision des mesures par ces deux méthodes était comparable.</p>
+				<p>Cas particulier: L'addition de l'ACDM à l'aziridine 2c est réversible et équilibrée. Dans le tableau 13 nous avons rassemblé les constantes d'équilibre à différentes températures. La variaiton de —log [Az]= f(t) permet d'obtenir k, en prenant la tangente à l'origine de la courbe représentative. La variation de log [Az] E /[AZE — Az] =f(t) permet de calculer tai, qui correspond à la constante de vitesse de cycloréversion.</p>
+			</div>
+			<note>2 La réversibilité de la cycloaddition dipôlaire-1,3 a été observée avec divers dipôles-1,3 (26) parmi lesquels les ylures d'azométhine, mais à notre connaissance, aucune rationalisation de ces résultats n'a été tentée.</note>
+			<note>3 L'ouverture des aziridines 1 en ylures d'azométhine est négligeable à la température ambiante, l'addition à l'ACDM ne se produit que lorsque la solution est mise dans le bain thermostaté. Aussi, après refroidissement, la solution peut être conservée au froid plusieurs heures avant d'effectuer le dosage ir.</note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+									<surname>Lown</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Rec. Chem. Prog</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">51</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Kellogg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">2165</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">1777</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">572</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">C</forename>
+									<surname>Oehlschlager</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">H</forename>
+									<surname>Akhtar</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">273</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<title level="m" type="main">The conservation of orbital symmetry</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1970"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">D</forename>
+									<surname>Epiotis</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">13</biblScope>
+								<biblScope type="pp">751</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">K</forename>
+									<surname>Carpenter</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">1877</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O. Henri-Rousseau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. II</title>
+							<imprint>
+								<biblScope type="pp">496</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Hermann</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">1779</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<surname>Scheer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">89</biblScope>
+								<biblScope type="pp">1753</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">602</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">572</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Mader</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">604</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Deyrup</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">2724</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. II</title>
+							<imprint>
+								<biblScope type="pp">553</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrie</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">310</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de doctorat d'état</title>
+							<meeting>
+								<address>Oran</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">H</forename>
+									<surname>Cromwell</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">888</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Robert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Foucaud. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Ser. C</title>
+							<imprint>
+								<biblScope type="vol">270</biblScope>
+								<biblScope type="pp">1739</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Th. Wagner-Jauregg</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="issue">5</biblScope>
+								<biblScope type="fpage">1237</biblScope>
+								<biblScope type="lpage">1249</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de doctorat d'état</title>
+							<meeting>
+								<address>Grenoble</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Wartski</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Wakselmann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1478</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+									<surname>Ouali</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrié</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr. II</title>
+							<imprint>
+								<biblScope type="pp">633</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">H</forename>
+									<surname>Cromwell</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">F</forename>
+									<surname>Harris</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">65</biblScope>
+								<biblScope type="pp">3120</biblScope>
+								<date type="published" when="1943"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Robert</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">2977</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Foucaud</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2354</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de doctorat d'état</title>
+							<meeting>
+								<address>Rennes</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Texier. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Ser. C</title>
+							<imprint>
+								<biblScope type="vol">291</biblScope>
+								<biblScope type="pp">101</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Derdour</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Henri</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Rousseau</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Ser. C</title>
+							<imprint>
+								<biblScope type="vol">296</biblScope>
+								<biblScope type="pp">553</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<monogr>
+							<title level="m" type="main">A textbook of practical organic chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">I</forename>
+								</persName>
+							</author>
+						</monogr>
+						<note>2ème. ed</note>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<monogr>
+							<author>
+								<persName>
+									<surname>Longmans</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>London</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Hauck</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Seidl</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">101</biblScope>
+								<biblScope type="pp">2568</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Matsumoto</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">50</biblScope>
+								<biblScope type="pp">534</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Joucla</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Hamelin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrie</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">3116</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">( D ) F. Texier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bourgois</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">505</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b37">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">( E ) G. Lefevre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Hamelin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">1757</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b38">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">/</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Guiheneuf</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Laurence</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+									<surname>Katritsky</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1829</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

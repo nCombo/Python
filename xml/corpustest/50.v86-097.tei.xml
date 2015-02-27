@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Bromation stéréosélective d'alcynes par le tribromure de tétrabutylammonium</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Berthelot</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique structurale</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Unité associée 455, 4, Place Jussieu</addrLine>
+									<postCode>75230, CEDEX 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Fournier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de physico-chimie inorganique</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>Equipe de recherche associée 608, 4, Place Jussieu</addrLine>
+									<postCode>75230, CEDEX 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Bromation stéréosélective d'alcynes par le tribromure de tétrabutylammonium</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p> L'action du tribromure de tétrabutylammonium (TBABr 3) sur différents alcynes (R—C^C—R', avec R et (ou) R' = H, alcoyle, phényle, carboxyle, carbonyle) dans le chloroforme à 20°C conduit à la formation exclusive et stéréospécifique de l'isomère E de l'alcène 1-2 dibromé correspondant. Pour expliquer ce résultat nous proposons un mécanisme faisant intervenir comme intermédiaire un zwitterion bromé cyclique.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p> The reaction of tetrabutylammonium tribromide (TBABr 3) with alkynes (R—C^C—R', with R and (or) R' = H, alkyl, phenyl, carboxyl, carbonyl) in chloroform at 20°C gives only the corresponding E 1,2-dibromo alkene in high yields. A mechanism involving a cyclic brominated zwitterion is suggested to account for the results, especially the stereospecificity of this ¿-addition.</p>
+			</div>
+		</front>
+		<body>
+			<p>De nombreux agents bromants, notamment les tribromures d'alkylammonium (triméthylphénylammonium (1), pyridinium, quinoleum (2)), ont été jadis utilisés pour éviter les inconvénients d'emploi du brome (très toxique et corrosif). En général, ils présentent l'inconvénient d'être peu stables, d'avoir un degré de brome actif diminuant rapidement au cours du temps ou d'être faiblement solubles.</p>
+			<p>Nous avons récemment décrit une méthode simple, pour additionner du brome sur les doubles liaisons éthyléniques (3) ou pour le substituer sélectivement en a d'acétals (3), qui utilise le tribromure de tétrabutylammonium (TBABr 3 ). 2 Ce réactif, solide orangé (F = 84°C), très stable, non toxique, à degré de brome constant, est facilement utilisable dans des conditions douces (20°C).</p>
+			<p>En outre, si l'addition électrophile du brome sur les oléfines a été très étudiée, les principaux détails étant bien connus (4), la réaction correspondante sur les alcynes l'est beaucoup moins et n'a suscité que peu d'attention (5).</p>
+			<p>L'halogénation des alcynes (chloration, iodation et surtout bromation) a été effectuée soit par l'halogène en solution (principalement dans l'acide acétique) (6a, b), soit à l'aide des halogénures métalliques (dérivés cuivriques essentiellement) en phase liquide et au reflux du solvant (la-e). Dans tous les case, ces réactions conduisent à des mélanges d'alcènes 1-2 dibromés (E et Z), le plus souvent souillés de produits secondaires (alcènes monobromés, alcènes tribromés, composés d'addition du solvant) difficilement séparables. Dans les cas les plus favorables (absence de produits secondaires), il se forme toujours un mélange d'isomères E et Z, l'isomère E étant en général majoritaire (8). En outre, les rendements globaux en produits isolés purs sont souvent très moyens (45-65%) et l'halogène ou le sel cuivrique doivent être en large excès (de 5 à 20 fois la quantité d'alcyne). Dans la plupart des cas, il faut opérer au reflux du solvant. Par contre, nous signalons qu'en effectuant l'addition du brome, assistée d'ions bromures en milieu hydroacétique, sur l'ester éthylique de l'acide phénylpropionique , Berliner et al. n'obiennent que l'isomère E 1-2 dibromé (9, 10).</p>
+			<p>Pour ces raisons, il était tentant de comparer l'action de TBABr 3 sur les alcynes à celle des agents bromants habituellement utilisés en espérant un gain de rentabilité.</p>
+			<div>
+				<head>Résultats</head>
+				<p>Nous avons pris comme modèle d'étude la bromation du diphényl-1,2 acétylène (1) ou tolane ( <ref type="figure">figure 1</ref>).</p>
+				<p>L'évolution de la réaction est suivie pour différents solvants, à diverses températures, en faisant varier les concentrations relatives des réactifs. Dans tous les cas, que ce soit à basse température avec des conditions stoechiométriques des réactifs ou en prolongeant la durée de réaction, à température plus élevée et avec une plus grande concentration en TBABr 3 , seul l'isomère E est obtenu; nous n'avons jamais détecté (même en ccm (chromatographie sur couche mince)) la présence de l'isomère Z et aucun produit provenant de réactions secondaires ne vient perturber la réaction. Ces résultats sont résumés dans les tableaux 1 et 2.</p>
+				<p>Nous constatons que si la concentration relative de TBABr 3 augmente par rapport à celle du tolane, le rendement en alcène 1-2 dibromé diminue par suite de l'apparition d'une résinification , mais nous ne récupérons ni l'isomère Z de cet alcène, ni le produit de départ. Quels que soient la température et le rapport Br 3 ~/alcyne, nous n'avons jamais obtenu le tétrabromo-1,1,2,2 diphényl-1,2 éthane. Comme nous l'avions déjà remarqué avec les alcènes (3) soumis à l'action bramante de TBABr 3 , c'est le chloroforme, peu polaire, qui permet d'obtenir les meilleurs résultats; les alcools (plus polaires, mais solubilisant moins bien les réactifs) sont moins adaptés à ces réactions, ce qui avait déjà été remarqué par d'autres auteurs lors des différents essais d'halogénation (7 a, le).</p>
+				<p>La différence de vitesse d'addition d'un même réactif conjointement sur un alcène et l'alcyne correspondant est bien connue (4, 10). Il en est de même lorsque nous faisons réagir TBABr 3 sur le irani-stilbène et le tolane dans la même solution chloroformique (à 20°) et en même concentration (tableau 3). En outre, si l'on soumet le dibromo-1,2 diphényl-1,2 éthylène E (2), lui-même, à l'action de TBABr 3 dans des conditions stoechiométriques et pendant dix jours à 20°C, seul (2) est récupéré quantitativement. Ces résultats obtenus avec le tolane comme modèle nous ont permis d'obtenir, dans les meilleures conditions et avec la même sélectivité, uniquement des alcènes 1-2 dibromés E, lorsque différents alcynes ont été soumis à l'action de TBABr 3 (tableau 4).</p>
+				<p>Dans tous ces essais, les rendements bruts sont pratiquement quantitatifs; les rendements en produits isolés sont plus faibles surtout dans le cas des liquides, s'ils sont purifiés par distillation , les alcènes 1-2 dibromés étant fragiles à la chaleur (polymérisation facile). Dans ce cas, la meilleure méthode de purification est la chromatographie préparative (cp) sur silice (cas de d notamment). La structure et la stéréochimie des produits 9-14 a été confirmée par comparaison avec des échantillons, connus, par leurs spectres de masse et de rmn 'H (résonnance magnétique nucléaire) (cf. partie expérimentale). Il est à noter que, comme avec le tolane, nous n'avons jamais obtenu de composés tétrabromés.</p>
+			</div>
+			<div>
+				<head>Discussion</head>
+				<p>Dans les études antérieures (7 e, 12) la bromation des alcynes, que ce soit par le brome ou par ses sels métalliques, semble toujours être de nature ionique. De même la bromation du tolane par TBABr 3 n'est par affectée par la présence de métadinitrobenzène ou d'oxygène (réputés capteurs de radicaux), et donne les mêmes résultats à la lumière ou à l'obscurité, sous gaz inerte (argon) ou à l'air. La réaction est toujours stéréospécifique , les rendements et les durées de réaction étant inchangés. Nous pensons donc que cette addition de TBABr 3 sur les alcynes est également de nature ionique. En utilisant le brome, ou CuBr 2 , la formation du mélange en proportions variables des isomères E et Z pose des problèmes pour l'interprétation mécanistique du phénomène malgré des études approfondies (la, Id, 12). Il a déjà été montré que dans les tribromures d'ammonium, l'anion Br 3 ~ avait une structure linéaire (1), où les liaisons entre les atomes de brome étaient plus fragiles que celle de la structure moléculaire, et on a postulé qu'il pourrait réagir suivant:</p>
+				<p><formula>Br 3 " Br" + Br 2</formula></p>
+				<p>Cette formation de brome moléculaire devrait donc conduire dans notre cas à la formation du mélange des isomères £ et Z soit par addition analogue à celle du brome sur un alcyne soit par isomérisation ultérieure de l'alcène 1-2 dibromé E catalysée par le brome (le). Or nous n'obtenons jamais d'isomère Z, même en laissant réagir d'une façon équimoléculaire du TBABr 3 et du diphényl-1,2 dibromo-1,2 éthylène pendant dix jours dans les conditions de la réaction. Par contre, si l'action du brome sur le méthylphénylacétylène conduit à un mélange d'isomères E, Z, seul l'isomère E est pratiquement (99%) obtenu quand il est soumis à l'addition du brome en présence de LiBr (16). De plus, comme nous l'avons déjà signalé, par addition de brome assistée d'ions bromures sur le phénylpropionatè d'éthyle, seul l'isomère E est formé (9, 10). Ces résultats avaient amené à postuler l'existence d'un ion Br 3 ~, non dissocié, et son addition sur l'alcyne par un processus trimoléculaire de type Ad E 3, passant par un état de transition de nature comparable à celui de la <ref type="figure">fig. 2</ref>, après attaque du brome et de l'ion bromure sur les deux carbones de la triple liaison (10, 11). En ce qui concerne TBABr 3 , nous pouvons rappeler que ce dernier, agissant sur un alcène E, tel que le ira/îs-stilbène, conduit exclusivement à l'alcane 1-2 dibromé méso (3), donc à une addition en anti sur chaque carbone de la double liaison, compatible avec la formation intermédiaire, comme dans l'halogénation moléculaire (4), d'un ion bromonium cyclique.</p>
+				<p>De plus, nous opérons en solvant chloroformique alors que les essais d'addition du brome en présence d'ions bromures sont effectués dans l'acide acétique aqueux. C'est pourquoi, sans rejeter le mécanisme Ad E 3 cité précédemment, nous pouvons également supposer que l'action de TBABr 3 sur les alcynes se fait selon un mécanisme Ad E 2, impliquant le passage dans ce cas par un zwitterion cyclique bromé intermédiaire ( <ref type="figure">fig. 3</ref>) suivi d'une addition trans d'ion Br~ (ou Br 3 ~) sur ce zwitterion, conduisant à l'alcène 1-2 dibromé E. On peut noter que ce mécanisme avec un intermédiaire cyclique a déjà été établi dans le cas de l'addition d'halogénures de sulfényles sur le phényl-1 propyne ( <ref type="figure">fig. 4</ref>), où aucune cis addition n'a été observée (17).</p>
+			</div>
+			<div>
+				<head>Conclusion</head>
+				<p>L'utilisation de TBABr 3 , réactif non toxique, très facilement utilisable (stable et à degré de brome constant) dans des conditions expérimentales douces et dans les solvants usuels a donc permis de bromer, avec de bons rendements, des alcynes d'une façon très sélective (absence de produits secondaires) et très stéréospécifique puisque seul l'isomère 1-2 dibromé E est obtenu, ce qui est d'un intérêt synthétique évident. Bien que le mécanisme d'addition ne soit pas définitivement établi, nous apportons les indices sur sa nature très vraisemblablement ionique.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les points de fusion ont été déterminés au banc de Kôfler, les spectres infrarouges (ir) ont été obtenus avec un spectromètre Pye-Unicam SP3-200, ceux de rmn 'H (en solution dans CDC1 3 , référence interne HMDS) avec un appareil Varian EM-360. Les spectres de masse (sm) ont été effectués sur un appareil AEI MS-30. Les chromatographie sur couche mince (ccm) et préparatives (cp) ont été réalisées sur gel de silice fluorescente "Merck PF 254." Les alcynes utilisés sont des produits commerciaux (Merck ou Alfa).</p>
+				<p>Procédé général de bromation par TBABr¡ (cas du tolane 1)</p>
+				<p>A 4 mmol d'alcyne dans 18 mL de chloroforme on ajoute lentement, à température ambiante et sous agitation, 4 mmol de TBABr 3 (environ 20 min) ; la solution rouge intense vire lentement au rose puis au jaune. On laisse agiter pendant plusieurs heures en suivant l'évolution de la réaction par ccm (cf. tableau 1). La solution chloroformique est ensuite lavée deux fois par 20 mL d'une solution aqueuse contenant 5% de thiosulfate de sodium, puis trois fois par 20 mL d'eau, et enfin séchée sur sulfate de sodium. Le solvant est évaporé sous vide et le résidu est cristallisé (MeOH), puis recristallisé (MeOH). L'alcène 1 -2 dibromé 2 est obtenu brut quantitativement, puis avec un rendement de l'ordre de 95% après purification (contrôlée par ccm) ; F net 214°C (litt. F (la) 210°C). Quand le réaction est incomplète (cf. tableau 1) le tolane restant est séparé de 2 par cp. Comme nous l'avons déjà signalé (tableau 4), si les rendements bruts sont quantitatifs, avec les autres alcynes, ils sont plus faibles en produits purs quand ceux-ci sont liquides, après distillation (d'où l'emploi de la cp pour les obtenir, cas de 12 en particulier).</p>
+				<p>Principales caractéristiques spectrales des alcènes 1-2 dibromés E</p>
+				<p>La spectrographie de masse donne d'utiles indications, + notamment par la présence déjà signalée (8) du pic moléculaire M-caractéristique d'un composé dibromé (formé de trois raies d'intensité relative 1, 2, 1). Ces alcènes dibromés présentent également tous les pics suivants: (M -Br) + , formé de 2 raies d'égales intensités et (M - 2Br) + qui est souvent le pic de base (cas de 2, 9,10,11 et 12 ; pour 11 il s'agit de (M -(2Br + C0 2 )) + ).</p>
+				<p>En ce qui concerne la rmn 'H il a déjà été constaté, pour les alcènes dibromés vinyliques (8) ou contenant,un groupement méthyle lié au carbone sp 2 (12), des déplacements différents pour les isomères E et Z en ce qui concerne cet hydrogène vinylique ou ce groupement méthyle. Avec les alcènes 1-2 dibromés de cette nature que nous obtenons, nous retrouvons bien uniquement ces pics caractéristiques d'isomères E\ 9: 6,7 ppm (s, 1H); 14: 6,6 ppm (s, 1H); 10: 2,6 ppm (s, 3H).</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Marquet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Jacques</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Tchoubar</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">511</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">W</forename>
+									<surname>Rosenmundet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Kuhnherm</forename>
+									<surname>Ber56</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1923"/>
+								<biblScope type="fpage">1263</biblScope>
+								<biblScope type="lpage">2042</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Fournier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Berthelot</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Belg</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">157</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">Electrophilic addition to unsaturated systems</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Bolton</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1966"/>
+								<publisher>Elsevier</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+						<note>chapt. . 7</note>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Fahey</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Top. Stereochem</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">279</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<title level="m" type="main">Dans The chemistry of the carbon-carbon triple bond. Part I. Edité par S. Patai</title>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">H</forename>
+									<surname>Schmid</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1978"/>
+								<publisher>John Wiley</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+						<note>Chapt</note>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<title level="m" type="main">Electrophilic addition to unsaturated systems</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Bolton</forename>
+								</persName>
+							</author>
+							<imprint>
+								<publisher>Elsevier</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">( A ) C</forename>
+									<forename type="middle">E</forename>
+									<surname>Castro</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">C</forename>
+									<surname>Owsley</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">587</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Uemura</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Onoeetm</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Okano</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Commun</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">925</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Uemura</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Okazaki</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Okano</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc., Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">676</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Uemura</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Okano</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+							<imprint>
+								<biblScope type="pp">1278</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Uemura</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Okazaki</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Okano</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Sawada</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Okada</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">1911</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">1629</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>De Young</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Ehrlich</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Berliner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">290</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Ehrlich</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Berliner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">100</biblScope>
+								<biblScope type="pp">1525</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Berliner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<biblScope type="pp">1088</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Yates</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">48</biblScope>
+								<biblScope type="pp">332</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">BEILSTEIN. Handbuch der Organischem Chemie. E III</title>
+							<imprint>
+								<publisher>Springer Verlag</publisher>
+								<biblScope type="vol">7</biblScope>
+								<date type="published" when="1385"/>
+								<publisher>Springer Verlag</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<surname>Auwersetm</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Sayfried</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">484</biblScope>
+								<biblScope type="issue">212</biblScope>
+								<date type="published" when="1930"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Bergleson</forename>
+									<surname>Zh</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Obshch. Khim</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">1540</biblScope>
+								<date type="published" when="1957"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Yates</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">90</biblScope>
+								<biblScope type="pp">5643</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">H</forename>
+									<surname>Schmidt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Heinola</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">90</biblScope>
+								<biblScope type="pp">3455</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

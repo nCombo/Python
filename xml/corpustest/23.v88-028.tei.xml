@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude cinétique et thermodynamique de l&apos;interaction d&apos;un complexe de Pd(II) avec l&apos;inosine et l&apos;acide polyinosinique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1988">1988</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Robert</forename>
+								<surname>Ménard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Montréal</orgName>
+								<address>
+									<addrLine>C.P. 6128, succursale A</addrLine>
+									<postCode>H3C3J7</postCode>
+									<settlement>Montréal (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Miklos</forename>
+								<surname>Zador</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Montréal</orgName>
+								<address>
+									<addrLine>C.P. 6128, succursale A</addrLine>
+									<postCode>H3C3J7</postCode>
+									<settlement>Montréal (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude cinétique et thermodynamique de l&apos;interaction d&apos;un complexe de Pd(II) avec l&apos;inosine et l&apos;acide polyinosinique</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">66</biblScope>
+							<biblScope type="fpage">178</biblScope>
+							<date type="published" when="1988">1988</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Les réactions du complexe (dien)Pd(II) avec l&apos;inosine et l&apos;acide polyinosinique ont été étudiées à l&apos;aide de méthodes spectroscopiques et de flux-stoppé. Dans les deux cas, le métal se lie initialement au site N7 de la base hypoxanthine. Les résultats des études cinétiques indiquent que le mécanisme implique deux voies réactionnelles : une substitution nucléophile directe ainsi qu&apos;une réaction via un intermédiaire aquo. Les réactions sont plus rapides dans le cas du poly(I), due à la forte densité de charges négatives de ce polymère. La réaction initiale au site N7 est suivie d&apos;une redistribution lente du métal vers le site NI thermodynamiquement plus stable. La fixation du (dien)Pd(II) au po!y(I) induit la formation d&apos;une structure multi-hélicoïdale stable du polymère. Cette structure a été caractérisée par des mesures d&apos;absorbance et de dichroïsme circulaire ainsi que par la détermination de la courbe de fusion du polymère. Il a aussi été observé qu&apos;en présence du complexe de Pd(II), le poly(I) peut être hydrolysé à pH alcalin, dans des conditions relativement douces.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>Reactions of the (dien)Pd(II) complex with inosine and polyinosinic acid were studied by spectroscopic and stopped-flow methods. In both cases, the metal initially binds at the N7 site of the hypoxanthine base. The results of kinetic studies indicate the existence of a two-path mechanism: a direct nucleophilic substitution and a solvent path with formation of an aquo intermediate. The reactions are faster for poly®, due to the high density of negative charges for this polymer. The initial reaction at N7 is followed by a slow redistribution of the metal towards the thermodynamically more stable N1 site. Binding of (dien)Pd(II) to poly(I) leads to formation of a stable, multistranded helicoidal structure of the polymer. This structure was characterized by absorption and circular dichroism measurements and by the melting curve of the polymer. It was also observed that in presence of the Pd(II) complex, poly (I) can be hydrolyzed at relatively mild conditions at high pH.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>A cause de la complexité des polynucléotides, les premiers travaux fondamentaux sur l&apos;interaction des acides nucléiques avec les complexes de Pd(II) et de Pt(II) ont été orientés vers l&apos;étude des unités constituantes plus simples, tels les bases nucléiques et les nucléosides (1-4). La plupart de ces travaux ont pour but la détermination des sites de liaison et de la stabilité des complexes formés. Parmi les divers nucléosides étudiés, l&apos;inosine s &apos; est avéré être un cas relativement complexe dû à la présence de deux sites potentiels de liaison pour le palladium et le platine : les azotes NI et N7 ( 5 - 9 ). Le site NI est protoné en solution neutre et la liaison à ce site dépend du pH . Divers types de complexes peuvent alors exister et , pour un composé tel (en)PdCl2, des espèces polymériques sont connues (7). La formation d&apos;un chélate entre les sites N7 et 06 a aussi été proposée à quelques reprises (10, 11) mais son existence est contestée (3).</p>
+				
+				<p>Le complexe (dien)Pd(II), qui a l&apos;avantage de ne posséder qu&apos;un seul groupe labile, a fait l&apos;objet d&apos;études exhaustives (6, 8, 9, 12-14). Martin et coll. ont utilisé la rmn pour étudier l&apos;importance des liaisons à chacun des sites en fonction du pH. Les résultats pour l&apos;inosine indiquent que la liaison au site N7 est prédominante à pH &lt; 4, tandis qu&apos;à pH &gt; 8, la liaison se fait presque exclusivement à NT. En solution neutre, les espèces Pd-Nl, Pd-N7 ainsi que l&apos;espèce binucléaire sont présentes. Avec l&apos;inosine monophosphate, la distribution des espèces est similaire sauf que la présence du groupe phosphate tend à favoriser la liaison à N7. De plus, la présence du palladium en N7 cause une diminution du pKa du site NI, ce qui conduit à une redistribution des ions métalliques et à la formation de liens avec le site NI déprotoné (8).</p>
+				
+				<p>Bien que l &apos; importance des facteurs cinétiques ne soit pas mise en doute , très peu d &apos; études quantitatives ont cependant été consacrées à cet aspect . Quelques études cinétiques ont été publiées impliquant la réaction de complexes de Pd ( II ) avec l &apos; inosine , le poîy ( I ) - poly ( C ) ainsi que la cytidine et ses dérivés ( 12 , 15 - 18 ). Les résultats ont permis de démontrer l &apos; existence de deux voies réactionnelles principales conduisant au produit final : une substitution nucléophile directe ainsi qu &apos; une réaction via un ou des intermédiaires aquo . Il a aussi été observé , dans le cas des polynucléotides , que les facteurs de type électrostatique ont un effet prédominant sur la cinétique des réactions ainsi que sur la stabilité des complexes formés . 3 Le but de ce travail est de définir avec précision le mécanisme de la réaction entre le ( dien ) Pd ( II ) et l &apos; inosine , et de vérifier si ce mécanisme s &apos; applique dans le cas du polynucléotide correspondant , le poly ( I ) . Nous examinerons aussi comment la structure de ce polymère est affectée lors de la fixation de l &apos; ion métallique .</p>
+				
+			</div>	
+			
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>L &apos; inosine ( In ) et l &apos; inosine - 5 &apos; - monophosphate ( IMP , sel de sodium ) ont été obtenus de Sigma Chemical Co . tandis que l &apos; acide polyino - sinique ( poly ( I ) , sel de potassium ) provenait de Miles Laboratories Inc . La concentration du poly ( I ) est donnée en termes d &apos; unité mono - nucléotide . Tous ces produits sont de haute pureté et furent utilisés sans purification supplémentaire . Les complexes [ ( dien ) PdCl ] Cl et [ ( dien ) Pd ( H 2 0 ) ] ( C10 4 ) 2 ( dien : diéthylènetriamine ) ont été préparés tel que décrit précédemment ( 16 ) . La force ionique est fixée par addition de NaC10 4 , préparé à partir de HC10 4 ( Biopharm ) et de NaOH ( Fisher Scientific Co . ) , étant donné que le NaC10 4 commercial contient souvent des impuretés pouvant interférer avec nos résultats . Le pH a été ajusté à l &apos; aide de solutions concentrées de HC10 4 et de NaOH . Aucun tampon n &apos; a été utilisé , de façon à éviter les interactions possibles avec les complexes de Pd ( II ).</p>
+			
+			<p>Les mesures d &apos; absorbance ont été effectuées à l &apos; aide d &apos; un spectro - photomètre Perkin - Elmer modèle 552 , équipé d &apos; un système électro - nique de contrôle de la température permettant la détermination de la courbe de fusion d &apos; un polynucléotide ( vitesse d &apos; accroissement de température utilisée : l°C / min ) . Les réactions rapides ont été suivies par spectrophotométrie à flux - stoppé en utilisant un système décrit précédemment ( 16 ) . Les spectres de dichroïsme circulaire ont été enregistrés au moyen d &apos; un spectropolarimètre Cary modèle 61 à la température de la pièce ( 21 - 23°C ) , en utilisant des cellules circulaires de chemin optique l = 1 cm . Les conditions standards pour ce travail sont : pH 7 , 0 , force ionique 0 , 20 M , température 25 , 0°C . Les conditions expérimentales différentes seront spécifiées .</p>
+			
+			</div>	
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Inosine La cinétique de la réaction entre le ( dien ) PdCl + et l &apos; inosine a d &apos; abord été étudiée en mélangeant les réactifs à un pH initial de 7 . On observe la présence de deux signaux distincts à 300 nm , le premier étant une augmentation relativement rapide ( t 1 / 2 = 0 , 4 s ) et importante de l &apos; absorbance et attribuée à la fixation du ( dien ) Pd ( II ) au site N7 de l &apos; inosine . Cette réaction est suivie d&apos;une autre , beaucoup plus lente ( î 1 / 2 = 120 s ) , produisant une très faible augmentation d &apos; absorbance et correspondant à la formation du complexe Pd - Nl à partir de Pd - N7 avec libération de protons . Ce transfert a lieu entre pH 4 et 8 , tel qu &apos; illustré à la figure 1 ( a ) . Le mécanisme de ce processus lent n &apos; a pas été étudié , à cause du faible signal dans ces conditions . Par ailleurs , des travaux antérieurs ( 6 , 8 ) ont démontré que ce processus résulte d &apos; une série de réactions impliquant plusieurs espèces . À X . = 350 nm , où les espèces Pd - Nl et Pd - N7 possèdent pratiquement la même absorbance , un seul signal est observé , correspondant à la formation du complexe Pd - N7 . La cinétique de la réaction au site N7 a donc été étudiée en suivant les variations d &apos; absorbance à 350 nm. On considère que la variation du pH durant cette réaction n&apos;affecte pas la cinétique de la fixation en N7. Cette variation est d&apos;autant plus faible que la concentration d&apos;inosine en excès est importante.</p>
+
+			<p>La figure \{b) montre l&apos;influence du pH sur la constante de vitesse de cette réaction. On note une augmentation de la constante de vitesse à pH &gt; 7 suivie d&apos;une importante diminution à pH &gt; 9. À pH  élevé , la déprotonation du site NI de l &apos; inosine ( pA &quot; a = 8 , 7 ( 3 ) ) conduit à l &apos; apparition de concentrations importantes d &apos; inosine déprotonée [ InH_ ! | . Avec k n et k [ i comme constantes de vitesse pour la réaction du ( dien ) Pd ( II ) aux sites N7 et NI déprotoné respectivement , on obtient l &apos; équation [1]:</p> 
+				
+	<p><formula>[1] fc exp = fc i7 [ In ]+ fcuIInH - ! ]</formula></p>
+
+			<p>À pH élevé , la contribution du deuxième terme devient importante et les résultats indiquent que la réaction au site NI déprotoné est plus rapide que celle au site N7 . A partir de pH = 8 , on a maintenant apparition du dérivé ( dien ) Pd ( OH ) + . Cette espèce , moins réactive , conduit à un ralentissement de la réaction , tel qu &apos; observé à pH &gt; 9 . La combinaison de ces deux effets permet d &apos; expliquer l &apos; allure de la courbe à pH &gt; 7. La vitesse maximum se situe aux environs de pH 9 , position qui est relativement sûre étant donné que la variation du pH durant la réaction devient négligeable à pH &gt; 8 . Entre pH 3 et 7 , la valeur de k exp est constante et reflète la réaction du ( dien ) Pd ( II ) au site N7 de l &apos; inosine . La diminution de vitesse observée à pH &lt; 2 peut être expliquée en considérant la protonation du site N7 à ce pH ( p£ , » 1 , 0 ( 3 ) ).</p>
+				
+			<p>La cinétique de la réaction à pH 7 a aussi été étudiée en fonction de la concentration en inosine et à diverses concentra - tions en ions chlorure ajoutés . Les résultats sont donnés à la <ref type="figure">figure 2</ref>. On remarque que la réaction est inhibée par l &apos; addition d &apos; ions chlorure et que l &apos; ordre par rapport à l &apos; inosine est inférieur à un à faible concentration en ion Cl &quot; . Les résultats sont semblables à ceux obtenus précédemment pour la réaction du ( dien ) Pd ( II ) avec la cytidine ( 16 ) . On peut donc proposer un mécanisme similaire pour la formation du complexe Pd - N7 de l &apos; inosine . Deux voies réactionnelles sont possibles : une substitution nucléophile directe ainsi qu &apos; une réaction via un intermédiaire aquo .</p>
+			
+	<p><formula>[2] In + ( dien ) PdCl + ( dien ) Pd ( In ) 2+ + Cl &quot; ! * voie directe </formula></p>
+	
+	<p><formula>[3] ( dien ) PdCl + + H 2 0 </formula></p>
+	
+	<p><formula>[4] In + ( dien ) Pd (H 2 0 ) 2 * 2 . k - i * 3 . TT I ( dien ) Pd ( H z O ) 2+ + Cl &quot; ( dien ) Pd ( In ) 2+ + H 2 0 voie du solvant</formula></p>
+
+			<p>La constante d &apos; équilibre pour la réaction du ( dien ) PdCl + au site N7 de l &apos; inosine ( équation [2] du mécanisme ) a été évaluée par titrage spectrophotométrique en présence d &apos; ions chlorure et à pH 4 afin d &apos; éliminer l &apos; interférence du complexe Pd - N 1 . Une valeur de K x = 240 ± 40 a été obtenue . Les constantes de vitesse individuelles ont pu être évaluées en procédant tel que décrit précédemment pour la cytidine . Les résultats sont donnés au tableau 1.</p>
+				
+			<p>La plus grande réactivité du dérivé aquo du ( dien ) Pd ( II ) permet d &apos; expliquer l &apos; inhibition par l &apos; ion Cl &quot; observée . Les constantes de vitesse k x et k 3 sont comparables à celles obtenues pour le système analogue impliquant le ( dien ) PdBr + ( 12 ) . Les différences sont dues à la force ionique plus élevée ainsi qu &apos; à la contribution de l &apos; espèce ( dien ) Pd ( OH ) + en l &apos; absence d &apos; ion Cl &quot; pour les expériences réalisées avec le ( dien ) PdBr + . Les valeurs des constantes de vitesse individuelles diffèrent beaucoup cependant de celles obtenues pour la cytidine. En particulier , la valeur de k x pour l &apos; inosine est six fois plus élevée que celle pour la cytidine ( 450 A / &quot; 1 s &quot; 1 vs . 75 M &quot; 1 s &quot; 1 ) tandis que pour k 3 , le rapport est de neuf ( 27 000 M &quot; 1 s &quot; 1 vs . 2900 A / &quot; 1 s &quot; 1 ) . L &apos; inosine est donc un meilleur nucléophile pour les réactions de substitution des complexes du ( dien ) Pd ( II ) et , en présence de cytidine , la réaction au site N7 de l &apos; inosine serait cinétiquement favorisée .</p>
+
+			<p>Induction d&apos;une forme hélicoïdale du poly(I) par le (dien)Pd(II) Le complexe formé entre le (dien)Pd(II) et le poly(I) a été caractérisé à l&apos;aide de mesures d&apos;absorbance, de dichroïsme circulaire et de température de fusion. Pour les mesures d&apos;absorbance, la bande d&apos;absorption du polynucléotide, dont le maximum se situe à 247 nm, a été utilisée. L&apos;addition du complexe de palladium cause un léger déplacement du maxi- mum vers 249 nm, accompagné d&apos;une importante diminution de l&apos;absorbance. L&apos;importance de cette diminution est inhabituelle pour un système (dien)Pd(II)-polynucléotide et suggère la formation d&apos;une structure hélicoïdale ordonnée avec recouvre- ment des bases hypoxanthine. La valeur de l&apos;absorbance à 247 nm à 25°C en fonction du rapport r = [(dien)Pd(II)]/[poly(I)] est donnée à la figure Ma). La diminution d&apos;absorbance est de type coopératif, caractéristique des systèmes impliquant des polynucléotides hélicoïdaux. La complexation du Pd(II) à l&apos;inosine produit une très légère diminution de l&apos;absorbance à 247 nm (de 0,78 à 0,74) comparativement à celle observée pour le poly(I) (de 0,65 à 0,45).</p>
+			
+			<p>Pour vérifier l&apos;existence d&apos;une telle structure, la variation de l&apos;absorbance en fonction de la température a été étudiée. Les courbes obtenues à divers rapports r sont représentées à la figure 4. Pour r = 0, une très légère transition peu coopérative est observée à basse température, indiquant la présence de faibles proportions de poly(I) associé en l&apos;absence de Pd(II). Lors de l&apos;addition de concentrations croissantes de (dien)Pd(II), la transition est déplacée à des températures plus élevées et devient plus importante et coopérative . Ce comportement indique la formation d &apos; une structure hélicoïdale de stabilité croissante avec l &apos; addition du ( dien ) Pd ( II ) . La température de fusion , correspondant au maximum de la courbe différentielle dA 2 47 / dT en fonction de T , est représentée à la figure 3 ( b ) en fonction du rapport r . La courbe obtenue démontre clairement l &apos; effet coopératif de la fixation du ( dien ) Pd ( II ) sur la stabilité du produit formé . La température de fusion passe de 28°C en l &apos; absence de Pd ( II ) à 72°C pour r = 0 , 49 . À température élevée , où le polynucléotide est sous forme de pelote statistique , l &apos; absorbance à 247 nm décroît aussi lorsque le rapport r augmente ( <ref type="figure">figure 3 ( a )</ref>) . Cette faible diminution est non - coopérative et reflète la fixation du Pd ( II ) à la base hypoxanthine du poly ( I ) . D &apos; ailleurs , le minimum de la bande d &apos; absorption du poly ( I ) à 95°C se situe toujours à 249 nm en présence de ( dien ) Pd ( II ) , comparativement à 247 nm pour le poly ( I ) libre , ce qui montre que le Pd ( II ) est complexé au poly ( I ) dans ces conditions . La diminution graduelle de la température conduit à une renaturation très lente du polymère , caractéristique du poly ( I ) ( 19 ) . La vitesse de renaturation semble augmenter cependant avec la concentration en ( dien ) Pd ( II ) . Le système est seulement partiellement réversible pour des temps courts ( &lt;lh ) .</p>
+
+			<p>En l&apos;absence du complexe de palladium, le poly(I) peut s&apos;auto-associer en solution à force ionique élevée et à basse température (19-23). Les deux structures proposées pour ce polymère contiennent trois et quatre brins respectivement tenus ensemble par des ponts hydrogène N I — H - • - 0 6 (21, 23). Un modèle alternatif implique des ponts hydrogène N I — H - • - N7 (19). L&apos;addition du complexe de Pd(II) peut faciliter la formation de la multiple hélice. Comme le site de fixation du (dien)Pd(II) se situe à N7 ou N1, la dernière structure proposée semble improbable. Pour les deux structures à ponts hydrogène NI—H---06, le site N7 est suffisamment accessible pour permettre la complexation du (dien)Pd(II). Une fois fixé, le complexe de Pd(II), chargé positivement, neutralise les charges négatives des phosphates voisins, réduisant les répulsions interchaîne et favorisant ainsi l&apos;association de plusieurs brins. Comme le (dien)Pd(II) est fixé plus fortement que des cations tels N a + , l&apos;effet structurant est plus important (7&gt;= 72°C à une force ionique de 0,20 M NaC104) et est rencontré à des concentrations plus basses en métal (3,0 x 10~5 M). Acker- mann et coll. ont déjà suggéré que la formation de la multiple hélice du poly(I) était due principalement à la diminution des répulsions électrostatiques entre les brins à force ionique élevée (22). De plus, comme la fixation du (dien)Pd(II) en N7 accroît l&apos;acidité du proton en NI pourl&apos;inosine (6, 8), un effet similaire avec le poly(I) contribuerait à la stabilisation des ponts hydrogène NI —H• • • 0 6 .</p>
+
+			<p>La stabilisation de la multiple hélice est possible avec des ions métalliques bivalents possédant une affinité reconnue pour le groupe phosphate,tels Mg24"etCa2+ (24).Il y a peu d&apos;exemples similaires impliquant un métal qui se fixe préférentiellement aux bases nucléiques. L&apos;ion A g + peut conduire à la formation d&apos;une multiple hélice avec le poly(I) (25). Cependant, cette structure est formée à l&apos;aide de ponts interchaîne, avec l&apos;ion A g + lié simultanément aux sites NI et 06 de deux hypoxanthines. Un tel complexe est impossible avec le (dien)Pd(II) possédant un seul groupe labile.</p>
+			
+			<p>Lors de l&apos;étude de l&apos;interaction du poly(I)• poly(C) et du poly(I) avec le (dien)Pt(II), une autre hypothèse a été avancée qui implique des ponts hydrogène entre les groupes amino du dien et les sites N7 des bases hypoxanthines voisines du site de complexation du métal (26). Ces ponts hydrogène contribue- raient à la stabilisation du poly(I)-poly(C) et existeraient aussi dans le cas du poly(I), bien que le degré de structuration ne soit pas quantifiable. Bien que de telles interactions puissent être présentes, nous croyons que les facteurs de type électrostatique jouent un rôle prédominant, tel que démontré précédemment lors de l&apos;étude du système (dien)Pd(II)-poly(I)-poly(C) (17).</p>
+
+			<p>Les spectres de dichroïsme circulaire du poly(I) libre et en présence de (dien)Pd(II) sont représentés à la figure 5. Le spectre du poly(I) est relativement peu intense. L&apos;addition du complexe de Pd(II) modifie profondément le spectre et accroît l&apos;intensité des bandes. Un tel accroissement de l&apos;intensité peut être attribué à la formation d&apos;une structure hélicoïdale ordonnée. La forme de ce spectre est différente cependant de celles généralement attribuées à la multiple hélice du poly(I) à force ionique élevée ou à basse température (19, 20). En particulier, la bande négative vers 280 nm pour le poly(I) libre est remplacée par une bande positive en présence du (dien)Pd(II). Une bande négative, absente dans le cas de la multiple hélice du poly(I) libre, est aussi rencontrée vers 240 nm. Ces résultats suggèrent, pour le complexe poly(I)- Pd(dien), une géométrie différente de celle de la multiple hélice du poly(I). Une inversion de la bande positive, lors de l&apos;addition de complexes de Pt(II), a déjà été remarquée (27). Cette inversion a été attribuée à une modification de l&apos;empilement des bases et de la structure secondaire du polymère lors de la fixation du métal aux bases nucléiques.</p>
+			
+			<p>La figure 6 illustre l&apos;influence du pH sur l&apos;absorbance à 260 nm du poly(I) et de son complexe avec le (dien)Pd(II). Pour le polynucléotide libre, la déprotonation du site NI cause une importante augmentation de l&apos;absorbance à pH &gt; 7 , 5 , correspondant à un pKa de 9 , 3 . Un début de transition à pH &lt; 3 est aussi visible, attribué à la protonation du site N7 dont le pK^ est voisin de 1.</p>
+
+			<p>La valeur de l&apos;absorbance à 260 nm est légèrement plus faible en présence du complexe de palladium. Deux transitions sont maintenant observées en milieu alcalin. La première, possédant un pKa apparent de 9,2, correspond probablement à la déprotonation des sites NI des bases hypoxanthine non-complexées par le palladium. A pH &gt; 11, une augmentation abrupte et importante de l&apos;absorbance est aussi observée. Cette trans- formation est irréversible et très lente, nécessitant au minimum 3 h. Le spectre de la solution ramenée à pH 7 correspond à celui du complexe (dien)Pd-IMP, suggérant l&apos;hydrolyse du poly(I). Le poly(I) libre peut être dégradé en milieu fortement basique (KOH, 0,2M, 40°C, 4h) et il a déjà été observé que certains ions métalliques pouvaient conduire à sa dégradation en milieu moins basique (28). Toutefois, contrairement aux ions intera- gissant fortement au phosphate (tels Mn(II), Zn(II), Cu(II), etc.), un pH relativement élevé est requis dans le cas du palladium.</p>
+	
+			<p>Cinétique de /&apos; interaction (dien)Pd(II)-poly(I) La cinétique de la réaction du complexe de Pd(II) avec le poly(I) a été étudiée en fonction du pH, de la concentration en ion chlorure et de la force ionique. En plus de la réaction rapide habituelle au site N7, on observe subséquemment des variations d&apos;absorbance lentes. Ces phénomènes lents, qui n&apos;affectent pas la détermination des constantes de vitesse, peuvent être attribués à des réarrangements conformationnels du polymère après la fixation du (dien)Pd(II) ainsi qu&apos;au transfert du complexe Pd-N7 au complexe Pd-N 1. Le transfert ou fixation du Pd(II) au groupement phosphate ne devrait pas avoir une influence significative, dû à la faible stabilité par rapport au complexe Pd(II)-N (16).</p>
+			
+			<p>L&apos;influence du pH sur la constante de vitesse d&apos;ordre deux de la réaction au site N7 du poly(I) (figure l(a)) est très similaire au cas de l&apos;inosine (voir figure 1 (b)). Les effets observés peuvent donc être attribués aux mêmes facteurs : diminution de la vitesse à pH &lt; 3, due à la protonation du site N7, et augmentation de la constante de vitesse à pH &gt; 7, due à la contribution du site NI déprotoné, suivie d&apos;une diminution à pH &gt; 9 attribuable à la présence du complexe (dien)Pd(OH)+ peu réactif. Il est à noter que le maximum de réactivité se situe aux environs de pH 9, tout comme dans le cas de l&apos;inosine. L&apos;inhibition par l&apos;ion chlorure à pH 7 est aussi observée avec le poly(I) (figure l{b)). La constante de vitesse en l&apos;absence d&apos;ion Cl" ajouté est très élevée, k02 = 4,1 x 105 M~x s - 1 (non-représenté sur la figure). Le comportement est identique à celui de l&apos;inosine et des autres systèmes étudiés (16) et indique que le mécanisme général est le même dans tous les cas.</p>
+			
+			<p>L&apos;influence de la force ionique est représentée à la figure 8 pour les réactions du (dien)Pd(II) avec le poly(I), l&apos;IMP est l&apos;inosine. Le poly(I) réagit beaucoup plus rapidement avec les complexes de Pd(II) à faible force ionique, dû au champ électrostatique fort de ce polyélectrolyte. La vitesse de cette réaction est, de plus, fortement influencée par la force ionique de la solution, à cause de l&apos;effet d&apos;écran et de la condensation des ions autour du polymère, facteurs très importants pour un polyélectrolyte. La grande accélération, en passant de l&apos;inosine à l&apos;IMP, est attribuée à la proximité du site N7 et du groupe phosphate dans la conformation anti favorisée de l&apos;IMP (3). Ceci conduit à un effet catalytique plus important du phosphate dans ce cas que dans le cas du CMP (16).</p>
+
+		</div>	
+		
+		<div type="section">
+			<head>Remerciements</head>
+
+		<p>Nous tenons à remercier le Conseil de recherches en sciences naturelles et en génie du Canada et le Fonds pour la formation de chercheurs et l&apos;aide à la recherche du Québec pour l&apos;aide financière et les bourses d&apos;études supérieures (R.M.) accordées.</p>	
+
+		</div>
+		
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">G</forename>
+				<surname>Marzilli</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">255</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">W</forename>
+				<surname>Gellert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bau</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Met. Ions Biol. Syst</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="issue">1</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">H</forename>
+				<surname>Mariam</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Met. Ions Biol. Syst</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="pp">57</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">K</forename>
+				<surname>Barton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">J</forename>
+				<surname>Lippard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Met. Ions Biol</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">31</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">Y H</forename>
+				<surname>Chu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">S</forename>
+				<surname>Tobias</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">98</biblScope>
+			<biblScope type="pp">2641</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">H</forename>
+				<surname>Scheller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Scheller-Krattiger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">103</biblScope>
+			<biblScope type="pp">6833</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<forename type="middle">K</forename>
+				<surname>Hàring</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">80</biblScope>
+			<biblScope type="pp">1</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Symp. Ser</title>
+		<imprint>
+			<biblScope type="vol">209</biblScope>
+			<biblScope type="pp">231</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S.-H</forename>
+				<surname>Kimetr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">91</biblScope>
+			<biblScope type="pp">11</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Pneumatikakis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Hadjiliadis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Theophanides</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">17</biblScope>
+			<biblScope type="pp">915</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Pneumatikakis</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">66</biblScope>
+			<biblScope type="pp">131</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J.-Y</forename>
+				<surname>Séguin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Zador</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">20</biblScope>
+			<biblScope type="pp">203</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">D</forename>
+				<surname>Rochon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P.-C</forename>
+				<surname>Kong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Coulombe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Melanson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">58</biblScope>
+			<biblScope type="pp">381</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">19</biblScope>
+			<biblScope type="pp">2868</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Zador</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">78</biblScope>
+			<biblScope type="pp">97</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ménard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Zador</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biophys. Chem</title>
+		<imprint>
+			<biblScope type="vol">20</biblScope>
+			<biblScope type="pp">29</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Zador</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">123</biblScope>
+			<biblScope type="pp">23</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ménard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">T</forename>
+				<surname>Phan Viet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Zador</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">136</biblScope>
+			<biblScope type="pp">25</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Guschlbauer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biophysik</title>
+		<imprint>
+			<biblScope type="vol">9</biblScope>
+			<biblScope type="pp">261</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Boubault</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochimie</title>
+		<imprint>
+			<biblScope type="vol">55</biblScope>
+			<biblScope type="pp">1209</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rich</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim. Biophys. Acta</title>
+		<imprint>
+			<biblScope type="vol">29</biblScope>
+			<biblScope type="pp">502</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H.-J</forename>
+				<surname>Hinz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACKERMANN. Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">9</biblScope>
+			<biblScope type="pp">923</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">H</forename>
+				<surname>Chou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">J</forename>
+				<surname>Thomas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jr</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Arnott</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope type="vol">4</biblScope>
+			<biblScope type="pp">2407</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">A</forename>
+				<surname>Shin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">2459</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">L</forename>
+				<surname>Eichhorn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">19</biblScope>
+			<biblScope type="pp">539</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Hermann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">V</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Guschlbauer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bio-polymers</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">973</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">L</forename>
+				<surname>Eichhorn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">225</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">L</forename>
+				<surname>Eichhorn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">3</biblScope>
+			<biblScope type="pp">95</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

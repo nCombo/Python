@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nouvelle synthèse électrochimique de 7-bisdioxolannes symétriques et dissymétriques</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Christophe</forename>
+								<surname>Daubié</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Cathy</forename>
+								<surname>Bacquet-Einhorn</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Daniel</forename>
+								<surname>Lelandais</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Structurale</orgName>
+								<address>
+									<addrLine>Bâtiment F, 4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Nouvelle synthèse électrochimique de 7-bisdioxolannes symétriques et dissymétriques</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La réduction électrochimique de dioxolannes a-iodés permet de préparer une série de 7-bisdioxolannes symétriques et dissymétriques.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The electrochemical reduction of a-iodinated dioxolanes leads to the preparation of a series of symmetrical and non-symmetrical 7-bisdioxolanes.</p>
+			</div>
+		</front>
+		<body>
+			<p>Nous avons récemment mis au point une nouvelle méthode de préparation de cétals a-iodés (1) du type R 1 —C—CHR 2 —I avec R 2 = H ou radical, et il nous a semblé intéressant d'étudier le comportement électrochimique de ces composés.</p>
+			<p>En effet, les iodures d'alkyle RI étant connus pour fournir un radical R' par réduction électrochimique, nous pouvions espérer dans notre cas aboutir, par dimérisation du radical intermédiaire , à des 7-bisdioxolannes qui ont déjà été l'objet de notre attention (2, 3).</p>
+			<p>Par ailleurs, l'obtention par réduction électrochimique, du dioxolanne de la cyclopropanone à partir du 2,2 bis(chlorométhyl )-l,3 dioxolanne (4) et la réactivité plus grande des dérivés iodés par rapport aux analogues chlorés confortaient cet espoir.</p>
+			<p>En fait les essais d'électrolyse menés dans des conditions analogues ou voisines (utilisation d'une concentration supérieure en dérivé halogéné destinée à favoriser la dimérisation) de celles décrites par Van Tilborg et al. (4) ne nous ont conduits qu'à de faibles quantités de dimère. A côté du cétal déshalogéné (80%) la réaction fournit un mélange complexe de produits (probablement issus de l'ouverture du cycle cétalique et de diverses dégradations). Les essais d'électrolyse dans les conditions classiques ayant échoué, nous avons observé que la réaction espérée se produisait avec de bons rendements en dimère (Tableau 1) et des rendements moyens en courant en conduisant l'électrolyse de la façon suivante: (0 cellule à compartiment unique; (ii) anode en platine et cathode en platine portée à un potentiel pouvant atteindre —5 V par rapport à l'électrode de référence au calomel ; (iii) milieu méthanolique anhydre 1 M en dioxolanne a-iodé et 1 M en potasse.</p>
+			<p>Les conditions opératoires extrêmes utilisées nous amènent, sans vouloir discuter du mécanisme, à faire quelques remarques:</p>
+			<p>1. L'électrolyse conduite en cellule à compartiments séparés -dont seul le compartiment cathodique reçoit le substrat libère le dimère avec des rendements qui ne sont pas supérieurs à ceux observés en compartiment unique, tout en compliquant le montage.</p>
+			<p>2. L'utilisation d'une quantité équimolaire de potasse est indispensable, le substrat n'étant modifié que proportionnellement à la quantité de potasse ajoutée. L'électrolyse s'accompagne d'ailleurs d'une forte précipitation d'iodure de potassium.</p>
+			<p>3. Les dérivés bromés sont retrouvés intacts dans les mêmes conditions d'électrolyse.</p>
+			<p>4. Si les réactions électrochimiques classiques ont permis d'obtenir un peu (5%) des dimères attendus, nous avons pu observer qu'il en était de même lors de diverses réactions de type Wurtz utilisant le sodium (5). Mais les rendements sont très faibles là encore et le produit principal est le dioxolanne déshalogéné.</p>
+			<p>La méthode proposée ici semble donc satisfaisante. Elle présente cependant des limitations: en effet les acétals a-iodés ouverts fournissent essentiellement des produits de dégradation tandis que les dioxannes-1,3 a-iodés, homologues supérieurs des dioxolannes utilisés, ne conduisent qu'au dioxanne déshalogéné . Par contre, cette électrolyse s'est révélée une synthèse rentable de 7-bisdioxolannes dissymétriques.</p>
+			<p>Ces produits sont obtenus en utilisant une méthode bien connue pour d'autres dimérisations radicalaires mixtes, la réaction de Kolbe en particulier (3): le cétal a-iodé le plus précieux est introduit de façon contrôlée durant l'électrolyse d'un excès du composé le plus accessible.</p>
+			<p>En conclusion, on peut remarquer que, si pour certains 7-bisdioxolannes (1, 2) les rendements sont légèrement inférieurs à ceux que nous avions obtenus par oxydation anodique d'acides |3-cétaliques (2), la méthode reste compétitive vu l'accès très aisé aux produits de départ. En outre, contrairement à la réaction précédemment décrite, elle permet l'accès à des 7-bisdioxolannes substitués sur les carbones centraux, ce qui accroit considérablement la quantité de squelettes carbonés susceptibles d'être atteints par cette voie.</p>
+			<p>Enfin, sans préjuger des applications nouvelles issues d'un déblocage sélectif des cétals, en cours d'étude au laboratoire , ces 7-bisdioxolannes mènent par déblocage total à des 7-dicétones dont l'intérêt comme synthons n'est plus à démontrer.</p>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les spectres rmn ont été effectués sur un appareil Brucker 80WP en solution dans le deutérochloroforme avec pour référence interne l'hexaméthyldisiloxane.</p>
+				<div n="I">
+					<head>Préparation des dioxolannes a-iodés</head>
+					<p>Ils ont été synthétisés de deux façons différentes: soit par une réaction d'échange brome-iode sur la cétone bromée selon la réf. 6 suivie de la préparation du dioxolanne selon Salmi (7), composés 1, 3-7; soit par iodation directe des dioxolannes de cétones selon la réf. I, composés 2 et 8.</p>
+				</div>
+				<div n="II">
+					<head>Obtention des bisdioxolannes</head>
+					<div n="1">
+						<head>Conditions d'électrolyse: mode opératoire général</head>
+						<p>L'appareil utilisé est un potentiostat Tacussel PRT 40-5X qui permet d'imposer un potentiel fixe à la cathode. Les mesures coulométriques ont été faites à l'aide d'un intégrateur Tacussel IG5-LN monté en série sur le circuit. L'intensité du courant est vérifiée par un ampèremètre monté sur le circuit de l'anode. La cellule d'électrolyse est constituée par une cuve de verre entourée d'une jaquette permettant de maintenir une circulation d'eau de refroidissement. L'anode est une lame de platine de 3 cm 2 et la cathode une lame de platine de 9 cm 2 .</p>
+						<p>Cas de y-bisdioxolannes symétriques</p>
+						<p>Dans la cellule non divisée une solution de 0,02 mol de dioxolanne a-iodé dans 20 mL de méthanol anhydre est introduite. L'électrolyse est effectuée sous agitation magnétique et la tension imposée est comprise entre —2,5 et —5 V par rapport à l'électrode de référence au calomel, la réaction commence dès que l'on ajoute quelques pastilles de potasse. L'addition de potasse doit se faire progressivement pour éviter une trop forte intensité de courant. L'électrolyse est arrêtée après passage de 3 F/mol substrat. Le mélange réactionnel est évapo-ré sous pression réduite, le résidu est repris par 100 mL d'un mélange 1:1 d'éther et de chloroforme. Le précipité jaune obtenu est filtré. Le filtrat est séché au carbonate de sodium puis évaporé.</p>
+						<p>Cas de y-bisdioxolannes dissymétriques</p>
+						<p>Dans la cellule, une solution de 0,02 mol du dioxolanne a-iodé le plus accessible est mis en solution dans 20 mL de méthanol anhydre. L'électrolyse est démarrée dans les mêmes conditions que ci-dessus mais une solution de 0,01 mol du dioxolanne a-iodé le plus précieux dans 10 mL de méthanol est ajoutée goutte à goutte de telle sorte que toute la solution soit versée après passage de 0,01 F. La potasse est ajoutée dès l'introduction du produit le plus précieux et progressivement tout au long de l'électrolyse de manière à maintenir une intensité de courant constante. La réaction est ensuite menée comme précédemment.</p>
+					</div>
+					<div n="2">
+						<head>Produits isolés</head>
+						<p>Bis(méthyl-2 dioxolanne-1,3 yl-2)-l ,2 éthane, 1 (2) Rendement 70%.</p>
+						<p>(tertiobutyl-2 dioxolanne-],3 yl-2)-J,2 éthane, 2 (2) Rendement 70%. Bis(méthyl-2 dioxolanne-1,3 yl-2)-2,3 butane, 3 (2) Rendement 66%.</p>
+						<p>(méthyl-2 dioxolanne-1,3 yl-2)-3,4 hexane, 4 Rendement 60%; séparé sur S.E.30 à210°C; rmn (CDC1 3 ): 3,95 (s, 8H), 2 à 1,2 (m, 6H), 1,2 (s, 6H), 1 (t, 6H) ppm. Anal. calc. pour C 14 H 26 0 4 : C 65,08, H 10,14; trouvée: C 65,30, H 10,08. Bis(méthyl-2 dioxolanne-1,3 yl-2)-3,4 (diméthyl-2,5) hexane, 5 Rendement 69%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,9 (s, 8H), 1,8 à 1,2 (m, 4H), 1,2 (s, 6H), 0,9 (d, I2H) ppm. Anal. calc. pour Ci6H 30 O 4 : C 67,09, H 10,56; trouvée: C 67,04, H 10,47. Bis(méthyl-2 dioxolanne-1,3 yl-2)-6,7 dodécane, 6 Rendement 58%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,9 (s, 8H), 2 à 0,6 (m, 30H) ppm. Anal. calc. pour C 28 H 38 0 4 : C 70,13, H 11,18; trouvée: C 70,08, H 11,12. Bis(phényl-2 dioxolanne-1,3 y 1-2)-2,3 butane, 7 Rendement 59%; F 115°C; rmn (CDC1 3 ): 7,5 à 7,2 (m, 10H), 4 à 3,5 (m, 8H), 2,5 à2,1 (m, 2H), 1 à0,8 (m, 6H) ppm./lna/. calc. pour C 22 H 26 0 4 : C 74,55, H 7,39; trouvée: C 74,53, H 7,37. Bis(dioxa-l,4 spiro [4] [5] décyle)-6,6&amp;apos;, 8 Rendement 57%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,95 (s, 8H), 2,2 à 1 (m, 18H) ppm. Anal. calc. pour C l6 H 26 0 4 : C 68,05, H 9,28; trouvée: C 68,01, H 9,23. (Méthyl-2 dioxolanne-1,3 y 1-2)-2 (méthyl-2 dioxolanne-1,3 yl-2)-l propane, 9</p>
+						<p>Rendement 54%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,9 (s, 8H), 2 à 1,5 (m, 3H), 1,35 (s, 3H), 1,15 (s, 3H), 1,05 (d, 3H) ppm. Anal. calc. pour C,,H 20 0 4 : C 61,09, H 9,32; trouvée: C 61,05, H 9,28. (Méthyl-2 dioxolanne-1,3 yl-2)-2 (méthyl-2 dioxolanne-1,3 yl-2)-J heptane, 10 Rendement 52%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,95 (s, 8H), 2 à 0,8 (m, 20H) ppm. Anal. calc. pour C, 5 H 28 0 4 : C 66,14, H 10,36; trouvée: C 66,08, H 10,32. (lsobutyl-2 dioxolanne-1,3 yl-2)-2 (méthyl-2 dioxolanne-1,3 yl-2)-l méthyl-3 butane, 11 Rendement 55%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,95 (s, 8H), 2 à 1,4 (m, 7H), 1,4 (s, 3H), 1 à 0,8 (m, 12H) ppm. Anal. calc. pour C, 6 H 30 O 4 : C 67,09, H 10,56; trouvée: C 67,02, H 10,54. (Cyclohexyl-2 dioxolanne-1,3 yl-2)-l (méthyl-2 dioxolanne-1,3 yl-2)-2 propane, 12 Rendement 37%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,95 (s, 8H), 2 à 0,9 (m, 17H), 1,2 (s, 3H) ppm. Anal. calc. pour C 16 H 28 0 4 : C 67,57, H 9,93; trouvée: C 67,54, H 9,91. (Phényl-2 dioxolanne-1,3 y 1-2)-2 (méthyl-2 dioxolanne-1,3 yl-2)-l propane, 13</p>
+						<p>Rendement 30%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 7,5 à 7,2 (m, 5H), 4,1 à 3,6 (m, 8H),2,2à 1,4 (m, 3H), 1,2 (s, 3H), 0,95 (d, 3H) ppm. Anal. calc. pour C l6 H 22 0 4 : C 69,04, H 7,97; trouvée: C 69,03, H 7,95. (Tertiobutyl-2 dioxolanne-1,3 yl-2)-l (isobutyl-2 dioxolanne-1,3 yl-2)-2 méthyl-3 butane, 14 Rendement 50%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 4,1 à 3,9 (m, 8H), 1,9 à 1,1 (m, 7H), 1,05 à 0,9 (m, 21H) ppm. Anal. calc. pour C, 9 H 36 0 4 : C 69,47, H 11,05; trouvée: C 69,40, H 11,03. (Méthyl-2 dioxolanne-1,3 yl-2)-2 (isobutyl-2 dioxolanne-1,3 yl-2)-3 méthyl-4 pentane, 15 Rendement 47%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 3,9 (s, 8H), 2,1 à 1,5 (m, 6H), 1,2 (s, 3H), 1,1 à0,8 (m, 15H) ppm. Anal. calc. pourC 17 H 32 0 4 : C 67,96, H 10,74; trouvée: C 67,91, H 10,70. [(Ethylenedioxy)-2,2 propyl]-6 dioxa-1,4 spiro[4,5] décane, 16 Rendement 53%; séparé sur S.E.30 à 210°C; rmn (CDC1 3 ): 4,1 à 3,7 (m, 8H), 2,2 à 1,1 (m, 14H) ppm. Anal. calc. pour C l3 H 22 0 4 : C 64,44, H 9,15; trouvée: C 64,38, H 9,09.</p>
+					</div>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Daubi£</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Bacquet-Einhorn</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lelandais</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">1548</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Einhorn</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Soulier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lelandais</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="pp">584</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C. Bacquet-Einhorn</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Soulier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lelandais</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Belg</title>
+							<imprint>
+								<biblScope type="vol">92</biblScope>
+								<biblScope type="pp">305</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J. M. Van Tilborg</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Plomp</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">J</forename>
+									<surname>Smit</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Reel. Trav. Chim. Pays-Bas</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">206</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Aumiller</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Synth</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">55</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Khoshdel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">3527</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+									<surname>Salmi</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber. B</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="pp">1803</biblScope>
+								<date type="published" when="1938"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réduction électrochimique de dérivés carbonylés en milieu non aqueux en présence de EUC1 3 * 6H 2 0</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jamaâ</forename>
+								<surname>Douch</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'électrochimie organique</orgName>
+								<orgName type="institution">Unité Associée Centre national de la recherche scientifique</orgName>
+								<address>
+									<postCode>434</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<surname>Mousset</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">Université de Clermont II</orgName>
+								<address>
+									<addrLine>24, Avenue des Landais, BP 45</addrLine>
+									<postCode>63170</postCode>
+									<settlement>-Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réduction électrochimique de dérivés carbonylés en milieu non aqueux en présence de EUC1 3 * 6H 2 0</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Dans ce travail, nous avons réalisé l'étude de la réduction électrochimique en milieu non aqueux (DMF) de cétones aroma-tiques ou a,(3 éthyléniques aromatiques en présence de EuCl 3 -6H 2 0. Une étude préalable par infra-rouge et par voltammétrie cyclique a mis en évidence l'échange de ligands H 2 0-DMF et la libération de trois ions Cl -. Un examen détaillé des interac-tions entre le cation métallique et le dérivé carbonylé met en évidence la formation de complexes de type 1-1 ou 1-2 selon le site de complexation. La stéréochimie des produits d'hydro-dimérisation est en accord avec la formation à l'électrode d'un complexe de stoechiométrie 1 Eu(II) -2 ^C=0.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p> The electrochemical reduction of aromatic or a,p ethylenic aromatic ketones in nonaqueous solvent (DMF) has been per-formed in the presence of EuCl 3 -6H 2 0. Ligand exchange between DMF and water molecules of the europium salt was first studied. A voltammetric study shows that complexation involving electrogenerated Eu(II) and ketone may occur at the elec-trode interface or in solution, leading respectively to 1 Eu(II) -2 ^C=0 and 1 Eu(II) -1 ^C=0 stoichiometrics. The stereochemistry of hydrodimerization products is studied.</p>
+			</div>
+		</front>
+		<body>
+			<p>Le chrome(H) a été fréquemment utilisé en chimie organique comme agent réducteur, par exemple, dans le cas de dérivés nitrés, halogénés ou carbonylés (1, 2). Sa génération «in situ» par voie électrochimique en milieu non aqueux et son rôle dans les processus de réduction ont fait l'objet de quelques travaux (3-7). Le comportement électrochimique des cétones aromatiques simples ou substituées a été très étudié aussi bien en milieu aqueux (8-10) qu'en milieu organique (11-14). Leur réduction dans le diméthyl formamide (DMF) en présence de cations métalliques et la stéréosélectivité de la réaction d'hydrodimérisation ont été particulièrement développées récemment (15, 16) en relation avec la nature du cation présent dans le milieu, son caractère acide selon Lewis et son pouvoir complexant.</p>
+			<p>Les complexes de l'europium sont très utilisés en spectroscopie (17) ou en synthèse organique (18). Dans le cadre du travail que nous avions réalisé avec les sels de chrome et dans un but comparatif, nous avons consacré cet article à l'étude de la réduction électrochimique de dérivés carbonylés en présence d'europium(II) électrogénéré. Les sels d'europium hexahydratés (en particulier EuCl3'6H 2 0) présentent deux étapes cathodiques séparées par un intervalle de potentiel beaucoup plus important que pour le chrome. Ce fait peut être avantageux pour l'étude de substrats difficilement réductibles (aryl alkyl cétones) si on désire s'affranchir de processus mettant en cause une réduction par un film de métal colloïdal déposé sur l'électrode (7) ou la formation d'amalgames avec le mercure (19) lorsque l'étape M(II)/M(0) est présente. Pour qu'une interaction entre l'europium(II) et la fonction carbonylé puisse être observée, il faut que la première étape de réduction de la cétone aromatique se situe entre les potentiels £(A,) de l'étape Eu(III)/Eu(II) et E(A 2 ) de Eu(II)/Eu(0). Nous nous sommes volontairement limités, afin de comparer la nature et la stéréochimie des produits formés, à l'étude de la réduction des cétones 1-5 qui avaient fait l'objet de travaux antérieurs en présence de sels de chrome ou d'autres métaux.</p>
+			<div>
+				<head>Résultats expérimentaux et discussion</head>
+				<div type="section" n="1">
+					<head>Réduction de EuClj • 6H2 O</head>
+					<p>La réduction électrochimique de sels d'europium en milieu aqueux ou non aqueux a été décrite dans quelques travaux (20-23). Dans le DMF, les courbes intensité-potentiel de EUC1 3 * 6H20 montrent la présence de deux étapes de réduction £I/ 2 (AI) = -0,250 V et £, /2 (A 2 ) = -1,530 V (référence Ag/Agl/I~ 0,1M DMF) correspondant respectivement à des échanges de 1 et 2 électrons par molécule. En voltammétrie cyclique ( <ref type="figure">fig. 1</ref>) on peut noter la présence de deux pics cathodiques (Ai et A 2 ) et de deux pics anodiques (Al) correspondant à la réoxydation de l&amp;apos;espèce formée en A! (AE p = 95 mV) et A 2 assez mal défini en relation avec les espèces formées en A 2 . Il est généralement admis (24, 25) qu'un amalgame peut se former à la seconde étape de réduction selon :</p>
+					<p><formula>[1] Eu 11 + Hg + 2e" Eu (Hg)</formula></p>
+					<p>La différence de potentiel (A£ p — 1 Volt) existant entre A 2 et A 2 laisse penser que ce dernier traduit la réoxydation d'espèces formées par action de l'amalgame sur des impuretés du milieu plutôt que celle de l'amalgame lui-même. Nous nous sommes toujours efforcés d'éviter la formation de Eu(0) et nous n'avons pas cherché à élucider l'origine de A 2.</p>
+					<p>La mise en solution dans un solvant donneur S, d'un sel hexahydraté, entraîne des échanges de ligands au niveau de la sphère interne de complexation se traduisant par l'équation générale:</p>
+					<p><formula>[2] (M(H 2 0) 6 _ n Cl " )&lt; 3 -"&gt; + + mS (M(S) m (H 2 0) 6 _( m+n) a)&lt; 3 -"» + + mH 2 0</formula></p>
+					<p>Afin de définir la nature du complexe final, nous avons réalisé une étude spectroscopique et voltammétrique sur EUC13 * 6H 2 0. La vibration dans l'infra-rouge de la liaison OH de l'eau « libre » dans le DMF fournit une bande d'absorption présentant un maximum situé à 3545 cm"1 alors que les molécules complexées absorbent entre 3100 et 3200 c m - 1 (26). Le DMF, que nous avons utilisé, a une teneur en eau initiale de 0,15% (dosage par chromatographie en phase vapeur et par infrarouge ). L'échange H 2 0-DMF peut être traduit par l'équation</p>
+					<p><formula>[3] (Eu(H 2 0) 6 _ " CI " )&lt; 3 -"&gt; + + (6 -ri) DMF -&gt; (Eu(DMF) 6 _ " Cl " )&lt; 3 -n)+ + (6 -n)H 2 0</formula></p>
+					<p>Une courbe d'étalonnage réalisée pour des solutions contenant des quantités d'eau connues permet de montrer que les six molécules d'eau de EuCl 3 -6H 2 0 sont libérées dans le milieu lors de la mise en solution dans le DMF ( <ref type="figure">fig. 2</ref>). Ceci implique que dans l'équation [3] nous ayons n = 0 donc que la mise en solution libère également de la sphère de complexation trois ions CP.</p>
+					<p>L'oxydation de l'eau libérée par la réaction d'échange, ou contenue initialement dans le solvant, est repoussée vers des valeurs de potentiel plus anodiques en raison du phénomène de solvatation par le DMF. Il est alors possible comme dans le cas du chrome(III) (27) d'enregistrer la courbe d'oxydation des ions Cl" libres ( <ref type="figure">fig. 3</ref>) et d'en déduire la quantité présente en solution grâce à un étalonnage réalisé avec LiCl (i d , DMF) = 2,9 X 10~ 2 ML _1 ) (28). La courbe voltammétrique fournie par EuCl 3 * 6H 2 0 a une morphologie tout à fait semblable à celles obtenues en absence d'ions Eu 3+ , ce qui laisse penser que ces derniers ne perturbent pas le système. Elle permet effectivement de mettre en évidence la libération de trois ions Cl".</p>
+					<p>L'ensemble de ces résultats nous semble apporter des arguments en faveur de l'équation d'échange :</p>
+					<p><formula>DMF ,, [4] EU(H20)6C13 » Eu(DMF)6 + 6H20 + 3C1"</formula></p>
+				</div>
+				<div type="section" n="2">
+					<head>Réduction de cétones aromatiques en présence de EuCl3-6H20</head>
+					<div>
+						<head>(a) Modification du processus d'électroréduction</head>
+						<p>Lorsqu'on ajoute des quantités croissantes d'une cétone activée 1-5 à une solution de chlorure d'europium on constate : (0 que la présence de cétone ne modifie pratiquement pas la partie cathodique du premier pic de réduction (A]) de l'europium(III ) alors que sa partie anodique disparait progressivement . De plus, il apparaît une nouvelle étape (B) irréversible située à un potentiel £(B) moins cathodique que celui du premier pic de réduction de la cétone en son radical anion (C,) ( <ref type="figure">fig. 4</ref>) (tableau 1); et (ii) que l'intensité de B croit avec la concentration en cétone et devient maximum pour un rapport de concentrations :</p>
+						<p><formula>[&gt;C=Q]_ m = — 2 [EuIII]</formula></p>
+						<p>Jusqu'à l'équimolécularité (m = 1) les voltammogrammes ne présentent que deux pics (Ai et B). Au-delà, ceux correspondant à la réduction de la cétone (Ci et C 2 ) apparaissent. On peut constater également que la seconde étape (A 2 ) relative à la réduction de Eu(II) en Eu(0) disparait dès la première addition de cétone. Des additions successives de chlorure d'europium à une solution de cétone entraînent parallèlement à l'apparition de B, une diminution des pics de réduction Ci et C 2 du dérivé carbonylé ainsi que des pics correspondant à la réoxydation du radical anion^C=0 T (Ci) ou de Eu(II) en Eu(III) (A[). Le potentiel du pic B est nettement moins cathodique que celui correspondant à la formation de l'europium métallique. L'ensemble des faits expérimentaux suggère l'hypothèse, déjà formulée pour d'autres systèmes (4, 5), que l'espèce réduite en B résulte de l'association de molécules de cétone avec des ions divalents Eu(II).</p>
+						<p>En absence de sel métallique, des additions d'eau ou une modification de la nature de l'électrolyte support ne provoquent pas l'apparition de nouveaux pics de réduction du dérivé carbonylé. Un travail récent (29) fait état d'une possibilité de réduction indirecte de la benzophénone et du benzaldéhyde par l'ion ytterbium(II). Dans cet exemple le couple Yb 3+ /Yb 2+ se situe à un potentiel beaucoup plus cathodique que celui de EU 3+ /EU 2+ .</p>
+					</div>
+					<div>
+						<head>(b) Stoechiométrie du complexe et site de complexation</head>
+						<p>La <ref type="figure">figure 5</ref> montre l'évolution de l'intensité du pic B pour une solution d'europium(III) à laquelle on ajoute des quantités croissantes de benzophénone. La proximité de la première étape de réduction de la cétone rend délicate, en polarographie, la mesure de l'intensité de diffusion de la vague B, aussi avons nous choisi comme pour les sels de chrome (4) d'utiliser la voltammétrie cyclique qui permet de mesurer plus facilement le courant du pic (i p ). On peut constater une augmentation rapide de ( p jusqu'à ce que le rapport des concentrations m atteigne la valeur 2, contrairement à ce que l'on observe en présence d'ions Cr 2+ où le maximum d'intensité est atteint pour m = 1. La stabilisation du courant de pic observée pour m = 2 laisse supposer la formation d'un complexe europiumcétone de stoechiométrie 1-2. Cependant l'intensité du pic B pour m = 2 n'est pas exactement le double de celle observée pour m = 1. De plus, la réapparition des pics de réduction de la cétone dès que m est supérieur à 1 indique que la formation du complexe 1-2 n'est pas complète pour ces concentrations. Pour expliquer ce phénomène nous envisageons l'hypothèse d'une destruction partielle du sel d'europium par hydrolyse en raison du milieu rendu fortement basique au voisinage de l'électrode par l'excès de radicaux anions, ce que nous pourrons vérifier lors des électrolyses préparatives. Nous avons de plus réalisé une étude des variations de / p (B) en fonction de la concentration en mélange sel d'europium -cétone pour une même valeur de m ( <ref type="figure">fig. 6</ref>). L'intensité du pic B augmente proportionnellement à la concentration en mélange lorsque celle-ci est faible puis tend vers une limite correspondant aux concentrations de 2 x 10" 3 AI en EUC13-6H20 et 2 x 10~ 3 M en benzophénone si m = l et de 2 x 10 _3 AÎ en EuCl 3 -6H 2 0 et 4 x 10~ 3 AÎ en benzophénone si m = 2. Cette limitation peut être due à un phénomène d'adsorption des produits de réaction (pinacol ou pinacolate) (30) à la surface de la goutte de mercure.</p>
+						<p>Afin de déterminer si la complexation peut intervenir avec l'europium(II) en solution, nous avons réalisé une réduction partielle (0,8 Fmol -1 ) du sel métallique au potentiel de —0,60 V préalablement à l'introduction de la cétone. L'évolution de la solution est suivie par voltammétrie sur électrode tournante de carbone vitreux. La benzophénone 1 est ajoutée dès l'arrêt de l'électrolyse et des voltammétries de contrôle sont réalisées à divers intervalles de temps sur la même solution. Pour un rapport de concentrations m = 0,5, on observe que le pic B défini précédemment et attribué à la réduction du complexe Eu(II) -cétone est accompagné d'une étape supplémentaire (B') située à un potentiel moins cathodique que B ( <ref type="figure">fig. 7</ref>). Pour une même concentration initiale en EUC1 3 * 6H 2 0 (4 x 10~ 3 M) l'intensité de B' comparée à celle de B est fonction de la concentration en benzophénone ajoutée. Ainsi, pour une faible valeur (10 -3 AÎ) c'est le pic B' qui est prépondérant; par contre, si la concentration augmente, l'intensité de B' diminue par rapport à celle de B. On peut constater également que pour des conditions données, l'intensité de B' diminue en fonction du temps au profit de B qui finalement subsiste seul. L'intensité finale est alors égale à z p (B') + / p (B) initiales. Il est connu que les sels d'europium peuvent donner des complexes de stoechiométrie 1-1 ou 1-2 (31, 32), ces derniers étant les plus stables. Lorsque la concentration en cétone est faible comparée à celle en europium, le complexe 1-1 est favorisé.</p>
+						<p>Si la concentration en dérivé carbonylé est importante, c'est le complexe 1-2 qui devient prépondérant. La modification du pic B' avec le temps traduit l'évolution du complexe 1-1. Si la benzophénone et le sel d'europium sont introduits simultanément, le pic B' n'est pas observé. Les coefficients de diffusion respectifs des deux espèces étant D Eu I-=4,05 x 10 6 cm 2 s -1 et £&gt;-c =o = 8-1 x 10 6 cm 2 s _1 , on peut penser qu'à l'électrode les conditions de concentration respectives des deux espèces seront toujours plus favorables à la formation du complexe 1-2. Après l'électrolyse partielle de l'europium(III) à —0,6 V, la comparaison des intensités de pic obtenues en voltammétrie cyclique sur goutte stationnaire de mercure donne la valeur de 3,5 pour le rapport</p>
+						<p><formula>= ¡'p(B') + ip(B)</formula></p>
+						<p>q ïpCAO lorsque la cétone est introduite seulement à l'arrêt de l'électrolyse . S'il y a introduction simultanée de la cétone et du sel d'europium dans la solution (sans electrolyse préalable) on obtient q = 1,6. Les mêmes expériences réalisées dans le cas de CrCl 3 -6H 2 0 conduisent respectivement aux valeurs q = 1,77 et q = 1,75. Comme l'ont prouvé Sopher et Utley (5), ce résultat montre que l'intermédiaire clef dans le cas du chrome est Cr(III). Par contre, dans le cas de l'europium, le rapport des intensités obtenu après électrolyse préalable de Eu(III) indique que la complexation peut également intervenir avec Eu(II) en solution.</p>
+					</div>
+				</div>
+				<div type="section" n="3">
+					<head>Étude des produits de réduction</head>
+					<p>Nous avons réalisé des macroélectrolyses au potentiel du pic B pour les cétones 1, 2, 3 et 5 afin de déterminer la nature et éventuellement la stéréochimie des produits formés. Nous distinguerons deux cas selon la valeur de m :</p>
+					<p>(i) Cas où m = 1</p>
+					<p>Les cétones 1, 2 et 3 donnent essentiellement les glycols par duplication. Pour l'acétophénone 3, un seul diastéréoisomère est obtenu; il s'agit du diol racémique. Sa stéréochimie a été attribuée à partir de ses constantes physiques et de ses caractéristiques spectroscopiques (rmn 'H des groupements méthyle) (33—35). Avec la benzalacétophénone 5, la réduction ne fournit pas l'e dicétone attendue mais un cétol. Là encore, la réaction est stéréospécifique et conduit au cétol chélaté cis (tableau 2). Sa stéréochimie a été définie par comparaison de ses constantes physiques et de sa courbe voltammétrique avec celle d'un échantillon authentique (13). La rmn 13 C montre un seul signal /C=0 à 204,9 ppm (</p>
+					<p>En présence de sel de chrome, la réduction de l'acétophénone est rendue délicate en raison de la proximité de l'étape Cr(II)/ Cr(0). Nous avons réalisé une électrolyse au potentiel de -1,04 V (Ag/Agl/I" 0,1 M DMF). Elle nous a fourni les deux glycols diastéréoisomères dans un rapport méso-50%/dl-50% assez voisin de celui cité dans la littérature (16). Avec la benzalacétophénone , bien que le cétol trans s'isomérise dans CDC1 3 (15), deux pics sont obtenus en rmn 13 C à 204,9 et 205,8 ppm.</p>
+					<p>(ii) Cas où m = 2</p>
+					<p>Dans ces conditions, si des voltammétries de contrôle sont réalisées en cours d'électrolyse, on peut constater que l'intensité du pic de réduction A] de Eu(III) décroit rapidement pour ne plus représenter qu'environ 15% de la valeur initiale après consommation de lFmol" 1 . Cette diminution qui peut correspondre à une réduction rapide de Eu(III) en Eu(II) (5, 15) est accompagnée d'une diminution importante du pic du complexe (40% de la valeur initiale) alors que les pics de réduction de la cétone libre ne sont pratiquement pas affectés. Dans le cas de la fluorénone, par exemple, une coloration rouge se développe également à la surface de l'électrode de travail. Parallèlement à ces modifications, on note l'apparition d'un précipité dans le milieu. Après filtration, celui-ci se révèle avoir les caractéristiques d'un produit minéral amorphe ne donnant pas de diffractogramme de rayons X. Les courbes thermogravimétriques mettent en évidence une première perte de masse dès 20°C suivie d'une seconde à 850°C. Nous n'avons pas fait de déterminations quantitatives en raison de difficultés rencontrées lors de la pesée initiale des échantillons (instabilité due vraisemblablement à une absorption d'eau ou de C0 2 ). Après chauffage à 850°C sous vide, le diffractogramme montre la présence de EU 2 0 3 sous ses deux formes cristallines (cubique : 3,13-2,71- 2,56-2,31-2,20-2,13-1,92-1,80-1,76-1,70-1,63 Â; monoclinique: 3,18-3,04-2,98-2,89Â). Le produit recueilli en cours d'électrolyse correspond certainement à la formation d'un hydroxy carbonate résultant de la fixation de gaz carbonique par l'hydroxyde d'europium (36). La première perte de masse est attribuée à un départ d'eau, la seconde à celui de C0 2 . La forte coloration de la solution, dans le cas de la fluorénone, indique la formation du radical-anion ou du dianion. Ceci peut résulter soit de la présence à l'électrode de molécules de cétone non complexées (excès par rapport à Eu(II)), soit d'une réaction de rétropinacolisation rapide dans le cas où l'europium(II) est en défaut (m = 2). L'obtention des alcools (tableau 2) dans ces conditions serait en accord avec la seconde hypothèse.</p>
+					<p>La protonation, par les molécules d'eau, des formes réduites contribue à augmenter la basicité du milieu provoquant ainsi l'hydrolyse du sel d'europium :</p>
+					<p>Ce phénomène peut expliquer le fait que l'intensité maximum de ip (B) pour un rapport m = 2 ne soit jamais le double de celle obtenue pour m = 1 ( <ref type="figure">fig. 4</ref>). Seules les électrolyses préparatives des composés 1 et 2 ont été réalisées dans ces conditions. Elles fournissent beaucoup de cétone de départ non réduite et une faible quantité d'alcool résultant de la réaction de rétropinacolisation.</p>
+					<p>L'étude stéréochimique de la duplication de l'acétophénone a déjà donné lieu à des travaux (37, 38) mettant en évidence l'influence de la nature de l'électrolyte et des paires d'ions susceptibles de se former. En présence de sels d'europium, il parait établi que le complexe formé possède une stoechiométrie préférentielle correspondant à lEu(II) -2 cétones. Si on admet comme Bewick et Brown (37) que la configuration privilégiée est celle où l'encombrement stérique entre les noyaux aromatiques est minimum :</p>
+					<p><formula>c 6 H 5 ^ CHJ C=0-_ , CHJ CôHS</formula></p>
+					<p>La dimérisation conduit dans ces conditions au diastéréoisomère racémique (dl). En présence de chrome, le complexe de stoechiométrie 1-1 peut présenter les deux configurations</p>
+					<p>qui conduisent après duplication au mélange méso + racémique.</p>
+					<p>Une électrolyse au potentiel du pic B de la benzalacétophénone 5 (E p = —0,80 V) avec m = 1 conduit à la formation d'un seul produit. La comparaison de sa température de fusion, de son spectre ir et de son voltammogramme avec les résultats obtenus pour des échantillons authentiques (13) montre qu'il s'agit du cétol cis. La même réaction effectuée en présence de sel de chrome conduit aux isomères cis et trans (15). À l'issue du transfert électronique intervenant au potentiel du pic B, l'addition nucléophile d'un carbanion sur l'une des fonctions carbonyles conduit au cétol cis.</p>
+					<p>En présence de sel de chrome, les deux structures A et B sont possibles et conduisent aux isomères cis et trans.</p>
+					<p>Une étude semblable effectuée sur la benzalacétone 4 ne nous a pas donné de résultats exploitables. Les électrolyses préparatives permettent d'isoler des produits présentant des fonctions alcool et carbonyle sans qu'il soit possible de les purifier. Il est connu (39) que dans ce cas les cétols sont instables et sujets à une réaction d'ouverture avec régénération de la dicétone.</p>
+				</div>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<div type="section" n="1">
+					<head>Techniques électrochimiques</head>
+					<p>Le dimethylformamide (DMF) est distillé sous pression réduite après avoir été séché sur carbonate de sodium. L'électrolyte indifférent est le perchlorate de tétrabutylammonium à la concentration de 0,1 M. Les tensions sont indiquées par rapport à l'électrode de référence Ag/Agl/I~ (Bu 4 NI 0,1 M dans le DMF). L'électrode de travail est une goutte de mercure stationnaire. Toutes les mesures ont été réalisées à la température ambiante après désaération par un courant d'azote.</p>
+					<p>L'étude voltammétrique a été faite avec un ensemble Tacussel comprenant un potentiostat type PRT 20-2X équipé d'un générateur de signaux triangulaires et d'un amplificateur différentiel type ADTP. Les déterminations coulométriques ont été réalisées dans une cellule contenant une nappe de mercure agitée pendant toute la durée de l'électrolyse. L'installation comprend un potentiostat PRT 100 et un intégrateur Tacussel IG5 N.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Electrolyses préparatives. Caractéristiques des produits</head>
+					<p>Les électrolyses préparatives ont été effectuées dans une cellule à trois compartiments. L'électrode auxiliaire est constituée dans ce casd'une plaque de graphite. Après électrolyse, le catholyte est repris par l'eau et les produits extraits à l'éther. Ces derniers sont identifiés par comparaison de leur point de fusion et de leurs caractéristiques spectroscopiques avec les données de la littérature : benzopinacol (F = 182-184°C); benzhydrol (F = 69-70°C); fluoropinacol (F = 186- 187°C); fluorénol (F = 154-155 C C); diphényl-2,3 butane diol-2,3 (dl) (F = 126°C); triphényl-1,3,4 benzoyl-2 hydroxy-1 cyclopentane cis (F = 196°C), trans (F = 210°C).</p>
+					<p>Les diffractogrammes ont été réalisés à l'aide d'un appareil Siemens composé d'un goniomètre de type 501 et d'un générateur de rayons X Kristalloplex 710. La radiation K 0 du cuivre (X = 1,5405 Â) a été utilisée. L'analyse thermogravimétrique a été faite avec une thermobalance Ugine Eyraud type 60 B commandée par un appareil de régulation et de programmation de la température RT 64. Les spectres infra-rouge ont été enregistrés sur un appareil Perkin Elmer série 18 avec des cellules en fluorure de calcium pour le dosage de l'eau.</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Hanson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">J</forename>
+									<surname>Ho</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Olah</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">808</biblScope>
+								<biblScope type="issue">815</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Pouillen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Perrin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Martinet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C.R. Seances Acad. Sci. Sér. C</title>
+							<imprint>
+								<biblScope type="vol">284</biblScope>
+								<biblScope type="pp">955</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Perrin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Pouillen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Martinet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetra-hedron</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">221</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H. P. Utley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1361</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L Pascal. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Sér. II</title>
+							<imprint>
+								<biblScope type="vol">294</biblScope>
+								<biblScope type="pp">849</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">339</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Laviron</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Collect. Czech. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="issue">4219</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Simonet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">3533</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Zuman</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Exner</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">T</forename>
+									<surname>Navta</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Collect. Czech. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">3123</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<title level="m" type="main">Organic electrochemistry: an introduction and a guide</title>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Baizer</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<pubPlace>Dekker, New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Nadjo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">41</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Albisson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1125</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2090</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+									<surname>Basselier</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">5667</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<surname>Fournier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">64</biblScope>
+								<biblScope type="pp">881</biblScope>
+								<date type="published" when="1986"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">F</forename>
+									<surname>Cockerill</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">L O</forename>
+									<surname>Davies</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">M Rackman</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Rev</title>
+							<imprint>
+								<biblScope type="vol">73</biblScope>
+								<biblScope type="pp">553</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Schumann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">474</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+									<surname>Cockal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">1417</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Ikeda</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Tamura</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Chem. Soc. Jpn</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">661</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Sanz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Virgili</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">An. Quim. Ser. A</title>
+							<imprint>
+								<biblScope type="vol">79</biblScope>
+								<biblScope type="pp">33</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Jordan</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Lett</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="issue">647</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Albalat</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Valles</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Virgili</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electrochim. Acta</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">653</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Coetzee</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">79</biblScope>
+								<biblScope type="pp">1852</biblScope>
+								<date type="published" when="1957"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Rosset</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="issue">4205</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<monogr>
+							<title level="m" type="main">Chemical application of spectroscopy</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">B F</forename>
+									<surname>Duncan</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">A</forename>
+									<surname>Matsen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Gordy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sandorfy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Interscience</title>
+							<imprint>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Perrin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Martinet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C.R. Seances Acad. Sci. Ser. C</title>
+							<imprint>
+								<biblScope type="vol">285</biblScope>
+								<biblScope type="pp">511</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">H</forename>
+									<surname>Sheringson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Trans. Faraday Soc</title>
+							<imprint>
+								<biblScope type="vol">57</biblScope>
+								<biblScope type="pp">1795</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<surname>Yu</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Z</forename>
+									<forename type="middle">N</forename>
+									<surname>Timofeeva</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Sov. Electrochem. (Engl. Transl.)</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">1208</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Laviron</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">1637</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">M</forename>
+									<surname>Parkash</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">S</forename>
+									<surname>Jain</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Less-Common Met</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">179</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Singh</forename>
+									<surname>Ind</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Sect. A</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">458</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Stocker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Jenevein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">412</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Stocker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Jenevein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">2145</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Stocker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Jenevein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">2807</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Vickery</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<imprint>
+								<biblScope type="vol">164</biblScope>
+								<biblScope type="pp">787</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b37">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Brown</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">99</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b38">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">P</forename>
+									<surname>Cleghorn</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1410</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b39">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Kossanyi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">722</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

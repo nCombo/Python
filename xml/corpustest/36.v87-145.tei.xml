@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Chimie des radioprotecteurs : synthèse d&apos;alkylamino-2 éthanethiols encombrés sur l&apos;atome d&apos;azote</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Joelle</forename>
+								<surname>Laduranty</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution" key="instit1">Unité Associée 574 Centre national de la recherche scientifique</orgName>
+								<orgName type="institution" key="instit2">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86022</postCode>
+									<settlement>Poitiers</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Francis</forename>
+								<surname>Barbot</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution" key="instit1">Unité Associée 574 Centre national de la recherche scientifique</orgName>
+								<orgName type="institution" key="instit2">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86022</postCode>
+									<settlement>Poitiers</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Léone</forename>
+								<surname>Miginiac</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de synthèse organique</orgName>
+								<orgName type="institution" key="instit1">Unité Associée 574 Centre national de la recherche scientifique</orgName>
+								<orgName type="institution" key="instit2">Université de Poitiers</orgName>
+								<address>
+									<addrLine>40, avenue du Recteur Pineau</addrLine>
+									<postCode>86022</postCode>
+									<settlement>Poitiers</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Chimie des radioprotecteurs : synthèse d&apos;alkylamino-2 éthanethiols encombrés sur l&apos;atome d&apos;azote</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">65</biblScope>
+							<biblScope type="issue">859</biblScope>
+							<date type="published" when="1987">1987</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>La mise au point de la synthèse d&apos;alkylamino-2 éthanethiols portant un groupe tertiaire sur l&apos;atome d&apos;azote a été réalisée. L&apos;action de magnésiens allyliques sur les thiazolidines, les alkyl-2 thiazolines et les thiométhyl-2 thiazolines s&apos;est révélée une méthode de choix pour obtenir ces composés avec un groupe tertiaire comportant respectivement un, deux et trois motifs allyliques.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p> Synthesis of 2-alkylaminoethanethiols with a tertiary group fixed to the nitrogen atom has been achieved. A very convenient method of access to such 2-alkylaminoethanethiols with one, two, and three allyl substituents is the reaction between allylic organomagnesium compounds and thiazolidines, 2-alkylthiazolines, and 2-methylthiothiazolines respectively.</p>
+			</div>
+		</front>
+		
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+				
+			 <p>Au cours de ces dix dernières années, l&apos;emploi des radio-protecteurs chimiques a pris un essor considérable. En effet, de tels composés sont d&apos;une utilité potentielle dans le traitement du cancer : en radiothérapie, ils possèdent la propriété de protéger les cellules saines et, en chimiothérapie, ont également un effet bénéfique spécifique en «saturant» ces mêmes cellules et en minimisant ainsi la toxicité des antimitotiques utilisés (1, 2).</p> 
+			
+			<p>Ces travaux ont en particulier mis en évidence l&apos;intérêt de la cystéamine I et de ses dérivés aliphatiques (1-8), ainsi que le rôle déterminant du vecteur. Cependant la cystéamine présente une certaine toxicité : certaines transformations, par exemple la formation de thiazolidines (9-12) ou bien celle de ponts disulfure (13, 14), permettent de la diminuer; le passage de la cystéamine à sa forme S-phosphorylée II (15-18) ou encore sa transformation en acides S&apos;-[(aminopropyl-3)aminoéthyl-2] et 5-[(A r -méthylaminopropyl-3)aminoéthyl-2] phosphorothioïques III et IV (15-17, 19) conduit également à des radioprotecteurs très intéressants :</p>
+			
+			<p><formula>H 2 N—CH 2 —CH 2 —SH</formula></p>
+
+			<p>La substitution d&apos;un hydrogène de la fonction aminé de la cystéamine par un groupe alkyle saturé, insaturé et (ou) fonctionnel, d&apos;encombrement stérique notable, étant susceptible de jouer un rôle important sur les propriétés radioprotectrices (libération retardée de la cystéamine par déalkylation sélective par métabolisme) et sur la toxicité de la cystéamine, nous nous sommes proposés de mettre au point des méthodes simples et générales d&apos;accès aux dérivés de type :</p>
+
+	<p><formula>R 1 R 2 —C—NH—CH—CH—SH R 3 R 4 R 5 Ri, R 2 , R 3 = alkyle, allyle, propargyle, alkyle fonctionnel R 4 , R s = H alkyle</formula></p>
+	
+			</div>
+
+			<div type="section">
+				<head>I. Accès aux alkyIamino-2 éthanethiols par action d&apos;une aminé primaire sur le mercaptoéthyl-2 carbonate d&apos;éthyle</head>
+				
+			<p>L&apos;ouverture par une aminé primaire (selon réfs. 21, 22) du thioépoxyde (produit peu stable) conduisant à des résultats décevants ou difficilement reproductibles, nous avons préféré utiliser le schéma réactionnel suivant :</p>
+
+			<p>En présence d&apos;une base, le mercaptoéthyl-2 carbonate d&apos;éthyle se décompose en thioépoxyde selon le mécanisme réactionnel proposé dans la réf 20.</p> 
+			
+			<p>Nos essais ont été réalisés avec l&apos;amino-1 tétraméthyl-1,1,3,3 butane et l&apos;amino-2 méthyl-2 propanol, ainsi qu&apos;avec trois autres aminés primaires à groupe tertiaire, préparées selon les réfs. 23-25, pour lesquelles R 1 , R 2 , R 3 = cycloalkyle, allyle, éthynyle, vinyle ou alkyle fonctionnel; nous avons également considéré le cas particulier d&apos;une diamine primaire de type néopentylique, le diméthyl-2,2 diamino-1,3 propane.</p>
+			
+			<p>Les résultats du tableau 1 montrent que la réaction a lieu dans tous les cas et conduit avec des rendements de 30-68% à l&apos;aminothiol attendu; la réaction n&apos;a lieu qu&apos;une seule fois avec la diamine, malgré l&apos;utilisation d&apos;une quantité double de réactif. Enfin, signalons la cyclisation partielle in situ de l&apos;aminothiol à fonction acétylénique en sulfure vinylique (26) : [2] C=CH</p>
+
+			<p>Cette méthode permet donc d&apos;atteindre des aminothiols secondaires à groupe alkyle encombré, lorsque l&apos;amine primaire nécessaire est commerciale ou facile à préparer; cependant, cette dernière condition diminue beaucoup les possibilités d&apos;application de cette méthode.</p>
+
+			</div>
+
+			<div type="section">
+				<head>II. Accès aux alkylamino-2 éthanethiols par action d&apos;un organomagnésien dérivant d&apos;un halogénure a-insaturé sur une thiazolidine </head>
+				
+			<p>Il a été montré qu&apos;un gew-aminothioéther donne facilement une réaction avec les organométalliques, en particulier avec les organométalliques a-insaturés (27, 28), pour conduire à une aminé et à un thiol :</p>
+			
+			<p><formula>[3] R&apos;S—CH 2 —N(R&quot;) 2 (1) RM + R&apos;SH + RCH 2 N(R&quot;) 2 (2) H 2 0</formula></p>
+
+			<p>Une telle réaction, appliquée à un gew-aminothioéther cyclique tel qu&apos;une thiazolidine, devait nous permettre d&apos;atteindre des aminothiols à groupe tertiaire.</p> 
+			
+			<p>A notre connaissance, seule l&apos;action sur quelques thiazolidines de divers hydrures tels que NaBH 4 a été envisagée (31,32) et a permis dans certains cas d&apos;obtenir le produit résultant de l&apos;ouverture du cycle.</p> 
+			
+			<p>Nous avons donc préparé par des méthodes usuelles (12, 29, 30) plusieurs thiazolidines et étudié leur réaction avec les magnésiens dérivant d&apos;halogénures allyliques ou propargyliques :</p> 
+			
+			<p><formula>&quot; NH X R 1 + 2 RM —&gt;-HSCH 2 CH 2 NH—C(R)(R&apos;)(R 2 ) après hydrolyse</formula></p> 
+				
+			<p>Les résultats du tableau 2 montrent que cette réaction a lieu dans tous les cas étudiés, le carbone C2 de la thiazolidine pouvant comporter des groupes saturés, insaturés ou fonctionnels . Les rendements (40-72%) en aminothiols isolés dépendent beaucoup des précautions prises lors de l&apos;isolement (voir partie expérimentale); en effet, en opérant sans précautions particulières, il se forme par oxydation une quantité importante du disulfure correspondant :</p>
+
+			<p>Dans un seul cas, le rendement s&apos;est révélé faible, sans doute par suite d&apos;une décomposition lors de la distillation : il se forme vraisemblablement une cétimine (3-éthylénique par élimination de butène-1 (pour une décomposition analogue, voir réfs. 33, 34), laquelle peut par exemple se cycliser en thiazolidine ou s&apos;isomériser :</p>
+
+			<p>En résumé, cette réaction constitue donc une très bonne méthode de préparation d&apos;alkylamino-2 éthanethiols secondaires à groupe tertiaire.</p>
+
+			</div>
+
+			<div type="section">
+				<head>III. Accès aux alkylamino-2 éthanethiols par action d&apos;un organomagnésien a-insaturé sur une thiazoline</head>	
+
+			<p>Compte tenu des résultats précédents, il était intéressant d&apos;essayer, à partir d&apos;un substrat adéquat, d&apos;introduire par voie organométallique deux, puis trois groupements allyles sur le groupe carboné rattaché à l&apos;azote.</p> 
+			
+			<p>Nous avons donc envisagé de partir de thiazolines et d&apos;étudier leur comportement vis à vis d&apos;organomagnésiens allyliques; cette réaction peut se dérouler de la manière suivante en impliquant vraisemblablement d&apos;ailleurs le passage à une thiazolidine N-métallée analogue à celles intervenant dans le paragraphe précédent :</p> 
+				
+			<p>À notre connaissance, l&apos;action des magnésiens allyliques sur des thiazolines simples n&apos;a pas été envisagée; signalons cependant les travaux récents relatifs à l&apos;action de divers magnésiens sur les benzothiazoles (35-38).</p> 
+			
+			<p>Alors que les magnésiens saturés réalisent généralement une réaction de métallation au niveau du groupe R (36), les magnésiens allyliques conduisent généralement à une ouverture de cycle (35, 37), les auteurs n&apos;isolant pas l&apos;aminothiol résultant, mais directement le disulfure :</p>
+
+			<p>En outre, les auteurs signalent l&apos;arrêt possible à la benzothiazoline , en utilisant le dichlorométhane au lieu de l&apos;éther (38).</p> 
+			
+			<p>Nous avons préparé par des méthodes usuelles plusieurs alkyl-2 thiazolines diversement substituées (39-41; voir également la réf. 56) ainsi que deux thiométhyl-2 thiazolines (42-44), et étudié leur comportement vis à vis des magnésiens allyliques.</p> 
+			
+			<p>Les résultats obtenus dans cette étude figurent dans le tableau 3 et permettent de faire les remarques suivantes :</p> 
+			
+			<p>(a) La réaction a lieu dans tous les cas et permet d&apos;atteindre les aminothiols attendus avec des rendements moyens (30- 50%) avec une thiazoline non substituée sur la chaîne carbonée, et avec des rendements un peu plus faibles (20-40%) avec une thiazoline substituée. Le rendement est aussi plus faible lors de l&apos;action du chlorure de méthallylmagnésium sur une thiazoline simple, la structure étant plus encombrée que dans le cas du groupe allyle. Là encore, les rendements en aminothiols isolés dépendent beaucoup des précautions prises lors de l&apos;isolement (voir partie expérimentale). À noter que contrairement à la réf. 38, l&apos;action sur une thiazoline du bromure d&apos;allylmagnésium, au sein de l&apos;éther ou du dichlorométhane, conduit toujours au produit d&apos;ouverture.</p> 
+			
+			<p>(b) La réaction permet également d&apos;atteindre, à partir de la thiazoline non substituée en C2, des aminothiols à groupe secondaire. Ce résultat est intéressant, car il se forme le même dérivé que celui qui résulterait de l&apos;action d&apos;un hydrure sur la thiazolidine :</p>
+
+			<p>d&apos;accès très difficile, puisqu&apos;impliquant l&apos;emploi d&apos;une cétone (3, (3 &apos;-diéthy lénique. L&apos;action des magnésiens allyliques sur les thiazolines permet donc de préparer aisément des aminothiols à groupe tertiaire comportant deux ou trois substituants allyliques.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Conclusion</head>
+
+			<p>Nous avons pu réaliser, dans des cas structuraux variés, la synthèse d&apos;alkylamino-2 éthanethiols possédant un groupe tertaire sur l&apos;atome d&apos;azote. Nos résultats montrent également que la voie de synthèse organométallique impliquant l&apos;action d&apos;organomagnésiens allyliques sur les thiazolidines, les alkyl-2 thiazolines et les thiométhyl-2 thiazolines est une méthode très intéressante, car générale et facile à mettre en oeuvre.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<div type="section">
+				<head>introduction</head>
+
+			<p>Les chromatographies en phase gazeuse ont été effectuées avec un appareil Intersmat IGC 12 M (détecteur à conductibilité thermique) équipé de colonnes analytiques de 2 m (diamètre : 0,63 cm), remplissage soit 20% SE 30, soit 20% Carbowax 20 M sur Chromosorb W. Les spectres infrarouges ont été enregistrés sur les produits à l&apos;état pur entre lames de chlorure de sodium avec un appareil IR 4240 Beckman. Intensités des bandes : F, forte; m, moyenne; f, faible; tf, très faible. Les spectres rmn ont été enregistrés en solution dans CC1 4 à 60 MHz sur un appareil Perkin-Elmer R 24 A. Les déplacements chimiques sont exprimés en ppm par rapport au tétraméthylsilane utilisé comme référence. Les analyses élémentaires ont été effectuées par le service central d&apos;analyse du CNRS. L&apos;éther et le tétrahydrofuranne utilisés ont été préalablement desséchés et désoxygénés par distillation sur benzophénone/sodium, sous courant d&apos;azote sec.</p> 
+				
+			</div>	
+			
+			<div type="section">
+				<head>Préparation des magnésiens</head>
+					
+			<p>Les bromures d&apos;allylmagnésium, chlorure de méthallylmagnésium et bromure d&apos;allénylmagnésium ont été préparés au sein de l&apos;éther (45, 46).</p> 
+			
+			</div>	
+			
+			<div type="section">
+				<head>Préparation des matières premières</head>
+				
+			<p>(J) Aminés primaires à groupe tertiaire Les tétraméthyl-1,1,3,3 butylamine, diméthyl-1,1 hydroxy-2 éthylamine et diméthyl-2,2 diamino-1,3 propane sont des produits commerciaux utilisés après redistillation. Les amino-4 méthoxyméthyl-4 heptadiène-1,6 (23), amino-1 éthynyl-1 cyclohexane (24, 25, 47) et amino-1 vinyl-1 cyclohexane (25) ont été obtenus selon des méthodes usuelles.</p> 
+			
+			<p>(2 ) Thiazolidines Elles sont obtenues selon les réfs. 29 et 30. Les cétones employées dans cette réaction sont des produits commerciaux (pentanone-2 et pentanone-3) ou ont été préparées selon des techniques usuelles : méthoxy-1 butanone-2 (52), thiométhyl-1 propanone-2 (49, 53), méthoxy-1 butanone-3 (48) et thiométhyl-1 butanone-3 (49-51). Les constantes physiques des thiazolidines figurent dans le tableau 4.</p> 
+			
+			<p>(3) Alkyl-2 thiazolines Elles sont préparées selon les réfs. 39-41. Les aminoalcools impliqués dans cette réaction sont des produits commerciaux (utilisés après redistillation) ou sont préparés selon des méthodes usuelles (54, 59). Les constantes physiques des alkyl-2 thiazolines figurent dans le tableau 5.</p> 
+			
+			<p>(4) Thiométhyl-2 thiazolines Elles sont préparées selon les réfs. 42-44. Leurs constantes physiques figurent dans le tableau 5.</p>
+
+			</div>	
+			
+			<div type="section">
+				<head>Modes opératoires</head>
+
+			<p>Première méthode On opère sous atmosphère d&apos;azote dans un ballon à trois tubulures de 250 mL équipé d&apos;une ampoule, de deux réfrigérants ascendants (le premier à circulation d&apos;eau, le second réfrigéré par un courant d&apos;alcool refroidi à -30°C). L&apos;amine primaire (0,3 mol) en solution dans 50 mL de toluène anhydre est chauffée à reflux; 0,1 mol de mercaptoéthyl-2-carbonate d&apos;éthyle est alors ajoutée par un goutte à goutte rapide et le milieu réactionnel est chauffé à reflux pendant 20 h environ. Après concentration du milieu réactionnel à l&apos;évaporateur rotatif à l&apos;aide d&apos;un bain d&apos;eau à 45°C environ, le résidu est distillé sous pression réduite la plus faible possible. </p>
+
+			<p>Deuxième méthode (a) Cas d&apos;un magnésien allylique. Dans un ballon à trois tubulures de 1000 mL préalablement séché à la flamme sous atmosphère d&apos;azote, on place une solution de 0,06 mol de thiazolidine dans 220 mL d&apos;éther. On introduit goutte à goutte, à i = 0-5°C, le magnésien, préalablement décanté, préparé selon la réf. 45 à partir de 13,0 g (0,535 mol) de Mg, 0,22 mol de bromure allylique et 190 mL d&apos;éther. A la fin de l&apos;addition, le milieu réactionnel est chauffé à reflux pendant 2 h. Après retour à température ambiante, il est refroidi à t = 0-5°C et hydrolysé sous courant d&apos;azote par addition lente d&apos;une solution saturée de chlorure d&apos;ammonium (420 mL). Après décantation, extraction par 4 x 100 mL d&apos;éther et séchage sur sulfate de magnésium, la phase organique est concentrée, puis l&apos;aminothiol est distillé sous pression réduite la plus faible possible.</p> 
+			
+			<p>(b) Cas du bromure d&apos;allény¡magnésium. A la solution du magnésien dérivant du bromure de propargyle, préparée à température inférieure à 18°C selon la réf. 46, à partir de 14,3 g (0,12 mol) de bromure de propargyle, 6,0 g de Mg broyé (0,247 mol) et de 85 mL d&apos;éther, on additionne goutte à goutte une solution de 0,03 mol de thiazolidine dans 30 mL d&apos;éther désoxygéné, en maintenant la température à 0-5°C. L&apos;agitation est poursuivie pendant 2,5 h à une température inférieure ou égale à 18°C. Après l&apos;hydrolyse in situ comme précédement et les traitements usuels, le résidu est distillé sous pression réduite la plus faible possible.</p> 
+			
+			<p>Troisième méthode (a) Action du bromure d&apos;allylmagnésium sur une alkyl-2 thiazoline. Une solution de bromure d&apos;allylmagnésium (préparée sous azote, à 0- 5°C, à partir de 19,4 g (0,16 mol) de bromure d&apos;allyle, 10 g de Mg broyé (0,411 mol) et 140 mL d&apos;éther est additionnée goutte à goutte (durée 2,5 h environ) à une solution de 0,04 mol d&apos;alkyl-2 thiazoline dans 300 mL de dichlorométhane distillé, refroidie à 0-5°C. Après retour à température ambiante, le milieu est maintenu sous agitation pendant 2 h. Il est ensuite refroidi à 0°C et hydrolysé par addition lente d&apos;une solution aqueuse saturée de chlorure d&apos;ammonium (300 mL). Après les traitements usuels, le produit est distillé sous pression réduite la plus faible possible, en évitant les surchauffes. N.B. Dans le cas de l&apos;action du chlorure de méthallylmagnésium sur une alkyl-2 thiazoline, on opère au sein de l&apos;éther désoxygéné seul, la réaction risquant d&apos;être incomplète au sein du mélange éther/dichlorométhane (38).</p> 
+			
+			<p>(b) Action du bromure d&apos;allylmagnésium sur une thiométhyl-2 thiazoline. Une solution de bromure d&apos;allylmagnésium (préparée sous azote à 0-5°C à partir de 24,2 g (0,2 mol) de bromure d&apos;allyle, 12,6 g de Mg broyé (0,55 mol) et 170 mL d&apos;éther) est ajoutée lentement sous azote, à 0-5°C, à une solution de 0,04 mol de la thiométhyl-2 thiazoline dans 170 mL de tétrahydrofuranne désoxygéné. Après retour à température ambiante, le milieu est chauffé à reflux pendant 2 h, puis laissé sous agitation pendant une nuit. Après refroidissement, une hydrolyse dans les mêmes conditions que précédemment est effectuée par addition d &apos; une solution saturée de chlorure d &apos; ammonium (400 mL). Après les traitements usuels, le produit brut est distillé sous pression réduite la plus faible possible.</p>
+			
+			<p>N -Alkylamino-2 éthanethiols préparés selon la méthode 1 N-(Tétraméthyl-l,l,3,3 butyl)amino-2 éthanethiol 1: Rdt = 58%; Eb 65°C/0,05 Torr (1 Torr = 133,3 Pa); n 2 ° = 1,4737; ir (cm&quot; 1 ) : 3300 tf (NH); 2560 tf (SH); rmn (CC1 4 , ô ppm) : 2,3-2,9 (m, 4H, NCH 2 CH 2 S), 1,45 (s, 2H, CCH 2 C), 1,05 (s apparent, 8H, (CH 3 ) 2 CNH, SH), 0,95 (s, 9H, (CH 3 ) 3 C). Anal. calc. pourC, 0 H 23 NS : C 63,43, H 12,24, N 7,40, S 16,93; trouvée : C 63,48, H 12,21, N 7,43, S 16,88.</p> 
+			
+			<p>N-(Diméthyl-1,1 hydroxy-2 éthyl)amino-2 éthanethiol 2: Rdt = 30%; Eb. 74°C/0,06 Torr; F 90-91°C; ir (pastille KBr, cm&quot; 1 ) : 3150 m (OH, NH chélatés); 2515 tf (SH chélaté) (60); rmn (CDC1 3 , ô ppm) : 3,3 (s, 2H, CH 2 0), 2,4-2,9 (m, 4H, NCH 2 CH 2 S), 2,1 (s élargi, 3H, NH, SH, OH), 1,05 (s, 6H, CH 3 ). Anal. calc. pour C 6 H 15 NOS : C 48,29, H 10,13, N 9,38, S 21,48; trouvée : C 48,34, H 10,09, N 9,32, S 21,53.</p> 
+			
+			<p>N-[(Méthoxyméthyl-4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 3: Rdt = 50%; Eb. 76°C/0,04 Torr; nf = 1,5001; ir (cm&quot; 1 ) : 3330 tf (NH); 3080 m, 1640 m, 1000 m, 915 F (CH=CH 2 ); 2570 tf (SH); 1110 tF(C—O—C); rmn (CC1 4 , ô ppm) : 5,35-6,15 (m, 2H, CH=), 4,65-5,2 (m, 4H, CH 2 =), 3,20 (s, 3H, CH 3 0), 3,05 (s, 2H, CCH 2 0), 2,3-2,9 (m, 4H, NCH 2 CH 2 S), 2,1 (d, 4H, 7 = 7 Hz, CH 2 C=), 1,35 (s élargi, 2H, NH, SH). Anal. calc. pourC n H 2 iNOS : C 61,35, H 9,83, N 6,50, S 14,89; trouvée : C 61,30, H 9,86, N 6,46, S 14,93.</p> 
+			
+			<p>Ethynyl-1 (amino-2 éthanethiol-1 )-l cyclohexane 4 -h aza-1 thia-5 spiro [5] [6] dodécène-3,4 4&apos; : Rdt = 50%; Eb. 77-78°C/0,03 Torr; ir (cm -1 ) : 3320 tf (NH); 3300 m, 2120 tf (C=CH); 2570 tf (SH); rmn (CC1 4 , ô ppm) : 5,95 (d, SGH=, 7=11 Hz), 5,4 (d, CCH=, 7 = 11 Hz), 2,4-3,1 (m, NCH 2 CH 2 S), 2,25 (s, HC=), 1,0-2,0 (m, CÈHIO, NH, SH). Les pourcentages (67/33) ont été déterminés par les rapports d&apos;intégration entre les deux doublets centrés à 5,95 et 5,4ppm d&apos;une part, et le singulet à 2,25 ppm d&apos;autre part.</p> 
+			
+			<p>Vinyl-1 (amino-2 éthanethiol-1 )-l cyclohexane 5 : Rdt = 68%; Eb. 70°C/0,05 Torr; n 2 ° = 1,3960; ir (cm -1 ) : 3310 tf (NH); 3080 m, 1635 m, 1000 m, 915 F(CH=CH 2 ); 2560 tf (SH); rmn (CC1 4 , ô ppm) : 5,25-5,85 (m, 1H, CH=), 4,65-5,15 (m, 2H, CH 2 =), 2,3-2,7 (m, 4H, NCH 2 CH 2 S), 0,9-1,7 (m, 10H, C 6 H ]0 ), 1,2 (s élargi, 2H, NH, SH). Anal. calc. pour C 10 H 19 NS : C 64,81, H 10,33, N 7,56, S 17,30; trouvée : C 64,75, H 10,30, N 7,60, S 17,34.</p> 
+			
+			<p>N-(Amino-3 diméthyl-2,2 propyl)amino-2 éthanethiol 6 : Rdt = 38%; Eb. 62°C/0,05 Torr; nl° = 1,4991; ir (cm&quot; 1 ) : 3380 f, 3310 m, 3200 tf (NH 2 , NH); 2555 tf (SH); rmn (DMSO-d 6 , S ppm) : 2,5-2,95 (m, 4H, NCH 2 CH 2 S), 2,3 et 2,4 (2s, 4H, CCH 2 N), 1,65 (s élargi, 4H, NH 2 , NH, SH), 0,85 (s, 6H, CH 3 ). Anal. calc. pour C 7 H, 8 N 2 S : C 51,81, H 11,18, N 17,26, S 19,75; trouvée : C 51,79, H 11,20, N 17,29, S 19,71.</p> 
+			
+			<p>N -Alkylamino-2 éthanethiols préparés selon la méthode 2 N-[(Méthyl-4 heptène-1 yl)-4]amino-2 éthanethiol 7: Rdt = 40%; Eb. 65°C/0,05 Torr; nf = 1,4868; ir (cm -1 ) : 3320 f (NH); 3080 f, 1640 f, 995 f, 910 m (CH=CH 2 ); 2560 f (SH); rmn (CC1 4 , ô ppm) : 5,4-6,1 (m, 1H, CH=), 4,7-5,2 (m, 2H, CH 2 =), 2,3-2,8 (m, 4H, NCH 2 CH 2 S), 2,05 (d, 2H, 7 = 7 Hz, CH 2 C=), 1,1-1,5 (m, 6H, CH 2 CH 2 , NH, SH), 0,7-1,1 (m, 6H, CH 3 ). Anal. calc. pour Ci 0 H 21 NS : C 64,11, H 11,30, N 7,48, S 17,11; trouvée : C 64,17, H 11,24, N 7,45, S 17,16.</p> 
+			
+			<p>N -[(Diméthyl-2,4 heptène-1 yl)-4]amino-2 éthanethiol 8 : Rdt = 65%; Eb. 76°C/0,05 Torr; nl° = 1,4870; ir (cm -1 ) : 3320 tf (NH); 3075 f, 1640 f, 885 m (CH 2 =C); 2560 tf (SH); rmn (CC1 4 , ô ppm) : 4,45_4,9 ( m , 2H, CH 2 =), 2,3-2,95 (m, 4H, NCH 2 CH 2 S), 2,0 (s, 2H, CH 2 C=), 1,75 (s, 3H, CH 3 C=), 1,05-2,55 (m, 6H, CCH,CH 2 C, NH, SH), 0,65-1,05 (m, 6H, CH 3 ). Anal. calc. pour C||H 23 NS : C 65,61, H 11,51, N 6,96, S 15,92; trouvée : C 65,68, H 11,55, N 6,94, S 15,90.</p> 
+			
+			<p>N-[(Méthyl-4 heptyne-1 yl)-4]amino-2 éthanethiol 9 : Rdt = 43%; Eb. 66°C/0,05 Torr; n 2 D ° = 1,4925; ir(cm _1 ) : 3320 tf (NH); 3300 m, 2120 tf (C=CH); 2560 tf (SH); rmn (CC1 4 , ô ppm) : 2,4-2,9 (m, 4H, NCH 2 CH 2 S), 2,15 (d, 2H, 7 = 2 Hz, CH 2 C=), 1,95 (t, 1H, 7 = 2 Hz, HC=), 1,15-1,65 (m, 6H, COLCH 2 C, NH, SH), 0,7-1,15 (m, 6H, CH 3 ). Anal. calc. pourC 10 H 19 NS :C64,81, H 10,33, N7,56, S 17,30; trouvée : C 64,85, H 10,36, N 7,53, S 17,27.</p> 
+			
+			<p>N-/YÉthyl-4 hexène-1 yl)-4]amino-2 éthanethiol 10 : Rdt = 60%; Eb. 71°C/0,06 Torr; n 2 ° = 1,4908; ir (cm&quot; 1 ) : 3320 f (NH); 3075 f, 1640 f, 995 f, 910 m (CH=CH 2 ); 2560 f (SH); rmn (CC1 4 , ô ppm) : 5,3-6,1 (m, 1H, CH=), 4,7-5,2 (m, 2H, CH 2 =), 2,4-2,7 (m, 4H, NCH 2 CH 2 S), 2,0 (d, 2H, 7 = 7 Hz, CH 2 C=), 1,0-1,5 (m, 6H, CH 2 CH 3 , NH, SH), 0,75 (t, 6H, 7 = 7 Hz, CH 3 ). Anal. calc. pour C,oH 21 NS : C 64,11, H 11,30, N 7,48, S 17,11; trouvée : C 64,14, H 11,27, N 7,51, S 17,13.</p> 
+			
+			<p>N-[(Diméthyl-3,4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 11 : Rdt = 18%; Eb. 72°C/0,03 Torr; n 2 n ° = 1,5103; ir (cm&quot; 1 ) : 3320 tf (NH); 3075 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2570 tf (SH); rmn (CC1 4 , ô ppm) : 5,2-6,1 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH 2 =), 2,2-2,7 (m, 4H, NCH 2 CH 2 S, deux diastéréoisomères), 1,8-2,2 (m, 3H, CH 2 C=, CHC=), 1,0-1,7 (m, 5H, CH 3 C, NH, SH), 0,6-1,0 (m, 3H, C// 3 CH). Anal. calc. pour C M H 21 NS : C 66,27, H 10,62, N 7,03, S 16,08; trouvée : C 66,23, H 10,65, N 7,01, S 16,02.</p> 
+			
+			<p>N-[(Méthoxyméthyl-4 hexène-1 yl)-4]amino-2 éthanethiol 12 : Rdt = 65%; Eb. 76°C/0,05 Torr; n 2 ° = 1,4913; ir (cm&quot; 1 ) : 3320 tf (NH); 3080 f, 1640 f, 995 f, 915 m (CH=CH 2 ); 2560 tf (SH); 1110 F (C—O—C); rmn (CC1 4 , ô ppm) : 5,35-6,1 (m, 1H, CH=), 4,7-5,2 (m, 2H, CH 2 =), 3,25 (s, 3H, CH 3 0), 3,05 (s, 2H, CH 2 0), 2,25-2,75 (m, 4H, NCH 2 CH 2 S), 2,05 (d, 2H, 7 = 1 Hz, CH 2 C=), 1,1-1,7 (m, 4H, CCH 2 C, NH, SH), 0,8 (t, 3H, 7 = 6 Hz, CH 3 C). Anal. calc. pour C 10 H 21 NOS : C 59,07, H 10,41, N 6,89, S 15,76; trouvée : C 59,01, H 10,40, N 6,86, S 15,79.</p> 
+			
+			<p>N-/YMéthylthio-1 méthyl-2 pentène-5 yl)-2]amino-2 éthanethiol 13 : Rdt = 44%; Eb. 95°C/0,04 Torr; nf = 1,5270; ir (cm&quot;&apos;) : 3300 tf (NH); 3080 f, 1640 f, 995 f, 915 m (CH=CH 2 ); 2560 tf (SH); rmn (CC1 4 , S ppm): 5,4-6,1 (m, 1H, CH=), 4,7-5,25 (m, 2H, CH 2 =); 2,35-2,9 (m, 4H, NCH 2 CH 2 S), 2,5 (s, 2H, CCH,S), 1,95-2,35 (m, 2H, CH 2 C=), 2,05 (s, 3H, CH 3 S), 1,6 (s élargi, 2H, NH, SH), 1,05 (s, 3H, CH 3 ).Anal. calc. pour C 9 H 19 NS, : C 52,63, H 9,33, N 6,82, S 31,22; trouvée : C 52,59, H 9,36, N 6,80, S 31,26.</p> 
+			
+			<p>N-[(Méthoxy-1 méthyl-3 hexène-5 yl)-3]amino-2 éthanethiol 14 : Rdt = 72%; Eb. 85°C/0,05 Torr; nf = 1,4891; ir (cm&quot; 1 ) : 3325 tf (NH); 3070 f, 1635 f, 995 f, 910 m (CH=CH 2 ); 2550 tf (SH); 1105 F (C—O—C); rmn (CC1 4 , ô ppm) : 5,35-6,15 (m, 1H, CH=), 4,7-5,2 (m, 2H, CH 2 =), 3,35 (t, 2H, 7 = 7 Hz, CH 2 0), 3,15 (s, 3H, CH 3 0), 2,3-2,9 (m, 4H, NCH 2 CH 2 S), 2,1 (d, 2H, 7 = 7 Hz, CH 2 C=), 1,55 (t, 2H, 7 = 7 Hz, CH 2 C), 1,35 (s élargi, 2H, NH, SH), 1,0 (s, 3H, CH 3 C). Anal. calc. pour C, 0 H 21 NOS : C 59,07, H 10,41, N 6,89, S 15,76; trouvée: C 59,10, H 10,38, N 6,90, S 15,74.</p> 
+			
+			<p>N-/(Méthylthio-1 méthyl-3 hexène-5 yl)-3]amino-2 éthanethiol 15 : Rdt = 60%; Eb. 110°C/0,05 Torr; nf = 1,5274; iricm&quot; 1 ) : 3310 tf (NH); 3070 f, 1635 f, 995 m, 910 m (CH=CH 2 ); 2550 tf (SH); rmn (CCI4, 8 ppm) : 5,3-6,1 (m, 1H, CH=), 4,7-5,2 (m, 2H, CH,=), 2,0-2,9 (m, 8H, NCH 2 CH 2 S, C// 2 SCH 3 , CH 2 C=), 2,0 (s, 3H, CH,S), 1,3-1,8 (m, 2H, CC// 2 CH 2 S), 1,25 (s élargi, 2H, NH, SH), 0,95 (s, 3H, CH 3 C). Anal. calc. pour C, 0 H 21 NS, : C 54,74, H 9,65, N 6,38, S 29,23; trouvée : C 54,78, H 9,62, N 6,36, S 29,27.</p> 
+			
+			<p>N-Alkylamino-2 éthanethiols préparés selon la méthode 3 N-/(Heptadiène-1,6 yl)-4]amino-2 éthanethiol 16 : Rdt = 38%; Eb. 50°C/0,05 Torr; n 2 ° = 1,5018; ir (cm&apos; 1 ) : 3310 tf (NH), 3070 m, 1635 m, 990 m, 910 F (CH=CH,); 2550 tf (SH); rmn (CC1 4 , ô ppm) : 5,35-6,15 (m, 2H, CH=), 4,75-5,35 (m, 4H, CH,=), 2,3-2,95 (m, 5H, NCH 2 CH,S, CH), 1,9-2,3 (m, 4H, CH,C=), 1,35 (s élargi, 2H, NH, SH). Anal, calc. pour C 9 H n NS : C 63,11, H 10,00, N 8,18, S 18,71; trouvée :C 63,15, H 10,02, N 8,15, S 18,68.</p> 
+			
+			<p>N-[(Méthyl-4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 17 : Rdt = 50%; Eb. 67°C/0,05 Torr; nf = 1,5035; ir (cm&quot; 1 ) : 3310 tf (NH); 3070 m, 1635 m, 990 m, 905 F (CH=CH 2 ); 2550 tf (SH); rmn (CC1 4 , 5ppm) : 5,4-6,1 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH,=), 2,3-2,8 (m, 4H, NCH 2 CH 2 S), 2,05 (d, 4H, 7 = 6 Hz, CH 2 C=), 1,25 (s élargi, 2H, NH, SH), 0,95 (s, 3H, CH 3 ). Anal. calc. pour C, 0 H I9 NS : C 64,81, H 10,33, N 7,56, S 17,30; trouvée : C 64,80, H 10,31, N 7,54, S 17,22.</p> 
+			
+			<p>N-/(Triméthyl-2,4,6 heptadiène-1,6 yl)-4]amino-2 éthanethiol 18 : Rdt = 20%; Eb. 78-80°C/0,05 Torr; pureté &gt; 90%; ir (cm -1 ) : 3300 tf (NH); 3065 m, 1620 m, 885 F (CH 2 =C); 2560 tf (SH); rmn (CC1 4 , S ppm) : 4,4-4,9 (m, 4H, CH 2 =), 2,3-2,8 (m, 4H, NCH 2 CH 2 S), 2,0 (s, 4H, CH,C=), 1,75 (s, 6H, CH 3 C=), 1,25 (s, élargi, 2H, NH, SH), 1,0 (s, 3H, CH 3 C).</p> 
+			
+			<p>N-[(Éthyl-4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 19 : Rdt = 39%; Eb. 65°C/0,02 Torr; nf = 1,5110; ir (cm&apos; 1 ) : 3315 tf (NH); 3070 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2560 tf (SH); rmn (CC1 4 , 8 ppm) : 5,3-6,1 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH,=), 2,2-2,8 (m, 4H, NCH 2 CH 2 S), 2,0 (d, 4H, 7 = 8 Hz, CH,C=), 1,05-1,6 (m, 4H, C// 2 CH 3 , NH, SH), 0,8 (t, 3H, 7 = 6 Hz, CH 3 ). Anal. calc. pour CnH 21 NS : C 66,27, H 10,62, N 7,03, S 16,08; trouvée : C 66,30, H 10,65, N 7,06, S 16,05.</p> 
+			
+			<p>N-[(Propyl-4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 20 : Rdt = 38%; Eb. 74°C/0,03 Torr; « 2 D ° = 1,5001; ir (cm -1 ) : 3310 tf (NH); 3070 m, 1635 m, 990 m, 905 F (CH=OL); 2555 tf (SH); rmn (CC1 4 , 8 ppm) : 5,3-6,1 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH 2 =), 2,3-2,8 (m, 4H, NCH,CH 2 S), 2,0 (d, 4H, 7 = 7 Hz, CH 2 C=), 1,05-1,6 (m, 6H, CCTLOLC, NH, SH), 0,85 (t, 3H, 7 = 5 Hz, CH 3 ). Anal. calc. pour CpH^NS : C 67,55, H 10,86, N 6,56, S 15,03; trouvée : C 67,52, H 10,85, N 6,54, S 15,07.</p> 
+			
+			<p>N-[(Méthyl-4 heptadiène-1,6 yl)-4]amino-2 méthyl-1 éthanethiol 21 : Rdt = 40% ; Eb. 66°C/0,05 Torr; n 2 0 ° = 1,4910; ir (cm&quot; &apos; ) : 3310 tf (NH); 3070 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2550 tf (SH); rmn (CC1 4 , 8 ppm) : 5,3-6,1 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH,=), 2,3-3,0 (m, 3H, NCH 2 CHS), 2,05 (d, 4H, 7 = 7 Hz, CH 2 C=), 1.2-1,5 (m, 2H, NH, SH), 1,25 (d, 3H, 7 = 6 Hz, CW 3 CH), 0,9 (s, 3H, CH 3 C). Anal. calc. pour C n H 21 NS: C 66,27, H 10,62, N 7,03, S 16,08; trouvée : C 66,29, H 10,60, N 7,00, S 16,11.</p> 
+			
+			<p>N-[(Méthyl-4 heptadiène-1,6 yl)-4]amino-2 éthyl-2 éthanethiol 22 : Rdt = 35%; Eb. 65°C/0,01 Torr; nf = 1,5011; ir (cm&quot;&apos;) : 3340 tf (NH); 3080 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2550 tf (SH); rmn (CC1 4 , 8 ppm) : 5,35-6,2 (m, 2H, CH=),4,7-5,25 (m, 4H, CH 2 =), 2.3-2,95 (m, 3H, NCHCH 2 S), 2,05 (d, 4H, 7 = 7 Hz, CH 2 C=), 1,1-1,8 (m, 4H, CHjCU, NH, SH), 1,0 (s, 3H, CH 3 C), 0,85 (t, 3H, 7 = 7 Hz, CH 3 CH 2 ). Anal. calc. pourC P H 23 NS : C 67,55, H 10,86, N 6,56, S 15,03; trouvée : C 67,50, H 10,83, N 6,59, S 15,00.</p> 
+			
+			<p>N-[(Méthyl-4 heptadiène-1,6 yl)-4]amino-2 diméthyl-1,1 éthanethiol 23 : Rdt = 28%; Eb. 65°C/0,05 Torr; nf = 1,4842; ir (cm -1 ) : 3330 tf (NH); 3070 m, 1635 m, 995 m, 910 F (CH=CH 2 ); 2550 tf (SH); rmn (CC1 4 , 8 ppm) : 5,25-6,15 (m, 2H, CH=), 4,7-5,2 (m, 4H, CH,=), 2,45 (s, 2H, CH,N), 2,1 (d, 4H, 7 = 6 Hz, CH 2 C=), 1,15-1,85 (m, 2H, NH, SH), 1,25 (s, 6H, (CH 3 ) 2 C), 0,95 (&quot;s, 3H, CH 3 ). Anal. calc. pour C, 2 H 23 NS : C 67,55, H 10,86, N 6,56, S 15,03; trouvée : C 67,59, H 10,88, N 6,60, S 15,08.</p> 
+			
+			<p>N-[(Allyl-4 heptadiène-1,6 yl)-4]amino-2 éthanethiol 24 : Rdt = 30%; Eb. 79°C/0,05 Torr; n 2 D ° = 1,5250; ir (cm -1 ) : 3320 tf (NH); 3080 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2570 tf (SH); rmn (CC1 4 , 8 ppm) : 5,3-6,2 (m, 3H, CH=), 4,65-5,2 (m, 6H, CH,=), 2,2-2,9 (m 4H, NCH 2 CH 2 S), 2,05 (d, 6H, 7 = 7 Hz, CH 2 C=), 1,3 (s élargi, 2H, NH, SH). Anal. calc. pour C| 2 H,,NS : C 68,19, H 10,01, N 6,63, S 15,17; trouvée: C 68,25, H 10,04, N 6,60, S 15,18.</p> 
+			
+			<p>N-[(Allyl-4 heptadiène-1,6 yl)-4]amino-2 méthyl-1 éthanethiol 25 : Rdt = 25%; Eb. 114-116°C/0,05 Torr; pureté &gt; 90%; ir (cm&quot; 1 ) : 3300 tf (NH); 3080 m, 1640 m, 995 m, 910 F (CH=CH 2 ); 2550 tf (SH); rmn (CC1 4 , 8 ppm) : 5,3-6,2 (m, 3H, CH=), 4,7-5,3 (m, 6H, CH,=), 2,3-3,2 (m, 3H, NCH,CHS), 2,05 (d, 6H, 7 = 7 Hz, CH 2 C=), 1,5-1,9 (s élargi, 2H, NH, SH), 1,0-1,5 (m, 3H, CH 3 C).</p>
+
+			</div>
+
+			</div>	
+			
+			<div type="section">
+				<head>Remerciements</head>
+
+				<p>Cette étude a été réalisée dans le cadre d&apos;une collaboration avec la Direction des recherches, études et techniques, Division Chimie-Pharmacologie, que nous remercions vivement pour son aide matérielle.</p>
+
+			</div>	
+
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Dans Radiation-drug interactions in the treatment of cancer</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Yuhas</surname>
+			</persName>
+		</author>
+		<editor>Éditeurs : G. H. Sokol and R. P. Maickel. J. Wiley</editor>
+		<imprint>
+			<date type="published" when="1979" />
+			<biblScope type="pp">p</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Dans Radiation sensitizers</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Yuhas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. Conf. 1979), Éditeur : L. W. Brady. Masson</title>
+		<meeting>. Conf. 1979), Éditeur : L. W. Brady. Masson<address>New York</address></meeting>
+		<imprint>
+			<date type="published" when="1980" />
+			<biblScope type="pp">p</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Yuhas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Spellman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">M</forename>
+				<surname>Jordan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Pardini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">M J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Culo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope type="vol">41</biblScope>
+			<biblScope type="fpage">832</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Yuhas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Radiat. Oncol. Biol. Phys</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="fpage">519</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">L</forename>
+				<surname>Phillips</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope type="vol">39</biblScope>
+			<biblScope type="pp">987</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">R</forename>
+				<surname>Twenty-Man</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="fpage">745</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rojas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Denekamp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Radiat. Oncol. Biol. Phys</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="issue">9</biblScope>
+			<biblScope type="pp">507</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope type="vol">47</biblScope>
+			<biblScope type="pp">65</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">M</forename>
+				<surname>Patt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">B</forename>
+				<surname>Tyree</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">L</forename>
+				<surname>Straube</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">E</forename>
+				<surname>Smith</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope type="vol">110</biblScope>
+			<biblScope type="pp">213</biblScope>
+			<date type="published" when="1949" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<forename type="middle">M</forename>
+				<surname>Bacq</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Herve</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lecompte</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Fisher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Blavier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Dechamps</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Rayet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Int. Physiol</title>
+		<imprint>
+			<biblScope type="vol">59</biblScope>
+			<biblScope type="pp">442</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">G</forename>
+				<surname>Doherty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Shapira</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat. Res</title>
+		<imprint>
+			<biblScope type="vol">7</biblScope>
+			<biblScope type="pp">13</biblScope>
+			<date type="published" when="1957" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Hansen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Sorbo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Radiol</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="issue">141</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Klayman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">P</forename>
+				<surname>Jacobus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">510</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">Ya</forename>
+				<forename type="middle">L</forename>
+				<surname>Kostyukovskii</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">G</forename>
+				<surname>Vladimirov</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">E</forename>
+				<surname>Strel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Slavachevskaya</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971" />
+			<biblScope type="pp">141</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Granger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Orzalesi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Robbe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Chapat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Randon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Simon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chim. Ther</title>
+		<imprint>
+			<biblScope type="vol">6</biblScope>
+			<biblScope type="pp">439</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fatome</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Poutrain</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Granger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Orzalesi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Randon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chim. Ther</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<biblScope type="pp">312</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Terol</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Fernandez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Robbe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Chapat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Granger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fatome</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Andrieu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Sentenac-Rouma-Nou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">13</biblScope>
+			<biblScope type="issue">13</biblScope>
+			<biblScope type="pp">153</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Mesnard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Miginiac</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fatome</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">D</forename>
+				<surname>Laval</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Sentenac-Roumanou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lion</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="pp">247</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Fundamentals of radiobiology</title>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<imprint>
+			<publisher>Pergamon Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">S</forename>
+				<surname>Yusipov</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+			<biblScope type="pp">850</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Piper</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">R</forename>
+				<surname>Stringfellow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">P</forename>
+				<surname>Johnston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="issue">18</biblScope>
+			<biblScope type="fpage">244</biblScope>
+			<biblScope type="lpage">803</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">P</forename>
+				<surname>Johnston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">33</biblScope>
+			<biblScope type="pp">636</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">P</forename>
+				<surname>Johnston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<date type="published" when="1975-7-1" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Akerfeld</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand</title>
+		<imprint>
+			<biblScope type="vol">13</biblScope>
+			<biblScope type="pp">1479</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Laduranty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lion</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Miginiac</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Belg</title>
+		<imprint>
+			<biblScope type="vol">93</biblScope>
+			<biblScope type="pp">903</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">D</forename>
+				<surname>Reynolds</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Fields</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">26</biblScope>
+			<biblScope type="issue">26</biblScope>
+			<biblScope type="pp">5125</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">R</forename>
+				<surname>Snyder</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">B</forename>
+				<surname>Ziegler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">69</biblScope>
+			<biblScope type="pp">2672</biblScope>
+			<date type="published" when="1947" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">I</forename>
+				<surname>Braz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">45</biblScope>
+			<biblScope type="pp">9473</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">R</forename>
+				<surname>Henze</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">61</biblScope>
+			<biblScope type="pp">1790</biblScope>
+			<date type="published" when="1939" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse de Docteur-Ingénieur</title>
+		<imprint>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Synthesis of acetylenes, aliénés and cumulenes</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Brandsma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">D</forename>
+			</persName>
+		</author>
+		<imprint>
+			<publisher>Elsevier Publishing Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">F</forename>
+				<surname>Hennionetc</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">V</forename>
+				<surname>Digiovanna</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">2645</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Surzur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Dupuy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Aimar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C. R. Acad. Sci. Paris Ser. C</title>
+		<imprint>
+			<biblScope type="vol">269</biblScope>
+			<biblScope type="pp">849</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Miginiac</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">2544</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<imprint>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">E</forename>
+				<surname>Pollak</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">F</forename>
+				<surname>Grillot</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="issue">32</biblScope>
+			<biblScope type="pp">2892</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Tondeur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Deray</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">2493</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">E</forename>
+				<surname>Spoerri</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">79</biblScope>
+			<biblScope type="pp">4716</biblScope>
+			<date type="published" when="1957" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">L</forename>
+				<surname>Eliel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">M</forename>
+				<surname>Rogic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">27</biblScope>
+			<biblScope type="pp">4712</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Liso</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Trapani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Latrofa</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synthesis</title>
+		<imprint>
+			<biblScope type="pp">288</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">D</forename>
+				<surname>Roberts</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">68</biblScope>
+			<biblScope type="pp">1472</biblScope>
+			<date type="published" when="1946" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">C</forename>
+				<surname>Mcclenachan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">82</biblScope>
+			<biblScope type="pp">1982</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Babudri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Bartoli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Ciminale</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Ingrosso</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="pp">2047</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Babudri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Florio</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="pp">2051</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Florio</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Ingrosso</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">40</biblScope>
+			<biblScope type="pp">4527</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Babudri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Inguscio</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synthesis</title>
+		<imprint>
+			<biblScope type="vol">522</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Thèse de Doctorat ès-Sciences Physiques, Univer-sité d&apos;Aix-Marseille</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">L</forename>
+				<surname>Larice</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Metzger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">3637</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Wenker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">57</biblScope>
+			<biblScope type="pp">1079</biblScope>
+			<date type="published" when="1935" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Bafford</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">491</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Bafford</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Chanon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Metzger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">971</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">A</forename>
+				<surname>Foglia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">M</forename>
+				<surname>Gregory</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">F</forename>
+				<surname>Osman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">36</biblScope>
+			<biblScope type="pp">1068</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">G</forename>
+				<surname>Young</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="issue">753</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+	<note>et. références incluses</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Gaudemar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Chim. France</title>
+		<imprint>
+			<biblScope type="issue">113</biblScope>
+			<biblScope type="pp">161</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">G</forename>
+				<surname>Teach</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">75</biblScope>
+			<biblScope type="pp">1653</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">C</forename>
+				<surname>Elderfield</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Wempen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">72</biblScope>
+			<biblScope type="pp">1334</biblScope>
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Windus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Synth. Coll</title>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<biblScope type="fpage">345</biblScope>
+			<biblScope type="lpage">411</biblScope>
+			<date type="published" when="1963" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">B</forename>
+				<surname>Reisner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">78</biblScope>
+			<biblScope type="pp">2132</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Catch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">H</forename>
+				<surname>Cook</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Heilbron</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">1609</biblScope>
+			<date type="published" when="1947" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">E</forename>
+				<surname>Rigler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="pp">1350</biblScope>
+			<date type="published" when="1934" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">K</forename>
+				<surname>Bradsher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Grantham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">76</biblScope>
+			<biblScope type="pp">114</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">P</forename>
+				<surname>Mcmannus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Hearn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synth. Commun</title>
+		<imprint>
+			<biblScope type="vol">3</biblScope>
+			<biblScope type="pp">177</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Dans Chemistry of carbon compounds</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">D</forename>
+				<surname>Loudon</surname>
+			</persName>
+		</author>
+		<editor>IV. Éditeur : E. H. Rodd</editor>
+		<imprint>
+			<publisher>Elsevier Publishing Company</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">R</forename>
+				<surname>Handrick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">R</forename>
+				<surname>Atkinson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Bruni</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="pp">762</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gabriel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Ber</title>
+		<imprint>
+			<biblScope type="vol">22</biblScope>
+			<biblScope type="pp">1139</biblScope>
+			<date type="published" when="1889" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hirsch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Ber</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="issue">964</biblScope>
+			<date type="published" when="1890" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Dictionary of Organic Compounds</title>
+		<imprint>
+			<date type="published" when="1965" />
+			<publisher>Eyre and Spottiswoode Publishers</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">The infrared spectra of complex molecules</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1964" />
+			<publisher>Wiley</publisher>
+			<biblScope type="pp">96</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude physico-chimique, spectres de vibration et structure du sulfaméthoxazole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Luc</forename>
+								<surname>Maury</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Joëlle</forename>
+								<surname>Rambaud</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Bernard</forename>
+								<surname>Pauvert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Yves</forename>
+								<surname>Lasserre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<surname>Berge</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Audran</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Groupe polymorphisme et Biodisponibilité", U.F.R. de Pharmacie</orgName>
+								<address>
+									<addrLine>Avenue Charles Flahaut</addrLine>
+									<postCode>34060</postCode>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude physico-chimique, spectres de vibration et structure du sulfaméthoxazole</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem. Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">63</biblScope>
+							<biblScope type="issue">63</biblScope>
+							<biblScope type="fpage">3012</biblScope>
+							<date type="published" when="1985">1985</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les auteurs ont identifié et caractérisé deux polymorphes et une forme solvatée pour le sulfaméthoxazole en utilisant de nombreuses méthodes thermiques et spectrales. La structure de la forme II a été résolue et comparée à celle de la forme I déjà publiée: les différences portent essentiellement sur les longueurs des liaisons hydrogène intermoléculaires. L'analyse des spectres Raman et infrarouge a permis de proposer une attribution des vibrations caractéristiques des groupements aminé, amide et sulfone impliqués dans les liaisons hydrogène.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Two polymorphic and one solvate forms of sulfamethaxozole have been identified and characterized using various thermal and spectral methods. The crystal structure of form II has been solved and compared with that of form I recently published: the lengths of the intermolecular H bonds mainly differentiate the two polymorphic forms. An assignment of the fundamental vibrations of the amine, amide, and sulfone groups involved in the H intermolecular bonds has been proposed from the analysis of the Raman and infrared spectra.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Poursuivant nos recherches sur le polymorphisme de substances médicamenteuses, nous avons entrepris l'étude du sulfaméthoxazole ou N-(méthyl-5 isoxazolyl-3) sulfanilamide.</p>
+				<p>Dans un travail antérieur (1) nous avons montré que seul l'emploi simultané de nombreuses techniques peut permettre d'affirmer la présence de plusieurs formes cristallines pour un même composé; c'est pourquoi nous avons utilisé dans cette étude des méthodes thermiques et spectrales traditionnelles— thermogravimétrie, analyses thermique et calorimétrique différentielles , spectrométrie d'absorption infrarouge et diffraction des rayons X—auxquelles nous avons ajouté la diffusion Raman, notamment dans le domaine des basses fréquences. Nous avons également résolu la structure du polymorphe II afin de la comparer à celle du polymorphe I, publiée antérieurement (2).</p>
+				<ref type="bibr"> Yang et Guillory (3)</ref>
+				<p>, dans un travail général sur les sulfamides, ont mis en évidence pour ce composé l'existence de trois formes polymorphes, dont deux seulement caractérisées par leur spectre infrarouge. Si nous retrouvons bien les formes I et II des auteurs précités, nous n'avons pu isoler la forme III; en revanche, nous avons identifié et caractérisé une forme solvatée non signalée précédemment.</p>
+			</div>
+			<div type="section">
+				<head>Matériel et méthode</head>
+				<div type="section" n="1">
+					<head>Obtention des différentes formes</head>
+					<p>Le sulfaméthoxazole (produit Roche) a été recristallisé dans plusieurs solvants (eau, acétone, éthanol, propanol, butanol et pentanol) ainsi que dans différents mélanges: eau-éthanol et eau—acétone. Pour chaque expérience, nous avons suivi la cristallogénèse en fonction de la température. Les cristaux recueillis après filtration étaient séchés sous vide durant 48 h.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Analyse thermique</head>
+					<p>L'analyse thermogravimétrique a été effectuée avec une balance Sétaram Ugine Eyraud B60, en double version ATD-ATG, équipée d'un programmateur de température RT 64. La prise d'essai était de 50 mg et la substance de référence l'alumine.</p>
+					<p>L'analyseur enthalpique différentiel Perkin Elmer DSC 1B nous a permis de différencier les changements d'états physiques en fonction de la température et de mesurer l'énergie calorifique qui accompagne ces changements d'états. Les prises d'essai étaient de 2 à 5 mg et la montée en température de 2 ou 4°C/min. Les phénomènes thermiques ont été vérifiés par visualisation au microscope à platine chauffante Leitz.</p>
+				</div>
+				<div type="section" n="3">
+					<head>Méthodes spectrales</head>
+					<p>Diffraction des rayons X</p>
+					<p>dLes diagrammes ont été réalisés sur un diffractomètre CGR avec tube de cuivre et monochromateur à quartz monté sur un générateur Sigma 80. </p>
+					<p>Spectrométrie infrarouge</p>
+					<p>Les spectres infrarouge ont été enregistrés à température ambiante sur un spectromètre Perkin Elmer 457. Nous avons vérifié, par enregistrement des spectres Raman de la poudre en l'état ou comprimée, que le broyage et la mise sous forme de pastilles KBr n'entraînaient aucune modification des spectres.</p>
+					<p>Spectrométrie de diffusion Raman</p>
+					<p>Les spectres Raman ont été enregistrés à température ambiante sur un spectromètre de haute résolution Jobin et Yvon "Ramanor HG 2S". La technique utilisée était celle de diffusion à 90° en incidence normale , l'excitatrice étant la radiation 514,5 nm d'un laser Spectra Physics à argon ionisé. La puissance du laser sur l'échantillon était maintenue à une valeur faible de 100 mW, pour éviter tout risque de dégradation des composés.</p>
+				</div>
+				<div type="section" n="4">
+					<head>Détermination de la structure de la forme II </head>
+					<p>Un monocristal de 0,20 x 0,15 x 0,25 mm a été soumis au rayonnement X sur un diffractomètre automatique Syntex P2,. Quinze réflexions indépendantes ont permis de définir les paramètres de la maille cristalline. Les extinctions systématiques ont donné deux groupes d'espace Ce et C2/c. Sur 1769 intensités mesurées, 1246 étaient considérées comme observées conformément à / a 2,5 a (/). La longueur d'onde utilisée était celle de la raie Ka du molybdène soit \ = 0,71069 À, l'angle de Bragg maximum étant 2 9 = 47°. La résolution a été effectuée avec le programme MULTAN 80 (4). La carte de Fourier a donné cinq atomes. Trois synthèses de Fourier ont été requises pour faire apparaître tous les atomes non hydrogène de la molécule. L'affinement a été alors poursuivi avec le programme SHELX 76 (5). Les atomes lourds ont été affinés de façon anisotrope. Leshydrogènes ont subit un affinement isotrope avec un B eq de 9 Â.</p>
+					<p>Le groupe d'espace s'est avéré être C2/c. En fin d'affinement, le coefficient de reliabilité était R = 0,0408.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Résultats et discussion</head>
+				<div type="section">
+					<head>Analyse thermique</head>
+					<p>Les courbes d'analyse calorimétrique différentielle donnent trois accidents endothermiques différents: à 108, 166 et 170°C (<ref type="figure">fig. 1</ref>).</p>
+					<p>Les thermogrammes obtenus pour ces trois accidents montrent que le premier s'accompagne d'une perte de poids de 3%, correspondant à la perte d'une demi-molécule d'eau (<ref type="figure">fig. 2</ref>). Les deux autres ne sont accompagnés d'aucune perte de poids. Il semble donc que l'on soit en présence de 2 polymorphes et d'un solvate. Les deux formes ont des températures de fusion très proches et il n'est possible de les séparer qu'en effectuant des mesures à une vitesse de 2°C/min.</p>
+					<p>La forme "haute température" a été obtenue dans tous les solvants. La forme solvatée est extraite par recristallisation dans un mélange eau—acétone ou dans l'eau. Il a été plus difficile d'obtenir la forme "basse température" (forme II), qui apparaît par traitement thermique de la forme I (fusion de la forme I et trempe à 0°C) ou par recristallisation dans le méthanol.</p>
+					<p>Le passage de la forme I à la forme II étant thermiquement réversible, nous en concluons que les deux formes sont énantiomorphes. À partir des courbes d'analyse calorimétrique différentielle (fig . 1), nous avons calculé les enthalpies de fusion soit :</p>
+					<p><formula>A H ( / , ) = - 26 , 200 kJ mol " 1 A H ( / " ) = - 24 , 300 kJ mol " 1</formula></p>
+					<p>ce qui donne en première approximation une enthalpie de transformation de 2 , 100 kJ mol " 1 ( 6 ) .</p>
+				</div>
+				<div type="section">
+					<head>Diffraction des rayons X</head>
+					<p>Les diagrammes de poudre (<ref type="figure">fig . 3</ref>) des trois cristallisations permettent de mettre en évidence des raies spécifiques de chaque espèce :</p>
+					<p><formula>forme I : 7 , 10 , 5 , 12 , 05 9° forme 11 : 8 , 11 , 9 , 16 , 30 9° solvate : 9 , 7 , 10 , 7 , 11 , 15 , 12 , 9 9°</formula></p>
+				</div>
+				<div type="section">
+					<head>Étude comparative des structures cristallines des deux formes</head>
+					<p>Cette étude est particulièrement intéressante ; en effet , les deux formes cristallisent dans le même système ( monoclinique ) et le même groupe d ' espace ( C2 / c ) : un fait analogue avait déjà été observé pour d ' autres sulfamides ( 7 , 8 ) . De plus , les paramètres ( a , b , c ) de la forme 1 sont respectivement voisins des paramètres ( c , b , a ) de la forme II comme le montre le tableau suivant :</p>
+					<p>L'ensemble des valeurs des angles de valence et des distances interatomiques de la forme II ( tableau 1 ) fait apparaître un effet . quinonique plus marqué que dans la forme I , avec des liaisons Cl—N7 , C2—C3 et C5—C6 plus courtes ( A / = 0 , 02 A ) . Exceptées ces légères différences , les molécules I et II sont identiques et l ' empilement moléculaire dans la maille (<ref type="figure">fig . 4</ref>) , très semblable . Les écarts les plus marquants se situent au niveau des liaisons hydrogène ( tableau 2 ) . Les similitudes de ces deux polymorphes , tant au niveau des paramètres cristallins qu ' au niveau des paramètres internes de la molécule , expliquent d ' une part les points et chaleurs de fusion très voisins , d'autre part la difficulté à différencier ces deux formes .</p>
+				</div>
+				<div type="section">
+					<head>Spectroméîrie infrarouge et Raman</head>
+					<p>La spectrométrie infrarouge est une méthode utilisée depuis de nombreuses années pour mettre en évidence le polymorphisme de substances médicamenteuses , mais le domaine spectral généralement analysé s ' étend seulement de 4000 à 200 cm-1 et ne porte donc que sur les vibrations internes de la molécule . Le polymorphisme pouvant n ' influer que très peu sur les vibrations propres d ' une molécule , l ' absorption infrarouge— au moyen de spectromètres conventionnels— se révèle parfois insuffisante . En outre , la technique généralement adoptée de mise sous forme de pastilles KBr nécessite le broyage et la compression de la poudre , manipulations qui peuvent faire évoluer une forme instable vers une forme stable . La spectrométrie de diffusion Raman rend possible l ' analyse d ' un échantillon polycristallin sans lui faire subir de traitements susceptibles de le modifier . Elle permet en outre , comme l ' absorption infrarouge , d ' étudier le domaine des vibrations internes , mais elle trouve tout son intérêt dans l ' obtention aisée du spectre des vibrations externes . Ces vibrations , qui correspondent aux mouvements de rotation et de translation des molécules au sein du réseau cristallin , sont d ' un très grand intérêt pour caractériser le polymorphisme , qui se manifeste par des changements au niveau du réseau . Les raies caractéristiques apparaissent à des fréquences très basses et ne sont facilement accessibles que par diffusion Raman . Cette technique , d ' application récente au médicament ( 9 , 10 ) , est très peu employée et nous l ' avons déjà mise en oeuvre lors de l ' étude de différents sulfamides ( 1 , 11 , 12 , 21 ) .</p>
+				</div>
+				<div type="section">
+					<head>Domaine des vibrations externes</head>
+					<p>Les spectres Raman des vibrations du réseau , représentés sur la <ref type="figure">figure 5</ref>, permettent immédiatement d ' identifier les deux polymorphes et le solvate . Le solvate se caractérise principalement par la raie 31 cm-1 , la plus intense de tout le spectre ; les raies 49 , 5 , 68 et 102 cm-1 peuvent également permettre de l ' identifier . Les raies 41 , 63 , 79 , 113 et 123 cm " 1 peuvent être utilisées pour caractériser la forme II . Enfin , la forme I se reconnaît par la raie 88 cm " ' très intense , le massif centré à 130 cm " 1 et le triplet 45 , 37 et 31 cm " 1 .</p>
+				</div>
+				<div type="section">
+					<head>Domaine des vibrations internes</head>
+					<p>Les spectres Raman (<ref type="figure">fig . 6</ref>) et infrarouge ( <ref type="figure">fig . 7</ref>) permettent de différencier les trois formes polymorphes bien que les différences , en particulier celles relevées sur les spectres Raman , soient moins significatives dans ce domaine que dans celui des vibrations externes.</p>
+					<p>La présence simultanée dans cette molécule d ' un noyau benzénique et d ' un noyau méthoxazole rend complexe l ' interprétation des spectres de vibration . Nous avons signalé précédemment que les formes I et II présentent de nombreuses analogies structurales et diffèrent essentiellement par les liaisons hydrogène intermoléculaires , qui intéressent principalement les groupements aminé , amide et sulfone . Par suite du nombre important de vibrations attendu et des nombreux couplages possibles nous limiterons nos propositions d ' attribution à certains modes caractéristiques . Ces propositions sont basées d ' une part sur les travaux antérieurs portant sur des molécules voisines , d ' autre part sur la comparaison des spectres avec ceux de différents sulfamides déjà étudiés .</p>
+				</div>
+				<div type="section">
+					<head>Région 4000-2000 cm-'</head>
+					<p>Les spectres infrarouge des trois formes étudiées révèlent d ' importantes modifications dans ce domaine . Les vibrations du groupement méthyle ne donnent lieu qu ' à de faibles absorptions et ne seront pas discutées . En revanche , les vibrations V ( NH 2 ) et v ( NH ) se traduisent par de fortes bandes infrarouge.</p>
+					<p>Les bandes 3475 et 3384 cm-1 de la forme I traduisent sans ambiguïté les modes antisymétrique et symétrique du groupement aminé : ces valeurs sont en accord avec celles trouvées pour d ' autres sulfamides ( 1 , 10 , 11 , 12 ) . Ces vibrations sont peu perturbées par les liaisons hydrogène dont les longueurs N—H . . . 0 ( tableau 2 ) sont supérieures à 3 , 2 A , ce qui confirme les conclusions de Novak et coll . ( 13 ) , qui ont montré , qu ' au delà d ' une telle distance , l ' influence de la liaison H sur la fréquence de vibration est peu importante . Dans la forme II , ces modes v as ( NH 2 ) et v s ( NH 2 ) apparaissent à des fréquences voisines de celles de la forme I , 3490 et 3400 cm " 1.</p>
+					<p>Si dans le solvate le mode v as ( NH 2 ) est trouvé isolé à 3475 cm " ' , en revanche , le mode v s ( NH 2 ) apparaît sous forme d ' un doublet à 3400 et 3360 cm " 1 : un tel dédoublement a été relié à la formation de dimères cycliques ( 14 ) , comme cela a déjà été observé sur des barbituriques ( 15 , 16 ) et le sulfamé-thoxypyridazine ( 17 ) . La détermination de la structure de ce solvate devrait nous permettre de confirmer cette hypothèse.</p>
+					<p>La fréquence v ( N—H ) d ' un groupement R—S0 2 —NH—R ' est généralement attendue vers 3300 cm " ' : la raie 3305 cm " 1 ( forme I ) correspond donc à cette vibration . Shiu Shiang Yang et Guillory ( 3 ) avaient attribué les raies 3300 et 3150 cm " 1 à ce mouvement . Si l ' attribution de la première fréquence nous paraît raisonnable , nous ne pensons pas que l ' attribution de la seconde à ce même mode puisse être retenue ; en effet , la raie 3145 cm " 1 a été attribuée ( 17 ) , dans des complexes d ' aniline en particulier , au mode v ( N—H ) engagé dans une liaison N—H . . . N . Or , la détermination de la structure montre qu ' il n ' existe pas de telle liaison dans la forme I . Nous proposons d ' attribuer cette raie soit à une combinaison soit à une résonance de Fermi entre une vibration v ( CH ) du noyau et l ' harmonique de la raie 1592 cm " 1 , ce qui justifierait son intensité . Sur les spectres du solvate , le mode v ( N—H ) est abaissé à 3200 cm " 1 , preuve que le vibrateur N—H est impliqué dans une liaison hydrogène.</p>
+					<p>La forme II , quant à elle , présente plusieurs bandes d ' intensité moyenne entre 3300 et 2700 cm " 1 , parmi lesquelles il est difficile de retrouver ce mode . L ' étude structurale montre que dans ce polymorphe il existe une liaison N—H . . , N de longueur 2 , 952 A , donc relativement forte pour une liaison de ce type ( 18 ) ; nous proposons d ' attribuer la bande 3100 cm " 1 au mode v ( N—H ) engagé dans le pont hydrogène ( 18 , 19 ) .</p>
+				</div>
+				<div type="section">
+					<head>Région 1700 -200 cm'1</head>
+					<p>Seules certaines vibrations caractéristiques seront discutées . Quelle que soit la forme , deux bandes intenses apparaissent vers 1600 et 1625 cm " 1 la 1ère traduisant une vibration du noyau , la seconde le cisaillement ô ( NH 2 ) . La forme II présente en outre une bande supplémentaire à 1645 cm " 1 , très intense , que nous proposons d ' attribuer au mode ô ( N—H ) bien que cette fréquence soit élevée pour une telle vibration . À l ' appui de cette attribution , signalons que Novak et coll . ( 13 ) ont montré que l ' existence d ' un pont hydrogène du type N—H . . , N abaisse la fréquence du mode v ( N—H ) et déplace vers les hautes fréquences le mode § ( N—H ) attendu vers 1400 cm " '.</p>
+					<p>Les dernières fréquences que nous discuterons sont en rapport avec le groupement sulfone . Le mode antisymétrique v as ( S0 2 ) apparaît très intense sur les spectres d ' absorption , à 1365 cm " 1 ( forme 1 ) . La raie très fine 1383 cm " 1 qui traduit une raie du noyau benzénique , est retrouvée à la même fréquence dans tous les composés . Cette vibration v as ( S0 2 ) voit sa fréquence s ' abaisser à 1335 cm " 1 ( forme II ) et 1310 cm " 1 ( solvate ) . Ces abaissements de fréquence sont à mettre en relation avec l ' existence des liaisons hydrogène . Cette influence se manifeste également au niveau du mode symétrique v s ( S0 2 ) , très intense en Raman , qui apparaît généralement sous forme d ' un doublet ( 12 ) . Dans la forme I , les spectres Raman et infrarouge révèlent à 1145-1160 ( ir ) et 1141-1156 ( Raman ) deux raies , d ' égales intensités , attribuables à ce mode . En revanche , on observe une diminution très importante de la bande de plus basse fréquence ( forme II ) et un dédoublement de cette bande ( solvate ) . Enfin , le cisaillement ô ( S0 2 ) donne un doublet vers 545 — 572 cm " 1 tant sur les spectres Raman qu ' en infrarouge .</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>L ' étude du sulfaméthoxazole nous a permis de mettre en évidence deux polymorphes et un solvate non répertorié dans la littérature.</p>
+				<p>Chaque forme a été identifiée et caractérisée par des méthodes thermiques et spectrales . L ' analyse thermique différentielle nous a révélé l ' existence du solvate qui a été caractérisé , comme les deux polymorphes , par son diagramme de rayons X et ses spectres infrarouge et Raman . La détermination de la structure cristalline de la forme II a été réalisée , ce qui nous a amené à la comparer à celle de la forme I déjà publiée . Cette comparaison révèle que les polymorphes I et II cristallisent dans le même système cristallin ( monoclinique ) et que l ' empilement dans les mailles est très semblable . Les molécules I et II sont pratiquement identiques quant aux distances interatomiques et aux angles de valence , les différences les plus importantes se situant au niveau des liaisons hydrogène intermoléculaires.</p>
+				<p>L ' existence de ces ponts hydrogène nous a conduit à réaliser une analyse , par spectrométrie d ' absorption infrarouge et de diffusion Raman , des vibrations des groupements amine , amide et sulfone principalement intéressés par ces liaisons .</p>
+				<p>Nous proposons donc une attribution des modes caractéristiques de ces groupements en relation avec les longueurs des liaisons .</p>
+				<p>L ' obtention de cristaux mesurables du solvate doit nous permettre de déterminer la structure de ce composé et d ' effectuer une étude des cinétiques de dissolution des différentes formes .</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<author>
+								<persName>
+									<surname>Univs</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>York</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Louvain-La-Neuve</forename>
+									<surname>England</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Belgium</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<title level="m" type="main">SHELX 76. Program for crystal structure determination</title>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Burger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Ramberger</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mikrochim. Acta, II</title>
+							<imprint>
+								<biblScope type="pp">273</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="m">Thèse Montpellier</title>
+							<imprint>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Gafner</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Crystallogr. Sect B</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">326</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Bellows</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">N</forename>
+									<surname>Prasad</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Drug. Dev. Ind. Pharm</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">451</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Barbara</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">N</forename>
+									<surname>Prasad</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Pharm. Sci</title>
+							<imprint>
+								<biblScope type="vol">70</biblScope>
+								<biblScope type="pp">789</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Maury</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Rambaud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Pauvert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Audran</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y. Las-Serre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Berge</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pharm. Acta Helv</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">112</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Maury</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Rambaud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Pauvert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Berge</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Lasserre</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pharm. Acta Helv</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">22</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Novak</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Josien</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="pp">38</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<title level="m" type="main">The infrared spectra of complex molecules. Chap-man and Hall</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1975"/>
+								<pubPlace>London, England</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M. Draguet-Brughmans</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Bouche</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pharm. Acta Helv</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">140</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M. Draguet-Brughmans</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ph</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Bouche</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Pharm. Belg</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">397</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">A</forename>
+									<surname>Thornton</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J.Mol. Struct</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">119</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Novak</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Struct. Bonding (Berlin)</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">177</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Bertoluzza</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Fagnano</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Finelli</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+									<surname>Morelli</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Tosi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Raman Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">14</biblScope>
+								<biblScope type="pp">386</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<title level="a" type="main">Program for plotting molecular and crystal structures</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">D S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Univ. of Cambridge, England</title>
+							<imprint>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Maury</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Rambaud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Pauvert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Lasserre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Audran</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Pharm. Sci</title>
+							<imprint>
+								<biblScope type="vol">74</biblScope>
+								<biblScope type="pp">422</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réduction photochimique des polytungstates. Mise en évidence d&apos;un effet photogalvanique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<surname>Folcher</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Département de physico-chimie</orgName>
+								<orgName type="institution">L.R.M.C.I. (LA 331)</orgName>
+								<address>
+									<addrLine>Cen-Saclay</addrLine>
+									<postCode>91191</postCode>
+									<settlement>Gif-sur-Yvette Cédex</settlement>
+									<country>France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<surname>Paris</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Département de physico-chimie</orgName>
+								<orgName type="institution">L.R.M.C.I. (LA 331)</orgName>
+								<address>
+									<addrLine>Cen-Saclay</addrLine>
+									<postCode>91191</postCode>
+									<settlement>Gif-sur-Yvette Cédex</settlement>
+									<country>France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">F</forename>
+								<surname>Chauveau</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie des Polymères Inorganiques</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<postCode>75005</postCode>
+									<settlement>Paris</settlement>
+									<country>France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réduction photochimique des polytungstates. Mise en évidence d&apos;un effet photogalvanique</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p> Une cellule photogalvanique est réalisée avec une solution de décatungstate (W10O34) de tétrabutylammonium dans l&apos;acé-tonitrile à la concentration 0,2 M en atome-gramme de tungstène. Le dispositif utilisé comporte une électrode de platine éclairée et une électrode de graphite dans l&apos;obscurité. Les conditions d&apos;utilisation de la pile pour obtenir le meilleur rendement électrique sont déterminées. Un mécanisme global est proposé: le décatungstate excité par la lumière est réduit reversiblement, un donneur d&apos;électron ou l&apos;eau est oxydée pendant la réaction. Nous montrons que le mécanisme fait vraisemblablement intervenir deux photons. La fem développée est de 650 mV et le rendement expérimental (puissance de la pile/énergie lumineuse) est voisin de 1%.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p> A photogalvanic cell which functions with an acetronitrile solution of tetrabutylammonium decatungstate (WMO^) (0.2 M in gram-atoms of tungsten) has been realized. This cell utilizes an irradiated platinum electrode with a non-illuminated graphite electrode. The conditions giving the best conversion of light to electric power have been determined. An overall mechanism has been proposed. The decatungstate photooxidizes an electron donor like water. The involvement of a two-photon process has been demonstrated. The emf produced is about 650 mV, and the experimental yield is in the neighborhood of 1%.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<p>La recherche des réactions de transfert d&apos;électrons capables de stocker l&apos;énergie solaire s&apos;oriente vers des systèmes microhétérogènes (10), micelles et colloïdes. Les polyanions peuvent constituer une alternative intéressante (9): la structure déterminée à l&apos;état solide est conservée en solution (1) et on peut faire varier dans une certaine mesure la taille et la forme des arrangements moléculaires. Ceux-ci présentent des propriétés bien spécifiques comme le montre la chimie des polytungstates (2).</p> 
+			
+			<p>Le tungstène VI engagé dans le polyanion est photosensible et joue le rôle de capteur d&apos;électron (3). C&apos;est précisément ce qui est observé dans le cas du décatungstate W10O3J. Celui-ci a la structure présentée sur la figure 1 (4). Une bande de transfert de charge centrée à 325 nm mais étendue dans le domaine visible peut être utilisée pour accroître son affinité électronique.</p> 
+			
+			<p>Dans le cas de l&apos;uranium hexavalent, nous avons pu utiliser les propriétés oxydantes de l&apos;uranyle excité pour créer un effet photogalvanique, c&apos;est-à-dire l&apos;apparition d&apos;une différence de potentiel entre deux électrodes plongées dans une solution d&apos;uranyle quand l&apos;une d&apos;entre elle est éclairée (5). Le montage utilisé dans cette expérience a pu être reconduit dans le cas des solutions de polytungstates. Les premiers résultats obtenus nous ont amené à étudier ce phénomène en détail.</p>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Le montage de la cellule a été décrit par ailleurs (5). Nous rappelons que la lumière éclaire une électrode de platine tandis qu&apos;une électrode de graphite reste non irradiée. La principale difficulté réside dans le réglage de la distance optimale entre la fenêtfê et l&apos;électrode. L&apos;utilisation d&apos;une électrode circulaire appliquée sur la paroi éclairée permet de pallier cet inconvénient (<ref type="figure">fig. 2</ref>).</p> 
+			
+			<p>Le décatungstate de tétrabutylammonium est préparé par acidification convenable d&apos;une solution de tungstate de sodium suivant les modes opératoires déjà décrits (7, 8) (16,5 g de W0 4 Na 2 -2H 2 0 dissous à ébullition dans 100 mL d&apos;eau, acidifiée par 90 mL de HC1 normal également à la même température. La solution rapidement refroidie est précipitée par 7 g de bromure de tétrabutylammonium).</p> 
+			
+			<p>Le produit précipité est lavé successivement à l&apos;eau, l&apos;alcool et à l&apos;acétone. Une fois séché, il est recristallisé dans l&apos;acétonitrile. Anal. calc.: W 55,37, C 23,26, N 1,69, H 4,37%; tr.: W 55,25, C 23,1, N 2,68, H 4,33%. La concentration adoptée dans les expériences décrites est de 0,2 M en atome-gramme de tungstène, 0,2 mol -&apos; dans l&apos;acétonitrile Merck. L&apos;irradiation est réalisée par une lampe xénon 900 W, filtrée par une cellule de 10 cm d&apos;une solution aqueuse de sulfate de cuivre. Pour les mesures de rendement quantique on opère de la façon suivante:</p> 
+			
+			<p>La lumière émise par une lampe xénon est mesurée par un joulemètre , après passage dans un monochromateur, sur toute l&apos;étendue du spectre. Le faisceau est ensuite envoyé sur une électrode de taille inférieure au diamètre du faisceau. On suppose que toute la lumière est absorbée et on mesure la puissance de la pile.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats</head>
+
+			<p>Électrochimie</p>
+
+			<p>Les potentiels d&apos;oxydoréduction de W10O3J dans l&apos;acétonitrile ont été déterminés en présence de perchlorate de tétrabutylammonium 0,1 M. On observe alors deux vagues de réduction réversibles sur le mercure (l&apos;électrode de référence est une électrode au calomel saturé à double jonction). On sait que dans ces conditions les £1/2 sont assimilables aux potentiels normaux d&apos;oxydoréduction. Les deux vagues observées correspondent respectivement à 1 et 2 électrons par mole. Elles sont analogues à celles que Termes et Pope ont observées dans le carbonate de propylène (6). Les potentiels sont respectivement de -0,61 et -1,08 V par rapport à H 2 normal (6).</p> 
+			
+			<p>Dans les conditions de fonctionnement de la pile, des phénomènes différents dus aux électrodes peuvent se manifester. Nous avons mesuré par voltamétrie cyclique sur électrodes de platine poli les potentiels de réduction d&apos;une solution de W10O32 dans CH 3 CN, dans des conditions voisines de celles du fonctionnement de la pile en utilisant une électrode de Pleskov comme référence. La figure 3 présente le premier balayage qui met en évidence une réduction à —0,55 V par rapport à l&apos;électrode de Pleskov. Pour des valeurs plus négatives, il y a formation d&apos;un dépôt sur l&apos;électrode qui modifie sensiblement le comportement du système. Vers les potentiels positifs, un système apparaît vers +0,20 V qui n&apos;est pas dû à l&apos;oxydation du solvant, observé dans ces conditions à +0,40 V. Ce système apparaît aussi comme instable dans le temps.</p> 
+			
+			<p>En présence de lumière, le voltamogramme est différent: il présente un accroissement considérable des courants d&apos;oxydation sur le platine avant —0,5 V et une vague très intense pour les potentiels plus négatifs. Il apparaît donc que la lumière crée des espèces réduites de polytungstate qui peuvent donc être réduites dans un deuxième temps à des potentiels inférieurs à -0,5 V.</p>
+
+			<p>Photochimie</p>
+
+			<p>Nous utilisons le montage photogalvanique (<ref type="figure">fig. 2</ref>). La différence de potentiel mesurée en circuit ouvert entre l&apos;électrode de platine éclairée et l&apos;électrode de graphite est de 650 mV, le platine constituant la cathode. La coupure de l&apos;éclairement conduit à l&apos;annulation rapide de cette différence de potentiel. De même, en rallumant la lampe la valeur de 650 raV est atteinte en quelques secondes (<ref type="figure">fig. 4</ref>).</p>
+
+			<p>La <ref type="figure">figure 5</ref> présente la courbe de la puissance fournie dans les conditions expérimentales précédentes, en fonction du potentiel entre les électrodes. Elle est obtenue en faisant varier la résistance introduite sur le circuit. En se plaçant au maximum de cette courbe, on peut faire débiter la pile pendant plusieurs heures sans observer une variation notable des constituants de la solution ni de variation importante des performances.</p> 
+			
+			<p>En fonctionnement on voit apparaître sur l&apos;électrode éclairée deux bandes colorées en bleu, le long des génératrices du cylindre, symétriques par rapport à la génératrice de contact, entre l&apos;électrode et la paroi (<ref type="figure">fig. 2</ref>). Nous verrons que cette coloration est due à une espèce réduite de tungstène qui est formée par action de la lumière et d&apos;un réducteur. Cette espèce qui est réoxydée au contact du platine est donc visible en concentration stationnaire. Elle illustre le rôle critique joué par l&apos;épaisseur de la couche de liquide entre la fenêtre d&apos;entrée et l&apos;électrode. En se plaçant au maximum de la courbe de la figure 5, nous avons étudié la variation de la puissance émise en fonction de la longueur d&apos;onde. Nous interposons entre la lampe et la cellule un monochromateur dont nous ouvrons largement la fente. Le rendement est porté en fonction de la longueur d&apos;onde (<ref type="figure">fig. 6</ref>). On constate que la courbe ne coïncide pas avec la courbe d&apos;absorption mais est décalée vers le rouge.</p>
+
+			<p>Plusieurs interprétations peuvent être données de ce phénomène parmi lesquelles un processus faisant intervenir un deuxième photon absorbé par l&apos;espèce formée par le premier. Si l&apos;on porte maintenant (<ref type="figure">fig. 7</ref>) le rendement en fonction du flux lumineux, on note qu&apos;une valeur constante n&apos;est atteinte qu&apos;à partir d&apos;une valeur élevée de l&apos;intensité incidente. Dans le cas simple de l&apos;utilisation d&apos;un seul photon on devrait observer un rendement indépendant du flux lumineux au moins aussi longtemps que l&apos;on n&apos;a pas atteint la saturation.</p>
+
+			</div>
+		
+			<div type="section">
+				<head>Discussion</head>
+
+			<p>D&apos;après les spectres uv-visibles réalisés dans l&apos;acétonitrile la structure en solution est celle de l&apos;état solide (<ref type="figure">fig. 1</ref>). La molécule comporte deux entités compactes constituées de 5 octaèdres W0 6 , dont le tungstène occupe le centre, et reliés entre eux par une mise en commun d&apos;arêtes. Les deux moitiés de la molécule sont reliées entre elles par une mise en commun de sommets. Il en résulte deux variétés de tungstène Wj et W u et deux types de points WiOW n et WHOWU, les derniers étant quasiment linéaires (175°) (6).</p> 
+			
+			<p>La bande à 325 nm que nous irradions serait liée à l&apos;existence des ponts (6) et suggère que seul un type de liaison participe aux transferts de charge responsable de la photochimie. Dans l&apos;acétonitrile, les mesures de conductibilité ont montré que les sels du polyanion sont entièrement dissociés. Les expériences de rmn en cours confirment la présence de deux types de tungstène.</p> 
+			
+			<p>Aucune détermination des potentiels d&apos;oxydoréduction des polyanions de tungstène n&apos;avait été réalisée dans CH 3 CN mais les travaux de Pope (2) avaient montré que la réduction électrochimique à 1 et 2 électrons était réalisée réversiblement. Nous avons pu voir dans nos conditions: CH 3 CN et électrode de platine, une première réduction réversible à l&apos;électron à 0,55 V par rapport à l&apos;électrode de Pleskov (soit sensiblement à 0,40 V par rapport à l&apos;électrode hydrogène. À lumière de la mise au point récente (1) sur les propriétés photochimiques des polytungstates on peut penser que l&apos;espèce bleue dont la concentration stationnaire peut être observée au contact de l&apos;électrode est l&apos;espèce réduite à un électron W l0 O 3 ^. Elle sera réoxydée sur le platine à un potentiel de 0,35 V en circuit ouvert. C&apos;est l&apos;espèce dont la quantité augmente lors de l&apos;irradiation de la solution mais elle peut être limitée par la réaction de dismutation</p>
+
+			<p>La réaction sur le graphite est plus difficile à caractériser. Son potentiel mesuré à +300 mV en circuit ouvert lors de l&apos;irradiation de la solution, est aussi celui où se trouvent les deux électrodes en l&apos;absence de lumière. Il correspond bien à la vague d&apos;oxydation observée sur la solution de polytungstate sans que l&apos;on puisse en définir la nature avec précision. Chemseddine et al. (11) ont montré que l&apos;espèce réduite à un électron (W| 0 O 32 ) 5 ~ présente une bande d&apos;absorption intense à 370 nm. Il est donc possible de rendre compte du décalage vers le rouge de la courbe de rendement dont le maximum est à 350 nm en supposant qu&apos;un deuxième photon est absorbé par l&apos;espèce donnée par réduction à 1 électron dès sa formation. On obtiendrait alors en régime stationnaire l&apos;espèce doublement réduite. Nous pouvons proposer le schéma suivant:</p>
+
+	<p><formula>(w^o 32 r hvi = 320 nm (w; &quot; o 32 ) 4 (W^0 32 ) 4 -* + D —» (\&lt;&apos;w v 0 32 ) 5 -+ D + (W^&apos;W v 0 32 ) hv 2 = 370 nm VI v , (W,W v 0 32 ) 5 &quot; + (W,&apos;W v 0 32 ) 5 -^(W 8 v &apos;W 2 v 0 32 ) 6 -+ (W, 0 O 32 ) 4 (W^&apos;W v 0 32 ) 5-* + D ^ (Ws&apos;W^O,^ 6-+ D + et finalement PT + 2 e&quot; (wrw^o 32 ) 6 &quot; (W^0 32 ) 4</formula></p>
+
+			<p>où nous appelons D l&apos;espèce oxydable. D doit réaliser plusieurs conditions. Cette espèce doit être présente au voisinage de l&apos;ion excité et sa forme oxydée devra pouvoir se mettre sous une forme stable qui sera réduite sur le graphite.</p> 
+			
+			<p>La cation tétrabutylammonium ne pourra pas jouer ce rôle: son potentiel d&apos;oxydation est très élevé et nous n&apos;avons pas mis en évidence de produits de réactions tels que le butène. On peut aussi penser à l&apos;acétonitrile plus facilement oxydable. On sait (12) que l&apos;acétonitrile est oxydé en CH 2 CN et que le produit final est généralement le succinonitrile en absence d&apos;oxygène. Sinon il réagit sur l&apos;oxygène pour donner le peroxyde 0 2 CH 2 CN (13). Il paraît peu probable que ces produits puissent être réduits sur le graphite avec un potentiel convenable.</p> 
+			
+			<p>Yamase a montré dans le cas de polytungstate par méthode de capteur de spin que W VI * était capable d&apos;arracher un hydrogène de l&apos;eau pour donner le radical OH&quot; (3). On peut donc supposer comme dans le cas de l&apos;uranyle que ces radicaux se recombinent pour produire H 2 0 2 qui serait réduit sur le graphite . Le rôle de l&apos;électrode de platine peut être invoqué pour favoriser la réaction bimoléculaire de recombinaison des radicaux hydroxyles.</p> 
+			
+			<p>Comme dans le cas de l&apos;uranyle, nous pensons que l&apos;eau joue le rôle de donneur. Nous avons observé que l&apos;addition d&apos;une petite quantité d&apos;eau à la solution provoquait une petite amélioration de l&apos;effet photogalvanique. Cependant en mesurant directement le potentiel du couple 0H~/H 2 0 2 sur du platine ou du graphite on obtient une valeur voisine de 0,6 V qui ne rend pas compte des résultats obtenus dans le fonctionnement de la pile. Il est probable que le schéma proposé est approximatif.</p> 
+			
+			<p>Au plan de l&apos;intérêt pratique du système nous soulignons le rendement relativement élevé qui a été obtenu dans des conditions non optimisées. La valeur du rendement maximale obtenue comme le rapport de la puissance de la pile à l&apos;énergie lumineuse monochromatique incidente est de l&apos;ordre de 1%. Cette valeur est affectée de la mauvaise utilisation de la surface de l&apos;électrode éclairée et devrait être améliorée par un montage où l&apos;épaisseur optimale serait réalisée sur l&apos;ensemble de la surface éclairée. Enfin le système présente une bonne stabilité dans le temps en accord avec les hypothèses de mécanisme proposées où aucune espèce chimique n&apos;est consommée.</p>
+			
+			</div>
+		
+			<div type="section">
+				<head>Remerciement</head>
+			
+			<p>Nous remercions M. William Mooney pour sa participation aux discussions fructueuses.</p>
+			
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">A</forename>
+				<surname>Levy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Agron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">D</forename>
+				<surname>Danford</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">1486</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Heteropoly and isopoly exometallate. Inorg. Con-cepts 8</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">T</forename>
+				<surname>Pope</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983" />
+			<publisher>Springer Verlag</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Yamase</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">76</biblScope>
+			<biblScope type="pp">425</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Fuchs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Harto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Schiller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Gerlach</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crys-tallogr. Sect B</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">740</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Folcher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Paris</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nouv. J. Chim</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<biblScope type="issue">149</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">C</forename>
+				<surname>Termes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">T</forename>
+				<surname>Pope</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">17</biblScope>
+			<biblScope type="pp">500</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Chauveau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Boyer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Lemcur</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C.R. Acad. Sci. Ser</title>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">C</title>
+		<imprint>
+			<biblScope type="vol">268</biblScope>
+			<biblScope type="pp">479</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Birholz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Fuchs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Schiller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">P</forename>
+				<surname>Stock</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Naturforsch. B</title>
+		<imprint>
+			<biblScope type="vol">26</biblScope>
+			<biblScope type="pp">365</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Papaconstantinou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Chem. Commun</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">S</forename>
+				<surname>Groot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Hendrichs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<forename type="middle">M</forename>
+				<surname>Brohhenzijp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope type="vol">6</biblScope>
+			<biblScope type="pp">521</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Chemseddine</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Sánchez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Livage</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fournier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">2609</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Wilkinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. A</title>
+		<imprint>
+			<biblScope type="pp">531</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Tran Thi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Gilles</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="pp">209</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

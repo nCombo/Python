@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude de l&apos;action des organomagnésiens sur les dérivés carboxyliques de la pyridine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">P</forename>
+								<surname>Canonne</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<settlement>Québec</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Belley</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<settlement>Québec</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude de l&apos;action des organomagnésiens sur les dérivés carboxyliques de la pyridine</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">65</biblScope>
+							<biblScope type="fpage">1885</biblScope>
+							<date type="published" when="1987">1987</date>
+						</imprint>
+					</monogr>
+					<note type="submission">Reçu le 2 décembre 1986</note>
+					<note>Cet article est dédié au Professeur John T. Edward</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>La réaction de Grignard avec les esters pyridinecarboxyliques 1, 2, l&apos;acide pyridinecarboxylique-2 (3), et l&apos;anhydride pyri- dinedicarboxylique-2,3 (5) a montré une régiosélectivité au niveau du groupe carbonyle rattaché à la position 2 de l&apos;ester ou de l&apos;anhydride. Ceci nous a permis de développer une nouvelle voie de synthèse des dialkyl-7,7 (7H) furo(3,4-£>) pyridinones-5.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>Reactions of Grignard reagents with pyridinecarboxylic esters 1, 2, pyridine-2-carboxylic acid (3), and 2,3-pyridinedicar- boxylic acid anhydride (5) show regioselectivity at the carbonyl in position 2. This is exemplified by an efficient synthesis of 7,7-dialkylated-7i/-furo[3,4-b]-substituted pyridin-5-ones.</p>
+			</div>
+		</front>
+
+		<body>
+
+			<p>Dans le cadre général de l&apos;utilisation des anhydrides d&apos;acides dicarboxyliques pour la préparation des lactones dialkylées (1) et monoalkylées (2), nous avons entrepris le présent travail afin de démontrer que la réaction des organomagnésiens constitue une méthode générale qui peut être appliquée pour la synthèse des lactones hétéroaromatiques. Ceci nous a aussi semblé intéressant car l&apos;examen de la littérature a montré qu&apos;aucune étude systématique n&apos;a été effectuée sur les dérivés de la pyridine. De plus, il apparaît que les lactones mono- et bisubstituées sont difficilement accessibles par d&apos;autres méthodes et surtout les (&apos;1H) furo[3,4-è] pyridinones-5 (3).</p>
+
+			<p>En effet, récemment (4) il a été observé que l&apos;ortholithiation du N,¿V-diisopropylpyridinamide-2 conduit aisément au composé lithié en position 3 lequel à son tour réagit avec un aldéhyde ou cétone pour donner la lactone correspondante. Cependant, l&apos;ortholithiation du N,¿V-diisopropylpyridinamide-3 fournit uniquement le composé lithié en position 4 sans aucune trace du composé lithié en position 2. Toute tentative d&apos;introduction, d&apos;une fonction en position 2, n&apos;a pu donné les résultats escomptés. D&apos;autre part, les rendements obtenus lors de l&apos;action des organomagnésiens sur l&apos;ester acide issu de l&apos;anhydride pyridinedicarboxylique-2,3 sont peu concluants et très faibles (5).</p>
+
+			<p>Il nous a donc semblé intéressant d&apos;entreprendre l&apos;étude de l&apos;action des organomagnésiens sur les esters pyridinecarboxyliques (1 et 2), sur l&apos;acide (3) et aussi sur l&apos;anhydride pyrazinedicarboxylique (4) et l&apos;anhydride pyridinecarboxylique-2,3 (5) afin d&apos;étudier systématiquement leurs réactions avec les organomagnésiens et mettre en évidence l&apos;influence de la position de l&apos;azote sur les rendements réactionnels (6).</p>
+
+			<p>En premier lieu, nous avons étudié les facteurs qui influencent les réactions organomagnésiennes (addition, réduction et énolisation). Pour ce faire, nous avons étudié l&apos;action du bromure de propylmagnésium avec les deux esters 1 et 2, car cet organomagnésien favorise les réactions compétitives (7) à celle de l&apos;addition et notamment lorsque le solvant utilisé est le THF.</p>
+
+			<p>Nous avons opéré avec un excès d&apos;organomagnésien1 aussi bien dans l&apos;éther, dans le THF, et avons trouvé que le produit de la réaction de diaddition n&apos;est le produit principal de la réaction que lorsque le solvant utilisé est l&apos;éther. Nous supposons que la réaction est plus rapide dans le solvant le moins basique. Dans les deux solvants, nous n&apos;avons observé aucune réaction de dimérisation.</p> 
+			
+			<p>En revanche, nous avons observé le propyl-4 pyridinecar- boxylate-3 d&apos;éthyle 11 (12%) qui correspond à la réaction d&apos;alkylation du noyau pyridinique. Cependant, ceci n&apos;est obtenu que lorsque la réaction est effectuée dans l&apos;éther diéthylique et à la température ambiante. Il est à noter que cette réaction s&apos;effectue moins facilement que dans le cas de la cyano-3 pyridine (9) et de la cyano-3 quinoline (10).</p> 
+			
+			<p>Les deux esters fournissent les alcools tertiaires correspondants par un processus de diaddition et les deux alcools secondaires par un processus d&apos;addition-réduction. On note également la formation de la (pyridinyl-2)-l butanone-1 (6) qui correspondrait à un processus d&apos;addition-énolisation plutôt qu&apos;à un processus de non réaction de la cétone intermédiaire. Il semble qu&apos;une telle cétone se forme plus difficilement dans le cas de la réaction avec l&apos;ester 2. On constate généralement que le solvant joue un rôle important dans la distribution des produits de ces réactions. Il est fort probable que cette différence soit due au fait que les organomagnésiens aux concentrations utilisées sont monomères dans le tétrahydrofuranne et dimères dans l&apos;éther diéthylique (11). Cette différence est très grande entre la réaction de diaddition et la réaction d&apos;addition-réduction . Le tétrahydrofuranne favorise la formation de l&apos;alcool secondaire (47% contre 16% dans l&apos;éther). Les résultats obtenus sont rassemblés au tableau 1.</p> 
+			
+			<p>Il en résulte donc de ces expériences que les alcools secondaires ou tertiaires peuvent être obtenus selon le choix du solvant. Une expérience réalisée avec l&apos;acide pyridinecarboxylique-2 dans le tétrahydrofuranne montre que la (pyridinyl-2)-l butanone-1 peut être obtenue avec un rendement de 55%. Nous décrivons ainsi une méthode importante de synthèse de cétones sans passer par les chlorures d&apos;acide ou encore les anhydrides en utilisant des organocadmiens (12) ou les composés organiques du manganèse (13). Les résultats obtenus avec les réactions sur les esters suggèrent que les anhydrides pyrazinedicarboxylique (4) et pyridinedicarboxylique (5) conduiraient, selon le solvant utilisé, à l&apos;obtention spécifique des lactones monoalkylées et des lactones dialkylées.</p> 
+				
+			<p>Aussi nous avons été intéressés à synthétiser les spirolactones correspondantes en faisant réagir le di(bromomagnésio)-1,4 butane avec les deux anhydrides 4 et 5 afin de démontrer l&apos;influence de l&apos;azote. Nous avons constaté alors que l&apos;anhydride 4 fournit la lactone correspondante 12 difficilement même à basse température, et que l&apos;anhydride 5 conduit toutefois à la formation de la spiro [cyclopentane-l,7&amp;apos; (5&amp;apos;H) furo[3,4-è] pyridin] - one-5&apos; (13) avec un rendement de (45%) (schéma 1). En outre, cette réaction montre une régiosélectivité très marquée. En effet la spiro [cyclopentane-l ,5&amp;apos; Çl&amp;apos;H) furo[3,4-è] pyridinjone- 7&apos; (14) isomère n&apos;est obtenue qu&apos;en faible quantité (8%). Nous supposons que cette régiosélectivité peut être attribuée à la proximité de l&apos;atome de l&apos;azote qui forme une liaison de coordination avec l&apos;atome de magnésium, favorisant ainsi l&apos;attaque préférentielle du carbonyle rattaché à la position 2 de l&apos;anhydride 5 (schéma 2). Ainsi, le carboxylate formé réagit à son tour avec une seconde fonction organomagnésienne et conduit après hydrolyse à la lactone 13 (schéma 3).</p> 
+				
+			<p>Nous avons en premier lieu réalisé une étude dans le tétrahydrofuranne à différentes températures et nous avons observé qu&apos;à basse température (—20 à — 60°C) le rendement global en lactones est supérieur à celui trouvé à la température ambiante. Ceci peut être attribué à une réactivité plus faible du groupement carboxylate intermédiaire aux températures comprises entre —20 et — 60°C. Cette réactivité semble être plus accusée dans le cas du carboxylate rattaché à la position 2 de la pyridine que dans le cas du carboxylate situé en position 3. En effet, les rendements en lactones 21 et 22 ne varient pas avec la température de la réaction alors que le rendement de la lactone 23 passe de 0 à 13%. De plus, on constate une forte augmentation de la propyl-7 (1H) furo [3,4-fr] pyridinone-5 (22) (de 10 à 28% ). Cette lactone est probablement formée par un processus d&apos;addition-réduction (schéma 4). Comme nous n&apos;avons pas isolé la propyl-5 (5H) furo [3,4-è] pyridinone-7, nous supposons encore que la formation de lactone 22 peut être attribuée à la présence de l&apos;azote. Enfin une étude réalisée dans le mélange de solvants éther-toluène montre que la formation des lactones 21 et 22 est favorisée au détriment de la lactone 23 (tableau 2). Ces observations sont en accord avec la grande réactivité de l&apos;acide pyridinecarboxylique-2 (3) (tableau 1).</p>
+				
+			<p>De l&apos;ensemble de ces résultats, il apparaît que les réactions secondaires sont favorisées en un moindre degré lorsque les conditions ci-dessous sont respectées ; 1. Préparation et réaction des organomagnésiens dans un solvant hydrocarboné en présence de l&apos;éther diéthylique. 2. Utilisation d&apos;une température de réaction comprise entre -20 et -60°C. Nous constatons ainsi que l&apos;anhydride 5 est un substrat de choix pour la synthèse de (1H) furo [3,4-è] pyridinones-5 difficilement accessibles par d&apos;autres voies de synthèse.</p>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Les spectres ir ont été enregistrés à l&apos;aide d&apos;un appareil Beckman IR4250, et les spectres de rmn &apos;H sur un appareil Bruker (90 MHz) et sur un appareil Varian XL-200 (200 MHz). Les spectres rmn 13 C ont été enregistrés sur un appareil Bruker MP-80 (20 MHz). Les spectres de masse ont été effectués sur un appareil Hewlett-Packard 5992 (GS/MG). Les séparations chromatographiques sur colonne ont été effectuées sur gel de silice (Woelms 32-63). Le nicotinate d&apos;éthyle, l&apos;acide picolique, le picolinate d&apos;éthyle et l&apos;acide pyridinedicarboxy- lique-2,3 sont commercialement accessibles chez Aldrich. Les microanalyses ont été effectuées par Galbraith Laboratories Inc.</p>
+				
+			<p>Matériel de départ Le tétrahydrofuranne a été distillé sur sodium et gardé sous atmosphère d&apos;azote, les anhydrides pyridinedicarboxylique-2,3 et pyrazine- carboxylique-2,3 ont été préparés selon la méthode classique en utilisant l&apos;anhydride acétique (14). Les organomagnésiens ont été préparés selon les modes opératoires précédemment décrits (1, 8).</p> 
+			
+			<p>Réaction du bromure de n-propylmagnésium avec le pyridine- carboxylate-2 d&apos;éthyle ou picolinate d&apos;éthyle (1) On prépare dans l&apos;éther un excès de bromure de «-propylmagnésium (4 équivalents), et on ajoute l&apos;ester (7,603 g) à 0°C, puis on laisse réagir sous agitation pendant 16 h à la température ambiante. Après hydrolyse et traitement habituel, on sépare les produits par chromatographie sur gel de silice en utilisant le mélange d&apos;éluants acétate d&apos;éthyle -éther de pétrole 1:99-20:80. On isole respectivement la (pyridinyl-2)-l butanone-1 (6), le (pyridlnyl-2)-1 butanol (7) et le (pyridinyl-2)-4 heptanol (8).</p> 
+			
+			<p>(Pyridinyl-2)-l butanone-1 (6) : Rdt : 10% (0,153 g) liquide; ir v max : ( film) 2960, 2930, 2870, 2851, 2802, 1715, 1455, 1293, 1270, 1160, 1140,1116,1008 , 871 cm&quot; &apos;; rmn &apos;H (CDC1 3 ) Ô : 1,02 (3H, t, J = 7 Hz, CH 3 CH 2 ), 1,78 (2H, q, J = 7 Hz, CH 3 CH,), 1,78 (2H, q, J = 7 Hz, CH 3 CH 2 CH 2 ), 3,33 (2H, t, J = 7 Hz, CH,CO), 7,35-8,33 (3H, m), 8,77 (1H, dd) ppm; rmn 13 C (CDC1 3 ) Ô : 202,1, 154,0, 149,1, 136,9, 127, 121,8, 39,7, 17,6, 13,9ppm. Anal. cale, pour C 9 H M NO: C 72,46, H 7,43, N 9,38; tr. : C 72,38, H 7,31, N 9,30.</p> 
+			
+			<p>(Pyridinyl-2)-] butanol-1 (7) : Rdt : 48% (0,763 g) liquide; ir v max (film) : 3380, 2968, 2933, 2871, 1599, 1575, 1468, 1439, 1128, 1069, 1040, 751cm&quot; 1 ; rmn &apos;H (CDC1 3 ) Ô : 0,73-2,00 (7H, m), 4,77 (1H, t, J = 6 Hz, — CtfOH), 5,17 (1H, s, OH), 7,03-7,90 (3H, m), 8,53 (1H, dd) ppm; rmn l3 C (CDC1 3 ) Ô : 163,2, 148,4, 136,8, 122,3, 120,5, 73,1, 40,7, 18,7, 14,0ppm. Anal. calc. pour C 9 H 13 NO: C 71,49, H 8,66, N 9,36; tr. : C 71,58, H 8.72, N 9,11.</p> 
+			
+			<p>(Pyridinyl-2)-4 heptanol-4 (8) : Rdt : 30% (0,604 g) liquide; ir v max (film) : 3403, 2958, 2934, 2872, 1599, 1574, 1471, 1440, 1403, 1166, 1031, 798, 756 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) Ô : 0,67-2,00 (14H, m, CH 3 CH,CH,), 5,40 (1H, s), 7,07-7,90 (3H, m), 8,60 (1H, d, J = 5 Hz) ppm; rmn 13 C (CDC1 3 ) Ô : 164,5, 147,3, 136,8, 121,6, 119,8, 76,2, 44,9, 16,8, 14,5 ppm. Anal. calc. pour C 12 H, 9 NO : C 74,57, H 9,91, N 7,24; tr. : C 74,43, H 9,80, N 7,19.</p> 
+			
+			<p>Réactions du bromure de n-propylmagnésium avec le pyridinecarboxylate d&apos;éthyle ou nicotinale d&apos;éthyle (2)</p> 
+			
+			<p>1. Dans le THF On utilise 4 équivalents de réactif de Grignard par équivalent d&apos;ester (2) (3,063 g) et on procède comme précédemment. On sépare les composés obtenus par Chromatographie sur gel de silice à l&apos;aide du mélange éluant éther de pétrole -acétate d&apos;éthyle.</p> 
+			
+			<p>(Pyridinyl-3)-l butanol (9): Rdt: 47% (1,421g) liquide; ir v max (film) : 3330, 2949, 2862, 1423, 1028, 711 cm&quot; 1 ; rmn 1 H (CDC1 3 ) Ô : 0,70-1,90 (7H, m), 4,68 (1H, t, J = 6 Hz, CtfOH), 5,32 (1H, s, OH), 7,23 (1H, dd, J = 5 et 8 Hz), 7,77 (1H, dd, J = 1,5 et 8 Hz), 8,23-8,50 (2H, m) ppm; rmn 13 C (CDC1 3 ) Ô : 148,1, 147,7, 141,4, 134,2, 123,6, 71,5, 41,3, 18,9, 13,9 ppm. Anal. calc. pourC 9 H| 3 NO: C 71,49, H 8,66, N9,26; tr. : C 71,58, H 8,71, N 9,18.</p> 
+			
+			<p>(Pyridinyl-3)-4 heptanol-4 (10): Rdt: 46% (1,775g) liquide; ir v max (film) : 3250, 2960, 2932, 2873, 1470, 1420, 718 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 0,60-1,97 (14H, m), 3,97 (1H, s, OH), 7,20 (1H, dd,H = 5 et 8 Hz), 7,80 (1H, dd), 8,40 (1H, dd), 8,61 (lH,d) ppm;rmn l3 C (CDClj) 8: 147,3, 142,7, 133,8, 123,1, 75,7, 45,4, 16,8, 14,4 ppm. Anal. calc. pour C I2 H 19 NO: C 74,57, H 9,91, N 7.24; tr. : C 74,37, H 9,80, N 7,20.</p> 
+			
+			<p>2. Dans l&apos;éther diéthylique À une solution éthérée de bromure de «-propylmagnésium (4 équivalents ) on ajoute goutte à goutte 1,603 g (10,6 mmol) de nicotinate d&apos;éthyle dilué dans le même solvant et on procède suivant le même mode opératoire que précédemment. Après Chromatographie sur colonne de gel de silice on obtient 63% (1,287 g) de (pyridinyl-3)-4 heptanol-4 (10), 16% (0,257 g) de (pyridinyl-3)-l butanol (9), 2% (0,033 g) de pyridinyl-3 butanone-1 et 12% (0,250 g) de propyl-4 pyridinylcarboxylate d&apos;éthyle (11).</p> 
+			
+			<p>Propyl-4 pyridinylcarboxylate-3 d&apos;éthyle (11) : Rdt : 12% (0,250 g) liquide; ir v max (film ): 2951, 2950, 2862, 1861, 1721, 1587, 1271, 1101 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 0,97 (3H, t, J = 7 Hz), 1,40 (3H, t, J = 7 Hz), 1,20-1,90 (2H, m), 2,97 (2H, t, J = 7Hz), 4,40 (2H, q, 7 = 7 Hz), 7,20 (1H, d, J = 5 Hz), 8,60 (1H, d, J = 5 Hz), 9,10 (1H, s) ppm; rmn l3 C (CDC1 3 ) 8: 166,5, 153,4, 152,2 151,8, 126,4, 125,4, 61,2, 35,8, 24,0, 14,3, 14,0ppm; sm m/e : 194,30 ( M + 1, 6,3), 193,20 (M + , 56,6), 150,2 (35), 148,20 (100%), 135,25 (54), 119,15 (38), 118,15 (36), 91,20 (31), 65,10 (32). Anal. calc. pour C| |H| 5 N0 2 : C 68,37, H 7,82, N 7,24; tr. : C 68,30, H 7,75, N 7,20.</p> 
+			
+			<p>Réaction du bromure de propylmagnésium avec l&apos;acide pyridine- carboxylique-2 ou picolique (3) À 3,013 g (24,5 mmol) d&apos;acide 3 en suspension dans le THF anhydre , on ajoute goutte à goutte le réactif de Grignard préparé à partir de 18,733g (152mmol) de bromopropane et 4,102g de Mg dans 150 mL de THF, puis on laisse réagir 20 h. Après hydrolyse avec une solution saturée de chlorure d&apos;ammonium, on ramène la phase aqueuse à pH7, puis on extrait au dichlorométhane. Après chromatographie sur colonne de gel de silice du produit brut de réaction, on isole 2,011g (55%) de (pyridinyl-2)-l butanone-1 (6).</p> 
+			
+			<p>Réaction des dibromomagnésiens avec les anhydrides Réaction du di(bromomagnésio)-!,4 butane avec l&apos;anhydride pyrazinedicarboxylique (4) À une solution de 64 mL de THF contenant 15,3 mmol de (dibromomagnésio )-l,4 butane (8), on ajoute à -5°C 2,255g (15,2mmol) d&apos;anhydride 4 dissous dans 14 mL de THF. Après 10 min d&apos;agitation à —20°C, on hydrolyse le mélange réactionnel. Par chromatographie sur colonne de gel de silice, en utilisant le mélange d&apos;éluants acétate d&apos;éthyle -benzène 3:97, on isole 0,275 g de spirolactone 12 (Rdt 10%). Le dosage par chromatographie en phase gazeuse donne 13% de spiro- [cyclopentane-1,5&apos; (l&apos;H) furo [3,4-è] pyrazin] one-7&apos; (12); ir v max (CH 2 C1 2 ): 1777 (C=0) cm&quot; 1 ; rmn&apos;H (CDC1 3 ) 8 : 1,90-2,35 (8H, s, H), 8,93 (2H, s) ppm. Ce composé semble être sensible à l&apos;air et donc n&apos;a pu être analysé de façon satisfaisante.</p> 
+			
+			<p>Réactions du di(bromomagnésio)-!,4 butane avec l&apos;anhydride pyridinedicarboxylique-2,3 (5) À une solution de 29 mmol de di(bromomagnésio)-l ,4 butane dans 89 mL de THF maintenue à 0°C, on ajoute 2,88 g (19,3 mmol) d&apos;anhydride 5 dissous dans 30 mL de THF anhydre, puis on laisse réagir sous agitation pendant 16 h. Après chromatographie sur colonne de gel de silice en utilisant un mélange acétate d&apos;éthyle-éther de pétrole 75:25 comme éluant, on obtient 1,443 g de spirolactone 13, Rdt 45% (0,252 g), et 8% de la lactone isomère 14.</p> 
+			
+			<p>Spiro[cyclopentane-l,7&apos; (5&apos;H) furo [3,4-b] pyridin]-one-5 (13) : F = 102,8-103,3°C; ir v max ( CH 2 CL) : 1762 (C=0), 1609, 1590, 1108, 1093, 966cm&quot; 1 ; rmn &apos;H (CDC1,) 8: 1,85-2,45 (8H, s), 7,50 (1H, dd, J = 5 et 8 Hz), 8,23 (1H, dd, J = 2 et 8 Hz), 8,93 (1H, dd, J = 2 et 5 Hz) ppm; rmn l3 C (CDC1 3 ) 8 : 171,4, 168,0, 155,5, 133,8, 123,9, 119,9, 96,4, 38,2, 25,4ppm; sm m/e: 190,10 (M + 1, 4,7%) 189,20 (M + , 27,5%). Anal. calc. pour C, ,H n N0 2 : C 76,27, H 6,40, N 8,08; tr. : C 76,40, H 6,51, N 7,98.</p> 
+			
+			<p>Spiro[cyclopentane-l,5 (7H)furo [3,4-bJpyridin]-one-7 (14) : F = 84-86°C; ir v max ( CH 2 CL) : 2958, 2859, 1770, 1599, 1585, 1470, 1342, 1306, 1102, 988,959, 801 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 1,93-2,30 (8H, s), 7,67 (1H, dd, J = 5 et 8 Hz), 7,99 (1H, dd, J = 2 et 8 Hz), 8,97 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8 : 167,6, 152,5, 146,8, 144,8, 130,0, 127,6, 93,7, 39,6, 25,0ppm; sm m/e: 190,10 (M + 1, 15), 189,20 (M\ 100%) 166,15 (140). 160,05, 147,05 (94), 133,10 (42), 132,10 (78), 106,05 (56), 105,05 (84), 104,05 (43), 78,05 (35), 77,05 (67), 51,10 (36). Anal. calc. pour C n HnNO, : C 76,27, H 6,40, N 8,08; tr. : C 76,20, H 6,38, N 7,90.</p> 
+			
+			<p>Réaction du bromure de phénylmagnésium avec l&apos;anhydride pyridinedicarboxylique-2,3 (5) Une solution de bromure de phénylmagnésium préparée dans le THF (29,5 mmol) est ajoutée à une solution de l&apos;anhydride 5 (13,4 mmol) dans le THF à -70°C et on laisse agiter 20 h à -10°C avant d&apos;hydrolyser. Après chromatographie sur gel de silice du produit brut en utilisant comme éluant le mélange acétate d&apos;éthyle -éther de pétrole 11:89, on recueille 1,910g de la lactone 15 (Rdt 50%) et 1,862g de son isomère 16 impur que l&apos;on recristallise pour obtenir 1,456 g (Rdt 40%). À la température ambiante on obtient 31 % (1,264 g) de lactone 15.</p> 
+
+			<p>Diphényl-7,7 (7H)furo[3,4-b] pyridinone-5 (15) : F = 162-163°C; ir v max ( CH 2 C1 2 ) : 1768, 1600, 1586, 1491, 1160, 1126, 1076, 967, 953cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 7,20-7,70 (11H, m), 8,27 (1H, dd, J = 2 et 8 Hz), 8,97 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 170,8, 167,6, 155,3, 139,9, 134,4, 128,6, 127,0, 124,2, 119,7, 90,7; sm m/e : 288,25 (M + 1, 11), 287,15 (M + , 60,7), 286,15 (21), 243,20 (24), 242,20 (20), 210 (100%), 182,10 (32), 154,25 (22), 105,00 (28), 77,15 (52), 51,10 (25).</p> 
+			
+			<p>Diphényl-5,5 (5H) furo [3,4-b] pyridinone-7 (16): F = 126,2- 126,6°C; ir v nlax (CH,C! 2 ) : 1780, 1600, 1161, 1125, 1110, 968 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 7,43 (10H, s), 8,13 (1H, dd, J = 2 et 8 Hz), 9,00 (1H, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 167,3, 152,9, 146,4, 144,1, 140,2, 132,8, 129,0, 128,9, 127,5, 127,0, 89,9ppm; sm m/e: 288,15 (M + 1, 3,3), 287,15 (M + , 18,7), 244,20 (18), 243,20 (100%), 242,20 (34), 241,20 (21), 210,05 (48), 182,10 (11), 154,25 (23), 127,10 (31), 120,60 (10), 105 (17), 77,15 (31), 51,10 (22).</p> 
+			
+			<p>Réaction du bromure de p-tolymagnésium avec l&apos;anhydride pyridinecarboxylique-2,3 (5) À une solution de 2 g (13,4 mmol) de l&apos;anhydride 5 dans 30 mL de THF, on ajoute goutte à goutte la solution organomagnésienne (4 équivalents) préparée dans le THF à -60°C, puis on laisse agiter pendant 20 h à — 10°C, puis on hydrolyse. Après chromatographie flash sur gel de silice en utilisant le mélange acétate d&apos;éthyle-benzène 5:95 et 8:92 on recueille 2,075 g (49%) de di(p-tolyl)-7,7 (1H) furo- [3,4-b] pyridinone-5 (17) et 1,439g (34%) de di(p-tolyl)-5,5 (1H) furo[3,4-b] pyridinone-7 (18).</p>
+			
+			<p>Di(p-toly l)-7,7 (7H) furo[3,4-b] pyridinone-5 (17) et 1,439g (34%) de di(p-tolyl)-5,5 (1H) furo [3,4-b] pyridinone-7 (18). Di(p-toly l)-7,7 (7H) furo [3,4-b] pyridinone-5 (17) :F = 112-113°C; ir v max ( CH 2 C1 2 ): 1771, 1604, 1511, 1158, 1127, 1121cm &quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 2,33 (6H, s), 7,07-7,64 (9H, m), 8,27 (1H, dd, J = 2 et 8 Hz), 9,00 (1H, dd, J = 2 et 5 Hz) ppm; rmn l3 C (CDC1 3 ) 8 : 170,7, 167,8, 155,3, 138,4, 137,1, 134,3, 129,2, 127,0, 124,0, 119,7, 91,0, 21,0ppm; sm m/e: 317,20 (M + 2, 2), 316,20 (M + 1, 16,6), 315,20 (M + , 75,2), 271,30 (70), 256,30 (21), 241,10 (21), 224,15 (100%), 196,20 (25), 167,25 (38), 119,20 (34), 91,15 (42), 77,15 (22), 65,10 (26). Anal. calc. pour C 21 H 17 NO? : C 79,98, H 5,43, N 4,44; tr. :C 79,91, H 5,38, N 4,32.</p> 
+			
+			<p>Di(p-tolyl)-5,5 (5H) furo [3,4-b] pyridinone-7 (18): Rdt: 34% (1,439 g); F = 157-158°C; ir v max ( CH 2 C1 2 ) : 1777, 1512, 1157, 1128, 1109, 960cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 2,33 (6H, s), 7,23 (8H, s), 7,63 (1H, dd, J = 5 et 8 Hz), 8,07 (1H, dd, J = 2 et 8 Hz), 8,97 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 167,6, 152,9, 146,9, 144,1, 139,0, 137,5, 132,8, 129,5, 127,5, 127,7, 90,1, 21,1 ppm; sm m/e : 316,20 (M + 1, 7,4), 315,20 (M + , 34,5), 272,30 (21), 271,30 (100%), 270,30 (22), 257,20 (22), 256.30 (85), 254,20 (20), 224,15 (47), 167,25 (29), 91,15 (29). Anal. calc. pour C &quot; H 17 N0 2 : C 79,98, H 5,43, N 4,44; tr. : C 79,80, H 5,45, N 4,38.</p> 
+
+			<p>Réaction du bromure de méthylmagnésium avec l&apos;anhydride pyridinedicarboxylique-2,3 (5)</p>
+			
+			<p>On prépare ce réactif de Grignard en faisant barbotter un courant de bromométhane dans le ballon réactionnel refroidi contenant 0,757 g de magnésium et 30 mL de THF anhydre, puis on y ajoute goutte à goutte à -60°C 2,0g (13,4mmol) d&apos;anhydride 5 dissous dans 50mL de THF, et on laisse la réaction se poursuivre sous agitation pendant 16 h à 10°C. Après hydrolyse et traitement habituel, on recueille par chromatographie sur gel de silice, en utilisant comme éluant le mélange de solvants acétate d&apos;éthyle-éther de pétrole 35:65, deux lactones 19 et 20.</p>
+			
+			<p>Diméthyl-7,7 (7H)furo [3,4-b] pyridinone-5 (19) : Rdt : 50%; F = 85-86°C; ir v max ( CH 2 C1 2 ) : 1766, 1606, 1589, 1475, 1326, 1200, 1168, 1143, 1092, 1047, 950, 907, 789cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 1,73 (6H, s), 7,53 (1H, dd, J = 5 et 8 Hz), 8,27 (1H, dd, J = 2 et 8 Hz), 8,93 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8 : 1730, 167.8, 155,3, 134,3, 124,1, 119,0, 86,4, 25,7 ppm; sm m/e : 163,10 (17), 149,10 (8), 148,20 (100%), 105,05 (9), 92,10 (21), 77,10 (9), 65,15 (10), 51,15 (8).</p> 
+			
+			<p>Diméthyl-5,5 (5U)furo[3,4-b]pyridinone-7 (20) : Rdt : 20%; F = 104-104.5°C; ir v max (CH 2 C1 2 ) : 1772, 1318, 1206, 1167, 1090, 1050, 949, 900, 801cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 1,73 (6H, s), 7,61 (1H, dd, J = 5 et 8 Hz), 7,98 (1H, dd, J = 2 et 8 Hz), 8,92 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDCU) 8 : 167,6, 152,6, 149,0, 144,1, 129.9, 127,7, 83,9, 27,3 ppm; sm m/e: 164,10 (M + 1,4,1), 163,20 (M + 37), 148,10 (100%), 120,05 (52), 118,15 (21), 104,05 (15), 92,10 (39), 72,10 (17), 51,15 (22). Anal. calc. pour C 9 H 9 N0 2 : C 66,25, H 5,56, N 8,58; tr. : C 66,15, H 5,48, N 8,51.</p> 
+			
+			<p>Réaction du bromure de propylmagnésium avec lafuro[3,4-b] pyridinedione-5,7 ou l&apos;anhydride pyridinedicarboxylique-2,3 (5)</p>
+			
+			<p>1. THF à 25 °C À 120 mmol de bromure de propylmagnésium dans le THF on ajoute 34,3 mmol (5,119 g) d&apos;anhydride 5. Après agitation durant 24 h, on hydrolyse le mélange réactionnel et, par séparation chromatographique , on obtient 1,128g (Rdt 19%) de dipropyl-7,7 (1H) furo[3,4-£&gt;] pyridinone-5 (21) et 0,687 g (Rdt 10%) de propyl-7 (1H) furo [3,4-£&gt;] pyridinone-5 (22).</p>
+			
+			<p>2. Réaction du bromure de propylmagnésium avec l&apos;anhydride pyridinedicarboxylique-2,3 dans un mélange éther diéthylique -toluène 1:3 à 25°C On prépare le bromure de propylmagnésium à partir de 4,537 g (36,9 mmol) de bromopropane et 0,986 g de magnésium dans 40 mL d&apos;éther diéthylique. A ce réactif refroidi à 0°C, on ajoute goutte à goutte 2,0 g (13,4 mmol) d&apos;anhydride 5 dissous dans 120mL de toluène anhydre bouillant. On laisse agiter pendant 16 h à la température ambiante avant d&apos;hydrolyser le mélange réactionnel. Après chromatographie sur gel de silice en utilisant comme éluant les mélanges acétate d&apos;éthyle-benzène 5:95 et acétate d&apos;éthyle-benzène 10:90, on isole trois produits dans les proportions citées ci-dessous.</p> 
+			
+			<p>Dipropyl-7,7 (7H) furo [3,4-b]pyridinone-5 (21): 1,150g (Rdt 39%). Propyl-7 (7H)furo[3,4-b] pyridinone-5 (22) : 0,272 g (Rdt 11%). Dipropyl-5,5 (5W) furo]3,4-b] pyridinone-7 (23): 0,096 g (Rdt 3%).</p>
+			
+			<p>3. A basse température dans le tétrahydrofuranne On refroidit à — 60°C le réactif de Grignard obtenu à partir de 4,124g (33,5 mmol) de bromopropane et 0,897 g de magnésium dans 28 mL de THF anhydre, puis on y ajoute goutte à goutte 0,986 g (6,61 mmol) d&apos;anhydride S dissous dans 25 mL de THF en trois réactions (1-3) à différentes températures : (1) à -60°C, 10 min; (2) à —40°C, 10min; (3) —20°C, 10min. Après hydrolyse on dose par Chromatographie en phase gazeuse les lactones obtenues en utilisant comme standard interne le phénanthrène. Les rendements correspondants obtenus dans chacune des réactions sont donnés ci-dessous.</p> 
+			
+			<p>(1) À -60°C: dipropyl-7,7 (1H) furo [3,4-è] pyridinone-5 (21): 21%; propyl-7 (7H) furo [3,4-è] pyridinone-5 (22) : 31%; dipropyl-5,5 (5H) furo [3,4-è] pyridinone-7 (23) : 12%. (2) À -40°C : dipropyl-7,7 (1H) furo [3,4-è] pyridinone-5 (21): 20%; propyl-7 (1H) furo [3] [4] [5] [6] pyridinone-5 (22) : 31%; dipropyl-5,5 (5H) furo [3,4-b] pyridinone-5 (23) : 13%. (3) i -20°C: dipropyl-7,7 (1H) furo [3] [4] [5] [6] pyridinone-5 (21): 19%; propyl-7 (1H) furo [3,4-fc] pyridinone-5 (22) : 28%; dipropyl-5,5 (5H) furo [3,4-i&gt;] pyridinone-7 (23) : 13%.</p> 
+			
+			<p>Dipropyl-7,7 (7H) furo[3,4-b] pyridinone-5 (21): F = 59-60°C; ir v max ( CC1 4 ): 2910, 2876, 2812, 1776, 1612, 1592, 1288, 1184, 1096, 1074, 952 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8: 0,80-0,90 (6H, m), 0,90-1,55 (4H, m), 1,94-2,20 (4H, m), 7,49 (1H, dd, J = 5 et 8 Hz), 8,20 (1H, dd, J = 2 et 8 Hz), 8,89 (1H, dd, J = 2 et 5 Hz) ppm; rmn ,3 C (CDC1 3 ) 8: 171,5, 168,4, 155,1, 133,8, 123,8, 121,0, 91,2, 39,7, 16,5, 14,0ppm; sm m/e : 177,10 (71), 176,10 (95), 148,15 (29), 134,10 (100%), 130,10 (17), 106,00 (27), 78,05 (21). Anal. calc. pour C 13 H 17 N0 2 : C 71,20, H 7,82, N 6,38; tr. : C 71,02, H 7,91, N 6,46.</p> 
+			
+			<p>Propyl-7 (7H) furo[3,4-bJ pyridinone-5 (22) : F = 35-35,8°C; ir v max (CCI4 ): 2915, 2883, 2820, 1781, 1613, 1596, 1161, 1105, 1060, 962 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 1,00 (3H, t, J = 7 Hz), 1,20-2,37 (4H, m), 5,53 (1H, dd, J = 4et6Hz), 7,55 (1H, dd, J = 5 et 8 Hz), 8,27 (1H, dd, J = 2 et 8 Hz), 8,97 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 169,3, 168,8, 155,3, 134,2, 124,2, 120,4, 82,2, 35,1, 18,1, 13,8 ppm; sm m/e: 135 (100%), 134,10 (41), 133,20 (16), 107,05 (56), 106,05 (54), 79,10 (16), 78,10 (38), 77,10 (14), 51,15 (25). Anal. calc. pour C 10 H| 0 NO 2 : C 68,17, H 5,72, N 7,95; tr. :C 68,32, H 5,79, N 8,01.</p> 
+			
+			<p>Dipropyl-5,5 (5H)furo[3,4-b] pyridinone-7 (23) : F = 108-109°C; ir v max ( CH 2 C1 2 ) : 2949, 2920, 2860, 1770, 1593, 1183, 1160, 1101, 1079, 938 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 0,80-1,00 (6H, m), 1,00-1,55 (4H, m), 1,66-2,17 (4H, m), 7,63 (1H, dd, J = 5 et 8 Hz), 7,85 (1H, dd, J = 2 et 8 Hz), 8,90 (1H, dd, J = 2 et 5 Hz) ppm; sm m/e: 219,10 (M + , 5,3), 177,10 (13), 176,20 (100%), 148,15 (9), 134,10 (12), 210,10 (10), 106,16 (53), 78,20 (28), 71,20 (11), 51,15 (9). Anal. calc. pour C^HaNO, : C 71,20, H 7,82, N 6,38; tr. : C 71,36, H 7,95, N 6,43.</p> 
+			
+			<p>Réaction du bromure d&apos;hexylmagnésium avec l&apos;anhydride pyridine- carboxylique-2,3 (5) A une solution de bromure d&apos;hexylmagnésien préparée dans le THF (4 équivalents),on ajoute à -20°C 3,047 g (20,4 mmol) d&apos;anhydride 5 dissous dans 42 mL de THF. On laisse réagir à -20°C pendant 20 min, puis on hydrolyse avec HCl 10%. La Chromatographie sur gel de silice avec acétate d&apos;éthyle -benzène 3:97 fournit les trois lactones comme précédemment.</p> 
+			
+			<p>Dihexyl-7,7 (7H)furo [3,4-b] pyridinone-5 (24) : Rdt : 14% (0,863 g) ; F = 28-29°C ; ir v max ( CH 2 C1 2 ) : 2941, 2919, 2827, 1760, 1604, 1588, 1101, 1080 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 0,82 (6H, s), 0,93-1,45 (16H, s), 2,08 (4H, m), 7,48 (1H, dd, J = 5 et 8 Hz), 8,23 (1H, dd, J = 2 et 8 Hz), 8,91 (1H, dd, J = 1 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 171,6, 168,4, 155,0, 133,8, 123,7, 120,9, 91,3, 37,5, 31,5, 29,2, 23,0, 22,5, 13,9ppm; sm m/e: 303,30 (M + , 0,7), 259,25 (9), 220,10 (15), 219,10 (100%), 218,20 (87), 188,15 (11), 148,10 (39), 134,05 (16), 130,05 (9), 106,05 (27), 105,05 (9), 79,10 (12), 78,10 (9), 77,10 (10), 55,05 (10%). Anal. calc. pour C, 9 H, 9 NO, : C 74,71, H 9,57, N 4,58; tr. : C 74,63, H 9,62, N 4,52.</p> 
+			
+			<p>Hexyl-7 (7H) furo [3,4-b] pyridinone-5 (25) : Rdt: 28% (1,25g); F = 54,0-55,0°C; ir v max ( CH 2 CL) : 2920, 2852, 1769, 1609, 1590, 1180, 1107, 1069 cm&quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 0,87 (3H, s), 1,10-1,67 (8H, s), 1,67-2,30 (2H, m), 5,50(1H, dd, J = 4et6Hz), 7,50(1H, dd, J = 5 et 8 Hz), 8,33 (1H, dd, J = 2 et 8 Hz), 8,91 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 169,5, 168,7, 153,3, 134,0, 124,0, 120,1, 82,5, 33,2, 31,6, 29,0, 24,7, 22,5,14,0ppm; sm m/e : 220,15 (M + 1, 0,8), 219,05 (M + ,5,4), 148,05 (19), 135,10(100%), 134,10 (27), 107,00 (43), 106,00 (37), 79,05 (17), 78,05 (25), 51,10 (14).</p> 
+			
+			<p>Dihexyl-5,5 (5HJ furo [3,4-b] pyridinone-7 (26) : Rdt : 14% (0,865 g); F = 68,8-69,5°C; ir v max (CH,C1 2 ) : 2950, 2920, 2850, 1772, 1597, 1569, 1091cm &quot; 1 ; rmn &apos;H (CDC1 3 ) 8 : 0,83 (6H, s), 0,90-1,40 (16H, m), 1,80-2,18 (4H, m), 7,55 (1H, dd, J = 5 et 8 Hz), 7,84 (1H, dd, J = 2 et 8 Hz), 8,97 (1H, dd, J = 2 et 5 Hz) ppm; rmn 13 C (CDC1 3 ) 8: 168,1, 152,4, 146,8, 145,6, 130,2, 127,2, 88,7, 38,7, 31,5, 29,3, 23,3, 22,5, 13,9ppm; sm m/e: 304,30 (M + 1, 0,8), 303,30 (M + , 4,9), 219,00 (18), 218,10 (100%), 200,15 (25), 148,10 (14), 132,15 (11), 130,05 (13), 106,05 (34), 78,10 (23).</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Remerciements</head>
+			
+			<p>Nous remercions le Conseil de recherches en sciences naturelles et en génie du Canada et les Fonds pour la formation de chercheurs et l&apos;aide à la recherche au Ministère de l&apos;éducation du Québec pour l&apos;aide financière apportée sous forme de subventions et de bourse d&apos;études (M.B.).</p>
+				
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Canonne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Fytas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">40</biblScope>
+			<biblScope type="pp">1809</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Akssira</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">41</biblScope>
+			<biblScope type="pp">3695</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ozutsumi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Miyazawa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ogawa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ishige</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Watanabe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kaeki</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2412640" />
+			<biblScope type="pp">26</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="j">sept Chem. Abstr</title>
+		<imprint>
+			<publisher>Japan</publisher>
+			<biblScope type="vol">92</biblScope>
+			<biblScope type="pp">37353</biblScope>
+			<date type="published" when="1974" />
+			<publisher>Japan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+				<surname>Hoover</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">J</forename>
+				<surname>Becker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980" />
+			<biblScope type="fpage">008</biblScope>
+			<biblScope type="lpage">494</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">95</biblScope>
+			<biblScope type="pp">25057</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">M</forename>
+				<surname>Jephcott</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">50</biblScope>
+			<biblScope type="pp">1189</biblScope>
+			<date type="published" when="1928" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Epsztajn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Berski</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Z</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Jozwarak</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">4739</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Cohn</forename>
+				<surname>Ber</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dtsch. Chem. Ges</title>
+		<imprint>
+			<biblScope type="vol">47</biblScope>
+			<biblScope type="pp">1238</biblScope>
+			<date type="published" when="1914" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Barassin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Lumbroso</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">4707</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Canonne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">B</forename>
+				<surname>Foscolos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Caron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lemay</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetra-hedron</title>
+		<imprint>
+			<biblScope type="vol">38</biblScope>
+			<biblScope type="pp">3563</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Canonne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bélanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lemay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">B</forename>
+				<surname>Foscolos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">46</biblScope>
+			<biblScope type="pp">3091</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Weatherbee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="pp">3482</biblScope>
+			<date type="published" when="1948" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ferles</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Kocian</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Collect. Czech. Chem. Commun</title>
+		<imprint>
+			<biblScope type="vol">44</biblScope>
+			<biblScope type="pp">2672</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Ile</forename>
+				<forename type="middle">C</forename>
+				<surname>Ashby</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pure Appl. Chem</title>
+		<imprint>
+			<biblScope type="vol">52</biblScope>
+			<biblScope type="pp">545</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Michel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Henry-Basch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Fréon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">4898</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Friour</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alexakis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Friour</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+				<surname>Normant</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Synthesis</title>
+		<imprint>
+			<biblScope type="vol">40</biblScope>
+			<biblScope type="fpage">683</biblScope>
+			<biblScope type="lpage">37</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Friedman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Synth</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="issue">80</biblScope>
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

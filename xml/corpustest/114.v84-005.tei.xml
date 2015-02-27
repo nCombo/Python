@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Complexes des ions Hg 2+ avec le monomère et le dimère de la thymine: 5-methyl-2,4 (1 H, 3H) pyrimidinedione 1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<forename type="middle">M</forename>
+								<surname>Petit-Ramel</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Analytique II</orgName>
+								<orgName type="institution">Université Claude Bernard Lyon I</orgName>
+								<address>
+									<addrLine>43 Boulevard du II novembre</addrLine>
+									<postCode>1918, 69622</postCode>
+									<settlement>Villeurbanne Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<surname>Thomas-David</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Analytique II</orgName>
+								<orgName type="institution">Université Claude Bernard Lyon I</orgName>
+								<address>
+									<addrLine>43 Boulevard du II novembre</addrLine>
+									<postCode>1918, 69622</postCode>
+									<settlement>Villeurbanne Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<surname>Perichet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Laboratoire de Photochimie</orgName>
+								<orgName type="institution">Université Claude Bernard Lyon I</orgName>
+								<address>
+									<addrLine>43 Boulevard du II novembre</addrLine>
+									<postCode>1918, 69622</postCode>
+									<settlement>Villeurbanne Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">P</forename>
+								<surname>Pouyet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Laboratoire de Photochimie</orgName>
+								<orgName type="institution">Université Claude Bernard Lyon I</orgName>
+								<address>
+									<addrLine>43 Boulevard du II novembre</addrLine>
+									<postCode>1918, 69622</postCode>
+									<settlement>Villeurbanne Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Complexes des ions Hg 2+ avec le monomère et le dimère de la thymine: 5-methyl-2,4 (1 H, 3H) pyrimidinedione 1</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les constantes d'association relatives aux complexes des ions Hg 2+ avec les formes monomère (TM) et dimère (TD) de la thymine sont calculées à partir de mesures protométriques effectuées dans un large domaine de pH: 2 &lt; pH &lt; 11. Le traitement des données de chacun des systèmes est conduit par une méthode de pit-mapping et l'on peut donner la répartition des diverses espèces complexes en fonction du pH. En ce qui concerne le monomère, les ions Hg 2+ ayant une coordinence de degré deux, traduite par la configuration linéaire d'espèces non chélatées, on peut mettre en évidence les complexes [Hg(TM)] + (log p 10 , = 10,65) et [Hg(TM) 2 ] (log 3,02 = 20,70). Les photodimères (TD) obtenus par irradiation de la thymine monomère (TM) à 260 nm, en solution dans l'eau gelée à -10°C sont du type (méso) cis, syn. Il donnent des complexes avec Hg 2+ de type [Hg(TD)] (log Pu» = 13,55), [HgH-, (TD)]" (log p,-,, = 6,73) et [HgH_ 2 (TD)] 2 ~ (log P,-2 , = -1,69). Le complexe [Hg(TD)] a un spectre d'absorption nettement déplacé vers les grandes longueurs d'onde (\ = 280 nm), alors que le dimère (TD) n'absorbe qu'en dessous de 240 nm. Une irradiation à 280 nm provoque l'apparition du complexe [Hg(TM) 2 ], donc la rupture du cycle cyclobutane au niveau du dimère.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The association constants for Hg 2+ -complexes involving monomelic (TM) and dimeric (TD) forms of thymine are deter-mined by pH-titration measurements made over a wide pH range 2 &lt; pH &lt; 11. In both systems, the experimental data have been analyzed by a pit-mapping method and the concentration distribution of the various complex species is plotted versus a pH gradient. Because of the tendency of Hg 2+ to form two bonds in a linear configuration, non-chelate complexes [Hg(TM) + ] (log pioi = 10.65) and [Hg(TM) 2 ] (log pi 02 = 20.70) are formed with the monomer thymine. Photodimers, obtained after irradiation of monomer thymine at 260 nm in frozen water (— 10°C), are the (meso)-cis, syn forms and can be complexed by the Hg 2+ ions in [Hg(TD)] (log p 10 , = 13.55), [HgH_, (TD)]" (log pi-n = 6.73), and [HgH-2 (TD)] 2 " (log pi—2i = 1.69) species. [Hg(TD)] complex shows an absorption spectrum shifting towards 280 nm, whereas the free dimer ligand absorbs lower than 240 nm only. An irradiation at 280 nm provides the formation of the [Hg (TM) 2 ] complex and consequently the breaking of the cyclobutane cycle in the dimer molecule.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Beukers et Berends (1) ont montré que la thymine se dimérisait réversiblement en solution aqueuse par irradiation à 280 nm et pour une température voisine de 0°C. Le dimère obtenu, isolé sous forme cristalline présentait une absorption uv très différente de celle du monomère. En outre, <ref type="bibr">L. Wulff et coll.</ref> (2, 3) ont précisé que la photosensibilisation de l'ADN "in vivo", à 280 nm, se produisait entre deux molécules adjacentes situées sur le même brin de l'hélice, les molécules de thymine passant ainsi d'un "état monomère" à un "état dimère".</p>
+				<p>Dans la mesure où il semble directement lié au blocage des virus et des bactéries et à l'activation des microorganismes, l'importance de l'interprétation biologique de ce phénomène de dimérisation a été soulignée par de nombreux auteurs (4-7). En ce qui concerne la réversibilité de la réaction photochimique , l'équilibre de conversion thymine-dimère en thymine-monomère peut être envisagé sous deux aspects complémentaires: (0 par irradiation, à une longueur d'onde voisine de 250 nm, de la molécule de thymine-dimère isolée (8); et (ii) par utilisation d'enzymes (E) de photoréactivation agissant selon le schéma:</p>
+				<p>Nous avons essayé de "modéliser" cette réaction au niveau de la thymine en utilisant les ions Hg 2+ . Schématiquement, les réactions peuvent s'écrire de la façon suivante dans la mesure où une seule espèce complexe se formerait respectivement avec les thymines monomère et dimère:</p>
+				<p><formula>[2] H(TM) + H(TM) + hv-&gt; H 2 (TD) [3] H 2 (TD) + Hg 2+ —&gt; [Hg(TD)] + 2H + [4] [Hg(TD)] -H hv' -» [Hg(TM) 2 ]</formula></p>
+				<p>La première irradiation hv, dimérisant normalement la thymine ligand monomère H(TM), le ligand dimère H 2 (TD) peut se complexer éventuellement en [Hg(TD)] . Une seconde irradiation hv', favorise la décomposition du complexe dimérisé en complexe monomère [Hg(TM) 2 ].</p>
+				<p>Notre contribution porte donc sur l'identification et le calcul des stabilités thermodynamiques de toutes les espèces complexes formées avec les oligomères de rang 1 et 2 de la thymine et nous tenterons de dégager une interprétation analytique des réactions précédentes.</p>
+				<p>Nous définirons par (3 wr la constante de stabilité globale d'une espèce complexe de formule générale M p H,A r où M représente l'atome métallique central, H l'atome d'hydrogène et A le ligand, dont la formation est régie par l'équilibre:</p>
+				<p><formula>[5] pM + çH + rA M p H,A r</formula></p>
+				<p>avec p et r &gt; 0, g &gt; 0 pour les espèces protonées, et q &lt; 0 pour les espèces hydroxydées avec [OH -] = [H_i] /sf w.</p>
+				<p>Lors de la neutralisation, nous pouvons définir un nombre moyen de protons neutralisables par mole de ligand: . C H ~ [H] + [OH]</p>
+				<p><formula>[7] q = cÂ</formula></p>
+				<p>où C A est la concentration totale en ligand; [H] et [OH] sont respectivement les concentrations en H + et OH~ à l'équilibre; C H est la concentration en protons telle que:</p>
+				<p><formula>[8] C H = qC A - B</formula></p>
+				<p>B est la concentration de l'hydroxyde ajouté. Les systèmes, dans lesquels interviennent les formes protonnées des coordinats et les espèces mono ou polynucléaires des complexes métalliques ont été résolus à l'aide d'un programme-type issu du Letagrop (9), modifié et testé dans notre laboratoire sur de multiples équilibres (10—12). Ce programme permet raffinement des paramètres par la méthode du pit-mapping dont nous rappelons brièvement le principe.</p>
+				<p>Les transformées des courbes de titration q = /(pH) sont rendues linéaires par un développement en série de Fourier et les équations issues de cette nouvelle expression sont dérivées jusqu'à une minimisation convenable de la somme 7 = X(g cxp — &lt;7 ca i c ) 2 . Cette dernière fonction dépend d'un nombre n de paramètres et est représentée dans un espace à (n + 1) dimensions par une "nappe". Cette technique permet d'extrapoler les valeurs des paramètres $ pqr vers des valeurs voisines de celles rendant minimum l'expression 7. Cette méthode se justifie théoriquement dans la mesure où les écarts (q cxp — q ca]c ) sont des variables aléatoires de même écart-type, cr, et il est alors possible, compte tenu de l'erreur systématique expérimentale sur q exp , de calculer les déviations standards afférentes à chaque constante $ pqr.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<div type="section" n="1">
+					<head>Interactions Hg2+—thymine monomère</head>
+					<p>Les bases puriques et pyrimidiques, composantes des acides nucléiques, sont généralement faibles et bien qu'elles puissent complexer de nombreux cations tels Cu 2+ , Ni 2+ , Zn 2+ , Co 2+ , Mg 2+ et Ca 2+ (13-16), il existe des interactions métalcoordinat privilégiées avec les ions Hg 2+ dont l'influence a été notée au niveau de la molécule de thymine, soit isolée (17), soit replacée dans une séquence d'ADN (18—20).</p>
+					<p>En ce qui concerne particulièrement la thymine monomère isolée, les travaux de Davidson et coll. (17) font état d'une liaison stable avec les ions Hg 2+ par formation d'un seul complexe de type [Hg(TM) 2 ].</p>
+					<p>Pour assurer un maximum d'homogénéité à notre étude, nous avons recalculé dans un premier temps, la constante de stabilité protonique (3 0 n&gt; de la thymine monomère H(TM), dont la valeur concorde parfaitement avec les références ci-dessus (tableau 1). Bien qu'il y ait, dans chaque molécule de monomèrè , deux possibilités d'échange relatives à chaque hydrogène porté par les fonctions aminés en Ni et N 3 ( <ref type="figure">fig. 3</ref>), une seule déprotonation est observée dans le domaine de pH envisagé (fig. la). Les mesures protométriques se révélant inopérantes pour une telle différenciation, nous pouvons cependant supposer que le fort effet inductif des groupements C=0, portés par les C 2 et C 4 encadrant la fonction aminé, activent préférentiellement la déprotonation en N 3 , la seconde déprotonation de l'hydrogène porté par N, se situant vers pH 12 (13).</p>
+					<p>En présence des ions mercuriques, le choix des rapports ligand/métal &gt; 4 dépend de deux phénomènes: (i) une hydrolyse importante, dès les faibles pH, par formation des espèces [HgH_i] soluble et [HgH_ 2 ] peu soluble; et (ii) une dismutation des ions Hg 2+ (21), en présence d'un excès de métal:</p>
+					<p><formula>[9] Hg 2+ + Hg HgT</formula></p>
+					<p>En ce qui concerne la mise en évidence des espèces complexes et le calcul de leurs constantes de stabilité, la démarche que nous suivrons découle directement de l'examen des courbes de formation h = /(p(TM)) — où « représente le nombre moyen de ligand libre déprotoné — qui permettent d'identifier deux espèces complexes successives répondant aux équilibres:</p>
+					<p><formula>[10] H(TM) + Hg 2+ [Hg(TM)] + + H + [11] 2H(TM) + Hg 2+ [Hg(TM)J + 2H +</formula></p>
+					<p>A partir de solutions 2 x 10~ 3 M en thymine-monomère et avec quatre rapports ligand/métal sensiblement égaux à 1, 2, 4 et 10, totalisant 240 points expérimentaux, la méthode d'affinement par pit-mapping sur le nombre moyen q de protons neutralisables (fig. la) de la molécule conduit aux valeurs rassemblées dans le tableau 1. L'introduction, dans le cycle d'affinement, de la constante (3 M0 , relative à la formation de l'espèce hydroxydée soluble [HgH_,] n'améliore pas sensiblement la convergence bien que la valeur obtenue soit en bon accord avec nos références bibliographiques (22—24). Le tracé des courbes de distribution (fig. 1 b) qui permet de suivre l'évolution des espèces formées en fonction du pH, montre en effet que dans nos conditions expérimentales (ligand/métal &gt; 4) la quantité d'espèces hydroxydées reste négligeable.</p>
+					<p>Quant au complexe [Hg(TM)] + , non signalé dans la littérature , il faut souligner que son domaine d'existence se situe vers les faibles pH, sa disparition étant presque totale à pH 4.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Interactions H g 2 *—thymine dimère</head>
+					<p>Le dimère étant beaucoup moins soluble que le monomère en solution aqueuse, la concentration utilisée ne peut excéder 10 -4 M. Nous ne disposions d'aucune donnée bibliographique chiffrant les stabilités protoniques et a fortiori les stabilités des complexes et nous avons suivi le même protocole d'étude que pour le monomère.</p>
+					<p>La transformée des courbes de neutralisation q = /(pH) ( <ref type="figure">fig. 2a</ref>) correspond bien à la présence de deux protons neutralisables H 2 (TD) relatifs aux constantes {i m et (3 0 n du tableau 2.</p>
+					<p>La faible solubilité du dimère, impliquant de faibles concentrations en ions mercuriques a pour conséquence directe d'augmenter l'hydrolyse et de restreindre le rapport ligand/métal au voisinage de 1 et les calculs d'affinement ont porté sur deux valeurs de rapport H(TD)/Hg 2+ = 0,90 et 1 soit environ 120 points expérimentaux. Selon le domaine de pH considéré, le traitement des données potentiométriques fait apparaître la formation simultanée du complexe simple [Hg(TD)] et d'espèces hydroxydées.</p>
+					<p><formula>3 &lt; pH &lt; 9 [12] H 2 (TD) + Hg 2+ [Hg(TD)] + 2H + 3 &lt; pH &lt; 6 [13] Hg 2+ + HH_, [HgH-,] + + H + 6 &lt; pH &lt; 9 (TD 2 ~ + Hg 2+ + HH-, [HgH_i(TD)]~ + H + W" + Hg 2+ + 2HH-] *± [HgH 2 _(TD)] 2 ~ + 2H +</formula></p>
+					<p>L'ensemble des constantes (3i 0 i, 3m, et 12 , correspondant respectivement aux équilibres de formation des espèces [Hg(TD)] , [HgH_,] + , [HgH_i(TD)]~ et [HgLL 2 (TD)] 2 " (tableau 2) conduit à une convergence rapide du processus d'affinement, la valeur recalculée de l'espèce [HgH_,] + déjà prise en compte dans l'étude de la thymine monomère restant parfaitement concordante. La courbe de distribution des espèces en fonction du pH ( <ref type="figure">fig. 2b</ref>) permet de situer précisément leurs domaines de formation, dans nos conditions expérimentales.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>L'examen comparé des complexes mercuriques obtenus avec la thymine monomère et la thymine dimère appelle plusieurs remarques.</p>
+				<div type="section" n="1">
+					<head>Ions mercuriques</head>
+					<p>Les interactions Hg 2+ -coordinat sont généralement accompagnées de phénomènes secondaires: (/) Réaction d'hydrolyse simple sur les ions métalliques et formation, dès pH 2, de l'espèce soluble [HgH_,] + , qui, si elle reste négligeable pour le système monomère, atteint une valeur relative de 30% de la concentration totale en métal dans le cas du système dimère, les espèces supérieures [HgH_ " ] 2 "" avec n &gt; 1, n'étant pas retenues dans nos conditions expérimentales, (ii) Formation d'espèces complexes hydroxydées [HgH_,(TD)]~ et [HgH_ 2 (TD)] 2-, la dilution importante des solutions du système dimère favorisant la permanence des ions hydroxydes. (iii) Equilibre de dismutation des ions [Hg 2 + ] dont nous nous sommes affranchis en travaillant à des concentrations [Hg 2+ ] &lt; 10~ 3 M.</p>
+				</div>
+				<div type="section" n="2">
+					<head>Coordinats et complexes</head>
+					<p>Le monomère H(TM) et le dimère H 2 (TD) se comportent respectivement comme un mono et un diacide très faibles et les valeurs des tableaux 1 et 2 recoupent la règle générale de stabilité protonique plus élevée dans un cycle comportant une double liaison (monomère) que lorsque cette dernière est rompu (dimère).</p>
+					<p>Une étude systématique, à de faibles valeurs de pH, a permis de mettre en évidence un nouveau complexe: la première espèce du monomère [Hg(TM)] + , la seconde [Hg(TM 2 ] , plus stable, ayant déjà été signalée (17).</p>
+					<p>Parmi les quatre formes isomériques de la thymine dimère décrites par Wulff et Fraenkel (2), le dimère (meso) cis-syn apparait comme la configuration la plus probable, que ce soit après irradiation d'une solution de thymine monomère gelée ou après photodimérisation des molécules adjacentes de thymine, situées sur chaque hélice d'ADN ( <ref type="figure">fig. 3</ref>).</p>
+					<p>En présence d'ions Hg 2+ , la formation de complexes du type [Hg(TD)], comme les espèces hydroxydées correspondantes, accrédite encore la configuration "meso" par liaison systématique du métal sur les atomes d'azote N 3.</p>
+					<p>En outre, l'absence d'espèces condensées en thymine dimère telles que [Hg 2 (TD) 2 ] et [Hg 2 (TD) 4 ] dont l'introduction dans raffinement ne modifie en aucune manière la variance, trouve une justification normale au vu de nos conditions expérimentales . L'intervalle de variation des rapports ligand/métal, impérativement voisin de 1 pour raison d'hydrolyse, ne permet pas d'accréditer ces espèces polynucléaires de rang 2, dans la mesure où nous n'observons pas sur les courbes de formation n = f(p(TD)), le déplacement caractéristique Ap(TD) consécutif à une variation, A m, de la concentration en métal (25), et que nous avons souvent mis en évidence dans d'autres systèmes (26, 27).</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Deux chaînes de mesure, convenablement étalonnées permettent de mesurer conjointement le pH et le pM dans un large domaine de pH: 2 &lt; pH &lt; 11.</p>
+				<p>pH: électrode en verre / solution à 25 ± 0,1°C / NaCl saturé / électrode au calomel pM: électrode de mercure en J / solution à 25 ± 0,1 °C / Na 2 S0 4 saturé / électrode au sulfate mercureux Hg 2 S0 4 /Hg</p>
+				<p>Chaque jeu d'électrodes est relié à un potentiomètre ISIS 20 000 TACUSSEL et les mesures sont effectuées sur des solutions aqueuses, thermostatées à 25 ± 0,1°C, dont la force ionique est maintenue constante à l'aide d'une solution de NaC10 4 0,1 M.</p>
+				<p>Les solutions d'acide perchlorique Prolabo R.P. et de soude Merck sont dosées par des solutions étalons de biphtalate de potassium Merck. L'ajustement de la force ionique est effectuée par une solution de titre connu en Perchlorate de sodium Merck. Le Perchlorate de mercure est préparé par attaque à chaud d'hydroxyde mercurique par l'acide perchlorique jusqu'à neutralisation, puis dosé par l'EDTA à l'aide d'une électrode de mercure en J.</p>
+				<p>La thymine monomère utilisée provient des laboratoires Merck.</p>
+				<p>La thymine dimère est préparée par irradiation de solutions de thymine monomère dans l'eau (10~ 3 M) gelée à -10°C. L'irradiation a lieu à l'aide d'une lampe à vapeur de mercure haute pression. Les solutions sont évaporées à sec. Le résidu est ensuite dissous dans l'eau bouillante et filtré. Le filtrat est concentré et les cristaux de thymine dimère cristallisent avant ceux de monomère et Wang (28) a montré que seule la forme "meso" isomère cis-syn est obtenue.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Berends</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochim. Biophys. Acta</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">573</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Fraenkel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochim. Biophys. Acta</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">332</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">L</forename>
+									<surname>Wulff</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Mol. Biol</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">431</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">In Photobiology: action of light on living materials</title>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<editor>A. G. GIESE</editor>
+							<imprint>
+								<date type="published" when="1963"/>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Progress in nucleic acid research</title>
+							<editor>J. N. Davidson and W. E. Cohn</editor>
+							<meeting>
+								<address>New York</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Beukers</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Berends</forename>
+									<surname>Ree</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Trav. Chim. Pays-Bas</title>
+							<imprint>
+								<biblScope type="vol">79</biblScope>
+								<biblScope type="pp">101</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Wacker</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Weinblum</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Naturwissen-schaften</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">477</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Beukers</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Berends</forename>
+									<surname>Ree</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Trav. Chim. Pays-Bas</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">833</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+									<surname>Sillen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Chem. Scand</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">1085</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">P</forename>
+									<surname>Martin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Rev</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Pure Appl. Chem</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">171</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Michaud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Pivert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M. Petit-Ramel Et G. Thomas-David</forename>
+									<surname>Duc</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="issue">9</biblScope>
+								<biblScope type="pp">1063</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M. Petit-Ramel Et L. Mosoni-Fresenius</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">313</biblScope>
+								<biblScope type="pp">544</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">R J</forename>
+									<surname>Krishnamoorty</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Inorg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nucl. Chem</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">711</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Lohmann</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. Natur-forsch</title>
+							<imprint>
+								<biblScope type="vol">29</biblScope>
+								<biblScope type="pp">667</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">J</forename>
+									<surname>Kistenmacher</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acc. Chem. Res</title>
+							<imprint>
+								<biblScope type="vol">10</biblScope>
+								<biblScope type="pp">146</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<monogr>
+							<title level="m" type="main">In Progress in inorganic chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>Wiley</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Ferreira</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Ben</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Zvi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Yamane</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Advances in coordination compounds. Ed. S</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<monogr>
+							<author>
+								<persName>
+									<surname>Kirschner</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1961"/>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Davidson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">83</biblScope>
+								<biblScope type="pp">2599</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">O</forename>
+									<surname>Rahn</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">C</forename>
+									<surname>Landry</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Photochem</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<biblScope type="pp">39</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">S</forename>
+									<surname>Allen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochim. Biophys. Acta</title>
+							<imprint>
+								<biblScope type="vol">610</biblScope>
+								<biblScope type="pp">72</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Jonsson</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+									<surname>Sillen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">ActaChem. Scand</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">461</biblScope>
+								<date type="published" when="1947"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+									<surname>Sillen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Chem. Scand</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="pp">747</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">N Reilley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">5513</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Anderegg</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Scharzenbach</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ô</forename>
+									<forename type="middle">Borg</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">988</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Talanta</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="pp">733</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<surname>Khalil</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Petit-Ramel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="fpage">11</biblScope>
+								<biblScope type="lpage">12</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Khalil</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Petit-Ramel Et C. Chapelet-Barbier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">1919</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Y</forename>
+									<surname>Wang</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Photochem. Photobiol</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">395</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Beer</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochemistry</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">1289</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

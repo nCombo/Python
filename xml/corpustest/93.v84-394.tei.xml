@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Décomposition homolytique du peracide phényl-5 pentanoïque: réactivité du radical phényl-4 butyle et compétition entre deux mécanismes en chaîne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean-Yves</forename>
+								<surname>Nedelec</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">C.N.R.S., G.R. 12</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Fossey</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">C.N.R.S., G.R. 12</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Daniel</forename>
+								<surname>Lefort</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">C.N.R.S., G.R. 12</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jeanine</forename>
+								<surname>Sorba</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">C.N.R.S., G.R. 12</orgName>
+								<address>
+									<addrLine>2, rue H. Dunant</addrLine>
+									<postCode>94320</postCode>
+									<settlement>Thiais</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Décomposition homolytique du peracide phényl-5 pentanoïque: réactivité du radical phényl-4 butyle et compétition entre deux mécanismes en chaîne</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<biblScope type="fpage">2317</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Le peracide phényl-5 pentanoïque, en solution à ébullition dans le cyclohexane, se décompose essentiellement en acide correspondant au lieu de se décarboxyler en phényl-4 butanol comme les termes inférieurs ou supérieurs; cette différence de comportement est expliquée par la cyclisation du radical phényl-4 butyle, lequel ne peut pas propager le mécanisme en chaîne conduisant au phényl-4 butanol et le peracide se transforme alors en acide par un autre mécanisme radicalaire en chaîne compétitif.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>5-Phenyl pentanoic peracid decomposes in boiling cyclohexane solution to the corresponding acid instead of decarboxylation as is observed for the related cases. This difference in behaviour is explained by the cyclization of the 4-phenyl butyl radical which can then no longer propagate any chain reaction leading to 4-phenyl butanol. The peracid, therefore, reacts by a competitive radical chain mechanism leading to the corresponding acid. </p>
+			</div>
+		</front>
+		<body>
+			<p>L'intérêt des peracides RC0 3 H en chimie radicalaire résulte d'une double spécificité: ils sont à la fois source de radicaux libres R' et substrat pour différents radicaux libres nucléophiles (R -) pour former des alcools. Ainsi, la décomposition thermique d'un peroxyacide aliphatique conduit à l'alcool ROH selon le mécanisme en chaîne suivant (I)</p>
+			<p><formula>(1). [1] RC0 3 H -» RC0 2 ' + ÔH [2] RC0 2 ' —» R' + C0 2 [3] R' + RCO3H — ROH + RCO,"</formula></p>
+			<div>
+				<head>MÉCANISME 1</head>
+				<p>Cependant dans certains cas liés au milieu réactionnel (2, 3) (nature du solvant, présence d'oxygène) ou lorsque le radical R" est électrophile (3, 4), le produit principal est l'acide correspondant . Ainsi nous avons déjà montré (3) que lorsque l'on n'opère pas à ébullition de la solution, l'oxygène dissous bloque le mécanisme I et que l'acide se forme par le mécanisme en chaîne II.</p>
+				<p><formula>[4] RCO3H RC0 2 " + ÔH [5] ÔH + RCO3H — H 2 0 + RCO3' [6] RCO3' &lt;=ï RCO + 0 2 [7] RCO + RCO3H &lt;=ï RCHO + RCO3' [8] RCHO + RCO3H — 2 RC0 2 H</formula></p>
+			</div>
+			<div>
+				<head>MÉCANISME II</head>
+				<p>Dans l'étude présentée ici nous allons montrer que ces deux mécanismes, qui diffèrent radicalement par la nature des entités radicalaires mises en jeu (RC0 2 et R' dans I, RC0 3 ' et RÔO dans II), évoluent de manière compétitive; nos travaux antérieurs (1-4) ont établi que la chaîne I est généralement plus rapide que la chaîne II quand le radical R' est nucléophile. Au cours de notre étude sur les transferts intramoléculaires d'hydrogène de cabone à carbone, nous avons produit une série de radicaux co-phényl alkyle à partir des peracides correspondants.</p>
+				<p><formula>&lt;t&gt;-(CH 2 ) " CH 2 -CO3H</formula></p>
+				<p>Dans les conditions habituelles (décomposition dans un hydrocarbure à ébullition) la quantité d'acide est inférieure à 20% sauf quand n = 3: le peracide phényl-5 pentanoïque conduit en effet à 80% d'acide (5). Pour expliquer les raisons de la particularité de ce peracide par rapport à ses homoloques et vérifier du même coup notre hyothèse de la compétition des mécanismes I et II, nous avons approfondi l'étude de la décomposition thermique de ce peracide , par comparaison avec la décomposition de l'homologue immédiatement inférieur.</p>
+			</div>
+			<div>
+				<head>Résultats</head>
+				<p>Les peracides sont décomposés en solution dans le cyclohexane à ébullition pour éliminer l'oxygène dissous.</p>
+				<p>Le tableau 1 montre la différence très nette de la distribution des produits, pour une même concentration initiale (0,1 M), entre les deux peracides phényl-4 butanoïque et phényl-5 pentanoïque. Pour ce dernier, quand on augmente la concentration initiale en peracide on constate, d'une part, que la quantité de phényl-4 butanol croit au détriment de l'acide phényl-5 pentanoïque et, d'autre part, que les quantités de phénylbutane , de tétraline et de cyclohexanol restent faibles et à peu près constantes. On notera qu'à 0,1 M le temps de demiréaction est supérieur pour le peracide phényl-5 pentanoïque; ce ralentissement de la vitesse de décomposition, résultat de plusieurs mesures, est significatif.</p>
+				<p>Quand on décompose un mélange équimoléculaire des peracides dodécanoïque et phényl-5 pentanoïque (Tableau 2), on observe une augmentation très nette de la quantité de phényl-4 butanol par rapport à celle résultant de la décomposition du peracide phényl-5 pentanoïque seul (tableau 1); de plus, l'augmentation des concentrations initiales a pour conséquence d'accroître les quantités d'alcool RCH 2 OH et &lt;)&gt;-(CH 2 ) 3 CH 2 OH issus de chacun des peracides. On note également que la quantité de cyclohexanol est accrue mais que celles de phénylbutane et de tétraline restent du même ordre de grandeur.</p>
+			</div>
+			<div>
+				<head>Discussion</head>
+				<p>Il est raisonnable d'admettre que l'énergie de la liaison O—O n'est pas influencée par la position du phényle par rapport à la fonction peroxydique. Le mécanisme I ne peut donc être ralenti qu'au niveau de la  réaction [2] ou de la réaction [3] . L'hypothèse d'une stabilisation du radical carboxyle par complexation intramoléculaire (6-8) expliquerait le ralentissement de la chaîne I par une diminution de k 2 , constante de vitesse de décarboxylation.</p>
+				<p>De plus, un tel phénomène de complexation devrait jouer dans la décomposition du peroxyde de diacycle correspondant (9, 10), et devrait être accentué, pour des raisons entropiques, avec l'homologue inférieur, ce qui n'est pas le cas (5).</p>
+				<p>Il y a donc tout lieu de penser que les réactions de rupture homolytique [1] et de décarboxylation [2] sont aussi rapides que pour l'homologue inférieur. D'ailleurs la présence dans le mélange réactionnel de phényl-4 butanol qui se forme à partir du radical phényl-4 butyle montre bien que ces réactions ont lieu mais elles sont moins importantes que celles du mécanisme II pour les raisons que nous allons exposer. La propagation de la chaîne peut être ralentie au niveau de la réaction [3] , Dans l'expression de la vitesse</p>
+				<p><formula>v 3 = k 3 [R°] [P]</formula></p>
+				<p>k 3 exprime la réactivité intrinsèque d'un radical carboné primaire R'—CH 2 '. Or celle-ci ne peut être influencée notablement par un groupement phényle en position 4. C'est donc la concentration [R -] qui doit déterminer la vitesse v 3 .</p>
+				<p>On sait que le radical phényl-4 butyle se cyclise rapidement 4 s -1 ) (12, 13) et de façon irréversible en (9, 11) (k C y — 5 x 10 Ar 2 -6 et réversible en Ar,-5 (14).</p>
+				<p>Il y a donc compétition entre la cyclisation et la réaction sur le peracide. La réaction unimoléculaire est la plus rapide quand [P] = 0,1 M puisque dans ce cas l'on trouve des quantités faibles de phényl-butane et de phényl-4 butanol.</p>
+				<p>On s'attend dès lors à trouver dés quantités importantes de produits bicycliques, tétraline et dérivés. Mais le radical Ar 2 -6 ne réagit pas sur le peracide ni non plus sur le solvant (il y a peu de cyclohexanol). Ainsi, puisqu'aucun radical ne peut propagerla chaîne I, celle-ci est tout simplement inhibée et le peracide se décompose essentiellement selon le mécanisme II. Comme les deux chaînes n'ont pas d'entité réactionnelle commune, il ne peut y avoir passage de l'une à l'autre.</p>
+				<p>Néanmoins ces deux chaînes sont bien compétitives comme le montrent l'étude de l'effet de la concentration et l'étude de la décomposition du mélange de peracides.</p>
+				<p>Quand on augmente la concentration en peracide, on accélère la réaction [3] qui est l'étape limitante de la chaîne I alors que le mécanisme II n'est pas sensible à la concentration initiale en peracide et l'alcool se forme bien aux dépens de l'acide. Quand la concentration en peracide est supérieure à 0,1 M on observe donc le déroulement simultané des deux mécanismes en chaîne. Quand on décompose le peracide phényl-5 pentanoïque en présence d'une quantité équimolaire de peracide dodécanoïque , on lève l'inhibition du fait que le dernier se décompose normalement: le peracide dodécanoïque produit en effet des radicaux alkyles réactifs qui quand ils réagissent sur 4&gt;-(CH 2 ) 4 -C0 3 H redonnent de l'importance à la décomposition selon le mécanisme I en générant les radicaux &lt;MCH 2 ) 4 -C0 2 "</p>
+				<p>En conclusion: si pour l'essentiel, le détail de chacun des mécanismes en chaîne était établi, la présente étude montre clairement la délicate balance qui régit la compétition des deux mécanismes. Quand le radical alkyle produit par décarboxylation disparait rapidement, soit par réaction avec 0 2 soit par réaction unimoléculaire comme la cyclisation, la chaîne I s'interrompt et la chaîne II devient prépondérante.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Le cyclohexane utilisé est de qualité "spectroscopique". Les analyses cpg sont effectuées avec un appareil Girdel-75 et les spectres ir, en solution dans CC1 4 , avec un appareil Hitachi-EPI G2. Les indices de peroxyde sont déterminés par iodométrie (15).</p>
+				<p>Préparation des peracides</p>
+				<p>On utilise la méthode décrite par Swern et coll. (16), à laquelle nous avons apporté quelques modifications (17) et qui consiste à faire agir H 2 0 2 85% sur l'acide en solution dans CH 3 S0 3 H. Le peracide est recristallisé dans l'hexane; sa pureté est contrôlée par les spectres ir et par détermination de l'indice de peroxyde. On obtient aisément des peracides à 96-98%.</p>
+				<p>Décomposition des peracides</p>
+				<p>Nous utilisons le même protocole que celui décrit précédemment (3). Les mélanges réactionnels sont analysés, après estérification par CH2N2, en cpg (Carbowax 20 M, 15%, 2 m, 150 à 160°C) en utilisant pour le dosage quantitatif, comme témoin interne, l'hexadécanoate de méthyle.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lefort</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">1023</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sorba</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Fossey</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Y</forename>
+									<surname>Nedelec</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="pp">69</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sorba</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Fossey</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lefort</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">1509</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sorba</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Fossey</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lefort</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">2083</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Y</forename>
+									<surname>Nedelec</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">2681</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Gleicher</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">86</biblScope>
+								<biblScope type="pp">233</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<imprint>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Newkirk</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">Koch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">28</biblScope>
+								<biblScope type="pp">449</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<surname>Newkirk</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Gleicher</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem Soc</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">3543</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Weiss</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">4296</biblScope>
+								<date type="published" when="1956"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lefort</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sorba</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">442</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<monogr>
+							<title level="m" type="main">Dans Free radicals. Vol I. Edité par J. Kochi</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Wilt</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>Wiley</publisher>
+								<biblScope type="pp">433</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Gillion</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">85</biblScope>
+								<biblScope type="pp">5251</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<title level="a" type="main">Essays on free radical chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Beckwith</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Soc. Spec. Publ. n° Chem. Soc. London</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">239</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Malassine</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">30</biblScope>
+								<biblScope type="pp">695</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<monogr>
+							<title level="m" type="main">The determination of organic per-oxides</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<surname>Johnson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+								<publisher>Pergamon Press</publisher>
+								<pubPlace>Oxford</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Silbert</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<surname>Siegel</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Swern</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">1336</biblScope>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Y</forename>
+									<surname>Nedelec</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Lefort</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthesis</title>
+							<imprint>
+								<biblScope type="vol">823</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

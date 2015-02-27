@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude thermodynamique du mélange chlore-acide isocyanurique en milieu aqueux</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1988">1988</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Bernard</forename>
+								<surname>Solastiouk</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Xavier</forename>
+								<surname>Deglise</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude thermodynamique du mélange chlore-acide isocyanurique en milieu aqueux</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Nous présentons un mode de calcul permettant d&apos;obtenir les concentrations à l&apos;équilibre en solution aqueuse, de l&apos;acide cyanurique et de ses dérivés chlorés en fonction du pH, du rapport chlore/acide cyanurique et de la concentration en ions chlorures. Une étude de l&apos;influence de chacun de ces paramètres sur les différents équilibres est présentée, dans des conditions proches de celles de l&apos;utilisation de ces composés dans les eaux de piscines.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>A method of calculation of the equilibrium concentrations in aqueous solution of cyanuric acid and its chlorinated derivatives as a function of pH, molar ratio of chlorine/cyanuric acid, and chloride ion concentration is presented. The influence of each of these parameters is studied in conditions close to those used for these compounds in swimming pools.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les dérivés N-chlorés de la triazine-1,3,5 trione-2,4,6 ou acide cyanurique(Cy) sont des produits couramment utilisés comme sources de chlore dans les détergents et les eaux de piscines. En effet ces produits solides représentent une source de chlore plus facilement transportable et utilisable par exemple que l&apos;eau de javel ou le chlore gazeux. Ils empêchent surtout la photolyse rapide du chlore car les molécules mono-, di-, et trichlorées de l&apos;acide cyanurique (CyCl, CyCl 2 , CyCl 3 ) tout en conservant un pouvoir chlorant efficace pour la désinfection des eaux sont d&apos;une relative stabilité vis à vis du rayonnement solaire. Les constantes d&apos;équilibres entre ces composés ont été déterminées par O&apos; <ref type="bibr">Brien et al. (1, 2</ref>) et c&apos;est à partir de ces valeurs que nous déterminons la composition d&apos;une solution aqueuse de ces produits. Dans ces équilibres il n&apos;est pas tenu compte des différentes formes tautomères que peuvent prendre ces molécules (voir <ref type="figure" target="#f0">figure 1</ref>).</p> 
+			
+			</div>
+			
+			<div type="section">
+				<head>1. Le chlore en solution aqueuse</head>
+			
+			<p>Le chlore moléculaire dissous dans l&apos;eau est soumis à différents équilibres et forme de façon rapide et réversible différentes espèces (acide hypochloreux, hypochlorites, et ions trichlorures) dont les proportions sont régies par les équilibres suivants :</p>
+
+	<p><formula>Cl 2 + H 2 0 ?± ClOH + H + + Cl [C10H][Cr;|[H &quot;</formula></p>
+
+			<p>Bell et Gells (7) ont étudié la stabilité en solution aqueuse du cation Cl + et du cation solvaté H 2 OCl + . Eigen et Kustin (8) quant à eux ont estimé celle de Cl 2 OH~. Ces espèces restant dans toutes conditions très minoritaires, sinon inexistantes, en solution aqueuse; nous n&apos;en tenons donc pas compte. Nous regroupons sous le terme générique de «chlore libre» indifféremment les quatre espèces Cl 2 , ClOH, CIO&quot;&quot; et Cl 3 ~, par opposition au chlore lié aux atomes d&apos;azote. Les ions chlorures sont pris en excès par rapport au chlore actif total en sorte que leurs concentrations puissent être considérées comme invariantes aux cours des différentes mises à l&apos;équilibre considérées ([Cl -]» [Cl] to tai)-</p> 
+				
+			</div>	
+				
+			<div type="section">
+					<head>2. Le mélange chlore -acide cyanurique en solution aqueuse</head>
+
+			<p>Lorsqu&apos;on mélange chlore et acide cyanurique en solution aqueuse chaque azote du cycle triazinique est susceptible de fixer un atome de chlore (1-4).</p>
+
+			<p>Pour décrire ce système, les valeurs des constantes d&apos;équilibre seront données pour les équilibres types suivants (où x est compris entre 0 et 2) :</p>
+
+			<p>Cl (3 -,)CyH, + H 2 0 ï* HOC1 + Cl (2 -x) CyH (x+I)</p>
+
+			<p>De plus les propriétés acido-basiques de ces dérivés imposent de tenir compte d&apos;espèces supplémentaires plus ou moins ionisées. Le schéma suivant (schéma 1) présente ces différents produits et les équilibres dans lesquels ils interviennent :</p>
+
+	<p><formula>Ki Cl 2</formula></p>
+
+			<p>Les dix espèces comprenant un noyau cyanurique (C3N3O3), et les quatre formes de chlore libre, sont susceptibles d&apos;échanger protons et atomes de chlore.</p>
+			
+			</div>	
+				
+			<div type="section">
+					<head>3. Mode de calcul</head>
+
+			<p>Nous voulons étudier le devenir à l&apos;équilibre d&apos;une solution aqueuse d&apos;un mélange d&apos;acide cyanurique (H 3 Cy) et de chlore en tenant compte : de la concentration initiale en acide cyanurique : C 0 = <ref type="bibr">[H 3 Cy]</ref>0 ; de la concentration initiale en chlore considérée comme multiple de C 0 <ref type="bibr">[Cl 2 ]</ref>o = G-C 0 ; dupH : h = [H + ] = 10&quot; pH ; de la concentration en chlorure : Cl = <ref type="bibr">[Cl -]</ref>; des valeurs des constantes d&apos;équilibres; de la température supposée constante et égale à 25°C. Nous utilisons les notations suivantes pour les différentes sommes des concentrations molaires des dérivés du chlore libre (Chl) : 2 ch i = <ref type="bibr">[ClOH]</ref>+ [CIO&quot;] + <ref type="bibr">[Cl 2 ]</ref>+ <ref type="bibr">[CI3-]</ref>des dérivés non-chlorés :</p>
+
+			<p>+ [H 2 Cy&quot;] + <ref type="bibr">[HCy 2 &quot;]</ref>+ <ref type="bibr">[Cy 3 &quot;]</ref>des dérivés monochlorés : 2 a) = <ref type="bibr">[H 2 ClCy]</ref>+ [HClCy -] + [CICy des dérivés dichlorés : 2&lt; n) = <ref type="bibr">[HCl 2 Cy]</ref>+ <ref type="bibr">[Cl 2 Cy&quot;]</ref>&quot; 2-1 et pour le dérivé trichloré : 2(iii) = <ref type="bibr">[Cl 3 Cy]</ref>La concentration de chacune des 14 espèces présentes en solution est une inconnue. Pour résoudre ce système nous disposons de deux bilans (bilan en chlore et bilan en noyaux cyanuriques) et de 15 lois d&apos;action de masse, il suffit d&apos;en choisir arbitrairement 12 qui soient indépendantes. Avec nos notations les bilans s&apos;écrivent :</p>
+
+	<p><formula>C 0 = 2(0) + 2(D + 2 (II ) + 2 (I i[) (Bilan en noyaux cyanuriques) G-C 0 = 2 Chl + S([) + 22 (1I ) + 32(ni)</formula></p>
+
+			<p>(Bilan en chlore) Et à partir de l&apos;expression des constantes d&apos;équilibre on peut exprimer les sommes en fonction de la concentration de l&apos;espèce non ionisée de la série :</p>
+
+	<p><formula>2(0) = [H 3 Cy]{l + Kjh + K^Kjh 2 + K a K b Kjh 3 } = [H 3 Cy]a 2(d = [H 2 ClCy]{l + Kjh + K g Kjh 2 } = [H 2 ClCy]p 2(H) =</formula></p>
+			<p>La somme des concentrations des espèces de chlore libre peut s&apos;exprimer à partir de celle de ClOH 2 chi = [ClOH] ( 1 + (Cl-h/KÙ + (KyCl 2 -h/K,) + (K z /h)) = [ClOH]8</p>
+
+			<p>Les coefficients a, (3, 7 et 8 sont évidemment facilement calculables et constants pour un pH et une concentration en chlorures donnés. Les bilans s&apos;écrivent alors : bilan en noyaux cyanuriques : C 0 = a [H 3 Cy] + [3[H 2 ClCy] + 7[HCl 2 Cy] + [Cl 3 Cy] bilan en chlore : G-C 0 = 8 [ClOH] + (3 [H 2 ClCy] + 27[HCl 2 Cy] + 3 [Cl 3 Cy] et sont exprimés en fonction de [ClOH] et [H 3 Cy] : r runi , [ClOH] [ ClOH] 2 [ClOH] 3 C 0 = [H 3 Cy] a + (3—-— + 7 +</p>
+
+			<p>G-C 0 = 8 [ClOH] 1 [ClOH] &quot; [ClOH] 2 [ClOH] 3</p>
+
+	<p><formula>+ [H 3 Cy] p L y + 27 ,, J + 3 Kd K¿K\ K¿K\ K n</formula></p>
+
+			<p>En remplaçant dans la seconde équation la valeur de [H 3 Cy] par celle obtenue à partir de la première on trouve, après simplification et regroupement des différents termes, l&apos;équation : </p>
+
+	<p><formula>[1] [ ClOH] 4 + K à K x K m J [ K á Ki 87 +(3-G) &quot; ^, ] + \ M + (2-G) . Kd K d KiK, KdK\K m J fGo 1 [ClOH] 3 [ClOH] 2 + Sot + (1-G&gt; PO) K A [ClOH] 2 -GaC 0 = 0</formula></p>
+
+			<p>équation du quatrième degré qui, résolue numériquement, nous donnera la valeur de [ClOH] pour les conditions fixées. La résolution de cette équation ne présente pas de difficulté particulière, en effet la racine recherchée [C10H] eq , prend une valeur forcément comprise entre 0 et la concentration en chlore initiale soit G x C 0 . Il est d&apos;ailleurs facile de vérifier que pour C = 0 la fonction prend la valeur négative -a G-C 0 alors que pour C = G X C 0 elle prend la valeur :</p>
+
+	<p><formula>G 4 (8-l) + G 3 G 3 (S-1) + 2G 2 -c o + 7 Co K{K¿Kn + ß K\K¿ G 2 (8 -1) + G ^3 K i C¿ + aG(8 -1)C 0 100 50 % MOLAIRES \ V \ \ Chlore libre \cy \ \\ / .. / / / ! / . * / / / / / / / i \ /&apos;\ i \ /\ M A / w \ /CICy ./ vA \ / L, \ \ y CI2Cy 8 10 12 pH</formula></p>
+
+			<p>FIG. 3. Influence du pH sur la composition du mélange chlore acide cyanurique en solution aqueuse. [H 3 Cy] 0 = 10&quot; 5 M; [Cl 2 ] o = 3 x 10&quot; 5 M équivalent à [CyCl 3 ] 0 = 10&quot; 5 M (2,32 mg/L); [Cl -] = 10&quot; 1 M. ( ) Cl 2 Cy somme des composés dichlorés; ( ) CICy somme des composés monochlorés; ( ) Cy somme des composés non-chlorés; (----) chlore libre (Cl 2 , ClOH, CIO&quot;, Cl 3 &quot;). qui est positive, les coefficients 8 étant toujours supérieurs ou égaux à 1. Un simple calcul informatique permet d&apos;extraire rapidement cette racine. Les concentrations des autres espèces se déduisent linéairement de la valeur de [ClOH], Nous avons mis au point un logiciel bâti autour de ce calcul qui nous donne, pour une composition et un pH donnés, toutes les concentrations recherchées. Les valeurs des différentes constantes d&apos;équilibres que nous avons utilisées sont reportées dans le tableau 1.</p>
+			
+			</div>	
+			
+			<div type="section">
+				<head>4. Résultats</head>	
+			
+ 			<p>4.1 Influence du pH Les figures 2 et 3 sont obtenues par le calcul précédent. Influence de la surconcentration en chlore; 9 : proportion maximale de Cl 2 Cy; O : proportion maximale de Cl 3 Cy. [H 3 Cy] 0 = 10~ 3 M; [Cl -] = 10&quot;&apos;M. effectué dans tout le domaine de pH d&apos;une solution aqueuse. Elles correspondent à deux dilutions différentes de Cl 3 Cy, respectivement 10&quot; 3 M (232 mg/L) et 10&quot; 5 M (2,3 mg/L). Les courbes qui y apparaissent représentent les pourcentages molaires pour chaque catégorie de composés, chlore libre (2 ch i/(G x C 0 )), mono, di, et trichloré (2 (l) /C 0 ) en fonction dupH. La <ref type="figure" target="#f0">figure 2</ref>montre une certaine symétrie, avec au centre (de pH 4-8) une large zone de prédominance du composé dichloré, cette plage correspond aussi au minimum de chlore libre en solution. Notons que les pH d&apos;utilisation des dérivés chlorés de l&apos;acide cyanurique se situent dans cette zone proche de la neutralité (eau de piscine par exemple) et à un minimum de chlore libre en solution correspond un minimum de la vitesse de disparition du chlore actif par photolyse. De part et d&apos;autre de cette plage apparaissent deux zones de prédominance du composé monochloré en milieu acide (pH 1 -3) et milieu basique (pH 9-12) et pour des solutions très acides ou très basiques Y hydrolyse est totale. Dans les conditions de calcul de cette figure, c&apos;est à dire trois chlores pour un noyau cyanurique, la proportion maximale de trichlorocyanurique en solution ne dépasse pas 4 ou 5%. Par dissolution de Cl 3 Cy on obtient donc dans des pH proches de la neutralité principalement Cl 2 Cy, le tiers de chlore restant étant libéré sous forme d&apos;acide hypochloreux. Pour la figuîe 3 la symétrie précédente est conservée avec une baisse très sensible de la proportion des formes les plus chlorées, Cl 3 Cy n&apos;y apparait plus en quantité notable et Cl 2 Cy n&apos;est plus majoritaire à pH 7. Ceci est général, pour un même rapport Cl/Cy, plus la dilution est grande plus le chlore libre est abondant par rapport au chlore lié aux atomes d&apos;azote des cycles cyanuriques.</p>
+
+			<p>4.2 Influence de la surconcentration en chlore Il est évident à priori que plus le chlore sera en excès dans le milieu (plus le rapport Cl/Cy sera grand) plus la chloration relative de ces composés sera forte. La <ref type="figure" target="#f0">figure 4</ref>montre l&apos;évolution des maxima en acide dichloro et trichlorocyanurique en fonction de ce rapport. Il apparait que pour une faible surconcentration de chlore on obtient facilement au pH adéquat une proportion proche de 100% en Cl 2 Cy alors qu&apos;il est très difficile d&apos;obtenir une grande proportion de Cl 3 Cy. La <ref type="figure" target="#f0">figure 5</ref>montre la quantité de chlore libre par rapport au chlore actif total pour des valeurs du rapport chlore/acide cyanurique comprises entre 0 et 3. La baisse de Cl/Cy peut représenter la consommation du chlore dans une eau où l&apos;on aurait dissous Cl 3 Cy. Cette figure montre que la dissolution du dérivé dichloré (rapport Cl/Cy = 2) amène moins de chlore libre, donc moins de chlore sensible à une photodégradation rapide en solution. Pour mieux illustrer ce fait la figure 6 montre, à quantité de chlore actif total constant, l&apos;influence directe du rapport Cl/Cy sur la proportion de chlore libre. [Cl actif] = [Cl lié à Cy] + [Cl libre] Nous avons pris dans cet exemple [Cl actif] = 1,5 mg/L, ce qui est de l&apos;ordre de grandeur requis dans l&apos;eau d&apos;une piscine. (La quantité de chlore résiduel conseillé après surchloration et stabilisation d&apos;une eau de piscine est de 1 à 1,5 ppm.)</p> 
+			
+			<p>4.3 Influence de la dilution (C 0 ) Il existe un effet de dilution pour un même rapport Cl/Cy; la chloration est plus complète à concentration élevée en noyaux cyanurique. La <ref type="figure" target="#f0">figure 7</ref>représente la proportion maximale du dérivé dichloré en fonction du logarithme de [H 3 Cy] 0 pour un rapport Cl/Cy constant et égal à 3.</p> 
+			
+			<p>4.4 Influence des ions chlorures Hormis l&apos;influence de la force ionique, les ions chlorures ont un effet sur la composition du mélange en milieu acide, plus la concentration en ions chlorures augmente plus la formation du dérivé trichloré est défavorisée. Sur la figure 8 les concentrations en ions chlorures variant de 0,1 à 1 M; nous avons représenté le pourcentage maximum de CyCl 3 par rapport à la concentration initiale de noyaux cyanuriques en fonction de [Cl -] , ceci en négligeant l&apos;effet de</p>
+
+	<p><formula>14 12 10 % MOLAIRE S proportion maximale en COMPOSÉ TRICHLORÉ [Cl-] o.o 0,2 0,4 0,6 0,8 1,0</formula></p>
+
+			<p>FIG. 8. Influence des ions chlorure : proportion maximale de trichloré versus [Cl -]. Rapport Cl/Cy = 5. [H 3 Cy] 0 = 2 x 10&quot; 3 M; [Cl -] variant de 0,1 à 1 M. la force ionique du milieu sur les coefficients d&apos;activités et les déplacements d&apos;équilibres susceptibles d&apos;en résulter. Ces précautions étant prises, il apparait clairement qu&apos;une forte concentration en ions chlorures favorise l&apos;hydrolyse de CyCl 3 . En milieu basique les ions chlorures n&apos;influencent pas directement la composition de la solution.</p>
+
+			</div>	
+			
+			<div type="section">
+				<head>Conclusions</head>
+
+			<p>Le calcul utilisé ici permet de trouver facilement par la résolution de l&apos;équation [1] les concentrations de toutes les espèces en solution aqueuse du système chlore/acide isocyanurique dans toutes les conditions de pH et de dilution voulues. Ceci est du au fait que nous tenons compte de toutes les espèces de chlore libre qu&apos;il est possible de trouver en équilibre rapide et réversible sur toute la gamme de pH alors qu&apos;habituellement la plupart des auteurs ne tiennent compte que des espèces ClOH et CIO -. Le fait de prendre en compte la formation éventuelle de Cl 2 et Cl 3 -permet l&apos;étude du milieu acide ce qui peut présenter un intérêt vis-à-vis de problèmes de synthèse (de Cl 3 Cy en particulier).</p> 
+			
+			<p>Nous avons pu constater que l&apos;acide trichlorocyanurique n&apos;était majoritaire en solution qu&apos;en présence d&apos;un large excès de chlore, soit dans des conditions très différentes de celles des eaux de piscines; dans les conditions normales d&apos;utilisation la dissolution des dérivés chlorocyanuriques conduit principalement à la formation d&apos;acide dichloro et monochlorocyanurique. Les résultats obtenus rejoignent les conclusions de O&apos;Brien et al. (2) qui contient la plus forte inhibition de la photodécomposition du chlore au minimum de chlore libre par rapport au chlore total entre pH 6 et 8, et celles de Pinsky et Hu (3) qui relie logiquement cette inhibition à la surconcentration en acide cyanurique.</p> 
+			
+			<p>Dans la mesure où le chlore lié aux noyaux isocyanurates reste actif en ce qui concerne son rôle désinfectant, il s&apos;avère, pour gérer la composition d&apos;une eau de piscine que à une teneur en chlore donnée, qu&apos;il est préférable de maintenir un rapportCl/Cy le plus faible possible, ceci permettant d&apos;obtenir un «reservoir» de chlore actif peu sensible à la plus grande partie du rayonnement solaire.</p>
+			</div>
+
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>O &apos;brien</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>	
+		<title level="m">Thèse</title>
+		<imprint>
+			<date type="published" when="1972" />
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>O &apos;brien</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Morris</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">N</forename>
+				<surname>Butler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Water Supply Treat. Distrib. Symp</title>
+		<imprint>
+			<biblScope type="fpage">333</biblScope>
+			<biblScope type="lpage">358</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Pinsky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Hua-Ching</forename>
+				<surname>Hu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Technol</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="pp">423</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impact Water Chlorination</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Carrel Morris</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Environ. Proc. Conf</title>
+		<imprint>
+			<date type="published" when="1975" />
+			<biblScope type="fpage">21</biblScope>
+			<biblScope type="lpage">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Connick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">T</forename>
+				<surname>Chia</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">81</biblScope>
+			<biblScope type="pp">1280</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Carrel Morris</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="issue">12</biblScope>
+			<biblScope type="pp">3798</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">P</forename>
+				<surname>Bell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Gells</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">2734</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Eigen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kustin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">84</biblScope>
+			<biblScope type="pp">1355</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Zimmermann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">C</forename>
+				<surname>Strong</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">79</biblScope>
+			<biblScope type="pp">2063</biblScope>
+			<date type="published" when="1957" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Condensation inhabituelle d'un pyrrole et d'un benzaldéhyde encombré</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Alexandra</forename>
+								<surname>Lecas-Nawrocka</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique (UA 408)</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Levisalles</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique (UA 408)</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Claire</forename>
+								<surname>Mariacher</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique (UA 408)</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Eric</forename>
+								<surname>Rose</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique (UA 408)</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Condensation inhabituelle d'un pyrrole et d'un benzaldéhyde encombré</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<biblScope type="fpage">2059</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+					<note>Cet article est dédié au Professeur Paul de Mayo à l'occasion de son 60'' anniversaire</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La condensation du dinitro-2,6 benzaldéhyde et d'un pyrrole ne conduit pas à un dipyrrylméthane, mais à des produits résultant soit d'un doublement des molécules de pyrrole de départ, soit de réactions d'oxydo-réduction de l'intermédiaire 9 correspondant à un début de condensation entre une molécule de pyrrole et une molécule d'aldéhyde. Les groupes nitro du dinitro-2,6 benzaldéhyde jouent un rôle important dans ces réactions inattendues.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The condensation between 2,6-dinitrobenzaldehyde and a pyrrole does not afford a dipyrrylmethane but products which result from a duplication of the starting pyrrole or from oxydo-reduction reactions of the pyrryl-arylcarbinol 9 which arise from the condensation between one molecule of pyrrole and one molecule of aldehyde. The nitro groups of the benzaldehyde play a crucial role in these reactions.</p>
+			</div>
+		</front>
+		<body>
+			<p>Il est bien connu que la condensation d'un aldéhyde avec un pyrrole dans le rapport 1:2 conduit à un dipyrrylméthane, précurseur de porphyrines (1, 2) (éq. [1]). Le présent mémoire décrit le cours anormal de la condensation du dinitro-2,6 benzaldéhyde avec les pyrroles la et Ib, qui a été observé dans le cadre des études de porphyrines du laboratoire (3, 4).</p>
+			<p>Au lieu des dipyrrylméthanes attendus, on observe la formation des trois produits 2a, 3a et 4a à partir de la, et de deux produits 2b et 4b à partir de lb (éq. [2]). Les structures de ces composés résultent des observations spectroscopiques suivantes.</p>
+			<p>Composés 2 et 3</p>
+			<p>Les spectres de rmn "H des composés 2 et 3 montrent qu'il n'y a qu'un seul motif pyrrolique par motif dinitrobenzénique (tableau 1). Le composés 3a possède deux protons de plus que le composé 2a (ce que confirment les spectres de masse), et l'un de ces protons est échangeable par traitement par D 2 0, mais le reste du spectre de rmn est très semblable à celui de 2a. Les protons arèniques des composés 2a, 2b et 3a présentent des signaux caractéristiques dont l'empreinte est analogue à celle des protons arèniques du dinitro-2,6 benzaldéhyde.</p>
+			<p>Les fréquences d'élongation observées dans les spectres ir pour les vibrateurs NH, CO et NO sont rassemblées dans le tableau 1. Les bandes à 1710—1720 cm" 1 peuvent être attribuées aux groupes carbonyles libres des alcoxycarbonyl-2 pyrroles , et les bandes à 1690-1685 cm" 1 aux mêmes groupes liés par pont hydrogène au groupe NH pyrrolique (5-7). Quant aux groupes carbonyles cétoniques, on peut leur attribuer les bandes situées entre 1650 et 1590 cm" 1 , par analogie avec celle que le benzoyl-2 triméthyl-3,4,5 pyrrole présente à 1608 cm" 1 (8). Outre les bandes NH vers 3450-3280 cm" 1 on notera dans le tableau 1 la bande présentée par 3a vers 3500 cm" 1 , probablement due au groupe OH. Enfin la présence de groupe NO est visible dans les spectres ir vers 1530—1540 cm"' (tableau 1) et dans les spectres de masse (perte de 30 unités de masse = NO) (9).</p>
+			<p>Composés 4</p>
+			<p>Les spectres de rmn montrent l'absence de groupement dinitrophényle (notamment pour 4a où il n'y a aucun signal au delà de 4,2 ppm). En revanche, l'existence de deux singulets ( 1,76 et 1,88 ppm pour 4a, 1,80 et 1,86 ppm pour 4b) révèle la présence de deux groupes méthyles différents, de même que l'existence de deux quadruplets presque superposés pour 4a (—COO—CH 2 —CH 3 ) et de deux singulets pour 4 b (—COO—CH 2 —C 6 H 5 ) révèle la présence de deux groupes esters différents (tableau 1). Ces données suggèrent la superposition dans 4 de deux motifs différents dérivés de 1.</p>
+			<p>Dans la région des fréquences d'élongation des vibrateurs C = 0 , les spectres ir présentent de larges bandes centrées vers 1700 cm"1 pour 4a et 1710 cm"1 pour 4b. Par analogie avec les fréquences observées pour les composés modèles 5 (10), 6 (11), 7 (12) et 8 (13), qui sont de l'ordre de 1680 cm"1 pour le groupe CONH et de 1740 cm"1 pour le groupe ester de 5, et par analogie avec les fréquences observées pour les fonctions esters de la (1700, 1675, 1655 cm"1) et de 1b (1700, 1680, 1655 cm"1) on peut considérer que les larges bandes observées pour 4a et 4b résultent du recouvrement des bandes dûes aux groupes amide conjugué, ester conjugué et ester non conjugué.</p>
+			<p>Enfin dans les spectres de masse la perte du groupe ester non conjugué—C0 2 R donne lieu à un pic intense (m/e = 359 = M—C0 2 CH 2 CH 3 pour 4a, mie = 421 = M -C0 2 CH 2 C 6 H 5 pour 4b), accompagné d'un autre pic à m/e = 313, correspondant à M — C0 2 R — ROH, et commun aux spectres de masse de 4a et de 4b.</p>
+			<p>L'ensemble des données précédentes est en accord avec les structures de benzoyl-pyrroles substitués pour 2 et 3 et de pyrryl-pyrrolidones pour 4.</p>
+			<div>
+				<head>Discussion</head>
+				<p>Le tableau 2 donne les rendements en produits 2, 3 et 4 obtenus lors des essais de préparation des dipyrrylméthanes, en présence d'acide p-toluène sulfonique (TsOH). On voit que le rapport 2 + 3/4 varie de 1,7 à 3,2. On notera que par rapport au composé primaire attendu de la condensation, l'alcool 9, les composés 2 et 3 sont plus oxydés d'un côté (l'alcool est devenu cétone), moins oxydés de l'autre (les groupes N0 2 sont devenus NO ou NHOH). Cette anomalie s'explique aisément par le comportement photochimique de l'alcool ortho-nitrobenzylique et de l'aldéhyde orr/zo-nitrobenzoïque qui se transforment en aldéhyde et en acide ori/zo-nitrosobenzoïque respectivement (14). En présence de lumière l'alcool 9 peut donner la cétone 10, qui peut être réduite en composé 2 ou 3 si un réducteur est présent dans le milieu (schéma 1).</p>
+				<p>La présence d'un réducteur dans le milieu est plausible. Il est en effet bien connu qu'en milieu acide, un pyrrole tel que 1 peut se condenser sur lui-même pour donner une pyrryl-pyrroline (1) telle que 11 qui peut se transformer en composé 4, en présence des oxydants que sont les groupes N0 2 de la cétone 10 et du dinitro-2,6 benzaldéhyde. On sait par exemple que le nitrobenzène peut oxyder photochimiquement l'isopropanol en donnant la phénylhydroxylamine en l'absence d'oxygène, ou le nitrosobenzène en présence d'oxygène (les arylhydroxylamines s'oxydent spontanément en nitrosoarènes en présence d'air) (15, 16). Comme la formation de la pyrroline 11 en milieu acide est réversible, c'est son oxydation par les groupes N0 2 de la cétone 10 ou du dinitrobenzaldéhyde, qui provoque la formation irréversible du composé 4. Ceci peut être vérifié par le traitement des pyrroles 1, qui, placés dans les conditions de la formation de 4, mais sans aldéhyde, sont récupérés inchangés après 48 h, même en présence d'air, ou de nitrobenzène, alors que l'autoxydation à 50°C du /V-méthyl pyrrole et du triméthyl-2,3,4 pyrrole conduit respectivement aux composés 12 (17) et 13 (18).</p>
+				<p>On peut se demander pourquoi un tel comportement n'a pas été observé avec l'ori/zo-nitrobenzaldéhyde. Il est vraisemblable que ce dernier, moins encombré que le dinitro-2,6 benzaldéhyde , réagit rapidement avec une deuxième molécule de pyrrole pour conduire au dipyrrylméthane; en revanche le dinitrobenzaldéhyde, très encombré, donne l'alcool 9 qui, trop encombré pour se condenser une deuxième fois, subit les réactions photochimiques secondaires conduisant à 2, 3 et 4. En conclusion, les essais de synthèse de dipyrrylméthane, infructueux à partir du dinitro-2,6 benzaldéhyde, mettent en évidence les produits qui résultent d'un début de condensation et qui par leur nature oxydante facilitent la formation de produits de doublement des molécules de pyrrole de départ.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>L'action du pyrrole la ou 1 b a reflux pendant 24 h ou plus en présence d'un demi équivalent de dinitro-2,6 benzaldéhyde et d'acide chlorhydrique en quantité catalytique dans l'éthanol ne conduit à aucun produit nouveau. Les produits de départ sont récupérés.</p>
+				<p>Dans un ballon surmonté d'un Dean—Stark le pyrrole la ou 1 b et le dinitro-2,6 benzaldéhyde DNB sont mis en solution dans le solvant (tableau 2) en présence de quantité catalytique d'acide para-toluène sulfonique p-TsOH. Le mélange est porté à reflux 48 h. Après "traitement habituel" (3) comportant en plus un lavage avec une solution de bisulfite de sodium pour éliminer l'aldéhyde qui n'a pas réagi, les différents prduits sont chromatographiés sur colonne de silice. Les rendements en produits formés sont donnés au tableau 2.</p>
+				<p>Dans le cas du pyrrole la, la chromatographie sur colonne de silice fournit un premier produit 2a légèrement moins polaire que le pyrrole de départ la qui est élué avec le mélange éther — éther de pétrole EP 20:80, puis un deuxième produit 3a plus polaire que le pyrrole de départ la élué avec un mélange éther-EP 60:40 et enfin un troisième produit 4a élué avec un mélange éther—EP 65:35. Dans le cas du pyrrole 1 b, les produits 2b et 4b sont élués avec les mélanges Et 2 0-EP 40:60 et 50:50. 2a, poudre jaune, F = 142°C; ir (CHC1,): 3450, 3270</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<title level="m" type="main">The porphyrins</title>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1978"/>
+								<publisher>Academic Press</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Collman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">O</forename>
+									<surname>Chong</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">B</forename>
+									<surname>Jameson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">T</forename>
+									<surname>Oakley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Rose</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Ibers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">103</biblScope>
+								<biblScope type="pp">516</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Lecas</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Levisalles</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Mariacher</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Rose</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">2054</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Lecas</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Levisalles</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Rose</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<biblScope type="pp">1563</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+									<surname>Katritzky</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Adv. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">268</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<title level="m" type="main">The infrared spectra of complex molecules. Me-thuen</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1960"/>
+								<publisher>London et John Wiley</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<title level="m" type="main">Physical methods in heterocyclic chemistry</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1971"/>
+								<biblScope type="pp">302</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+									<surname>Jones</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Austr. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">107</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Schroll</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+									<surname>Cooks</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">O</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Arkiv Kemi</title>
+							<imprint>
+								<biblScope type="vol">28</biblScope>
+								<biblScope type="pp">413</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Vevert</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">45</biblScope>
+								<biblScope type="pp">3249</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">Ii</forename>
+									<forename type="middle">J</forename>
+									<surname>Barluenga</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Palacios</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1981"/>
+								<biblScope type="pp">200</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Seebach</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">2723</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Bredereck</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Seiz</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">504</biblScope>
+								<biblScope type="pp">178</biblScope>
+								<date type="published" when="1957"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Bamberger</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="issue">606</biblScope>
+								<date type="published" when="1918"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Tanasescu</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">1443</biblScope>
+								<biblScope type="pp">1718</biblScope>
+								<date type="published" when="1926"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">T Reid</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Q. Rev</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">393</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Testa</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">88</biblScope>
+								<biblScope type="pp">4330</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Kaneko</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Yokoe</forename>
+									<surname>Yamada Et 1</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">4729</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">B</forename>
+									<surname>Jensen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">3330</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Höft</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">R</forename>
+									<surname>Nesbit</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">3041</biblScope>
+								<biblScope type="pp">2028</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

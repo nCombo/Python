@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réactions radicalaires du percarbonate de 0,0-tert-butyle et O-isopropényle: acétonylations assistées par un co-amorceur</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Rabih</forename>
+								<surname>Jaouhari</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Appliquée</orgName>
+								<orgName type="institution" key="instit1">Ecole Nationale Supérieure de Chimie et de Physique</orgName>
+								<orgName type="institution" key="instit2">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, cours de la Libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence-céclex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Claude</forename>
+								<surname>Filliatre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Appliquée</orgName>
+								<orgName type="institution" key="instit1">Ecole Nationale Supérieure de Chimie et de Physique</orgName>
+								<orgName type="institution" key="instit2">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, cours de la Libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence-céclex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean-Jacques</forename>
+								<surname>Villenave</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Appliquée</orgName>
+								<orgName type="institution" key="instit1">Ecole Nationale Supérieure de Chimie et de Physique</orgName>
+								<orgName type="institution" key="instit2">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, cours de la Libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence-céclex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réactions radicalaires du percarbonate de 0,0-tert-butyle et O-isopropényle: acétonylations assistées par un co-amorceur</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'acétonylation "assistée" d'alcanes, éthers, cétones, acides, esters et nitriles a été réalisée en décomposant dans ccs solvants des mélanges cquimoléculaircs de percarbonate de 0,0-/?J7-butyle et O-isopropcnyle et de peracétatc de /¿77-butylc. La présence du co-amorceur permet d'accroître sensiblement l'intérêt de la méthode de synthèse radicalairc de dérivés acétonylés en supprimant la formation d'acétonylacétonc. produit secondaire parfois gênant, et en améliorant nettement les rendements en dérives acctonylés tout en conservant ou même augmentant la régiosclectivité des processus.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>By décomposition in alkanes, ethers, ketones, acids, esters and nitriles of cquimolccular mixtures of 0,0-tert-butyl and O-isopropcnyl pcroxycarbonate and tert-butyl pcroxyacctatc, the "assisted" acetonylation of the solvents has been accom-plished. The prescncc of the eo-initiator allows the yield of the free radical acctonylation to be markedly improved: the formation of the by-product acetonylacetone is avoided and the yield of acctonylatcd derivatives is strongly enhanced while the regioselcetivity of the processes is preserved and even increased in some cases.</p>
+			</div>
+		</front>
+		<body>
+			<p>Au cours d'une étude générale (1), nous avons eu l'occasion de mettre en évidence l'aptitude du percarbonate de 0,0-tert-butyle et O-isopropényle 1 à se comporter comme un agent d'acétonylation; en effet, la décomposition de cet amorceur radicalaire en solution dans divers substrats permet, par substitution d'atomes d'hydrogène plus ou moins activés, d'accéder à des dérivés acétonylés 2. Dans de nombreux cas, cette méthode de fonctionnalisation radicalaire s'est avérée supérieure à d'autres techniques de synthèse (2, 3) mais il n'en reste pas moins qu'elle comporte un certain nombre d'inconvénients.</p>
+			<p>C'est ainsi que ses rendements ne sont pas toujours très élevés (de 30 à 50%, par rapport au percarbonate 1 mis en jeu, en fractions acétonylées purifiées par rectification). De plus, à chaque fois que le substrat comporte plusieurs sites de substitution possibles, on se rend compte que la réaction n'est sélective que si l'on opère avec des solutions de percarbonate fortement diluées mais aussi que, dans ces conditions, les rendements se trouvent abaissés de manière sensible. Ce phénomène est particulièrement marqué dans le cas des cyclanones pour lesquelles l'acétonylation ne se produit sélectivement en a du carbonyle que si les proportions initiales de percarbonate et de substraat sont dans un rapport de 1/50; dans ce cas, le rendement en dérivé acétonylé atteint à peine 30%.</p>
+			<p>Nous préoccupant de rechercher des solutions à ces divers problèmes, nous avons effectué une analyse du mécanisme, décrit dans le Schéma 1, de formation des divers produits de réaction.</p>
+			<p>Suivant ce schéma, c'est la décomposition du percarbonate 1 induite par l'addition des radicaux S' sur sa double liaison qui constitue le processus "principal", conduisant au dérivé acétonylé 2, l'homolyse "spontanée" étant responsable, indirectement , de la formation des produits secondaires, acétonylacétone en particulier. Dans ces conditions, il est clair que toute production de radicaux S indépendante de la décomposition "spontanée" du percarbonate est susceptible d'augmenter les taux de transformation en dérivés 2 et, donc, d'améliorer les rendements des réactions d'acétonylation.</p>
+			<p>Nous avons pensé que l'introduction dans le milieu réactionnel d'un amorceur susceptible de fournir, à des températures plus basses que celles provoquant l'homolyse du percarbonate, des radicaux capables d'arracher des atomes d'hydrogène au solvant pouvait constituer un bon moyen pour obtenir des radicaux S "supplémentaires". Nous nous sommes alors intéressés à l'acétonylation assistée par un co-amorceur définissant dans un premier temps les conditions opératoires optimales pour réaliser ensuite une étude complète dans le cas de la cyclohexanone , choisie comme composé modèle, et envisager enfin l'application de la technique mise au point à diverses familles de substrats (alcanes, cétones, éthers, acides et dérivés).</p>
+			<div type="section">
+				<head>Choix des conditions opératoires</head>
+				<div type="section">
+					<head>Température</head>
+					<p>Pour éviter au mieux l'homolyse du percarbonate mais aussi dans le but de limiter la formation des produits de terminaison à partir des radicaux S", on serait tenté d'opérer à une température la plus basse possible. En fait, on se heurte très rapidement à une limitation imposée par le mode de décomposition du percarbonate.</p>
+					<p>Des études cinétiques (4) nous ont permis d'établir la loi de vitesse de cette décomposition:</p>
+					<p><formula>-dC/dt = k d C + k,C 2</formula></p>
+					<p>la constante ^ étant proportionnelle aux constantes de vitesse k d et k 5 . Nous avons également constaté que les valeurs de k\ diminuent beaucoup plus vite, quand la température diminue, que celles de k d . Au-dessous de 80°C, k ; est très faible ce qui signifie qu'à partir de ce seuil, l'addition des radicaux S sur la double liaison du percarbonate ne se produit plus que de manière négligeable. L'obtention de dérivés acétonylés n'est alors plus envisageable.</p>
+					<p>Tenant compte de cette limitation, nous avons décidé de réaliser les acétonylations assistées à 95°C, température où l'addition des radicaux S' se produit encore de manière convenable ; en corollaire, les durées de réaction ont dû être portées à 16 heures, temps nécessaire pour que la totalité du percarbonate mis en jeu ait réagi (rappelons les conditions adoptées au cours des études sur l'acétonylation non-assistée (1): 130°C; 2,5 h).</p>
+				</div>
+				<div type="section">
+					<head>Co-amorceur</head>
+					<p>L'impossibilité d'opérer à basse température excluant l'utilisation des amorceurs "fragiles", du type dipercarbonate (décomposition rapide dès 40°C), auxquels on aurait pu penser, nous avons décidé de faire appel à des composés de stabilité thermique voisine de celle du percarbonate 1. Entre le perbenzoate de r&lt;?r?-butyle, les percarbonates de (3,(3-rert-butyle et 0-éthyle ou 0-isopropyle et le peracétate de ieri-butyle 1' c'est le premier qui a donné les moins bons et le dernier les meilleurs résultats lors d'essais préliminaires.</p>
+					<p>Tous les essais par la suite ont été réalisés en mettant en oeuvre le peracétate de rm-butyle 1' comme co-amorceur. On peut noter à son propos que sa thermolyse donne des radicaux rert-butoxyle et acétoxyle capables, pour les premiers, d'arracher de l'hydrogène au solvant et, pour les derniers, de conduire par décarboxylation à des radicaux méthyle; dans la mesure où l'on ne trouve pas le produit correspondant à leur addition sur le percarbonate (méthyléthylcétone) on peut penser que l'évolution principale des radicaux méthyle est le transfert au solvant.</p>
+					<p>Proportions relatives initiales de 1 et 1'</p>
+					<p>Différents essais préliminaires nous ont montré qu'il était préférable d'opérer avec des quantités équimoléculaires de percarbonate et de peracétate. Avec un défaut de peracétate, la vitesse de décomposition du percarbonate est plus grande que celle du peracétate ce qui va à l'encontre du but recherché. Avec un excès de peracétate ce qui va à ['encontre du but recherché. Avec un excès de peracétate, l'augmentation du rendement en dérivé acétonylé ne compense pas les pertes liées à la séparation plus difficile de quantités sensiblement augmentées de déhydrodimère du solvant.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Décomposition "assistée" du percarbonate 1 dans la cyclohexanone</head>
+				<p>Dans le tableau 1, nous avons consigné des éléments de comparaison, pour différentes concentrations initiales en percarbonate , entre des décompositions assistées et non-assistées réalisées à 95°C.</p>
+				<p>La première constatation qui doive être faite est que les rendements sont nettement augmentés quand on opère en présence du co-amorceur mais qu'une sorte de saturation semble se produire et qu'il existe un taux de dilution optimal: proportions relatives 1/T/SH égales à 1/1/20. Ce taux de dilution est celui à partir duquel on observe une acétonylation sélective en a du carbonyle et, donc, le rendement de 71% doit être comparé non pas aux 39% ou même aux 55% obtenus pour des proportions relatives de 1 et SH égales à 1/20 ou 1/5 (le processus n'est alors pas sélectif) mais bien aux 30% de l'acétonylation , exclusivement en a, avec des proportions relatives de 1/50.</p>
+				<p>La seconde observation concerne l'absence d'acétonylacétone dans les mélanges réactionnels des acétonylations assistées. Ceci est en bon accord avec le fait que la mise en oeuvre du co-amorceur défavorise la décomposition spontanée du percarbonate par rapport à la décomposition induite; la concentration instantanée en radicaux acétonyle CH 3 C(0)CH 2 " est très abaissée et l'addition de ces radicaux sur la double liaison du percarbonate 1 ne se manifeste plus. Concernant l'acétonylacétone , on peut rappeler qu'à 130°C, les proportions de ce produit , dans le cas de la cyclohexanone, étaient de 11%. Ainsi, le fait d'opérer à plus basse température contribue à limiter la formation de l'acétonylacétone mais c'est bien l'utilisation du co-amorceur qui joue le rôle décisif dans l'élimination de ce produit secondaire des mélanges réactionnels.</p>
+				<p>En résumé, la mise en oeuvre du co-amorceur permet d'atteindre , avec une régiosélectivité totale, des rendements très élevés en dérivé acétonylé de la cyclohexanone (compte-tenu des pertes lors de la distillation, un rendement de 70% en produit pur correspond à un taux de transformation de 1 en 2 de l'ordre de 90%). Notons que des constatations analogues faites avec d'autres cyclanones (cycles en C 7 ou Q) ouvrent la voie à des essais de généralisation du procédé.</p>
+			</div>
+			<div type="section">
+				<head>Application de l'acétonylation assistée à diverses familles de substrats</head>
+				<p>Souhaitant comparer les "performances" des acétonylations assistée et non-assistée (1), nous avons repris, comme substrats , les cyclohexane, tétrahydrofuranne, cyclopentanone, acide propionique, propionate de méthyle et propionitrile représentatifs, respectivement, des alcanes, éthers, cétones, acides, esters et nitriles. Dans le tableau 2, nous avons indiqué les rendements obtenus en opérant sans co-amorceur dans les conditions les plus favorables (130°C; 2,5 h; rapport molaire 1/SH = 1/5) et avec le co-amorceur (95°C; 16 h; rapport molaire l/l'/SH = 1/1/20). Il convient cependant de préciser que, pour les acides, esters et nitriles, les meilleurs résultats ont été observés pour des proportions différentes de réactifs: 1/SH = 1/50 à 130°C et l/l'/SH = 1/1/100 à 95°C.</p>
+			</div>
+			<div type="section">
+				<head>Conclusions</head>
+				<p>L'utilisation du peracétate de teri-butyle comme coamorceur lors de la décomposition du percarbonate de 0,0-tert-butyle et O-isopropényle en solution permet d'augmenter sensiblement les rendements de l'acétonylation radicalaire de nombreux substrats fonctionnels ou non. En outre, lorsque des problèmes d'orientation de la réaction se posent, c'est le cas surtout avec les cétones, les rendements élevés vont de pair avec une régiosélectivité totale.</p>
+				<p>Comme la réalisation de la réaction ne pose aucun problème pratique et que les produits sont faciles à extraire des milieux réactionnels et à purifier, l'acétonylation radicalaire assistée apparaît comme une bonne méthode d'obtention de cétones, en particulier ^-fonctionnelles.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<div type="section">
+					<head>Percarbonate 1 et peracétate 1'</head>
+					<p>La préparation du percarbonate 1, précédemment décrite (1) consiste à condenser le chloroformiate d'isopropényle, produit commercial , 2 et l'hydroperoxyde de tert-butyle en présence de pyridine. Suivant cette méthode "classique" de préparation des peresters (5), le peracétate 1' a été obtenu par réaction du chlorure d'acétyle avec l'hydroperoxyde de fe/7-butyle. Aucune purification particulière des amorceurs n'a été réalisée avant leur utilisation.</p>
+				</div>
+				<div type="section">
+					<head>Dérivés acétonylés</head>
+					<p>Pour la plupart, ils ont été décrits lors de l'étude générale (1). Dans le cas de l'acétonylation de la cyclohexanone, l'acétonyl-2 cyclohexanone (dérivé de substitution en a du carbonyle) a été identifiée en comparant ses caractéristiques avec celles d'un échantillon préparé comme réf. 6. En ce qui concerne les isomères p et y (acétonyl-3 et -4 cyclohexanone), leur caractérisation, en même temps que celle du dérivé a, a été réalisée après des études en spcctrométrie de masse et spectroscopic de rmn ,3 C (7).</p>
+				</div>
+				<div type="section">
+					<head>Protocole opératoire type (dans le cas de la cyclohexanone)</head>
+					<p>Une solution de 0,01 mol de percarbonate 1 ( 1,74 g) et 0,01 mol de peracétate 1' (1,32 g) dans 0,2 mol de solvant (—20 g) a été chauffée à 95°C pendant 16 h dans un autoclave placé dans une étuve therrnorcgulée . Après refroidissement, les produits secondaires (fe/7-butanol et acétone) et l'excès de solvant ont été séparés par distillation. Apres rectification du résidu de distillation, le dérivé acétonylé a été obtenu pur (Ebj = 105-107°C; /V" = 1,4605), sa masse permettant le calcul du rendement (par rapport au percarbonate 1 mis en jeu).</p>
+					<p>Dans le cas de la cyclohexanonc et pour des opérations réalisées dans des conditions où la réaction n'était pas sélective, la fraction acétonyléc obtenue après distillation des produits secondaires et de l'excès de solvant a été fractionnée par ehromatographie liquide-solide, sur alumine (pentane et benzène puis benzène et éther éthylique comme éluants, respectivement, de l'isomcre a-acétonylé et de mélanges des isomères (3-et 7-acétonylés); c'est sur les fractions obtenues que nous avons réalisé les identifications. La fraction acétonyléc a été par ailleurs analysée en ehromatographie en phase vapeur (chromatographc Intcrsmat ICG 12 à ionisation de flamme; gaz vecteur: N? (35 mL min " 1 ); colonnes d'acier inox (1 = 1,50 m; diamètre intérieur: 2 mm) garnies de FFAP (10%) ou de SE-52 (5%) sur Chromosorb W (80-100 mesh; AW, traité DMCS)), les dosages étant réalisés suivant la méthode de l'étalon interne (benzoate d'éthyle).</p>
+				</div>
+				<div type="section">
+					<head>Note sur la détermination des durées de réaction</head>
+					<p>L'augmentation de la vitesse de réaction que provoque l'addition du co-amorceur rendrait très imprécis tout calcul de durée de réaction à partir de données cinétiques concernant les amorceurs seuls. Dans ces conditions, nous avons réalisé un essai préalable d'acétonylation de la cyclohcxanone (dans un ballon type Grignard), au cours duquel nous avons examiné par spcctroscopie ir et de rmn des échantillons prélevés à différents instants. Après 15 à 16 h, nous avons constaté que les signaux caractéristiques de l'insaturation du percarbonate 1 avaient disparu.</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Jaouhari</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Maillard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-J</forename>
+									<forename type="middle">Villenave</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Synthcsis</title>
+							<imprint>
+								<biblScope type="pp">760</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M. Jacobson. R. A. Raths Et J. H. Mcdonald</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">2545</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Hosomi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Shirahata</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Sakurai</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">et références citées</title>
+							<imprint>
+								<date type="published" when="1981"/>
+								<biblScope type="pp">4633</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Jaouhari</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Filliatre Et J-J</forename>
+									<forename type="middle">Villenave</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Thermochim. Acta</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">341</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Strain</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">E</forename>
+									<surname>Bissinger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+									<surname>Dial</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rudoff</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">J. De Witt</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">C</forename>
+									<surname>Stevens</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Langston</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. AM. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">72</biblScope>
+								<biblScope type="pp">1254</biblScope>
+								<date type="published" when="1950"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">F</forename>
+									<surname>Baumgarten</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">L</forename>
+									<surname>Greger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">F</forename>
+									<surname>Villars</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">6609</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Baratchart</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Filliatre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Jaouhari</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J-J</forename>
+									<forename type="middle">Villenave</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">BARBE et M. PETRAUD. Analusis</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="pp">65</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

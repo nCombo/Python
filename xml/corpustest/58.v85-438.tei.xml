@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Interactions entre les cations et les sucres. I. Évaluation de l'enthalpie libre d'interaction Ca 2+ — D-(—)-ribose dans l'eau à 25°C</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean-Pierre</forename>
+								<surname>Morel</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'Étude des Interactions Solutés—Solvants</orgName>
+								<orgName type="institution">Université de Clermont 2</orgName>
+								<orgName type="department">U.A. au C.N.R.S. n° 434</orgName>
+								<address>
+									<postCode>63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Claude</forename>
+								<surname>Lhermet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d'Étude des Interactions Solutés—Solvants</orgName>
+								<orgName type="institution">Université de Clermont 2</orgName>
+								<orgName type="department">U.A. au C.N.R.S. n° 434</orgName>
+								<address>
+									<postCode>63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Interactions entre les cations et les sucres. I. Évaluation de l'enthalpie libre d'interaction Ca 2+ — D-(—)-ribose dans l'eau à 25°C</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'interaction des deux pentoses isomères D-(-)-ribose et D-(-)-arabinose avec l'ion Ca2+ en solution aqueuse est étudiée à l'aide de deux types de cellules électrochimiques (avec et sans jonction) comportant une électrode à membrane liquide sélective à Ca2+. Certains isomères du D-(—)-ribose possèdent une séquence d'hydroxyles susceptible d'interagir spécifiquement avec le cation. La mesure de l'enthalpie libre de transfert de l'ion Ca2+ entre l'eau et les solutions sucrées permet de calculer un paramètre d'interaction par paire caractéristique. D'autre part, cette interaction spécifique est également caractérisée par sa constante d'association: (3i = 0,93. Les deux approches sont étudiées et leur cohérence est démontrée.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The interaction of the two isomeric pentoses D-(—)-ribose and D-(—)-arabinose with the Ca2+ ion in aqueous solution is studied with the help of two types of electrochemical cells (with and without liquid junction) including a liquid-membrane Ca2+-selective electrode. Some of the D-(—)-ribose isomers contain a sequence of hydroxyl groups which can interact specifically with the cation. The measurement of the Gibbs free energy of transfer of Ca2+ between water and the sugar solutions allows one to calculate a characteristic pair-interaction parameter. This specific interaction can also be characterized by its association constant: (3i = 0.93. The two approaches are studied and their coherence is shown.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Les interactions en solution aqueuse entre les cations métalliques et les saccharides, malgré leur relative faiblesse, sont d'une grande importance pour la chimie et la biochimie des sucres. Elles intéressent également des domaines de la biologie tels que le stockage du calcium ou l'adhésion des cellules.</p>
+				<p>Les travaux de S. J. Angyal (1,2) ont d'abord montré le rôle joué par la présence des séquences d'hydroxyles axial— équatorial—axial dans les cycles à 6 atomes, et cis—cis—cis dans les cycles à 5 atomes des molécules de sucres, de leurs dérivés ou des composés cycliques polyhydroxylés. Des études quantitatives ont permis de préciser l'ordre de grandeur des constantes d'association entre certaines cations et certains sucres. Le D-(-)-ribose, en particulier, a fait l'objet de plusieurs études; il s'agit en effet d'un des rares sucres simples qui présente des structures favorables à la complexation: les deux conformères 4 C, et 1 C 4 de la forme a-pyranose et le conformère 'C 4 du (3-pyranose présentent une séquence ax-eq-ax alors que la forme a-furanose présente une séquence cis-cis-cis d'hydroxyles. Les études en rmn de Lenkinski et Reuben (3) et de Symons et al. (4) ont permis de proposer des valeurs de constante d'association pour les différentes formes ci-dessus avec l'ion Ca 2+ . Des méthodes potentiométriques ont également été appliquées à l'étude de ce couple (5, 6).</p>
+				<p>Si la rmn est une méthode de choix qui permet de distinguer les différents isomères présents à l'équilibre, elle nécessite l'étude de solutions où le sucre est souvent présent à des concentrations de l'ordre de 1 M alors que la concentration du sel de calcium peut varier jusqu'à 2 M. Dans ces conditions, les constantes obtenues sont apparentes et comparatives mais sans nul doute assez éloignées des valeurs thermodynamiques; de plus, aux fortes concentrations en sel, l'effet des anions peut fausser notablement l'interprétation des résultats.</p>
+				<p>L'étude thermodynamique des interactions sucre—cation n'a pas été réalisée de façon approfondie. Si la première étape d'une telle étude est logiquement la détermination des para-mètres d'enthalpie libre, on peut penser que la connaissance d'autres grandeurs thermodynamiques (en particulier l'enthalpie et l'entropie d'interaction) seraient également très utile à la compréhension du phénomène. Nous nous proposons d'aborder ces problèmes par une interprétation de résultats expérimentaux obtenus en potentiométrie. Les électrodes à membrane liquide sélectives à l'ion Ca 2+ permettent des mesures très précises de l'activité de cet ion en solution aqueuse. Dans les cellules galvaniques mettant en oeuvre une telle électrode, le D-(—)-ribose sera comparé au D-(-)-arabinose, pentose isomère dont les formes pyraniques présentes à l'équilibre ne comportent aucune séquence d'hydroxyle favorable à la complexation.</p>
+			</div>
+			<div type="section">
+				<head>Théorie</head>
+				<p>La première cellule galvanique étudiée est:</p>
+				<p><formula>[1] Electrode à Ca |CaCl 2 (m), sucre (m s )|AgCl|Ag</formula></p>
+				<p>où m est la molalité de CaCl 2 et m s celle du sucre, ribose (m R ) ou arabinose (/w A ). La réaction de cellule s'écrit:</p>
+				<p><formula>[2] Ca (électrode) + 2 AgCl = Ca 2+ + 2C1" + Ag</formula></p>
+				<p>Une étude préliminaire, pour laquelle m 5 = 0, nous permet de vérifier la réversibilité de cette cellule dont la tension s'écrit, à T et P constantes,</p>
+				<p><formula>[3] U(m) = £/© + 3fc/2 log my ±</formula></p>
+				<p>où £7® est la tension standard dans l'échelle des molalités,</p>
+				<p><formula>k = ln 10 RT/F = 0,05916 V à 25°C</formula></p>
+				<p>En utilisant les valeurs de y ± (CaCl 2 ) données par Robinson et Stokes (7) et les valeurs expérimentales de U, on peut calculer une pente de 88,8 mV en excellent accord avec la valeur thermodynamique.</p>
+				<p>Le principe de la mesure consiste à ajouter une solution concentrée de sucre contenant CaCl 2 à la molalité m par rapport au solvant (eau + sucre) dans une solution aqueuse initiale de même molalité m en CaCl 2 contenue dans la cellule (8). Onexplore ainsi une gamme de concentration en sucre variant par exemple de m s = 0 à m s = 0,4 en maintenant m constant. Les tensions de cellule s'expriment en utilisant l'état standard correspondant à CaCl 2 infiniment dilué dans l'eau d'une part et dans la solution sucrée d'autre part.</p>
+				<p><formula>[4] U(m) = C/ 0 + 3k/2 log m y ± (m)</formula></p>
+				<p><formula>[5] t/(m, m s ) = t/°(m s ) + 3k/2 log m y ± (m, m s )</formula></p>
+				<p>où les y ± tendent vers 1 dans les deux cas lorsque m —» 0. On voit que:</p>
+				<p><formula>U(m, m 5 ) -U(m) = [[^(/rO - II e ] y ± (m, m s )</formula></p>
+				<p>et lorsque m —» 0</p>
+				<p><formula>[U(m, m s ) - U(m)] + 3k/2 log [T/^MS) - C/°] y ±(m)</formula></p>
+				<p>L'expérience montre que pour des concentrations en CaCl 2 m = 5 x 10~ 3 et m = 1 x 10"', la différence des tensions ne dépend que de m s et représente la différence des tensions standard , c'est-à-dire qu'on peut considérer que</p>
+				<p><formula>7(m, m s )/y(m) ~ 1</formula></p>
+				<p>Cette expérience permet donc d'accéder à l'enthalpie libre standard de transfert de l'électrolyte CaCl 2 de l'eau pure à la solution sucrée de molalité m s (8).</p>
+				<p><formula>[6] AGP = 2 FLU^IRRIS) [7 E ]</formula></p>
+				<p>où F est le Faraday. Cette grandeur standard de transfert peut s'interpréter en terme de paramètre d'interaction par paires, triplets etc ... (9) sous la forme</p>
+				<p><formula>[7] A G® = 2v s,* m s + 3 v giss m] + .. .</formula></p>
+				<p>où v est le nombre d'ions de l'électrolyte E, c'est-à-dire, ici, v = 3 pour CaCl 2 . Ce formalisme fait apparaître le paramètre d'enthalpie libre de la paire électrolyte—sucre, gES, qui est la moyenne des paramètres d'interaction des paires cation—sucre et anion—sucre de telle façon que</p>
+				<p><formula>[8] SES = (gca 2+ s + 2 £crs)/3</formula></p>
+				<p>Dans cette étude, le sucre étudié sera successivement le D-(—)-ribose et le D-(-)-arabinose. Si l'on adpiet que les interactions non spécifiques de ces deux sucres avec les cations et anions sont identiques, la différence g ER — g EA sera caractéristique de l'interaction spécifique entre le D-(-)-ribose et le cation Ca 2+ par l'intermédiaire des séquences d'hydroxyles favorables à la complexation.</p>
+				<p>Une deuxième interprétation des résultats expérimentaux donnés par cette cellule consiste à exprimer une constante d'association spécifique entre le ribose et Ca 2+ . On utilise, dans ce cas, une expression de la tension de cellule qui se réfère à l'état infiniment dilué dans l'eau pour CaCl 2 et pour le sucre.</p>
+				<p><formula>[9] U(m, m R ) = U® + k/2 log [Ca] R m 2 a yl(m, m R )</formula></p>
+				<p><formula>[10] U(m, m A ) = U° + k/2 log m a m 2 a yi(m, m h )</formula></p>
+				<p>pour respectivement le ribose et l'arabinose. Si dans l'expression [10], m Ca est toujours la molalité analytique en Ca 2+ , dans [9], la concentration en ions libres est [Ca] R , une fraction de ceux-ci étant associée avec le ribose. En faisant l'hypothèse que pour m A = m R , y±(m, m A ) = y±(m, m R ), on tire</p>
+				<p><formula>11] U(m, m R ) -U(m, m A ) = k/2 log [Ca] R m</formula></p>
+				<p>Comme nous l'avons dit plus haut, cette différence ne dépend pratiquement pas de m. La méthode de Leden (10) nous permet d'écrire la fonction</p>
+				<p><formula>[12] F( R) = ^^=P, + (3 2 [R] [Ca] R [R] ou [13] p, = [CaR] [Ca] [R] [CaR 2 ] [Ca] [R] 2</formula></p>
+				<p>Puisque nous opérons avec un excès de ribose et que le taux d'association est faible, il est normal d'observer que</p>
+				<p><formula>[14] m 1 + P, [R] + p 2 [R] 2 ~ constante [Ca] R quel que soit m si [R] ~ m R .</formula></p>
+				<p>De toute façon, cette méthode consistera à calculer F (R) connaissant m/ [Ca] R , c'est-à-dire</p>
+				<p><formula>[Ca] R et [R] = m R -m + [Ca] R</formula></p>
+				<p>L'étude d'une deuxième cellule galvanique comportant une jonction liquide va nous permettre d'accéder aux mêmes grandeurs que ci-dessus moyennant des hypothèses différentes. La cohérence des résultats obtenus par les deux méthodes pourra être considérée comme un critère de leurs validités respectives. La cellule</p>
+				<p><formula>[15] Electrode à Ca|CaCl 2 (m), sucre (m s ) KNOs KC1 Sat. IlSat. Hg 2 Cl; Hg</formula></p>
+				<p>possède une double jonction liquide qui permet d'éviter la jonction directe de la solution étudiée avec l'électrode au calomel (l'expérience montre, dans ce cas, une grande instabilité des tensions mesurées due probablement à la présence des ions mercureux). Avec ce montage, les tensions sont parfaitement stables et reproductibles. La tension de cette cellule s'écrit:</p>
+				<p><formula>[16] I /(m, m,) = (Ut ~ U R ) + Uj(m, mj + k/2 log m y c Am, m s )</formula></p>
+				<p>où £/ca est la tension standard de l'électrode à calcium, U R la tension de l'électrode de référence et U, la tension de la première jonction liquide. Les hypothèses de travail sont ici</p>
+				<p><formula>i/j(m, m A ) = Uj(m, m R ) si m A = m R</formula></p>
+				<p>c'est-à-dire que la valeur de la tension de jonction ne dépend pas de la nature du sucre. De plus, comme plus haut,</p>
+				<p><formula>~icz(m, m A ) = 7ca(m, m R )</formula></p>
+				<p>Expérimentalement, on constate que la différence U(m, m s ) - U(m) dépend de la concentration m en électroly te, contrairement à ce que nous avions constaté avec la cellule sans jonction (ceci traduit très probablement la variation de t/j avec m). Par contre, la différence U(m, m R ) -U(m, m A ) est sensiblement indépendante de m. On pourra donc, comme plus haut, accéder à la grandeur m/ [Ca] R et calculer la constante d'association spécifique Ca 2+ —ribose.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>L'électrode sélective aux ions Ca 2+ est une Orion 93-20, l'électrode AgCl|Ag une Tacussel et l'électrode au calomel à double jonction une Tacussel RDJ 17. Le miUivoltmètre électronique Tacussel ISIS 20000 permet de lire le 1/100 e de mV. L'eau est tridistillée et dégazée avant usage. Les sucres sont des produits Fluka Puriss pour analyse utilisés comme tel; le chlorure de calcium un produit Merck Pro Analysi.</p>
+				<p>Toutes les solutions sont réalisées par pesée et l'addition de la solution concentrée en sucre se fait à l'aide d'une burette gravimètrique Mettler P 160 N. La cellule de mesure est thermorégulée par circulation d'eau, la stabilité en température étant de l'ordre de 1/100 e de degré.</p>
+			</div>
+			<div type="section">
+				<head>Résultats</head>
+				<p>Les figures 1 et 2 montrent, respectivement, les variations de la tension des deux cellules galvaniques étudiées, soit bU s = U(m,m s ) — U(m) en fonction de la concentration en sucre de la solution. Notons que malgré le faible domaine de variation des tensions mesurées (au maximum 5 mV), celles-ci sont connues avec une précision remarquable (la reproductibilité des mesures et de l'ordre de ±0,02 mV). Pour la cellule [1] (<ref type="figure">fig. 1</ref> ), on voit que 8U s est identique pour m = 5 x 1CT 3 et m = 1 x 10" 1 en CaCl 2 , ce qui justifie notre précédente hypothèse. Au contraire, pour la cellule à jonction liquide [15] (<ref type="figure">fig. 2</ref>), hU s dépend de la concentration en CaCl 2.</p>
+				<p>Les résultats des calculs sont regroupés dans le tableau 1. Les enthalpies libres standard de transfert de CaCl 2 de l'eau aux solutions de ribose (AG §) et aux solutions d'arabinose (AG §) sont calculées grâce à la relation [6] . En portant AGf/m s en fonction de m s (relation [7] ), une extrapolation linéaire permet d'obtenir les paramètres d'interaction. Un tel traitement graphique donne ici:</p>
+				<p><formula>2vg ER = -1160 J mol" 2 kg 3vg ERR = +750 J mol" 3 kg 2 2v£EA = +950 J mol" 2 kg 3vg EA A = -100 J mol" 3 kg 2</formula></p>
+				<p>Les valeurs de At/(R -A) = 5t/ R -S t/ A permettent de calculer (relations [11] et [12] ) la fonction de Leden F(R). Pour la cellule [1], les valeurs de AU correspondent aux interpolations effectuées sur la courbe moyenne de 3 essais à des molalités différentes en CaCl 2 (0,005, 0,02, 0,1). La fonction F(R) décroit de façon significative quand m s croît; cette variation ne met donc pas en évidence la formation du complexe CaR 2 , puisque la pente p 2 devrait alors être positive. L'extrapolation à concentration nulle en sucre conduit à (3, = 0,89 ± 0,10 environ. Pour la cellule [15], les calculs de F(R) sont effectués pour deux concentrations en CaCl 2 (m = 0,005 et 0,02) et l'on voit que AU dépend peu de cette concentration. Les valeurs de F(R) sont pratiquement indépendantes de m s , concentration en sucre, et le complexe CaR 2 n'est pas mis en évidence dans le domaine étudié; on admettra donc que F(R) = Pi. Pour m = 0,005 on trouve une valeur moyenne p, = 0,93 ± 0,07 et pour m = 0,02, p, = 0,93 ±0,16.</p>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>L'enthalpie libre standard de transfert de CaCl 2 de l'eau aux solutions de ribose est négative alors que la grandeur de transfert de l'eau aux solutions d'arabinose est positive. C'est la manifestation immédiate de l'interaction spécifique du premier de ces deux pentoses isomères avec l'ion Ca 2+ . Quantitativement , cette interaction spécifique est caractérisée par la différence</p>
+				<p><formula>2V(£ER -£EA) = 2g C AR = -2110 J mol -1 (voirrelation [8] )</formula></p>
+				<p>si l'on fait l'hypothèse de l'identité des interactions non spécifiques entre CaCl 2 d'une part, et ribose ou arabinose d'autre part. Nous n'interpréterons pas ici les paramètres g relatifs aux triplets, mais remarquons cependant que £ERR est positif, ce qui ne plaide pas pour l'existence du complexe CaR 2.</p>
+				<p>Les calculs de la constante d'association conduisent à P! = 0,89 avec la cellule [1] et P, = 0,93 avec la cellule [15] , Compte tenu des incertitudes évaluées, la bonne concordance de ces deux résultats montre que les hypothèses formulées sont satisfaisantes en première approximation. Ces calculs ne conduisent pas, eux non plus, à la prise en compte d'un complexe du type CaR 2.</p>
+				<p>Les résultats obtenus précédemment par des méthodes potentiométriques sont: d'une part (5), p, = 1,6 par une méthode de compétition entre Ca 2+ et Pb 2+ en présence de NaC10 4 1 M, la concentration en ribose étant 0,1 Ai et celle en ion Ca 2+ variant jusqu'à 0,15 Ai; d'autre part (6), p, = 1,1 etp 2 = 8,5 avec une solution 0,1 Ai en ribose et des concentrations en Ca 2+ allant jusqu'à 0,16 M. Au contraire des expériences réalisées cidessus , les méthodes que nous présentons consistent à faire varier la concentration en sucre alors que celle de CaCl 2 reste constante. Compte tenu de l'importance des facteurs d'activité dans l'expression de la constante thermodynamique d'équilibre , il est important de prouver, comme nous l'avons fait, que les résultats obtenus ne dépendent pas de la concentration en CaCl 2 . On s'affranchit également de la présence de tout sel de fond dont on ne peut, à priori, négliger les interactions des ions avec la molécule de sucre.</p>
+				<p>La valeur que nous obtenons pour Pi, soit environ 0,9, est en accord passable avec la moyenne que l'on peut calculer en considérant, qu'à l'équilibre, la solution de ribose contient environ: 35% (soit 60% de 59%) de (3-pyranose 'C 4 (P = 0,8), 21% de a-pyranose (P = 3,4) et 6,5% de a-furanose (P = 5,3) (1). Avec ces valeurs données à 31°C par Angyal, le calcul conduit en effet à une valeur moyenne pour p¡ égale à 1,3. Les deux expressions de l'enthalpie libre d'interaction spécifique entre le calcium et le ribose, d'une part g CaR et d'autre part Pi, sont naturellement reliées. La relation qui existe entre deuxième coefficient du viriel et constante d'association en phase gazeuse peut être établie de façon très simple (11). Pour ce qui concerne la thermodynamique statistique des solutions, Wood et al. (12) ont comparé les développements possibles du coefficient osmotique d'une solution, &lt;j) M M, exprimé dans les conditions de McMillan-Mayer (T, TT, c): d'une part le développement en série des activités où interviennent les constantes de "Sociation", d'autre part le développement en série des concentrations molaires avec les coefficients du viriel. On peut montrer que les coefficients d'interaction par paires de type g¡¡ de la relation [7] interviennent dans le développement du coefficient osmotique &lt;f) LR (conditions de Lewis et Randall qui sont celles de nos mesures, soit T, P, m) sous la forme</p>
+				<p><formula>[17] &lt;t&gt; LR = 1 + B LR m = 1 +</formula></p>
+				<p>si on se limite au coefficient d'interaction par paires d'espèces différentes dans le cas m-, = m¡ = m, pour simplifier la présentation . Dans les conditions de McMillan-Mayer, le développement du coefficient osmotique s'écrit</p>
+				<p><formula>[18] 4&gt;MM = 1 + BMM C</formula></p>
+				<p>et l'on peut montrer (13) que</p>
+				<p><formula>[19] BMM = BLR/P° + \vf + \ Vf -\ RT p°</formula></p>
+				<p>où p° est la masse volumique et p° le coefficient de compressibil ité isotherme du solvant, V® et Vf les volumes molaires partiels à dilution infinie des espèces i et j en interaction. Ici, Vf = 0,095 L mol" 1 (14) et = -0,029 L mol -1 (15). Le dernier terme de [19] étant négligeable, on trouve</p>
+				<p><formula>5MM = -0,41 L mol" 1</formula></p>
+				<p>Compte tenu de la forme des développements en fonction des concentrations que nous avons utilisés ici, on peut montrer que la relation fondamentale évoquée plus haut s'écrit</p>
+				<p><formula>[20] PI = —2 Z?mm</formula></p>
+				<p>où, en toute rigueur, p, est la constante thermodynamique d'association dans l'échelle des molarités. Celle-ci, dans l'eau, est naturellement très voisine de celle que nous avons calculée plus haut dans l'échelle des molalités. Comme on voit, cette relation est vérifiée de façon très satisfaisante dans le cas que nous venons d'examiner. Notons que la relation [20] peut s'écrire avec une approximation en général acceptable</p>
+				<p><formula>[21] p, = -2 gij /RT</formula></p>
+				<p>Cet exemple nous permet d'apprécier la cohérence des deux différents langages utilisés pour exprimer l'interaction entre deux espèces en solution. En thermodynamique statistique, c'est BMM, grandeur directement liée au potentiel de force moyenne (12), qui caractérise fondamentalement cette interaction.</p>
+				<p>On peut s'interroger sur les causes de la petite différence observée sur les valeurs de p, obtenues respectivement avec les cellules [1] et [15], soit 0,89 et 0,93. La première cellule fait intervenir les interactions des anions chlorures avec le sucre, interactions qui sont éliminées en supposant que Si l'on considère les valeurs des termes triplet gERR et gEAA, on voit qu'elles sont de signes opposés; on peut en conclure que les interactions non spécifiques avec les deux pentoses isomères peuvent être notoirement différentes.</p>
+				<p>Il est tout à fait probable que les interactions impliquant les ions Cl" contribuent à cette différence et que l'hypothèse ci-dessus n'est pas rigoureusement exacte. Ainsi, les résultats obtenus en étudiant la cellule [15], et dont on a vérifié qu'ils ne dépendaient pas de la concentration en CaCl2, peuvent être considérés comme plus satisfaisants.</p>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Nous avons utilisé et discuté deux méthodes potentiomètriques qui permettent de mesurer de façon satisfaisante l'interaction spécifique entre le cation Ca2+ et les séquences d'hydroxyles favorables à la "complexation" d'un sucre. Ces méthodes consistent à comparer le sucre en question avec un isomère dont la structure ne permet pas d'interaction spécifique avec le cation. Nous proposons pour l'interaction spécifique Ca 2+ — D-(-)-ribose dans l'eau, à 25°C, une valeur de la constante d'association égale à 0,93. Le complexe comportant deux sucres pour un calcium n'a pas été mis en évidence. Cette étude nous a permis de comparer les deux langages possibles pour caractériser le phénomène de "complexation", celui de l'interaction par paire et celui de la constante d'association.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">J</forename>
+									<surname>Angyal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Aust. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<date type="published" when="1957"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<title level="a" type="main">Carbohydrates in solution Advances inChemistry Séries 117</title>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">American Chem. Soc</title>
+							<imprint>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Reuben</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">3089</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C R</forename>
+									<surname>Symons</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Pelmore</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">3671</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Olin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Chem. Scand. Ser. A</title>
+							<imprint>
+								<biblScope type="vol">31</biblScope>
+								<biblScope type="pp">838</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Tomaskoviè</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Z</forename>
+									<forename type="middle">Cimerman</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Z</forename>
+									<forename type="middle">Stefanac</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bendl</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Microchem. J</title>
+							<imprint>
+								<biblScope type="vol">27</biblScope>
+								<biblScope type="pp">372</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<title level="m" type="main">Electrolyte solutions</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1959"/>
+								<biblScope type="pp">481</biblScope>
+								<pubPlace>London</pubPlace>
+							</imprint>
+						</monogr>
+						<note>2ème. éd. Butterworths</note>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Pointud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Juillard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Avedikian</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Elec-trochim. Acta</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">229</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Perron</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Joly</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Desnoyers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Avedikian</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-P</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic/>
+						<monogr>
+							<title level="j">MOREL. Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="issue">552</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<title level="a" type="main">Dans Solution equi-libria. Édité par Ellis Horwood</title>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">R</forename>
+									<surname>Hartley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<surname>Burgess</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Alcock</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chichester, U.K</title>
+							<imprint>
+								<biblScope type="pp">67</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<title level="a" type="main">Dans Activity coefficients in electrolyte solutions</title>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">S</forename>
+									<surname>Pitzer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">I. Édité par R. M. Pytkowicz. Boca Raton, U.S.A</title>
+							<imprint>
+								<publisher>CRC Press</publisher>
+								<date type="published" when="1979"/>
+								<publisher>CRC Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+									<surname>Wood</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">T</forename>
+									<surname>Thompson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+							<imprint>
+								<biblScope type="vol">74</biblScope>
+								<biblScope type="pp">1301</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">L</forename>
+									<surname>Friedman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Solution Chem</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="pp">387</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Franks</forename>
+									<surname>Thermodynamics</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">N</forename>
+									<surname>Édité</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Jones</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1979"/>
+								<publisher>Elsevier Scientific Publishing Company</publisher>
+								<biblScope type="pp">64</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<monogr>
+							<title level="m" type="main">Dans Water and aqueous solutions</title>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1972"/>
+								<biblScope type="pp">545</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

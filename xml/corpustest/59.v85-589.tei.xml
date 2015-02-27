@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pressions de vapeur des mélanges eau -nitrate d&apos;éthylammonium à 298,15 K. Propriétés thermodynamiques des milieux eau-sel fondu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Biquard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de physicochimie des solutions</orgName>
+								<orgName type="institution">E.N.S.C.P</orgName>
+								<address>
+									<addrLine>11 Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">P</forename>
+								<surname>Letellier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de physicochimie des solutions</orgName>
+								<orgName type="institution">E.N.S.C.P</orgName>
+								<address>
+									<addrLine>11 Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Fromon</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire d&apos;électrochimie</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, Place Jussieu</addrLine>
+									<postCode>75230</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pressions de vapeur des mélanges eau -nitrate d&apos;éthylammonium à 298,15 K. Propriétés thermodynamiques des milieux eau-sel fondu</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p> L&apos;activité et le coefficient d&apos;activité de l&apos;eau dans les mélanges eau -nitrate d&apos;éthylammonium (NEA) entre l&apos;eau pure et le sel pur fondu ont été déterminés par des mesures de pressions de vapeur à 298,15 K. Le comportement de l&apos;eau dans la gamme de fraction molaire du sel, comprise entre 0,3 et 1 peut être décrit au moyen d&apos;une relation linéaire entre le logarithme du coefficient d&apos;activité de l&apos;eau 7e, la fraction molaire, X du sel et l&apos;enthalpie libre de dilution de l&apos;eau à dilution infinie dans le NEA pur, A G°:</p>
+ 
+	<p><formula>ln 7 e = AG£ RT</formula></p>
+	
+<p>L&apos;interprétation des résultats expérimentaux a également été tentée à l&apos;aide de l&apos;équation B.E.T. 11 apparaît que dans les mélanges eau-NEA, le terme énergétique relatif à l&apos;adsorption de l&apos;eau est voisin de zéro. On montre que dans ce cas précis, la relation empirique proposée et l&apos;équation B.E.T. conduisent à une même description du comportement de l&apos;eau et du sel, tant au plan de l&apos;enthalpie libre qu&apos;à celui des volumes.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The activity and activity coefficient of water in water and ethylammonium nitrate (EAN) mixtures were determined by vapor pressure measurements between pure water and pure fused salt at 298.15 K. For a wide range of mole fractions of salt, (0.3 &lt; X &lt; 1) the behaviour of water can be described very accurately by a &quot;one parameter&quot; empirical equation which involves activity coefficient, 7E, mole fraction of EAN, and limiting Gibbs energy of the dilution of water in pure fused salt, AC°:</p>
+
+	<p><formula>In 7E = AG[[ RT</formula></p>
+	
+<p>Interpretation of experimental results was also attempted by use of the B.E.T. equation. It appears that the energy, AE,, = E — E L , in those solutions is very low. Partial molar volumes of water and salt are also discussed in relation to empirical and B.E.T. equations. It can be shown that the two equations lead to similar results.</p>
+			</div>
+		</front>
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>L&apos;utilisation d&apos;un sel fondu à la température ambiante, le nitrate d&apos;éthylammonium, NEA, (7 , f = 14°C), miscible à l&apos;eau en toute proportion, permet l&apos;étude thermodynamique à 298,15 K des interactions qui s&apos;établissent entre un électrolyte et l&apos;eau, pour une gamme de composition étendue, comprise entre l&apos;eau pure et le sel pur fondu. Il a déjà été exposé, dans une publication antérieure (1), une étude volumétrique des mélanges eau-NEA au cours de laquelle il a été montré que le volume molaire partiel de l&apos;eau varie linéairement avec sa fraction molaire dans le milieu. Afin de juger de la généralité de cette dernière propriété et de ses implications sur les autres grandeurs thermodynamiques, la détermination des activités de l&apos;eau et du sel a été entreprise dans ces mêmes milieux en utilisant une méthode précise de mesure de pressions de vapeur.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>I. Technique expérimentale et résultats expérimentaux</head>
+
+			<p>Technique expérimentale</p> 
+
+			<p>(a) Le nitrate d&apos;éthylammonium (NEA) a été préparé par une technique proche de celle proposée par <ref type="bibr">Evans et al. (2)</ref>: Une solution d&apos;éthylamine à 33% (Prolabo) est neutralisée par de l&apos;acide nitrique de densité égale à 1,33 (Prolabo) dans un becher refroidi dans un bain de glace. La solution saline est concentrée à l&apos;évaporateur rotatif à 60°C pendant 3 h et l&apos;eau de la solution concentrée est éliminée par séchage sous vide pendant 3 jours en présence de P 2 0 5 . Le point de fusion du sel a été trouvé égal à 14°C. (b) Les tensions de vapeur ont été mesurées à l&apos;aide d&apos;une jauge de précision Texas Instrument (3). Après dégazage par congélation et fusion successives, les solutions sont plongées dans un bain thermostaté à 298,15 K. La précision obtenue sur les tensions de vapeur est de ± 1 x 10&quot; 2 Torr (1 Torr = 133.3 Pa). (c) Les solutions ont été préparées par gravimétrie à partir d&apos;eau bidistillée et de sel fondu pur.</p>
+			
+			<p>Résultats expérimentaux</p> 
+
+			<p>Les pressions de vapeur mesurées au-dessus des différentes solutions de fraction molaire X en NEA sont reportées dans le tableau 1. La tension de vapeur de l&apos;eau pure, P E , a été déterminée à 298,15 K et trouvée égale à 23,75 Torr, ce qui correspond à la valeur généralement admise (4). Les mesures réalisées avec le sel pur conduisent à une pression de vapeur inférieure à 4 x 10~ 2 Torr. Il est donc légitime de considérer que la pression de vapeur mesurée au-dessus des solutions correspond uniquement à celle de l&apos;eau. L&apos;activité et le coefficient d&apos;activité de l&apos;eau, référés à l&apos;eau pure, ont été calculés au moyen des relations:</p> 
+	
+	<p><formula>P et 7E =P e PëO-X)</formula></p> 
+	
+			<p>où X est la fraction molaire du sel dans la solution. 11 n&apos;a été apporté aucune correction de fugacité des gaz dans le calcul des activités de l&apos;eau, le coefficient de fugacité étant très proche de l&apos;unité dans les conditions expérimentales.&apos; 1 Les valeurs de a E et 7e sont également regroupées dans le tableau 1.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>II. Interprétation</head>
+			
+			<p>L&apos;analyse des résultats expérimentaux sera envisagée dans le cadre de différents modèles de solution exposés dans la littérature . Toutefois ce travail faisant suite à une étude se rapportant aux volumes molaires partiels de l&apos;eau et du NEA dans leurs différents mélanges, il est indispensable de prendre en compte les résultats obtenus à cette occasion. A ce titre, le paragraphe ci-dessous sera consacré aux conséquences, sur les potentiels chimiques, des principales relations expérimentales établies pour les volumes molaires partiels.</p>
+
+			<p>Comportement de l&apos;eau dans les mélanges eau-NEA</p>
+
+			<p>Il a été montré (1) que les variations du volume molaire partiel de l&apos;eau, dans les solutions salines de fraction molaire X supérieure à 5 x 10~ 2 pouvaient être décrites au moyen de la relation empirique:</p>
+				
+	<p><formula>[1] VE = V° + (VF</formula></p>
+
+			<p>dans laquelle V E et VF sont respectivement les volume molaire et volume molaire partiel de l&apos;eau infiniment diluée dans le NEA. L&apos;expression du potentiel chimique, de l&apos;eau, référé à</p> 
+			
+	<p><formula>[2] = ^ 0 E + RT\n (1 -X) + RT\ny E</formula></p> 
+	
+			<p>l&apos;eau pure permet d&apos;établir, par dérivation par rapport à la pression, à température et composition constantes, une relation entre le coefficient d&apos;activité *y E et le volume molaire partiel de l&apos;eau.</p> 
+	
+	<p><formula>[3] V F = Vp + RT d ln 7H dP</formula></p> 
+			
+			<p>L&apos;identification des relations [1] et [3] conduit à:</p> 
+			
+	<p><formula>[4] d ln 7e dP</formula></p>
+
+			<p>Les potentiels chimiques normaux de l&apos;eau pure, |x E , et de l&apos;eau infiniment diluée dans le NEA, |xf, peuvent être introduits dans l&apos;équation [4]</p>
+				
+	<p><formula>rd ln 7 e i X rd(|xf -|x E )i rô ln 7 E - X rôAG^i</formula></p>
+
+			<p>soit encore si l&apos;on convient de noter AG E , l&apos;enthalpie libre de dilution de l&apos;eau à dilution infinie dans le sel pur:</p>
+
+	<p><formula>» ^e e o AG e = (x e -(X e [5]</formula></p>
+
+			<p>Si l&apos;on suppose la validité de l&apos;équation [5] vérifiée pour toute pression, son intégration en fonction de cette variable peut être envisagée à fraction molaire et température constantes, entre la pression atmosphérique et une pression non définie de référence:</p>
+
+	<p><formula>[6] ln7E = —~X+f(X) Kl</formula></p> 
+			
+			<p>f(X) est une constante d&apos;intégration, dont la valeur dépend de la pression choisie en référence;/(X) est susceptible de varier avec la composition du mélange et la température. Sa valeur est fixée pour le sel pur (X = 1). Dans ce milieu, l&apos;eau apparaît comme un soluté possédant les propriétés de l&apos;état infiniment dilué. Par définition, son coefficient d&apos;activité, par rapport à cette dernière référence est égal à l&apos;unité, et son coefficient d&apos;activité référé à l&apos;eau pure tend vers une limite finie.</p> 
+				
+	<p><formula>[7] lim (ln 7E) =</formula></p>
+
+			<p>La relation [6] >permet de retrouver cette condition avec:</p>
+
+	<p><formula>[8] lim f(X) = 0 X-* I</formula></p>
+
+			<p>La relation [6] >montre qu&apos;une variation linéaire, observée pour les volumes molaires partiels, n&apos;implique pas nécessairement une propriété identique pour les potentiels chimiques. Afin de juger de l&apos;importance relative des quantités intervenant dans l&apos;équation [6], les valeurs de ln 7 E ont été reportées sur la figure 1 en fonction de la fraction molaire du NEA.</p> 
+			
+			<p>Compte tenu de l&apos;incertitude inhérente aux valeurs des coefficients d&apos;activité de l&apos;eau, particulièrement pour les mélanges les plus riches en sel, il apparaît que les points expérimentaux pour 0,3 &lt; X s 1 se placent convenablement sur une droite de pente égale à —0,370 passant par l&apos;origine. Cette propriété permet d&apos;être assuré que la constante d&apos;intégration f(X), nulle dans le sel pur, garde une valeur suffisamment faible pour être négligée dans la gamme 0,3 &lt; X s 1. Dans ce domaine de concentration les valeurs du coefficient d&apos;activité de l&apos;eau, référé à l&apos;eau pure, sont décrites par:</p>
+			
+	<p><formula>[9] ln 7e RT</formula></p> 
+	
+			<p>dans laquelle AG E = -919 Joules. La relation [9] constitue un cas particulier de l&apos;équation  [6] pour une pression, une température et un domaine de composition donnés. L&apos;activité de l&apos;eau, a E , peut ainsi être calculée à partir de la relation:</p> 
+				
+	<p><formula>[10] a E = (1 -X) élû~ x</formula></p> 
+	
+			<p>et sa pression de vapeur par:</p>
+
+	<p><formula>[11] P E = P° E (1 -X)</formula></p>
+
+			<p>Les valeurs de P E calculées au moyen de l&apos;équation [11] sont reportées dans le tableau 2 en regard de celles déterminées expérimentalement et l&apos;on conviendra de leur excellent accord dans la gamme de composition considérée. Les courbes de pression de vapeur de l&apos;eau correspondantes à l&apos;équation [11] (courbe a), aux lois des solutions idéales pour le sel non dissocié (courbe b) et totalement dissocié (courbe c) sont reportées sur la <ref type="figure">figure 2</ref>. Les points expérimentaux se placent sur la courbe a dans la gamme des fractions molaires 0,3 &lt; X &lt; 1.</p> 
+			
+			<p><ref type="figure">FIG. 2</ref>. Variation de la pression de vapeur de l&apos;eau en fonction de X. Courbe a, calculée à partir de l&apos;équation [11]. Courbe b, comportement idéal pour le sel non dissocié. Courbe c, comportement idéal pour le sel totalement dissocié. Les points expérimentaux sont figurés par des cercles.</p> 
+			
+			<p>L&apos;équation [11] permet de déterminer la valeur de la constante de Henry de l&apos;eau dans le sel pur fondu. Elle correspond à la valeur de la tangente à la courbe P E = /( 1 — X) pour X = 1 :</p> 
+			
+	<p><formula>[12] k h = lim BP E = PI e&quot; La(l -X)J</formula></p> 
+	
+			<p>soit dans le cas présent k h (Torr, X) = 16,4. La droite de Henry est tracée en pointillés sur la <ref type="figure">figure 2</ref>.</p> 
+			
+			<p>Comportement du sel dans les mélanges eau-NEA dans la gamme de composition 0,3 &lt; X s /</p> 
+			
+			<p>Le potentiel chimique du sel (JL s peut être calculé en fonction de X, en utilisant la relation de Gibbs-Duhem. Le potentiel chimique de l&apos;eau s&apos;écrit (relations [2] et [9]):</p>
+
+	<p><formula>[13] (JLE = |x E + RT\n (1 -X) + AGf X</formula></p>
+
+			<p>La relation de Gibbs-Duhem implique que:</p>
+
+	<p><formula>(1 -X) d(xE + X d(JLs = 0 soit: [14] d|x s = {RT ~ ACf) ^ + AGf dXPi Kh 0,5 0 k activité y // \nea X 0 0.5 1</formula></p>
+
+			<p>FIG. 3. Variation des activités de l&apos;eau et du NEA avec X (calculées au moyen des équations [9] et [16]). Les points expérimentaux sont figurés par des croix.</p>
+
+			<p>L&apos;intégration par rapport à X de l&apos;équation [14], en se fixant comme borne l&apos;état correspondant au sel lorsqu&apos;il est pur (X = 1; (x s = p-s). conduit à:</p>
+			
+	 <p><formula>[15] pis = |Xs + RT 1 - AGfi In X — AG® (1 -X)</formula></p>
+
+			<p>Le coefficient d&apos;activité du sel référé au sel pur y s s&apos;écrit alors:</p>
+
+	<p><formula>AGf [16] ln y s = RT (In X + (1 -X))</formula></p>
+
+			<p>Les variations de l&apos;activité de l&apos;eau et du sel sont représentées sur la <ref type="figure">figure 3</ref>. Les points reportés correspondent aux résultats expérimentaux obtenus pour l&apos;eau. On remarque que le sel présente un comportement quasi idéal pourX supérieur à 0,80.</p>
+			
+			<p>Conclusion</p>
+
+			<p>Comme on a pu le constater, les propriétés de l&apos;eau et du NEA dans leurs mélanges 0,3 &lt; X &lt; 1 sont remarquablement décrites tant au plan de l&apos;enthalpie libre qu&apos;à celui des volumes molaires partiels, par l&apos;équation [9] et ses conséquences. Toutefois l&apos;examen de modèles de solution déjà établis montre que les résultats expérimentaux peuvent être décrits dans la même zone de composition avec une précision comparable par d&apos;autres systèmes d&apos;équations.</p>
+
+			<p>Comportements modèles</p>
+			
+			<p>L&apos;équation B.E.T.</p>
+
+			<p>D&apos;une manière générale, l&apos;interprétation du comportement de l&apos;eau et du sel dans les solutions salines concentrées s&apos;effectue au moyen de différents modèles dérivant de celui proposé initialement par Brunauer, Emmett et Teller (équation B.E.T.) (5). L&apos;équation B.E.T. a été adaptée par Stokes et Robinson (6) pour décrire les propriétés de l&apos;eau dans les solutions d&apos;électrolyte concentré:</p>
+
+	<p><formula>[17] a E -X (1-X)(1 1 C-1 = — + a E = Y a E ) Cr Cr</formula></p>
+
+			<p>On conviendra de noter Y cette fonction. Dans cette relation, C est donné approximativement par:</p>
+
+	<p><formula>[18] C = = e&apos;TF</formula></p>
+	
+			<p>E est l&apos;énergie molaire d&apos;adsorption de l&apos;eau sur un site disponible dans le sel fondu; E L est l&apos;énergie molaire de condensation de l&apos;eau; r est le rapport du nombre de sites disponibles, au nombre de moles de sel dans le sel pur. La validité de cette relation a été discutée pour de très nombreux systèmes (à titre d&apos;exemples 7-12).</p> 
+			
+			<p>Lorsqu&apos;elle est vérifiée, l&apos;équation B.E.T. fait intervenir des paramètres liés aux grandeurs thermodynamiques caractéristiques de la dilution de l&apos;eau pure à dilution infinie dans le sel fondu. En effet, lorsque le sel devient pur (X = 1), le coefficient d&apos;activité y E de l&apos;eau tend vers une limite finie (éq. [7]).
+			
+	<p><formula>[19] lim (y E ) = -rr = e «r</formula></p> 
+			
+			<p>soit encore en tenant compte de l&apos;équation [18] :</p> 
+				
+	<p><formula>[20] ln r = -± (AGf -AE A )</formula></p> 
+	
+			<p>Si l&apos;on considère de plus que l&apos;énergie AE d = E — E L peut ne constituer dans le cas général qu&apos;une partie de l&apos;enthalpie de dilution de l&apos;eau dans le sel fondu (on supposera que le terme relatif au travail est suffisamment faible pour être négligé), le bilan thermique relatif à cette opération prend la forme:</p>
+
+	<p><formula>AH E = H e -H° = A£ d + AH&apos; e</formula></p>
+
+			<p>AH&apos; e représente l&apos;éventuelle contribution thermique des interactions autres que celles impliquées par l&apos;adsorption. L&apos;équation [20] devient alors:</p>
+
+	<p><formula>ln r=-± (AGf -A//f + A H&apos; E )</formula></p>
+
+			<p>et si l&apos;on convient de noter AS E l&apos;entropie de l&apos;eau à dilution infinie:</p>
+				
+			<p>La vérification de la validité de l&apos;équation B.E.T. a été tentée à partir des valeurs de l&apos;activité de l&apos;eau déterminées pour les mélanges eau-NEA. La quantité Y est reportée sur la figure 4 en fonction de l&apos;activité de l&apos;eau. Le tracé obtenu correspond à une droite horizontale dans la gamme de composition 0,3 &lt; X ^ 1 dont l&apos;ordonnée à l&apos;origine est égale à:</p>
+
+	<p><formula>Y 0 = 0,705</formula></p>
+
+			<p>Si l&apos;on s&apos;en tient aux hypothèses à l&apos;origine de l&apos;équation B.E.T., cette propriété indique que le terme d&apos;adsorption possède une valeur très faible (C = 1; AE A ~ 0). L&apos;équation B.E.T. se réduit alors à:</p>
+
+	<p><formula>1 1 -a E r</formula></p>
+
+			<p>Dans ce cas particulier les variations du coefficient d&apos;activité de l&apos;eau sont décrites par:</p>
+			
+	<p><formula>[23] 7e = 1 1 + X(r- 1) avec: [23&apos;] r = = 1,42</formula></p>
+
+			<p>soit AG E : -865 J. La chaleur de dilution de l&apos;eau à dilution infinie dans le sel pur a été mesurée par Mirejovsky et Arnett (13); elle s&apos;identifie pour les mélanges eau-NEA à l&apos;enthalpie d&apos;interaction:</p>
+
+	<p><formula>A//g = A Hf = 1339 J</formula></p> 
+				
+			<p>Le terme entropique est donc égal à ASf = 7,4 J K~&apos;. Bien que d&apos;origine totalement différente, on remarquera que la valeur AGf obtenue par l&apos;équation B.E.T. est tout à fait comparable à celle déterminée dans le précédent paragraphe.</p> 
+			
+			<p>De la même manière que précédemment les valeurs de 7 E et des pressions de vapeur ont été recalculées à partir de la relation [23] (tableau 2). Malgré leurs formes très éloignées, les équations [11] et [23] conduisent à des valeurs comparables, si ce n&apos;est le plus souvent identiques, et décrivent tout aussi bien l&apos;une que l&apos;autre la réalité expérimentale. Cette caractéristique se conserve lors de la dérivation avec la pression. Le potentiel chimique de l&apos;eau peut être écrit sous la forme:</p>
+
+	<p><formula>|x E = |x E + RT ln (1 -X) -RT ln (1 + X(r -1))</formula></p>
+
+			<p>Si l&apos;on suppose que r est un paramètre qui dépend de la pression,</p>
+
+	<p><formula>V E = V° E -RT * (!£) L 1 + X(r -1) \dP) T .x (crnmoO (1-X)C1-a E )</formula></p>
+
+			<p>Lorsque X tend vers l&apos;unité, V E s&apos;identifie à V E V® = Vî</p>
+
+			<p>soit:</p>
+
+	<p><formula>[24] V°E + (VF V° E ) rX  V E . c E &apos; ^ i + (,--i)X</formula></p>
+
+			<p>Les valeurs expérimentales de V E ainsi que celles calculées par les relations [1] et [24], avec la valeur de r = 1,42, sont reportées dans le tableau 3. Comme pour l&apos;enthalpie libre les deux systèmes d&apos;équations décrivent avec une égale précision les propriétés de l&apos;eau dans la solution. Il faut toutefois remarquer que l&apos;on ne peut les identifier, et cela apparaît clairement dans l&apos;expression [24] où le terme r/[l + (r -1)X] ne peut être constant et égal à l&apos;unité lorsque la composition du milieu se modifie. Il s&apos;en éloigne cependant suffisamment peu pour que l&apos;on ne puisse pas mettre en évidence un écart significatif sur la valeur de V E calculée.</p>
+
+			<p>Relation proposée par Abraham ( 14)</p>
+
+			<p>À partir d&apos;un calcul impliquant l&apos;équation B.E.T. et une hypothèse (différente de celle développée par Kodejs et Sacchetto (15)) concernant les contributions volumiques au volume total de la solution, de l&apos;eau adsorbée et de l&apos;eau libre, Abraham établit une relation entre le volume d&apos;excès, V cxc , d&apos;un mélange eau-sel et l&apos;activité de l&apos;eau dans ce même milieu.</p> 
+			
+			<p><formula>[25] V m = (1 -X) (1 -a E ) [Vf ~ V° E + A ( 1 -X)]</formula></p>
+
+			<p>dont le domaine d&apos;application a été fixé par l&apos;auteur à 0 &lt; (1 -X) &lt; 0,5. La vérification de la validité de cette relation pour les mélanges eau-NEA a pu être tentée à partir des valeurs de V E précédemment déterminées (1) et la figure 5 représente les variations de la quantité V C1C /(1 — X) (1 — a E ) en fonction de la fraction molaire de l&apos;eau.</p> 
+			
+			<p>Comme on peut le constater, les valeurs reportées, relatives il est vrai à un domaine de composition plus étendu que celui proposé par l&apos;auteur, ne conduisent pas au tracé d&apos;une droite mais à celui d&apos;une courbe qui s&apos;identifie pour les fractions molaires de l&apos;eau les plus faibles, à une horizontale (A = 0) d&apos;ordonnée à l&apos;origine ( Vf — V E ). On peut à ce titre remarquer que le terme A (1 — X) n&apos;a été introduit dans l&apos;équation [25] par l&apos;auteur que pour rendre compte des résultats expérimentaux analysés, mais que les démonstrations exposées ne l&apos;impliquent nullement.</p> 
+			
+			<p>Il semble ainsi que les hypothèses à la base du modèle d&apos;interaction développé par Abraham soient justifiées pour les solutions les plus concentrées en sel. Nos résultats expérimentaux montrent également que la procédure de détermination de Vf au moyen de la méthode d&apos;extrapolation linéaire proposée par l&apos;auteur, peut entraîner une incertitude d&apos;autant plus importante que le domaine d&apos;étude concerne des solutions dont la composition s&apos;éloigne de celle du sel pur.</p>
+			</p>
+
+			</div>
+
+			<note place="foot">
+				<p>3 La relation entre le coefficient de fugacité et le premier terme de l&apos;équation du viriel B t[ pour une phase vapeur pure est:</p>
+
+		<p><formula>r !. [ B n P, L, = — = exp p, v RT</formula></p>
+	
+				<p>Dans le cas de l&apos;eau:</p>
+
+		<p><formula>Bu = -1056 mL moL 1</formula></p>
+	
+				<p>soit pour l&apos;eau pure à 298,15 K:</p>
+				
+		<p><formula>r, = 1,0013</formula></p>			
+			
+				<p>Les pressions de vapeur d&apos;eau des mélanges eau-sel étant inférieures à celle de l&apos;eau pure, les coefficients de fugacité en seront d&apos;autant plus proches de l&apos;unité.</p>
+			</note>
+
+		</body>
+		
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hadded</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Biquard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Letellier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Schaal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">63</biblScope>
+			<biblScope type="pp">575</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">F</forename>
+				<surname>Evans</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Yamauchi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Roman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">Z</forename>
+				<surname>Casassa</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope type="vol">88</biblScope>
+			<biblScope type="pp">89</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Treiner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chim. Phys</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="pp">1183</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Brunauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">H E Teller</forename>
+				<surname>Emmettet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">60</biblScope>
+			<biblScope type="pp">309</biblScope>
+			<date type="published" when="1938" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Stokes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Robinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="pp">1870</biblScope>
+			<date type="published" when="1948" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">N</forename>
+				<surname>Campbell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">G</forename>
+				<surname>Oliver</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">47</biblScope>
+			<biblScope type="pp">2671</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Trudelle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Sangster</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">55</biblScope>
+			<biblScope type="pp">1713</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Sangster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="pp">348</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Sangster</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="pp">635</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">Abraham</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope type="vol">26</biblScope>
+			<date type="published" when="1937" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Braunstein</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Braunstein</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Thermodyn</title>
+		<imprint>
+			<biblScope type="vol">3</biblScope>
+			<biblScope type="pp">419</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">M</forename>
+				<surname>Arnett</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. AM. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">105</biblScope>
+			<biblScope type="pp">1112</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Abraham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chim. Phys</title>
+		<imprint>
+			<biblScope type="vol">81</biblScope>
+			<biblScope type="issue">207</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A</forename>
+				<surname>Sacchetto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Faraday Trans. 1</title>
+		<imprint>
+			<biblScope type="vol">78</biblScope>
+			<biblScope type="pp">3529</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

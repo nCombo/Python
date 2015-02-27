@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">L'o-nitrobenzylidènediméthylsulfuranne: synthèse, réactivité</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yannick</forename>
+								<surname>Le Stanc</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">UA CNRS 415</orgName>
+								<address>
+									<addrLine>Avenue du Général Leclerc</addrLine>
+									<postCode>35042</postCode>
+									<settlement>Rennes Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maurice</forename>
+								<surname>Le Corre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">UA CNRS 415</orgName>
+								<address>
+									<addrLine>Avenue du Général Leclerc</addrLine>
+									<postCode>35042</postCode>
+									<settlement>Rennes Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">L'o-nitrobenzylidènediméthylsulfuranne: synthèse, réactivité</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="tr">
+				<p>Le bromure d'o-nitrobenzyldiméthylsulfonium et l'ylure correspondant sont des composés très instables qui évoluent, en milieu aqueux, en donnant selon les conditions: l'alcool o-nitrobenzylique, le sulfure d'o-nitrobenzyle ou le sulfure de méthyle et d'o-hydroxyméthylbenzyle. L'accès aux o-nitrophényloxirannes est possible, avec les aldéhydes, dans un système bi-phasique soude aqueuse/dichlorométhane.</p>
+			</div>
+			<div type="abstract" xml:lang="tr">
+				<p>In aqueous solution, o-nitrobenzyldimethylsulfonium bromide and the corresponding ylid give, depending upon the conditions, o-nitrobenzyl alcohol, o-nitrobenzylsulfide, or methyl o-hydroxymethylbenzyl sulfide. The o-nitrophenyloxiranes may be obtained by the reaction of nitrobenzylidenedimethylsulfurane with aldehydes in a two-phase aqueous sodium hydroxide/dichloromethane system.</p>
+			</div>
+		</front>
+		<body>
+			<p>Bien que les o-nitrophényloxirannes aient été signalés à plusieurs reprises dans la littérature (1), la voie d'accès la plus générale, qui consiste à partir de l'o-nitrobenzylidène sulfuranne , n'a jamais été décrite. Dans le cadre de nos recherches en série indolique, nous avons été amenés à préparer et à étudier le comportement du sel de sulfonium 1 et de l'ylure correspondant.</p>
+			<p>Cette étude a révélé que le sel 1 ne conduit pas aux oxirannes dans les conditions habituelles (action d'une base puis d'un dérivé carbonylé dans un solvant anhydre) par suite notamment d'une réaction concurrente mettant en jeu le groupement N0 2 . L'analyse du produit réactionnel obtenu lors des différents essais préliminaires a révélé que le sel de sulfonium 1 est susceptible d'évoluer en milieu aqueux, selon plusieurs directions que l'on peut contrôler en modifiant la concentration et le pH du milieu. L'hydrolyse du sel 1 conduit essentiellement (schéma 1) à l'alcool o-nitrobenzylique 2 en solution diluée, au sulfure d'o-nitrobenzyle 3 en solution concentrée et au sulfure alcool 4 en milieu basique.</p>
+			<div>
+				<head>Interprétation</head>
+				<p>La différence d'évolution en fonction des conditions expérimentales peut s'interpréter (schéma 2) en admettant que: (0 en milieu dilué, la réaction principale est une hydrolyse qui conduit majoritairement à 2; (ii) en milieu concentré l'attaque par les ions Br~, présents en quantité importante, devient prépondérante et mène à un mélange des dérivés 5 et 6.</p>
+				<p>L'hypothèse d'une hydrolyse du sulfure 6 en alcool 2 qui aurait pu expliquer la différence d'orientation de la réaction a été écartée; le sulfure 6 est en effet inattaqué après 18 h de reflux dans une solution aqueuse bromhydrique 1 N.</p>
+				<p>A partir de ces deux composés, la formation du sulfure 3 résulterait d'une alkylation du sulfure 6 par le dérivé bromé 5 suivie d'une hydrolyse de ce nouveau sel 7 en sulfure 3. Il convient de remarquer que le problème de la régiosélectivité de l'hydrolyse n'intervient pas lors de cette dernière étape, puisque l'attaque du méthylène benzylique redonne les produits de départ.</p>
+				<p>La formation, tout à fait inattendue, du dérivé 4 peut s'interpréter par un réarrangement de Sommelet—Hauser au cours duquel le méthylène-cyclohexadiène intermédiaire évolue sous l'action de OH" avec élimination du groupement NOi (schéma 3).</p>
+				<p>Ce résultat est à rapprocher des observations très récentes de Ta-Jyh Lee et Holts relatives aux sels de sulfonium o-chlorés (2) (schéma 4)</p>
+				<p>Il convient de noter que, dans le cas des dérivés chlorés la réaction d'élimination n'est possible que si la position ortho est également substituée par Cl ou S0 3 R. Le résultat obtenu avec l'o-nitrobenzylidènesulfuranne confirme donc les excellentes propriétés nucléofuges du groupement N0 2 , déjà observées dans d'autres réactions (3).</p>
+				<p>L'accès aux o-nitrophényloxirannes est cependant possible à partir du sel 1 si on libère l'ylure en présence du dérivé carbonylé , dans un système biphasique CH 2 Cl 2 /NaOH concentrée . En raison de l'instabilité de l'ylure, seuls les aldéhydes conduisent aux oxirannes (voir tableau 1). La stabilisation apportée par le groupement N0 2 est suffisante pour que, dans le cas de l'acroléine, la condensation évolue vers le formyl-cyclopropane (schéma 5)</p>
+				<p>L'analyse par rmn 'H du système époxydique (voir tableau 1) montre que la réaction est stéréospécifique et conduit exclusivement au composé trans.</p>
+				<p>La cyclopropanation, non stéréospécifique, conduit à un mélange E/Z dans le rapport 75:25.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Les points de fusion ont été déterminés au banc Kofler. Sauf indication contraire, les spectres rmn ont été réalisés dans CDC1, avec comme référence le TMS. Spectres de rmn 'H: Varian EM-360 L, spectres de masse: Varian MAT 311.</p>
+				<p>Bromure d'o-nitrobenzyldiméthylsulfonium 1</p>
+				<p>A 21,6 g (0,1 mol) d'a-bromo o-nitrotoluène dans 20 mL de chloroforme on ajoute 12,4 g (0,2 mol) de sulfure de méthyle. Après 24 h à 50°C, le sel de sulfonium, qui cristallise, est filtré, rincé avec 2 fois 5 mL de chloroforme et séché; Rtd: 96%; F(°C): 89-90; rmn 'H</p>
+				<p>Composé R Rdt (%) F(° C) Litt. Hî Hî Jab (HZ) 8a H 42 63-64 65(4) 4,46 2,60 2 8 b Phényl 92 98-100 101-102(5) 4,46 3,73 2 8c Furyl-2 94 46-47 — 4,90 3,73 2 8 d p-Nitrophényl 83 165 160-162(5) 4,42 3,86 2 *8 en ppm par rapport au TMS dans CDCI,. (D 2 0): CH 3 à 2,05 (s, 6H), CH 2 à 4,10 (s, 2H), protons aromatiques de 6,8-7,5 (m, 4H). Anal. cale, pour C y H l2 BrN0 2 S: C 38,84, H 4,31, Br 28,77; tr.: C 38,61, H 4,19, Br 28,62.</p>
+				<p>Alcool o-nitrobenzylique 2</p>
+				<p>On porte à reflux pendant 24 h une solution de 2,78 g (0,01 mol) de sel de sulfonium dans 150 mL d'eau. Le produit brut, obtenu par extraction au dichlorométhane et évaporation du solvant, est purifié par chromatographie sur acide silicique (70-230 mesh; dichlorométhane-éther 95:5); Rdt: 77%; F(°C): 71-72 (litt. (6) F74°C); rmn 'H: O—H à 3,20 (s, 1H), CH 2 à 5,06 (s, 2H), protons aromatiques à 7,2-8,1 (m, 4H).</p>
+				<p>Sulfure d'o-nitrobenzyle 3</p>
+				<p>On porte à reflux pendant 24 h une solution de 5,56 g (0,02 mol) de sel de sulfonium 1 dans 10 mL d'eau. Le produit brut obtenu par extraction au dichlorométhane, est dissout dans 30 mL d'éthanol au reflux. Le sulfure 4 cristallise au refroidissement, il est alors filtré et séché; Rdt: 48%; F(°C): 120-122; rmn 'H: CH 2 à 4,10 (s, 4H), protons aromatiques à 7,3—8,1 (m, 8H). Spectre de masse: M calculée pour C l4 H 12 N 2 0 4 S: 304,052; trouvée: 304,051.</p>
+				<p>Sulfure de méthyle et d'o-hydroxyméthyl benzyle 4</p>
+				<p>On porte à reflux pendant 2 h une solution de 5,56 g (0,02 mol) de sel de sulfonium 1 dans 50 mL de soude 1 N. Après extraction au dichlorométhane et évaporation du solvant, on isole, à partir du mélange obtenu, le sulfure 5 par chromatographie sur acide silicique (70-230 mesh; dichlorométhane); Rdt: 45%; £&lt;,. 6 = 114-115°C; rmn 'H: CH 3 à 1,97 (s, 3H), O—H à 3,10 (s, 1H), SCH, à 3,73 (s, 2H), OCH 2 à 4,70 (s, 2H), protons aromatiques à 7,2-7,5 (m, 4H). Spectre de masse: M calculée pour CçiH^OS: 168,253; trouvée: 168,252.</p>
+				<p>o-Nitrophényl-2 oxiranne 8a</p>
+				<p>À une suspension de 13,9 g (0,05 mol) de sel de sulfonium 1 dans 25 mL de dichlorométhane et 4 mL d'une solution aqueuse de formaldéhyde à 37%, on ajoute sous vive agitation magnétique 37,5 mL de soude 10 N; la coloration mauve d'ylure apparaît aussitôt. Après disparition de la coloration de l'ylure (10 min environ) l'ensemble est dilué par addition de 30 mL d'eau, puis extrait par 2 fois 30 mL de dichlorométhane. La phase organique décantée est concentrée à l'évaporateur rotatif et l'huile obtenue distillée sous pression réduite; Rdt: 42%; £o,5 = 94-96°C; F(°C): 63-64 (litt. (4) F 65°C); rmn 'H: protons époxydiques à 3,26 (q, 1H, J AM = 6 Hz, J A x = 4 Hz), 2,60 (q, 1H, Jam = 6 Hz, J MX = 2 Hz), 4,46 (q, 1H, J AX = 4 Hz, 7 M x = 2 Hz), protons aromatiques à 7,1-8,13 (m, 9H).</p>
+				<p>o-Nitrophényl-2 phényl-3 oxiranne 8b</p>
+				<p>À une suspension de 13,9 g (0,05 mol) de sel de sulfonium 1 dans 25 mL de dichlorométhane contenant 0,075 mol d'aldéhyde on ajoute, sous vive agitation magnétique 40 mL de soude 10 N. Après 2 h à température ambiante, l'ensemble est dilué par addition de 30 mL d'eau, puis extrait par 2 fois 30 mL de dichlorométhane. La phase organique obtenue après décantation est constituée presque exclusivement de l'époxyde et d'aldéhyde en excès. Après élimination de l'aldéhyde par distillation sous pression réduite l'o-nitrophényl-2 phényl-3 oxiranne cristallise; Rdt: 92%; F(°C) éthanol: 98-100 (litt. (5) F 101 — 102°C); rmn 'H: protons époxydiques à 3,73 (d, 1H, 3 J = 2 Hz) et 4,46 (d, 1H, 3 J = 2 Hz), protons aromatiques à 7,1-8,13 (m, 9H).</p>
+				<p>(Furyl-2)-2 o-nitrophényl-3 oxiranne 8c</p>
+				<p>"Mode opératoire" identique au précédent; Rdt: 94%; F(°C) hexane: 46-47; rmn 'H: protons époxydiques à 3,73 (d, 1H, V = 2 Hz) et 4,9 (d, 1H, V = 2 Hz), protons furyliques à 6,36-6,66 (m, 2H), protons aromatiques à 7,2-8,3 (m, 5H). Anal. calc. pour C| 2 H 9 N0 4 : C 62,33, H 3,89, N 6,06; tr.: C 62,15, H 3,75, N 6,01. o-Nitrophényl-2 p-nitrophényl-3 oxiranne 8d "Mode opératoire" identique à celui utilisé pour la préparation de 8b et 8c. Le produit réactionnel brut, obtenu après évaporation du solvant , est dissout dans 30 mL d'éthanol; l'o-nitrophényl-1 p-nitro-phényl-3 oxiranne cristallise au refroidissement; il est ensuite filtré et séché; Rdt: 83%; F(°C): 165 (litt. (5) F 160-162°C); rmn 'H: protons époxydiques à 3,86 (d, 1H, V = 2 Hz) et 4,42 (d, 1H, V = 2 Hz), protons aromatiques à 7,3—8,5 (m, 8H).</p>
+				<p>Formyl-l o-nitrophényl-2 cyclopropane 9</p>
+				<p>À une solution de 4,2 g d'acroléine (0,075 mol) dans 25 mL de dichlorométhane, on ajoute 13,9 g (0,05 mol) de sel de sulfonium 1, puis sous vive agitation, 40 mL de soude 1 N. Après disparition de la coloration de l'ylure (10 min environ), on ajoute 30 mL d'eau, décante la phase organique puis extrait deux fois la phase aqueuse au dichlorométhane (60 mL). La phase organique est concentrée à l'évaporateur rotatif et l'huile obtenue distillée sous pression réduite; Rdt 83%; £ 0 .s = 134°C; rmn 'H: protons cyclopropaniques de 1,3 à 3,3 (m, 4H), protons aromatiques de 7,1 à 8,1 (m, 4H), CHO cis à 9,0 (d, J = 5 Hz), CHO trans à 9,4 (d, J = 5 Hz). Anal. calc. pour C, 0 H 9 NO 3 : C 62,82, H 4,71, N 7,32; tr.: C 62,70, H 4,68, N 7,27.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Watanabe</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Hamaguchi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Ohki</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Pharm. Bull</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="pp">2123</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Wierenga</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">W</forename>
+									<surname>Harrison</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">G</forename>
+									<surname>Chidester</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">49</biblScope>
+								<biblScope type="pp">438</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Ta-Jyh Lee Et W</forename>
+									<forename type="middle">J</forename>
+									<surname>Holts</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">2071</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">R</forename>
+									<surname>Beck</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">2057</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Partale</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">446</biblScope>
+								<date type="published" when="1927"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Chrzescinski</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse</title>
+							<meeting>
+								<address>Strasbourg</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1911"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">P</forename>
+									<surname>Pierron</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">852</biblScope>
+								<date type="published" when="1901"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

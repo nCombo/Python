@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Résonance magnétique nucléaire ,3 C des dérivés allyliques de la colonne IV-A, 1 de type (C6HS)3ECH2CH=CH—CH3. Effets électroniques du substituant du noyau aromatique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">E</forename>
+								<surname>Matarasso-Tchiroukhine</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Recherches de Chimie Organique</orgName>
+								<orgName type="institution">E.N.S.C.P</orgName>
+								<address>
+									<addrLine>Rue Pierre et Marie Curie</addrLine>
+									<postCode>75231, Cedex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Résonance magnétique nucléaire ,3 C des dérivés allyliques de la colonne IV-A, 1 de type (C6HS)3ECH2CH=CH—CH3. Effets électroniques du substituant du noyau aromatique</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'étude par rmn "C de la série (C 6 H 5);,ECH:,CH=CH—CH 3 1E pour tous les éléments de la colonne 1V-A a mis au jour les effets électroniques du substituant du noyau aromatique en fonction de l'élément E-1V-A; à savoir (a) un effet électro-accepteur par hyperconjugaison pour E = Si, Ge, Sn, (b) un effet inverse, électrodonneur par hyperconjugaison pour E = Pb, impliquant une électronégativité plus élevée pour cet élément et (c) un effet donneur par induction (1) pour E = C. L'énergie moyenne d'excitation de la molécule gouverne les déplacements chimiques des carbones ipso et ortho. 11 semble qu'elle soit également déterminante quant au couplage 'J([? C— 207 Pb).</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The l3 C nmr study of the series (C^XiECl-LCl-^CH—CH 3 1E shows, for the aromatic nucleus, a polarization consistent with a mesomeric electron withdrawing effect of the substituent in the case of E = Si, Ge, Sn; inversely, a mesomeric donating effect, in the case E = Pb, involving a higher electronegativity for Pb; and a donating IT inductive effect, in the case E = C. The mean electronic excitation energy seems to dominate the chemical shifts of the aromatic carbons C, y " " and C,,, " , " , as well as the coupling './(l3 C— 2(' 7 Pb).</p>
+			</div>
+		</front>
+		<body>
+			<p>L'étude comparative des déplacements chimiques et des couplages le long de la colonne IV-A pour une même série R 3 ECH 2 CH=CH—CH 3 1 E, Z ou R 3 ECH(CH 3 )CH=CH 2 2 avait permis d'interpréter les résultats obtenus en termes d'hyperconjugaison CT-TT (1).</p>
+			<p>Dans le but d'apporter des renseignements quant aux comportement respectif des hétéroéléments Si, Ge, Sn et Pb vis à vis du noyau aromatique, il nous a paru souhaitable de compléter ces travaux par l'étude comparative du fragment aromatique de la série (C 6 H 5 ) 3 ECH 2 CH=CH—CH 3 , 1 E. En ce qui concerne la partie expérimentale, se rapporter à la première partie de ce travail ( 1 ).</p>
+			<div>
+				<head>Résultats et discussion</head>
+				<p>Paramètres SuCAr</p>
+				<p>S u C Ar Les résultats numériques expérimentaux concernant les déplacements chimiques § l3 C Ar se trouvent consignés dans le tableau 1.</p>
+				<p>Il convient de rappeler, d'une part, que l'introduction d'un substituant sur le noyau benzènique conduit à une polarisation des électrons TT du noyau phényle. Cette polarisation est gouvernée à la fois par le facteur de polarité CT], et le facteur de résonance CT r , du substituant; et, d'autre part, que (a) les déplacements chimiques S I3 C P et § I3 C, " sont proportionnels à la charge totale, q, = q a + q^, portée respectivement par les carbones para et meta\ ils sont liés aux paramètres d'induction cri et de résonance CT r du substituant par une relation linéaire (2). Pour les carbones ipso C,, et ortho, C, " il faut ajouter l'effet stérique ainsi que toute contribution ayant pour origine l'effet d'anisotropie du substituant (3); et que (b) le paramètre AS 13 C P par rapport au benzène est fonction linéaire de Aq^, lui-même proportionnel à A</p>
+				<p>Il en résulte que le caractère donneur ou accepteur d'un substituant peut être déduit directement du déplacement chimique du carbone en para.</p>
+				<p>Il convient de distinguer Aq^? et eAq^ (transfert de charge total) entre le substituant et le noyau aromatique, lequel dépend presque exclusivement de la constante cr R , tandis que àqj 2 '' dépend de façon relativement importante de la polarité du substituant (2).</p>
+				<p>Effets électromères des substituants</p>
+				<p>Les effets électromères observés sont faibles (Tableau 1).</p>
+				<p><formula>(a) E = C</formula></p>
+				<p>La polarisation du noyau benzènique (ô l3 C ;) &lt; § I3 C, " ) est congruente avec un effet donneur pour le substituant. Sur la base de résultats acquis antérieurement pour le méthylbenzène (4), admis pour le reri-butylbenzène (5) et sachant qu'une hyperconjugaison cr TT nécessite des énergies comparables pour les orbitales CT et TT, ce qui est réalisé dans le cas des composés organométalliques (6), tandis que dans le cas du composé 1E (E=C) cette hyperconjugaison se trouve très vraisemblablement minimisée du fait de la différence d'énergie entre les orbitales CT et TT, nous concluons à une polarisation du noyau phényle par effets TT inductifs du substituant.</p>
+				<p><formula>(b) E = Si, Ge, Sn</formula></p>
+				<p>La polarisation du noyau benzènique (8 I3 C,, &gt; 8 13 C, " ) indique un effet électroaccepteur pour le substituant. Cet effet ne peut être attribué à des effets inductifs, car d'après l'échelle d'électronégativité établie pour les éléments E (1), un effet -TT inductif conduirait à un résultat inverse de celui observé. On peut conclure à un effet électroaccepteur par résonance.</p>
+				<p><formula>(c) E = Pb</formula></p>
+				<p>La polarisation du noyau phényle (8 I? C,, &lt; 8 I3 C, " ) est congruente avec un effet donneur pour le substituant. Pour des raisons exposées dans le cas précédent, on peut conclure à un effet électrodonneur par résonance. L'effet donneur par hyperconjugaison de la liaison C—E, favorisé par des énergies similaires pour les orbitales cr et -TT concernées, croît avec la densité électronique des orbitales p des atomes reliant les systèmes -TT et cr (6); il est favorisé par une électronégativité accrue de l'élément E (5). Le caractère électrodonneur par résonance distingue le dérivé du plomb des autres groupements —E(C 6 H 5 ) 2 (CH 2 CH=CH—CH 3 ) de la série E-IV-A; des résultats similaires ont été obtenus pour les groupements E(C 6 H 5 ) 3 (E = Sn, Pb) (5, 10) rapprochant, de ce fait, les dérivés du plomb des dérivés arylmercuriques plûtot que des dérivés de l'étain (10).</p>
+				<p>La différence A = ô' 3 C p — ô' 3 C, " est fonction linéaire du facteur de résonance CTR (9); les données de la littérature (9) ont été mises à profit pour déterminer des ordres de grandeur pour les effets de résonance des substituants, étudiés en fonction de l'hétéroélément (Tableau 4).</p>
+				<p>La comparaison des paramètres ô' 3 C Ar (Tableau 1) pour la série 1E avec les paramètres correspondants d'alkylbenzènes (7, 8) d'une part, et ceux des phényllithium et bromure de phénylmagnésium (11) de l'autre montre que: (a) le profil du spectre du dérivé 1E du carbone (E = C) est similaire à ceux du toluène et du n-butylbenzène; (b) le profil des spectres des composés hétéroatomiques E = Si, Ge, Sn, Pb, présente une analogie (surtout marquée pour les dérivés du plomb) avec celui des spectres du phényllithium et du bromure et de phénylmagnésium , à savoir, un déblindage des carbones ipso (C,-) (5-25 ppm/benzène) et ortho (C " ) (7 ppm/benzène).</p>
+				<p>Les déplacements chimiques paramagnétiques 8 13 C, et 8 I3 C " pour le phényllithium et le bromure de phénylmagnésium avaient été interprétés (11) en suggérant que l'anisotropie de la liaison C,—M était à l'origine des déplacements paramagnétiques 8 I3 C, et 8 13 C 0 et que ceux-ci étaient gouvernés par l'énergie moyenne d'excitation de la molécule, A E (cr C( _ M —» -TT*); on sait que les déplacements chimiques du carbone sont essentiellement déterminés par le terme paramagnétique de la constante d'écran, ôp A , qui peut être exprimé (2) en termes d'énergie moyenne d'excitation de la molécule, A E, à laquelle il est inversement proportionnel.</p>
+				<p>Pour les composés hétéroatomiques étudiés 1 E, il paraît raisonnable d'interpréter les déplacements chimiques paramagnétiques des carbones C, et C " de la même manière; A E décroît de Si à Pb (6) ce qui est en accord avec le déplacement paramagnétique de C, lorsque E varie de Si à Pb.</p>
+				<p>On remarque (Tableau 1) que pour le dérivé du silicium (à l'encontre des autres dérivés hétéroatomiques), le profil du spectre rmn L3 C correspond pour tous les carbones à une polarisation du noyau phényle induite par un substituant électroaccepteur . S^CP &gt; 8' 3 C, " et 8 L3 C " R , ; , " &gt; 8 i3 C, /m " ; le résultat s'accorde avec un effet électroaccepteur par résonance du groupement (C 6 H 5 ) 2 (CH 3 CH=CH—CH 2 )E— qui serait relativement plus important pour le dérivé du silicium par rapport aux dérivés du germanium et de l'étain et qui serait déterminant ; quant aux positions relatives des déplacements chimiques des carbones aromatiques. Ce résultat est en accord avec les travaux théoriques antérieurs (6).</p>
+				<p>Couplages</p>
+				<p>Les résultats expérimentaux sont rassemblés dans les tableaux 2 et 3.</p>
+				<p>(a) Couplage hétéroélément—carbone 'Jf'^C—E) On remarque (Tableau 2), pour le dérivé de l'étain (E = Sn), un couplage '7( I3 C— ll9 ll7 Sn) = 495,2; 472,8 Hz, donc très voisin d'un couplage "typique" d'une liaison étain tétrahédrique sp 3 — carbone sp 2 (13); en revanche pour le dérivé du plomb, E = Pb, on observe un couplage bien inférieur aux valeurs admises comme valeurs caractéristiques de la liaison plomb tetrahedrique sp 3 — carbone sp 2 (14), à savoir, pour (C 6 H 5 ) 4 Pb, './( l3 C— 207 Pb) = 480,9 Hz et pour (CH 2 =CH) 4 Pb, './( l3 C— 207 Pb) = 454,1 Hz. Il convient également de noter que pour (C 6 H 5 ) 3 PbCH 3 , lJ(l3C_207pb) = 439 Hz (15); comme U a été montré par dg Vos, '7 est fonction du nombre de phényles liés au plomb et décroît à 348 Hz, pour (C 6 H 5 )Pb(CH 3 ) 3 ; l'auteur interprète ce phénomène en termes de charge effective portée par le plomb et du caractère s de la liaison C—Pb.</p>
+				<p>Rappelons que le terme de contact de Fermi gouverne le couplage ] J(E—X) qui est (a) inversement proportionnel à l'énergie moyenne d'excitation de la molécule, A E, et (b) proportionnel à la charge effective du noyau et au caractère 5 de l'orbital hybride formant la liaison E—X.</p>
+				<p>Dans le cas du composé 1E (E = Pb) la faible valeur du couplage [ J observée peut être rationalisée en termes d'hyperconjugaison CT—TT de la liaison C—E et de la double liaison allylique; en effet, l'existence d'une hyperconjugaison conduit à un accroissement de la charge positive sur le plomb, ayant pour conséquence, un accroissement de A£, ce qui est congruent avec une diminution de J(' 3 C— 207 Pb).</p>
+				<p>(b) Couplage carbone—proton H U C—H)</p>
+				<p>Le tableau 3 montre pour les couplages J( I3 C—H) les résultats suivants: 'i(' 3 C, " —H) &lt; [ JC 3 C P —H) pour E = Si, Sn et 1 13 C ; ,—H) &gt; 1 J( I3 C " ,—H) pour E = Pb.</p>
+				<p>Ces résultats laissent entendre que ces couplages sont gouvernés par la charge effective des carbones C " , et C,,. Dans ce cas les inégalités observées correspondraient à une polarisation du noyau phényle induite par un substituant électro-accepteur, pour E = Si, Sn et par un substituant électrodonneur pour E = Pb; ce qui confirme les résultats déduits de l'étude des paramètres § l3 C Ar .</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">E. Matarasso-Tchiroukhine</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<biblScope type="pp">2476</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+									<surname>Hehre</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">W</forename>
+									<surname>Taft</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">D</forename>
+									<surname>Topsom</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Prog</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">et références citées</title>
+							<imprint>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">S</forename>
+									<surname>Gutowsky</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+									<surname>Mccall</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">R</forename>
+									<surname>Mcgarvey</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">H</forename>
+									<surname>Meyer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">74</biblScope>
+								<biblScope type="pp">4809</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Libit</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Hoffmann</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">1370</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Bullpitt</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Kitching</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Adcock</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Dodrell</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Organomet. Chem</title>
+							<imprint>
+								<biblScope type="vol">116</biblScope>
+								<biblScope type="pp">161</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">G</forename>
+									<surname>Pitt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Organomet Chem</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="pp">49</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+									<surname>Woolfenden</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<monogr>
+							<title level="m" type="main">Dans Carbon-13 NMR spectroscopy</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1972"/>
+								<publisher>Academic Press</publisher>
+								<biblScope type="pp">97</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">J</forename>
+									<surname>Natterstadt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">2427</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">N</forename>
+									<surname>Nesmeyanov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">N</forename>
+									<surname>Kravtsov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">A</forename>
+									<surname>Kvacov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">S</forename>
+									<surname>Khazanova</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Dokl. Akad. NaukSSSR</title>
+							<imprint>
+								<biblScope type="vol">199</biblScope>
+								<biblScope type="pp">1078</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">J</forename>
+									<surname>Jones</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">M</forename>
+									<surname>Grant</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Fraenkel</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">73</biblScope>
+								<biblScope type="pp">1624</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">L</forename>
+									<surname>Nelson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">D</forename>
+									<surname>Cargioli</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">94</biblScope>
+								<biblScope type="pp">3089</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">G</forename>
+									<surname>Kuivila</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Considine</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">J R H</forename>
+									<surname>Mynottet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Sarma</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Organomet. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">11</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">H</forename>
+									<surname>Cox</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">61</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<surname>Vos</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Organomet. Chem</title>
+							<imprint>
+								<biblScope type="vol">104</biblScope>
+								<biblScope type="issue">193</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

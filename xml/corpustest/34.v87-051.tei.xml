@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Chloration de l&apos;acétanilide et de la benzanilide en présence des cyclodextrines et de l&apos;amylose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1987">1987</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Robert</forename>
+								<surname>Chênevert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<addrLine>Faculté des sciences et de génie</addrLine>
+									<postCode>G1K7P4</postCode>
+									<settlement>Québec</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<surname>Ampleman</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université Laval</orgName>
+								<address>
+									<addrLine>Faculté des sciences et de génie</addrLine>
+									<postCode>G1K7P4</postCode>
+									<settlement>Québec</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Chloration de l&apos;acétanilide et de la benzanilide en présence des cyclodextrines et de l&apos;amylose</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>La présence des cyclodextrines ou de l&apos;amylose lors de la chloration de l&apos;acétanilide ou de la benzanilide favorise la formation de l&apos;isomère para au détriment de l&apos;isomère ortho. La constante de dissociation du complexe acétanilide-a-cyclodextrine ainsi que la disposition moléculaire de l&apos;acétanilide dans la cavité de l&apos;a-cyclodextrine ont été déterminées par spectroscopic de résonance magnétique nucléaire du proton et du carbone-13.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The ratio of ortho to para isomers in chlorination of acetanilide and benzanilide is changed in favour of the para isomer when the reactants are entrapped in cyclodextrins or amylose. The dissociation constant and the time-averaged position of acetanilide in the a-cyclodextrin cavity have been determined by proton and carbon-13 nuclear magnetic resonance spectroscopy.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les cyclodextrines forment des composés d&apos;inclusion en solution aqueuse avec une grande variété de substrats et elles sont des catalyseurs de certaines réactions organiques (1). Ces systèmes sont des modèles de la réaction enzymatique et leur cinétique a été fortement étudiée (2-4). Plus récemment, l&apos;intérêt s&apos;est porté vers l&apos;étude de la sélectivité des réactions en présence de cyclodextrines. Les premiers travaux sont ceux de Breslow et al. sur la chloration de l&apos;anisole par l&apos;acide hypochloreux en présence de l&apos;a-cyclodextrine (5, 6). Les cyclodextrines ont aussi une influence sur la réaction de Reimer-Tiemann (7), le réarrangement photochimique de Fries (8, 9), le réarrangement du tétrafluoroborate de benzylméthylsulfonium (10) et sur la réduction des énones par le borohydrure de sodium (11). D&apos;autre part, l&apos;amylose ou poly-(l—&gt;4)-a- D-glucose peut dans des conditions adéquates adopter la conformation d&apos;une hélice a et inclure des substrats à l&apos;intérieur de cette hélice. Malgré ce fait, l&apos;amylose a rarement été employée comme catalyseur dans les réactions organiques. Hui et al. ont rapporté une cinétique de saturation de type enzymatique lors de l&apos;étude de l&apos;hydrolyse d&apos;esters en présence de l&apos;amylose ou de ses dérivés (12). Plus récemment nous avons décrit l&apos;effet de l&apos;amylose sur la réduction d&apos;énones par le borohydrure de sodium (13) et sur un réarrangement photochimique de Fries (14). Nous décrivons dans cet article les effets des cyclodextrines et de l&apos;amylose sur la chloration de l&apos;acétanilide et de la benzanilide.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Résultats et discussion</head>
+			
+			<p>La chloration de l&apos;acétanilide et de la benzanilide par le chlore a d&apos;abord été réalisée dans l&apos;eau pure, puis les résultats ont été comparés à ceux obtenus en présence de l&apos;a-cyclodextrine (a-CD), de la (3-cyclodextrine ((3-CD) ou de l&apos;amylose. Un équivalent molaire de cyclodextrine (a-CD et (3-CD) a été employé alors que la concentration relative d&apos;amylose était de 1 g/mmol de substrat. Les résultats sont décrits par l&apos;équation [1] et le tableau 1. Dans tous les cas, la cyclodextrine favorise l&apos;introduction du chlore en position para et l&apos;effet est plus prononcé avec l&apos;a-CD. Nous avons donc étudié plus particulièrement le complexe a-CD-acétanilide. La constante de dissociation K d du complexe a été mesurée par spectroscopie de résonance magnétique nucléaire du proton. Les déplacements ,C—R [1] eu H,0-R + R = CH 3 , Phchimiques des protons aromatiques du substrat ont été mesurés en fonction de la concentration de l&apos;a-CD (tableau 2). Les valeurs obtenues ont été traitées suivant la méthode décrite par <ref type="bibr">Bergeron et al. (15, 16</ref>) (diagramme de Benesi-Hildebrand). La constante de dissociation trouvée est 5,0 ± 0,3 x 10~ 2 M. Cette constante est comparable à celle de l&apos;acétate de phényle (2,2 x 10 -2 M) (17) ou du /?-nitrotrifluoroacétanilide (6,1 x 10~ 2 M) (18) avec l&apos;a-cyclodextrine.</p> 
+			
+			<p>La spectroscopie rmn à haute résolution (400 MHz) permet aussi de déterminer la position moyenne de l&apos;acétanilide à l&apos;intérieur de la cavité de la cyclodextrine. En effet, les protons méthine en position 3 et 5 de chaque unité de glucose pointent vers l&apos;intérieur de la cavité de la cyclodextrine. L&apos;observation de ces protons en rmn montre qu&apos;ils sont blindés lorsqu&apos;ils se trouvent dans le champ magnétique du nuage d&apos;électrons TT d&apos;un noyau aromatique (15, 16, 19-23). Les déplacements chimiques des protons de l&apos;a-cyclodextrine en fonction de la concentration de l&apos;acétanilide sont rassemblés dans le tableau 3. Les constantes de couplage entre les différents protons de l&apos;a-CD (h2 = 3,3 Hz, J2,3 = 9,8 Hz, J3A = 8,8 Hz, JA45 = 9,6 Hz) varient très peu lors de l&apos;addition d&apos;acétanilide, ce qui signifie qu&apos;il n&apos;y a pas distorsion des cycles de glucose. A l&apos;échelle des temps de la rmn 1 H, les six unités de glucose sont dans des conformations identiques. Les valeurs des constantes de couplage vicinaux sont en accord avec la conformation chaise Cl. Il y a un déplacement vers les champs forts des protons H3 et H5, alors que les autres protons situés à l&apos;extérieur de la cavité ne montrent pas de déplacements significatifs. Le déplacement de H3 est nettement plus prononcé que celui de H5. D&apos;autre part, le déblindage des protons en position ortho du substrat est similaire à celui des protons meta et para. Ces résultats montrent que le noyau aromatique se trouve vis-à-vis le proton H3 de l&apos;a-CD, c&apos;est-à-dire du coté des hydroxyles secondaires (coté le plus large du tore). Le schéma 1 montre la position du noyau aromatique dans la cavité de la cyclodextrine. A priori, la molécule d&apos;acétanilide peut prendre deux orientations différentes dans la cavité de a-CD : le groupement amide peut être orienté vers l&apos;intérieur de la cavité ou encore émerger du coté des fonctions hydroxyles secondaires. L&apos;orientation réelle pourrait être établie par une étude des déplacements chimiques (rmn &apos;H) des protons sur le noyau aromatique du substrat : plus de déblindage est fort plus le proton est inclu profondement dans la cavité de la cyclodextrine (21). Toutefois, dans le cas de I&apos;acétanilide, les déplacements des protons ortho sont presqu&apos;identiques à ceux des protons méta et para et il est impossible d&apos;établir l&apos;orientation du substrat selon ce critère. L&apos;orientation peut aussi être déterminée par une étude des déplacements chimiques en rmn 13 C des carbones du noyau aromatique. Les carbones 1 et 4 situés dans l&apos;axe de l&apos;a-CD seront blindés (déplacement vers les champs forts) s&apos;ils sont profondement inclus dans la cavité et déblindés (déplacement vers les champs faibles s&apos;ils sont dans la position inverse (24-26)). Il s&apos;agit d&apos;un effet de solvant, la cavité de la cyclodextrine fournissant un milieu moins polaire que son environnement. Les déplacements ont été prédits par des calculs de mécanique quantique et les orientations prédites sont conformes à celles déterminées en solution par la rmn &apos;H et à l&apos;état solide par des études de rayons-X (24). Ainsi, il a été démontré que l&apos;acide benzoïque, l&apos;acidep-hydroxybenzoïque et le p-nitropbénol ont respectivement leurs groupements acide et nitro orientés vers l&apos;intérieur de la cavité de l&apos;a-CD (24). Dans le cas de I&apos;acétanilide le carbon 1 est déblindé de 0,29 ppm et le carbone 4 est blinde de 0,35 ppm (tableau 4). La fonction amide émerge donc de la cavité de la cyclodextrine par le coté des hydroxyles secondaires (schéma 1). Cette disposition du substrat permet d&apos;expliquer la sélectivité de la réaction de chloration. Les positions ortho de I&apos;acétanilide sont masquées par la cyclodextrine alors que la position para qui occupe l&apos;axe de la cavité est relativement dégagée. Le chlore pénétre donc dans la cavité du coté des hydroxyles primaires pour réagir avec la position para de I&apos;acétanilide. Un mécanisme similaire a été rapporté par Komiyama et Hirai (27, 28) lors d&apos;une étude de la réaction de Reimer-Tiemann en présence de cyclodextrines. Ils ont démontré que l&apos;addition de l&apos;a-CD rend la réaction sélective en para et que le chloroforme pénétre dans la cavité de l&apos;a-CD pour attaquer la position para du noyau aromatique. Lors de l&apos;étude de la chloration de l&apos;anisole par l&apos;acide hypochloreux en présence de a-CD, Breslow a noté une augmentation de vitesse et une grande sélectivité en para. Cet effet avait deux origines : les positions en ortho sont masquées par la formation du complexe et la chloration en para est favorisée par la formation d&apos;un ester hypochloreux avec un hydroxyle de la cyclodex- trine permettant une réaction intra-complexe (5, 6, 29). Plus récemment, Tee et Bennett ont étudié la cinétique de la bromation de l&apos;anisole par le brome en présence de a-CD et ont noté une réduction du taux de bromation en présence de a-CD; ils ont aussi démontré que la réaction n&apos;implique pas l&apos;acide hypobromeux ou son ester (30). Dans notre cas, la formation d&apos;acide hypochloreux est possible par réaction entre le chlore et l&apos;eau mais la constante d&apos;équilibre est défavorable (K = 4,2 x 10~4) (31). Nos résultats doivent être expliqués principalement par un encombrement de position ortho car la formation d&apos;un ester hypochloreux et une réaction intra-complexe devrait conduire à une plus grande sélectivité comparable à celle rapportée par Breslow.</p>
+				
+				<p>Nous n&apos;avons pas effectué d&apos;études similaires de spectro- scopie rmn pour le complexe a-CD-benzanilide car la solubilité de la benzanilide est infime dans l&apos;eau et la présence de deux noyaux aromatiques sur le substrat rend l&apos;interprétation des données complexes. La sélectivité plus faible de la benzanilide est due au moins en partie à la présence de deux noyaux aromatiques, le noyau benzoyle occupant la cavité de la cyclodextrine environ la moitié du temps. Il est à noter que la chloration d&apos;un noyau aromatique par le chlore sans catalyseur n&apos;est possible que sur un noyau activé; la chloration est impossible sur le noyau benzoyle car il est désactivé et nous n&apos;avons pas détecté d&apos;autres produits que ceux décrits au tableau 1.</p> 
+				
+				<p>L&apos;amylose est sans effet notable sur la chloration de I&apos;acétanilide mais, tous comme les cyclodextrines, favorise l&apos;introduction du chlore en para de la benzanilide. Nous avons déjà décrit des résultats similaires lors du réarrangement photochimique de Fries des acétate et benzoate de phényle (14). Le réarrangement du benzoate était modifié par la présence de l&apos;amylose alors que celui de l&apos;acétate ne l&apos;était pas. Il semble que l&apos;amylose requiert des substrats volumineux afin d&apos;exercer son effet. Hui a rapporté lors de l&apos;étude de l&apos;hydrolyse d&apos;esters de p-nitrophénol en présence d&apos;amylose que l&apos;effet catalytique est nul sur l&apos;acétate et que l&apos;effet augmente avec la longueur de la chaîne de l&apos;ester ( 12). De même, Whitten et coll. ont étudié la photochimie de stilbènes porteurs de chaînes de diverses longueurs en présence d&apos;amylose et ont aussi noté que l&apos;effet de l&apos;amylose augmente avec la longueur de chaîne (32). Nos résultats peuvent donc s&apos;expliquer ainsi : l&apos;amylose est sans effet sur la chloration de I&apos;acétanilide car le complexe d&apos;inclusion est instable; par contre, la benzanilide, plus volumineuse, est inclu dans l&apos;hélice a de l&apos;amylose, et la position para qui occupe l&apos;axe de l&apos;hélice est dégagée alors que les positions ortho sont masquées par les unités glucose formant cette hélice. L&apos;amylose existe sous forme d&apos;hélice a à un pH inférieur à 12 et une température inférieure à 60°C (32-34). Les hydrates de carbone de petite taille tel que le glucoside de méthyle sont sans effet sur la réaction.</p> 
+				
+				<p>L&apos;amylose est un produit naturel abondant et moins dispendieux que les cyclodextrines. Il présente un site de complexation similaire à celui des cyclodextrines mais ce site est plus flexible et de dimensions variables dans le sens de l&apos;axe de l&apos;hélice. Enfin Hui (12) a souligné que le processus de complexation peut s&apos;accomplir par de simples changements de conformation de la macromolécule mimant ainsi le processus enzymatique d&apos;adaptation induite («Induced fit»).</p>
+				
+			</div>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<div type="section">
+				<head>Réactifs</head>
+
+			<p>L&apos;acétanilide et la benzanilide (Aldrich Chem. Co.) ont été recristallisés jusqu&apos;à point de fusion constant et séchés sous vide. Des échantillons authentiques des chloro-2 et chloro-4 acétanilides ont été préparés par acétylation des chloroanilines correspondantes avec l&apos;anhydride acétique. Les chloro-2 et chloro-4 benzanilides ont été préparés par benzoylation des chloroanilines correspondantes avec le chlorure de benzoyle. La masse moléculaire moyenne de l&apos;amylose (Type III, Sigma Chem. Co.), mesurée par viscosimétrie, est de 4,38 x 10 5 g/mol (35).</p>
+
+			</div>
+
+			<div type="section">
+				<head>Appareils</head>
+
+			<p>Les produits de chloration ont été analysés avec un chromatographe en phase gazeuse Varian 3740 couplé avec un intégrateur Varian 4270. Les spectres de rmn ont été enregistrés sur des spectromètres multinoyaux Varian XL-200 et Bruker WH-400. Le dioxane a été utilisé comme référence externe en rmn du carbone-13 et l&apos;acétate de sodium 0,05 M comme référence externe en rmn du proton. Le solvant est l&apos;eau deutériée.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Chloration des amides. Méthode générale</head>
+
+			<p>La cyclodextrine (1 mmol) et le substrat (1 mmol) sont dissous dans l&apos;eau distillée (450 mL) et la solution est agitée durant 3 h. Dans le cas de l&apos;amylose on utilise 1,0 g d&apos;amylose/mmol de substrat. La solution est ensuite traversée par un filet de chlore (en excès) durant une heure. L&apos;excès de chlore est chassé par de l&apos;azote et la solution aqueuse est extraite à l&apos;éther (3 X 100 mL). La phase organique est séchée sur du sulfate de magnésium puis évaporée sous vide. Le mélange brut est analysé par chromatographie en phase gazeuse à l&apos;aide d&apos;une colonne SE-30, 6 pi x 1/8 po. Le programme de température est le suivant : isotherme à 100°C durant 2 min, augmentation de 7°C/min jusqu&apos;à 240°C, isotherme à 240°C.</p>
+
+			</div>
+
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Saenger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope type="vol">19</biblScope>
+			<biblScope type="pp">344</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Sirlin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr. II</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Tabushi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="issue">66</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Kuroda</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Catal</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">417</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Campbell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">91</biblScope>
+			<biblScope type="pp">3085</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Breslow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Kohn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Siegel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="pp">1645</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hirai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">105</biblScope>
+			<biblScope type="pp">2018</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle"></forename>
+				<surname>Watanabe</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope type="vol">14</biblScope>
+			<biblScope type="pp">820</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Plante</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">61</biblScope>
+			<biblScope type="pp">1092</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mitani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Koyama</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Chem. Commun</title>
+		<imprint>
+			<biblScope type="vol">869</biblScope>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Chamberland</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Lett</title>
+		<imprint>
+			<biblScope type="pp">1117</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Hui</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Jiang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">104</biblScope>
+			<biblScope type="pp">347</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Ampleman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Lett</title>
+		<imprint>
+			<biblScope type="pp">1489</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Voyer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="issue">5007</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bergeron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Channing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+				<surname>Pillov</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">99</biblScope>
+			<biblScope type="pp">5146</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bergeron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Channing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">P</forename>
+				<surname>Roberts</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">8</biblScope>
+			<biblScope type="pp">263</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">L</forename>
+				<surname>Van Etten</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+				<surname>Sebastian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Bender</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">89</biblScope>
+			<biblScope type="pp">3242</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Bender</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">99</biblScope>
+			<biblScope type="pp">8021</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Wood</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Saenger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">99</biblScope>
+			<biblScope type="pp">1735</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">V</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L</forename>
+				<surname>Thakkav</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Chem. Commun</title>
+		<imprint>
+			<biblScope type="vol">2</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Bergeron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Mcgovern</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">100</biblScope>
+			<biblScope type="pp">2878</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bergeron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Rowan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<biblScope type="pp">425</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hirai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polym. J</title>
+		<imprint>
+			<biblScope type="vol">13</biblScope>
+			<biblScope type="pp">171</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Inoue</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hoshi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">107</biblScope>
+			<biblScope type="pp">2319</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">I</forename>
+				<surname>Gelb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">M</forename>
+				<surname>Schwartz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Cardelino</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">S</forename>
+				<surname>Fuhrman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Laufer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">103</biblScope>
+			<biblScope type="pp">1750</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hirai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Chem. Soc. Jpn</title>
+		<imprint>
+			<biblScope type="vol">54</biblScope>
+			<biblScope type="pp">828</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hirai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">106</biblScope>
+			<biblScope type="pp">174</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Komiyamaeth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Hirai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">105</biblScope>
+			<biblScope type="pp">2018</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Campbell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">140</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Bennett</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">62</biblScope>
+			<biblScope type="pp">1585</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Advanced inorganic chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>e. ed. Interscience</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Hui</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">G</forename>
+				<surname>Whitten</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">105</biblScope>
+			<biblScope type="pp">1374</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Hayashi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kinoshita</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Miyabe</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polym. J</title>
+		<imprint>
+			<biblScope type="vol">13</biblScope>
+			<biblScope type="pp">537</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Nakatani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">I</forename>
+				<surname>Shibata</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Hiromi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">2363</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Experiments in physical chemistry. 3 e ed</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">P</forename>
+				<surname>Shoemaker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">W</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">I</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974" />
+			<publisher>McGraw-Hill</publisher>
+			<biblScope type="pp">392</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

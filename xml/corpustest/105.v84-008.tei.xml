@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">L'électrodissolution du cuivre dans les solutions bromurées</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Robert-Louis</forename>
+								<surname>Brossard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">Institut de recherche d'Hydro-Québec</orgName>
+								<address>
+									<addrLine>C.P. 1000, 1800 Montée Ste-Julie</addrLine>
+									<postCode>JOL 2P0</postCode>
+									<settlement>Varennes</settlement>
+									<region>Qué</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">L'électrodissolution du cuivre dans les solutions bromurées</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La dissolution de l'anode de cuivre a été étudiée en solution aqueuse de pH égal à 4 dont la concentration en NaBr dissous varie de 0,1 Ai à 1,2 M. Dans la zone où l'accumulation du produit de corrosion sur le cuivre est inexistante ou marginale, le courant de dissolution est décomposable en un phénomène de surface, d'une part, et en un phénomène de diffusion des ions dans la solution, d'autre part. Le courant associé à chacune de ces étapes lentes a été déterminé à partir des relations linéraire /"' vs. oT ,/2 . Par ailleurs, les principales caractéristiques du comportement de l'anode de cuivre sont en termes de dérivées partielles: (dE/d logio i) 25 °c. Br-= 60 mV/décade, (di'd/dco l/2) E . Br~ = constante, (dE/d log,o (i'd'w~ l/2)) 2 5»c. Br = 59 mV/décade alors que l'ordre de la réaction par rapport aux ions bromures est égal à 2. De plus, la relation E vs. log, 0 L est assimilable à une droite, ce qui est la conséquence d'un phénomène de surface limité par un transfert électronique. Un modèle de dissolution est présenté à partir duquel on retrouve les principales caractéristiques de la dissolution du cuivre. Selon ce modèle, le terme i' d est entièrement attribuable à la diffusion d'un bromocomplexe de cuivre, le CuBr 2 , depuis la surface de l'électrode jusqu'au sein de la solution. Pour sa part, le calcul de l'énergie d'activation apparente en considérant le modèle proposé est de 7 kcal/mol alors que la valeur expérimentale est de 6,5 kcal/mol. Enfin, la vague d'oxydation observée lorsque la tension d'électrode devient suffisamment anodique par rapport à la tension réversible de la réaction Cu + Br" = CuBr + e, est associée à la passivation du cuivre par le CuBr y. R</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The dissolution of a copper anode has been studied in aqueous solutions, at pH 4, for a range of concentrations varying from 0.1 M to 1.2 M in NaBr. Where the accumulation of the corrosion product on the copper was nonexistent or negligible, two phenomena account for the dissolution current: a surface phenomenon and a phenomenon of diffusion of the ions into the solution. The current associated with each of these slow steps has been determined from the linear relationship /"' vs. io~ 1/2 . The main characteristics of the copper anode behavior are expressed as partial derivatives: (dE/d logio 02s°c. Br~ = 60 mV/ decade, {dijdcd 1/2) e , Br -= constant, (dE/d log, 0 (¡'d"to~ l/2)) 25 »c, Br — 59 mV/decade, while the reaction order for the bromide ions is equal to 2. Furthermore, the linearity of the relationship E vs. log, 0 i arises as a direct consequence of a surface phenomenon limited by an electron transfer. A dissolution model that describes the main characteristics of the copper dissolution is presented. According to this model, the term / d is entirely ascribable to the diffusion of a copper bromide complex, CuBrJ, from the surface of the clectrode into the solution. The apparent activation energy calculation is 7 kcal/mol according to the model, while the experimental value is 6.5 kcal/mol. Finally, the observed oxidation wave when the electrode potential becomes sufficiently anodic compared to the reversible potential of the reaction Cu + Br~ = CuBr + e, is associated with the passivation of the copper by 7-CuBr.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Un nombre relativement restreint de chercheurs se sont penchés sur l'étude de la dissolution du cuivre en présence des ions Br~ (1 à 6). Il a été établi que la valence de dissolution du cuivre est de +1 dans le domaine de dissolution active (1) alors que le cuivre a tendance à se recouvrir de CuBr lorsque la tension devient suffisamment anodique (2 à 4). Le présent travail se propose d'élucider le procédé d'électrode durant la dissolution active du cuivre en solution aqueuse légèrement acide dont la concentration en Br~ est comprise entre 0,1 et 1,2 M.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<div type="section" n="2.1">
+					<head>La cellule et ses accessoires</head>
+					<p>Les détails relatifs à la cellule et ses accessoires ainsi qu'aux électrodes de travail sont donnés dans un article précédent (7). L'électrode de cuive se présente sous la forme d'un fil de 0,64 cm de diamètre, d'une plaque de 1 cm x 2 cm ou d'un disque de 0,5 cm de diamètre, les surfaces de l'échantillon sont respectivement de 0,4 cm 2 , 2 cm 2 et 0,196 cm 2 .</p>
+				</div>
+				<div type="section" n="2.2">
+					<head>La préparation des essais</head>
+					<p>Un barbottage d'azote de 6 h précède l'immersion de l'électrode de cuivre dans la solution. Les solutions contiennent entre 0,1 et 1,2 AI de NaBr dissous. Un tampon à base de phtalate de potassium est utilisé pour stabiliser le pH à 4. La méthode employée par Shoesmith et Lee (8, 9) a été retenue pour le polissage du cuivre: l'échantillon est d'abord poli mécaniquement par abrasion avec du papier au carbure de silicium, le polissage se termine avec de l'alumine de 1 |x. L'échantillon est alors rinçé à l'alcool, à l'acétone puis à l'eau distillée avant son immersion.</p>
+				</div>
+				<div type="section" n="2.3">
+					<head>Les techniques expérimentales utilisées</head>
+					<p>Les courbes tension-courant ont été obtenues en balayage linéaire de la tension. L'électrode à disque tournant a été utilisée en imposant une tension d'électrode constante alors que la vitesse de rotation (co) varie de 25,12 rad s -1 jusqu'à 628,3 rad s -'. On obtient ainsi le courant en fonction co. Le disque de cuivre est poli à chaque changement de tension. Un bain thermostatique a servi au contrôle de la température qui est comprise entre 22°C et 80°C. Enfin, les valeurs de la tension sont données par rapport à l'électrode au calomel saturée.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Résultats expérimentaux</head>
+				<div type="section" n="3.1">
+					<head>Apparition du produit de corrosion</head>
+					<p>L'enregistrement obtenu en balayage linéaire de la tension, reproduit à la fig. 1, et qui correspond à une vitesse de balayage en tension de 5 mV s"', est représentatif du comportement de l'anode de cuivre. La courbe montre une vague d'oxydation bien définie dont le maximum a comme coordonnées 20 mA cm" 2 (i pl ) et -92 ± 4 mV ccs (£ p ,). D'après les travaux réalisés dans les solutions bromurées acides (1), la valence de dissolution du cuivre est égale à 1.</p>
+					<p>Par ailleurs, la relation E vs. log, 0 i est linéaire dans la partie ascendante de la vague d'oxydation, appelée région "a", sur la fig. 1. L'examen de la surface de l'anode par le microscope à balayage a permis d'observer que le cuivre reste à nu dans cette région. L'accumulation du produit de corrosion sur l'électrode est perceptible dès que la tension imposée dépasse de 70 mV environ (Figs. 1, 2) la tension réversible (£ Cu/CuRr ) de la réaction:</p>
+					<p><formula>[1] Cu 4-Br -= CuBr 4-e qui est donnée par (10, 11)</formula></p>
+					<p><formula>[2] £cu/cuBr = -0,239 -0,059 log 10 (Br")</formula></p>
+					<p>où £ C u/cuBr est en volt par rapport à l'électrode au calomel saturé. Pour sa part, E pl dépasse de 115 mV environ £ Cu / CuBr . Dans le cas illustré à la <ref type="figure">fig. 2</ref>, le produit de corrosion est présent d'une façon très discrète sur la surface pour des tensions de —170 mV et —140 mV; l'échantillon est alors dans la région "a" (<ref type="figure">Fig. 1</ref>). La présence du produit de corrosion est de plus en plus importante en dehors de la région "a" quand la tension augmente (— 110 mV, —80 mV et 0 mV). On remarque que la surface n'est pas uniformément recouverte par le produit de corrosion alors que la vague d'oxydation est compatible avec la passivation de la surface par le produit de corrosion i.e. — 80 mV et 0 mV. Pour sa part, la relation E vs. log 10 i cesse d'être linéaire lorsque le produit de corrosion est présent sur le cuivre. Ce changement au niveau de la relation E vs. log, 0 i laisse croire à un changement au niveau du mécanisme de dissolution.</p>
+					<p>La diffraction aux rayons X a permis l'identification du produit de corrosion. Il est constitué d'un seul composé qui est le bromure cuivreux gamma (CuBr y). Enfin, la vague cathodique (<ref type="figure">Fig. 1</ref>) correspond à la réduction du CuBr y.</p>
+				</div>
+				<div type="section" n="3.2">
+					<head>Comportement du cuivre dans la zone de dissolution active (région "a" (<ref type="figure">Fig. 1</ref>))</head>
+					<p>L'anode de cuivre, polarisée à des tensions pour lesquelles le produit de corrosion est totalement absent ou présent d'une façon très discrète sur la surface de l'électrode, a les particularités suivantes: (a) la relation E vs. log 10 i est linéaire avec une pente voisine de 60 mV/décade ( 
+                    <ref type="figure">Fig. 3</ref>) dE d log,, 10 v 25°C, Br" = 60 mV/décade; (b) il y a élévation du courant de dissolution lorsque la vitesse de rotation de l'électrode (w) augmente ( 
+                    <ref type="figure">Fig. 4</ref>); cependant que la pente (ôz/ôa&gt;' /2 ) diminue avec w croissant; (c) l'ordre de la réaction par rapport aux ions Br" est voisin de 2 ( 
+                    <ref type="figure">Fig. 5</ref>); (d) la valence de dissolution est égale à 1; (e) une augmentation de la température se traduit par une élévation significative du courant de dissolution ( 
+                    <ref type="figure">Fig. 6</ref>).</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<div type="section" n="4.1">
+					<head>Analyse des courbes i vs. u&gt; l/2</head>
+					<p>L'allure des courbes i vs. w 1/2 est caractéristique d'un procédé d'électrode mixte (12), c'est-à-dire que le courant mesuré résulte de ce procédé d'électrode qui a deux étapes lentes. Ces étapes lentes sont la diffusion des ions dans la solution, d'une part, et un phénomène de surface comme le transfert électronique , d'autre part. Dans le cas où ces deux étapes lentes sont en série, le courant global est décomposable en deux courants selon (10):</p>
+					<p>où ; est le courant global, L est le courant de dissolution indépendant de la vitesse de rotation de l'électrode alors que i d est le courant attribué à la diffusion. D'après Levich (13), l'expression qui lie le courant de diffusion à la vitesse de rotation de l'électrode est</p>
+					<p>Ainsi, r 1 exprimé en fonction de w _l/2 doit donner une droite dont les valeurs de Q' et de B -1 sont déterminables à partir de la pente et de l'ordonnée à l'origine (<ref type="figure">Fig. 7</ref>) (9, 12).</p>
+					<p>L'inverse de la pente d (r')/d(or' /2 ) correspond kB, c'est-àdire au produit z' d -aT 1/2 alors que est obtenu par extrapolation de la droite jusqu'à uT 1 ' 2 égal à zéro. Dans l'exemple reproduit à la <ref type="figure">figure 7</ref>, B est égal à 0,14 mA cm -2 rad _l/2 s 1/2 alors que L est de 1,7 mA cm -2 . Les valeurs de B, i.e. de z d * oT l/2 , ont été déterminées pour différentes valeurs de la tension imposée dans 0,5 M NaBr ( 
+                    <ref type="figure">Fig. 8</ref>). La relation E vs. logio (voT 172 ) est linéaire avec une pente de 60 mV/décade approximativement. Par ailleurs, les valeurs calculées pour L sont données en fonction de la tension d'électrode à la figure 9 pour 0,5 M en NaBr. La relation E vs. log, 0 L, assimilable à une droite dont la pente est de 100 ± 10 mV/décade, suggère que le phénomène de surface est contrôlé par un transfert électronique.</p>
+				</div>
+				<div type="section" n="4.2">
+					<head>Mécanisme de dissolution</head>
+					<p>L'augmentation du courant de dissolution avec la vitesse de rotation de l'électrode (<ref type="figure">Fig. 4</ref>), la linéarité de la relation T 1 vs. oT 1/2 (<ref type="figure">Fig. 7</ref>) et, enfin, le fait que la relation E vs. log, 0 L soit assimilable à une droite (<ref type="figure">Fig. 8</ref>) suggère que la réaction est contrôlée par deux étapes en série. La première est attribuable au transfert électronique à l'interface électrode-électrolyte, l'autre à la diffusion d'une espèce ionique en solution. Par ailleurs, l'espèce la plus stable pour le cuivre dissous est le CuBrj (14) dans la gamme de concentration en Br" considérée. Ainsi, lorsque la dissolution du cuivre sous forme de CuBrT est envisagée, les étapes les plus probables sont:</p>
+					<p> où les indices i et s représentent la concentration à la surface de l'électrode et au sein de la solution. La première réaction, qui est une étape globale, correspond à l'oxydation du cuivre en CuBr^; elle peut être décomposée en deux étapes dont l'une d'entre elles correspond au transfert électronique. La deuxième étape coincide avec la diffusion du CuBrT depuis la surface de l'anode jusqu'au coeur de la solution.</p>
+					<div type="section" n="4.2.1">
+						<head>Cas des vitesses de rotation lente</head>
+						<p>Pour sa part, la relation entre le courant qui traverse l'électrode et la vitesse de rotation de l'électrode (relation [5]) indique que le terme B~ [ (»~ &gt;/2 tend à devenir le terme dominant en présence d'une agitation peu intense, donc, le courant est contrôlé par la diffusion, c'est-à-dire que i ~ ¡ d lorsque to est petit. Dans ces conditions, il est raisonnable de considérer la réaction [6] comme l'étape rapide, et la réaction [7] comme l'étape déterminante. L'étape [6] est alors dans un état voisin de l'équilibre; ce qui autorise à utiliser l'équation de Nemst:</p>
+						<p>Le réarrangement des termes donne:</p>
+						<p>Rappelons que l'étape lente est une étape de diffusion. Par conséquent, la vitesse de la réaction est donnée par la première loi de Fick:</p>
+						<p>Pour un fil de cuivre en l'absence d'agitation imposée, l'écriture de la relation</p>
+						<p>où k, est une constante de proportionnalité. L'utilisation de l'électrode à disque tournant permet d'écrire (13) selon Levich:</p>
+						<p>La substitution de 8 dans la relation</p>
+						<p>où Z, la charge de l'espèce qui diffuse, est égale à 1; v, la viscosité cinématique, est voisine de 0,96 x 10" 2 cm 2 s~' (15); OcuBr; est I e coefficient de diffusion de l'espèce CuBr^; u&gt; est la vitesse de rotation de l'électrode en radians par seconde; E est la tension d'électrode alors que £cu/cuBr7 est l a tension d'équilibre standard pour la réaction</p>
+						<p>sont semblables aux caractéristiques (a) et (c) trouvées pour la dissolution active du cuivre (Figs. 3, 5). De plus, la relation [17] est conforme à la relation [4], qui est la relation de Levich alors que la relation [18] correspond à la caractéristique observée à la <ref type="figure">fig. 8</ref>. Ainsi, le mécanisme de dissolution formé par les étapes [6] et [7] est en harmonie avec les caractéristiques du comportement de l'anode de cuivre. La formation du CuBrJ, proposée dans ce mécanisme, tend à confirmer le fait que le cuivre dissous a une tendance marquée à être associé aux ions Br" pour former des complexes (14). Pour sa part, le coefficient de diffusion est calculable à partir de l'équation</p>
+						<p>Les termes Z, F, v et F/RT ont été remplacés par leur valeur respective. £cu/cuBr; égal à -54 mV,. cs a été calculée à partir des valeurs des enthalpies libres de formation standard pour les ions Br" (11) alors que —44,750 cal mol"' a été utilisé dans le cas du CuBrj. ' Il est donc suffisant de connaître ; d * oo"' /2 , pour des valeurs de Br" et de E données (<ref type="figure">Fig. 5</ref>), pour que le coefficient de diffusion soit calculable à partir de la relation [19]. C'est ainsi que les valeurs du coefficient de diffusion, données au Tableau 1 pour 0,5 M Br", ont été déterminées; ces valeurs voisines de 1,4 x 10~ 5 cm 2 s -1 sont indépendantes de la tension imposée. Elles sont tout à fait en accord avec celles de la littérature (réf. 15, p. 80 et réf. 16). Par ailleurs, l'appauvrissement de la solution en ions Br -à la surface de l'électrode, [Br"] j, est envisageable d'après la réaction [6] lorsque le courant de dissolution est suffisamment élevé. Lorsque [Br -]; est voisin de zéro, il est prévisible qu'un courant limite (/,) soit atteint qui dépend de la diffusion des ions Br" depuis le coeur de la solution jusqu'à la surface de l'électrode et en conséquence, Î, doit être directement proportionnel à la concentration en ions [Br -] dans la solution. Comme le montre l'enregistrement reproduit à la figure 1, un courant limite (j pl ) est effectivement observé, mais en dehors de la zone de dissolution active, i.e. de la région "a", alors que le courant dans la région "a" ne dépasse pas 0,14 / pl environ. De plus, toujours dans la région "a", l'ordre de la réaction par rapport aux ions Br" est voisin de 2 (<ref type="figure">Fig. 5</ref></p>
+						<p>Il est donc raisonnable de considérer que la concentration en ions Br" est la même à la surface de l'électrode et au coeur de la solution dans la zone de dissolution active. C'est ainsi que le courant de diffusion est entièrement explicable à partir de la diffusion de l'espèce CuBrj dans la solution. L'énergie d'activation apparente, A H*, a été déterminée à partir de la pente de la droite donnée par le courant de dissolution en fonction de 7"' ( <ref type="figure">Fig. 10</ref>). L'électrode était en position stationnaire et la solution n'était pas agitée. Le courant a été obtenu à partir des courbes E vs. log ]0 i ( <ref type="figure">Fig. 6</ref>) dans une gamme de températures comprises entre 22°C et 75°C. Les densités de courant correspondent à une tension de —190 mV. La valeur expérimentale de A//* est de 6,5 kcal/mol. Pour leur part, les valeurs relatives du courant de dissolution (/ r ) ont été calculées en fonction de la température pour une tension de -190 mV. La relation [20], dérivée de la relation [14], a été utilisée:</p>
+						<p>Rappelons que i ~ ¿ d pour une électrode en présence d'une agitation peu intense. La variation de D (17) et de v (18) avec la température a été pris en considération pour le calcul de i T . D a été choisi égal à 1,4 x 10" 5 cm 2 /s à 22°C (Tableau 1). Ainsi, la valeur de Adéduite de la droite logi 0 U v s. T~\ est de 7,0 kcal/mol. Cette valeur est en harmonie avec 6,5 kcal/mol déterminée expérimentalement.</p>
+					</div>
+					<div type="section" n="4.2.1">
+						<head>Cas des vitesses de rotation rapide</head>
+						<p>Enfin, la relation [5] suggère que le phénomène de surface devient prédominant lorsque co est grand alors que le phénomène de diffusion est marginal. Selon le modèle de dissolution envisagé, la réaction  [6] devient l'étape déterminante alors que la réaction  [7] devient l'étape rapide. Dans ce cas, le phénomène de surface doit être caractéristique d'un transfert électronique ; ce qui est confirmé expérimentalement ( <ref type="figure">Fig. 8</ref>). En s'inspirant des travaux de Moreau (19) relatifs à la dissolution du cuivre dans les solutions concentrées en HC1, la réaction [6] est capable d'être décomposée en deux nouvelles étapes qui sont:</p>
+						<p><formula>[21] Cu + Br" = (CuBr") ads</formula></p>
+						<p><formula>[22] (CuBr") ads + Br" -» (CuBr 2 ) + e</formula></p>
+						<p>C'est l'étape [22], le transfert électronique, qui serait l'étape déterminante en présence d'une agitation intense. Néanmoins, l'utilisation de techniques transitoires combinées à l'utilisation de l'électrode à disque tournant avec anneau (réf. 12, chap. 8) devrait permettre de préciser davantage la nature de la réaction [6]. Des travaux de laboratoire sont actuellement en cours.</p>
+					</div>
+				</div>
+			</div>
+			<div type="section">
+				<head>Conclusions</head>
+				<p>1. Les courbes du courant de dissolution en fonction de la racine carrée de la vitesse de rotation de l'électrode ont une allure qui est caractéristique d'un procédé d'électrode qui est mixte. Le procédé d'électrode est dominé par la diffusion des ions dans la solution lorsque co est petit ou par un phénomène de surface lorsque co est grand.</p>
+				<p>2. Le courant associé à chacune de ces étapes lentes est déterminable à partir des relations i~ [ vs. co" l/2 . La linéarité entre la tension d'électrode et le logarithme de L suggère que le phénomène de surface est limité par un transfert électronique . Pour sa part, le terme U est entièrement imputable, selon le modèle considéré, à la diffusion d'un bromo-complexe de cuivre, le CuBr 2 , depuis la surface de l'électrode jusqu'au coeur de la solution. Le modèle est valide dans le domaine de dissolution pour lequel l'accumulation du produit de corrosion sur la surface de l'électrode est inexistante ou marginale.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">F</forename>
+									<surname>Kozin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">K</forename>
+									<surname>Lepesov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Izv</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Akad</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nauk Kaz. SSR, Ser. Khim</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">31</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Franco</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">K</forename>
+									<surname>Patel</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc. India</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">172</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Franco</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">K</forename>
+									<surname>Patel</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Inst. Chemists (India)</title>
+							<imprint>
+								<biblScope type="vol">50</biblScope>
+								<biblScope type="pp">243</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">H</forename>
+									<surname>Setty</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Proc. Indian Acad. Sci. Sect. A</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="pp">282</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+									<surname>Beccaria</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Br</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Corros. J</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">243</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">H V</forename>
+									<surname>Setty</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Indian J. Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">1083</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">L</forename>
+									<surname>Brossard</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">616</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+									<surname>Shoesmith</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">E</forename>
+									<surname>Rummery</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Lee</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electrochem. Soc</title>
+							<imprint>
+								<biblScope type="vol">123</biblScope>
+								<biblScope type="pp">790</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">Lee</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electrochim. Acta</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">1411</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<monogr>
+							<title level="m" type="main">Oxidation potentials. 2 e éd</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1952"/>
+								<publisher>Prentice-Hall</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">E</forename>
+									<surname>Block</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bulletin</title>
+							<imprint>
+								<biblScope type="vol">605</biblScope>
+								<biblScope type="pp">43</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<title level="a" type="main">Electrochemical methods</title>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Wiley &amp; Sons</title>
+							<imprint>
+								<biblScope type="issue">6</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<monogr>
+							<title level="m" type="main">Physiochemical hydrodynamics</title>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1962"/>
+								<publisher>Prentice—Hall</publisher>
+								<pubPlace>Englewood Cliffs, NJ</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<monogr>
+							<title level="m" type="main">Nouveau traité de chimie minérale</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Pascal</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1957"/>
+								<biblScope type="pp">274</biblScope>
+								<pubPlace>Tome III. Masson et Cie, Paris</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<monogr>
+							<title level="m" type="main">Handbook of electrochemical constants. Butter-worths Scientific Publ</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Parsons</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1959"/>
+								<biblScope type="pp">77</biblScope>
+								<pubPlace>London</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">A</forename>
+									<surname>Semenov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">I</forename>
+									<surname>Levin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Sov</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electro-chem</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="pp">1013</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<monogr>
+							<title level="m" type="main">Chemical engineers handbook. 4 E éd</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1963"/>
+								<publisher>McGraw-Hill</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<monogr>
+							<title level="m" type="main">Transport phenomena</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+									<surname>Bird</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1960"/>
+								<publisher>John Wiley &amp; Sons</publisher>
+								<biblScope type="pp">8</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Moreau</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electrochim. Acta</title>
+							<imprint>
+								<biblScope type="vol">26</biblScope>
+								<biblScope type="pp">497</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

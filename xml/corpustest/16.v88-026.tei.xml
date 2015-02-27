@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Synthèses des alkyl-1 cyclanols fonctionnalisés aux positions α, β et γ de la chaîne hydrocarbonée</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1988">1988</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">P</forename>
+								<surname>Canonne</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="department">Faculté des sciences et de génie</orgName>
+								<orgName type="institution">Université Laval, Québec (Québec)</orgName>
+								<address>
+									<postCode>G1K7P4</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Belley</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="department">Faculté des sciences et de génie</orgName>
+								<orgName type="institution">Université Laval, Québec (Québec)</orgName>
+								<address>
+									<postCode>G1K7P4</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">G</forename>
+								<surname>Fytas</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="department">Faculté des sciences et de génie</orgName>
+								<orgName type="institution">Université Laval, Québec (Québec)</orgName>
+								<address>
+									<postCode>G1K7P4</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<surname>Plamondon</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="department">Faculté des sciences et de génie</orgName>
+								<orgName type="institution">Université Laval, Québec (Québec)</orgName>
+								<address>
+									<postCode>G1K7P4</postCode>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Synthèses des alkyl-1 cyclanols fonctionnalisés aux positions α, β et γ de la chaîne hydrocarbonée</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">66</biblScope>
+							<biblScope type="fpage">168</biblScope>
+							<date type="published" when="1988">1988</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Nous avons mis au point une synthèse générale, efficace et à hauts rendements des /V./V-dialkylaminoalkyl-, chloroalkyl-, phénoxyalkyl-, thiophénoxyalkyl-, diéthoxyalkyl-et dithiolane-1,3 alkylcyclanols par action des a,(o-bis(bromomagnésio)alkanes sur les esters fonctionnalisés correspondants.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p> We have developed a general and versatile synthesis of A&apos;,A&apos;-dialkylaminoalkyl-, 1-chloroalkyl-, 1-phenoxyalkyl-, 1-thiophenoxyalkyl-, 1-diethyoxyalkyl-, and 1-(1,3-dithiolane)alkylcyclanols in good yields by the reaction of a,co-bis(bromo-magnesio)alkanes with the corresponding functionalized carboxylic acid esters.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<p>Plusieurs méthodes de synthèses d&apos;aminoalkyl-1 cyclanols ont été raportées dans la littérature (1, 2), mais ces méthodes mettent enjeu des transformations subséquentes des cyclanones correspondantes nécessitant parfois des réactifs coûteux. Généralement, l&apos;introduction du groupement amino s&apos;effectue par trois voies différentes, selon la longueur de la chaîne aminoalkylée désirée. Par exemple, les ct-aminoalkylcyclanols sont plus facilement accessibles par modification des cyanhydrines (3) ou des énamines (4) que les (3-aminoalkylcyclanols, car ces derniers ne peuvent être formés que par des réactions plus élaborées effectuées sur la chaîne hydrocarbonée (5). Enfin, la synthèse des 7-aminoalkylcyclanols semble être encore plus difficile, car les résultats obtenus, lors des études précédemment réalisées, montrent que les rendements réactionnels sont faibles (6).</p> 
+			
+			<p>Nous avons alors pensé que notre méthode, basée sur l&apos;utilisation des ot,w-bis(bromomagnesio)alcanes (7), conduirait aux composés désirés avec des bons rendements. L&apos;examen de l&apos;ensemble des résultats que nous avons obtenus par l&apos;action de ces organodimagnésiens sur les lactones (8) et anhydrides des acides dicarboxyliques (9), nous suggère de ne pas vouloir tenir compte de ceux déjà rapportés dans la littérature ( 10) en utilisant quelques aminoesters avec ces mêmes réactifs. En effet, les rendements obtenus par ces auteurs sont anormalement trop faibles et il nous est difficile d&apos;attribuer un rôle important à la présence de l&apos;azote ou à la basicité de l&apos;aminé qui auraient influencé grandement le cours de cette réaction. Rappelons que dans une récente publication nous avons démontré que les isoxazolones-5 encombrées fournissent les p-hydroxyoximes a,a-bisubstituées (11) avec de très bons rendements par la réaction du bis(bromomagnésio)-l,4 butane. La question se posa alors à savoir, si les dialkylaminoalkylesters utilisés dans les conditions des réactions d&apos;annélation que nous avons mises au point, fourniraient d&apos;aussi bons résultats ou s&apos;ils présenteraient des particularités distinctes qui diminueraient l&apos;efficacité de notre méthode.</p> 
+			
+			<p>Dans ce but, nous avons alors entrepris la présente étude en utilisant systématiquement divers types d&apos;aminoesters (1-10) constituant ainsi une série homogène. Nous avons repris certains a-et p-/V,/V-dialkylaminoalkylesters que ces auteurs avaient utilisés mais aussi des 7-aminoalkylesters afin de démontrer l&apos;influence éventuelle de la position de l&apos;azote et de la basicité de l&apos;aminé sur les réactions de Grignard inter-et intramoléculaires ( <ref type="figure">Schéma 1</ref>).</p>
+			
+			<p>La synthèse des a-et (3-aminoesters a été effectuée, d&apos;une part, à partir des halogénoesters par substitution nucléophile (12) et, d&apos;autre part, à partir du propénoate d&apos;éthyle par addition conjuguée d&apos;amines secondaires (13). Le bis(bromomagnesio)-l ,4 butane a été préparé dans le THF en présence d&apos;un excès de tournures de magnésium et ses réactions avec les aminoesters ont fourni les aminoalkyl-1 cyclopentanols 11-20 avec des meilleurs rendements que celles rapportées précédemment (10). Nous constatons que les facteurs ci-haut mentionnés n&apos;ont pas une influence considérable et ainsi nous démontrons que la différence de rendements trouvés ne peut être attribuée qu&apos;aux conditions expérimentales que ces auteurs ont choisies, plutôt qu&apos;à la structure des esters. Ces résultats suggèrent d&amp;apos;effectuer quelques réactions sur des aminoesters encombrés tels que (pyrrolidinyl-l)-2 propanoate d&amp;apos;éthyle (21), méthyl-2 (pyrrolidinyl-l)-2 propanoate d&amp;apos;éthyle (22) et (morpholinyl-4)-2 propanoate d&apos;éthyle (23) afin de cerner les limites de notre méthode, à ce qui a trait l&apos;influence de l&apos;encombrement stérique sur la formation des cyclopentanols. Nous avons alors fait réagir le bis(bromomagnesio)-l,4 butane sur les esters 21, 22 et 23 et avons constaté que les aminocyclopentanols 24, 25, 26 correspondants sont obtenus aussi avec des bons rendements. Nous rappelons que les rendements n&apos;ont pas été optimisés et ont été calculés à partir des composés déjà purifiés ( <ref type="figure">Schéma 2</ref>).</p> 
+			
+			<p>Il apparaît ainsi que l&apos;encombrement stérique influence peu le cours de la réaction au niveau de la cyclisation. Les réactions compétitives intermoléculaires ou intramoléculaires sont peu favorisées. En effet, nous n&apos;avons pas trouvé en quantité appréciable ni les cétones intermédiaires, provenant de la réaction d&apos;énolisation, ni les aminoalcools secondaires à chaîne ouverte provenant d&apos;une réaction de réduction intramoléculaire. Nous pouvons en déduire que la réaction d&amp;annélation à 1&amp;aide de bis(bromomagnesio)-1,4 butane est générale et applicable aux yV,/V-dialkylalkylaminoesters quelle que soit leur structure.</p>
+
+			<p>La question se posa encore une fois à savoir si notre méthode est aussi générale pour la formation des cyclohexanols correspondants en utilisant le bis(bromomagnesio)-l,5 pentane, sachant que le cycle à six membres est plus difficile à former par notre méthode (11).</p> 
+				
+			<p>Nous avons alors entrepris d&apos;étudier les réactions de cet organodimagnésien avec les aminoesters 1-10 dans les mêmes conditions expérimentales et avons observé que les dialkyl- aminoalkyl-1 cyclohexanols 27-35 sont formés avec des rendements légèrement plus faibles que ceux trouvés lors de la préparation des dialkylaminoalkylcyclopentanols mais de loin supérieurs à ceux trouvés dans la littérature (10) pour l&apos;ensemble des composés (tableau 1). Cette différence est principalement due à l&apos;encombrement stérique au niveau du carbonyle qui se traduit par la formation d&apos;une faible quantité d&apos;alcools secondaires à chaîne ouverte (2-18%) formés par la réaction de réduction intramoléculaire (Schéma 3). De l&apos;ensemble des résultats obtenus, il ressort que les réactions organodimagnésiennes effectuées dans le tétrahydrofuranne, en utilisant les conditions expérimentales précédemment décrites (3), sont applicables aux a-, [3-et 7-aminoesters.</p> 
+			
+			<p>Ce travail démontre que notre méthodologie peut facilement être utilisée pour la synthèse de divers alkyl-1 cyclanols fonctionnalisés. Il nous a semblé intéressant d&apos;étendre les réactions de ces organodimagnésiens bis-primaires aux esters fonctionnalisés sur la chaîne hydrocarbonée par d&apos;autres groupements importants pour leurs applications synthétiques ( Schéma 4 ) . Nous avons alors décidé d &apos; utiliser comme substrats , d &apos; une part , le phénoxyacétate d &apos; éthyle ( 36 ) , le phénylthioacétate d &apos; éthyle ( 37 ) , le chloro - 2 propionate d &apos; éthyle ( 38 ) , le phénoxy - 2 propanoate d &apos; éthyle ( 39 ) et , d &apos; autre part , le diéthoxyacétate d &apos; éthyle ( 40 ) et le dithiolane - 1 , 3 acétate d &apos; éthyle ( 41 ) . Les résultats obtenus consignés au tableau 2 montrent que les cyclanols correspondants 42 - 51 sont formés avec des rendements très satisfaisants . Les organomagnésiens attaquent sélectivement la fonction ester plutôt que les autres fonctions.</p>
+
+			<p>Les rendements ne sont pas optimisés ; nous supposons qu &apos; à une température plus basse ils peuvent être améliorés , surtout dans les expériences réalisées avec le bis ( bromomagnésio ) - l , 5 pentane ( Schéma 3 ) . Par la présente étude , nous pouvons obtenir plusieurs cycla - nols substitués , à la position 1 , par une chaîne fonctionnalisée ( Schéma 5 ) . De tels hydroxyaldéhydes , chlorocyclopentanols , sont plus difficilement accessibles par d &apos; autres méthodes ( 14 , 20 ) . Nous concluons en nous basant sur les résultats des aminoalkylesters que cette méthode est très générale et applica - ble à la synthèse des divers a , p ou 7 - hydroxycétones , hydroxy acides , chloroalkyl - 1 cyclopentanols et hydroxy alkyl - 1 cyclopentanols . En effet la déthioacétalisation de dithialanes - 1 , 3 a été réalisée récemment ( 21 ) .</p>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Les spectres ir ont été enregistrés à l &apos; aide d &apos; un appareil Beckman IR 4250 ( sous forme de films ou en solution dans CC1 4 et CH 2 C1 2 ) , les spectres rmn &apos; H sur un appareil Bruker 90 MHz et sur un appareil Varian XL - 200 ( 200 MHz ) . Les spectres rmn 13 C ont été effectués sur un appareil Bruker WP - 80 ( 20 MHz ) . Les spectres de masse ont été effectués sur un appareil Hewlett - Packard 5992 ( gs / mg ) . Les sépara - tions chromatographiques sur colonne sous pression «flash» ont été effectuées sur gel de silice . Les esters 34 , 35 , 38 sont commercialement accessibles chez Aldrich . Les microanalyses ont été effectuées chez Galbraith Laboratories .</p> 
+				
+			<p>Matériel de départ Le tétrahydrofuranne a été distillé sur sodium et gardé sous atmos - phère d &apos; azote . Les dialkylaminoacétates et dialkylamino - 4 butanoates d &apos; éthyle ont été préparés par les réactions précédemment décrites basées sur la transformation des halogénoalkylesters par les aminés correspondantes ( 12a , 15 ) . Les dialkylaminopropénoates d &apos; éthyle ont été préparés à partir du propénoate d &apos; éthyle ( 13 ) .</p> 
+					
+			<p>N , N - Dialkylaminoacétates , N , N - dialkylamino - 4 butanoates d &apos; éthyle et N , N - dialkylamino - 2 propanoate d &apos; éthyle 1 A une solution de 65 mmol de chloroacétate , bromo - 2 propanoate , bromo - 2 méthyl - 2 propanoate ou bromo - 4 butanoate d &apos; éthyle dans 25 mL de benzène anhydre , on ajoute goutte à goutte 140 mmol d &apos; amine dans 25 mL de benzène anhydre . ( Pyrrolidinyl - 1 ) acétate d &apos; éthyle ( 1 ) : Rdt = 79% ( 8 , 067 g ) ; Eb = 95 - 96°C ( 20Torr ) ( litt . ( 15 ) Eb 77°C ( 16Torr ) ) ( 1 Torr = 133 , 3 Pa ) . ( Pipéridinyl - 1 ) acétate d &apos; éthyle ( 2 ) : Rdt = 79% ( 8 , 781 g ) ; Eb = 102 - 104°C ( 15Torr ) ( litt . ( 126 ) Eb 102 - 103°C ( 12Torr ) ) . Diéthylaminoacétate d &apos; éthyle ( 3 ) : Rdt = 79% ( 7 , 847 g ) ; Eb = 78 - 80°C ( 20Torr ) . ( Morpholinyl - 4 ) acétate d &apos; éthyle ( 4 ) : Rdt = 90% ( 10 , 13 8 g ) ; Eb = 102 - 103°C ( 8Torr ) ( litt . ( 126 ) Eb 112 - 114°C ( 13 Torr ) ) . ( Pyrrolidinyl - 1 ) - 4 butanoate d &apos; éthyle ( 8 ) : Rdt = 68% ( 8 , 235 g ) ; Eb = 107 - 109°C ( 9 Torr ) . Tous les composés ont donné des spectres satisfaisants . ( Pipérydinyl - 1 ) - 4 butanoate d &apos; éthyle ( 9 ) : Rdt = 88% ( 22 , 433 g ) ; Eb = 110 - 111°C ( 15 Torr ) . ( Morpholinyl - 4 ) - 4 butanoate ( 10 ) : Rdt = 89% ( 11 , 625 g ) ; Eb = 140 - 142°C ( 15 Torr ) . ( Pyrrolidinyl - 1 ) - 2 propanoate d &apos; éthyle ( 21 ) : Rdt = 76% ( 8 , 478 g ) ; Eb = 102 - 103°C ( 21 Torr ) ( litt . ( 13a ) 84°C ( 12 Torr ) ) . Méthyl - 2 ( pyrrolidinyl - 1 ) - 2 propanoate d &apos; éthyle ( 22 ) : Rdt = 70% ( 8 , 3 g ) ; Eb = 108 - 110°C ( 22 Torr ) ( litt . ( 19 ) Eb 114°C ( 26 Torr ) ) . ( Morpholinyl - 4 ) - 2 propanoate d &apos; éthyle ( 23 ) : Rdt = 68% ( 8 , 232 g ) ; Eb = 123 - 125°C ( 20 Torr ) ( litt . ( 18 ) Eb 110 - 113°C ( 15 Torr ) ) .</p> 
+				
+			<p>Dialkylaminopropanoates d &apos; éthyle Dans un ballon de 50 mL , on introduit 10 , 012 g ( 100 mmol ) de propénoate d &apos; éthyle et 100 mmol d &apos; amine et on chauffe à reflux sous agitation magnétique pendant 3 h . Le produit est purifié par distillation sous pression réduite . ( Pyrrolidinyl - 1 ) - 3 propanoate d &apos; éthyle ( 5 ) : Rdt = 96% ( 16 , 386 g ) ; Eb = 108 - 109°C ( 20Torr ) ( litt . ( 15 ) Eb 82°C ( 8 Torr ) ) . ( Pipéridinyl - 1 ) - 3 propanoate d &apos; éthyle ( 6 ) : Rdt = 89% ( 16 , 577 g ) ; Eb = 120 - 122°C ( 20Torr ) ( litt . ( 136 ) Eb 115 - 117°C ( 17Torr ) ) . ( Morpholinyl - 4 ) - 3 propanoate d &apos; éthyle ( 7 ) : Rdt = 96% ( 18 , 065 g ) ; Eb = 133 - 134°C ( 19 Torr ) ( litt . ( 13c ) Eb 138 - 140°C ( 25 Torr ) ) .</p> 
+				
+			<p>Phénoxyacétate d &apos; éthyle ( 36 ) En utilisant le mode opératoire décrit par Munch - Peterson ( 16a ) on transforme 16 , 30 g ( 133 mmol ) de chloroacétate d &apos; éthyle en présence de 3 , 105 g ( 135 mmol ) de sodium et de 12 , 545 g ( 133 mmol ) de phénol en phénoxyacétate d &apos; éthyle ; Rdt = 69% ( 16 , 688 g ) ; Eb = 84°C ( 0 . 05 Torr ) ( litt . ( 16 ) Eb 250 - 251°C ) .</p> 
+				
+			<p>Phénylthioacétate d &apos; éthyle ( 37 ) En utilisant le mode opératoire ci - dessus , nous avons opéré avec 11 , 011 g ( 100 mmol ) de thiophénol , 2 , 415 g ( 0 , 105 mmol ) de sodium et 12 , 255 g ( 100 mmol ) de chloroacétate d &apos; éthyle ; Rdt = 90% ( 18 , 062 g ) ; Eb = 90 - 93°C ( 0 , 05 Torr ) ( litt . ( 17 ) Eb 118°C ( 3 Torr ) ) .</p> 
+				
+			<p>Phénoxy - 2 propanoate d &apos; éthyle ( 39 ) En utilisant le mode opératoire général ( 16a ) , on ajoute 12 , 545 g ( 13 , 3 mmol ) de phénol , 3 , 105 g de sodium et 27 , 2 g ( 15 mmol ) de bromo - 3 propionate d &apos; éthyle et on recueille , par distillation , l &apos; ester 39 ; Rdt = 68% ; Eb = 86°C ( 0 . 05 Torr ) .</p> 
+				
+			<p>Préparation des organodimagnésiens Dans un tricol de 500 mL , sous atmosphère inerte , muni d &apos; une agitation magnétique , d &apos; une ampoule à additionner et d &apos; un réfrigérant surmonté d &apos; un tube de garde à CaCl 2 , on introduit 1 , 07 g de Mg et on chauffe à l &apos; aide d &apos; un brûleur à gaz pour chasser l &apos; humidité et activer le Mg . Après refroidissement de l &apos; appareillage , on couvre le Mg d &apos; une quantité de 3 mL de solution de dibromure dilué dans le THF . La réaction démarre rapidement et on poursuit l &apos; addition de 0 , 0253 mol de dibromure dans 50 mL de THF . Après la fin de l &apos; addition , on laisse agiter durant 4 h à la température ambiante , puis on y ajoute goutte à goutte , à la même température , une solution d &apos; ester ( 0 , 02 mol ) . Après hydrolyse , à l &apos; aide d &apos; une solution saturée de chlorure d &apos; ammonium , on obtient le cycloalcanol par extraction à l &apos; éther et évaporation du solvant sous vide .</p> 
+			
+			<p>Préparation des N , N - dialkylaminoalkylcyclopentanols A une solution de bis ( bromomagnésio ) - l , 4 butane ( 1 , 2 équivalent ) , on ajoute goutte à goutte un équivalent d &apos; ester dissous dans 10 équivalents de THF anhydre à 0°C sous atmosphère d &apos; azote , puis on laisse la réaction se poursuivre durant 1 h à 20 - 25°C . On hydrolyse à froid par une solution saturée de chlorure d &apos; ammonium . On extrait à l &apos; éther , on sépare la couche éthérée , on sèche sur sulfate de magnésium et on distille sous pression réduite .</p> 
+			
+			<p>( Pyrrolidinyl - 1 jméthyl - 1 cyclopentanol ( 10 ) ( 11 ) En utilisant 4 g ( 26 mmol ) d &apos; ester 1 on obtient 3 , 2 g de ( pyrrolidinyl - l ) méthyl - l cyclopentanol par distillation fractionnée ; Rdt = 70% ; Eb = 122 - 124°C ( 20Torr ) ( litt . ( 10 ) Eb70°C ( 2Torr ) ) ; ir v max ( film ) : 3430 , 2957 , 2865 , 2792 cm &quot; &apos; ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 47 - 1 , 95 ( 12H , m , CH 2 cycl . ) , 2 , 60 - 2 , 90 ( 6H , s , CH , - NCH , , - NCH 2 ) , 3 , 70 ( 1H , s , OH ) ppm ; rmn 13 C 8 : 80 , 0 ( C - l ) , 65 , 3 ( C - l &apos; ) , 55 , 8 ( C - 2 &apos; et C - 5 &quot; ) , 39 . 7 ( C - 2 et C - 5 ) , 24 , 1 ( C - 3 , C - 4 , C - 3 &apos; , C - 4 &quot; ) ppm ; sm m / e : 169 , 15 ( M + , 3 , 9 ) , 84 , 20 ( C 4 H 8 NCH 2 , 100% ) , 58 , 05 ( 11 ) , 55 , 05 ( 12 ) . </p> 
+			
+			<p>( Pipéridinyl - 1 ) méthyl - l cyclopentanol ( 10 ) ( 12 ) La réaction a été effectuée en utilisant 3 , 363 g ( 19 , 6 mmol ) d &apos; ester . Après distillation , on recueille 2 , 5 g ( 72% ) de ( pipéridinyl - 1 ) méthyl - l cyclopentanol ; Eb = 47 - 49°C ( 24 Torr ) ( litt . ( 4 ) Eb 80°C ( 2 Torr ) ) ; ir v max ( CC1 4 ) : 3415 , 2939 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 37 - 1 , 85 ( 14H , m , CH 2 cycl . ) , 2 , 36 ( 2H , s , NCH , ) , 2 , 40 - 2 , 65 ( 4H , m , CH 2 N - ) , 3 , 12 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 79 , 5 ( C - l ) , 67 , 5 ( C - l &apos; ) , 56 , 3 ( C - 2 &quot; , C - 6 &quot; ) , 39 , 8 ( C - 2 , C - 5 ) , 26 , 5 ( C - 3 &quot; , C - 5 &quot; ) , 24 , 2 ( C - 4 &quot; ) , 24 ( C - 3 , C - 4 ) ppm ; sm m / e : 183 , 25 ( M + , 1 , 6 ) , 99 , 15 ( 7 ) , 98 , 15 ( C 5 H| 0 NCH 2 , 100% ) , 55 , 05 ( 7 ) .</p> 
+			
+			<p>Diéthylaminométhyl - 1 cyclopentanol ( 10 ) ( 13 ) En utilisant 3 , 243 g ( 20 , 4 mmol ) de l &apos; ester 3 , après distillation on obtient 2 , 350g de cyclopentanol 13 ; Rdt = 68% ; Eb = 105 - 107°C ( 20Torr ) ; rmn &apos; H ( CH , C1 , ) 8 : 1 , 03 ( 6H , t , J = 7 Hz , CH 3 ) , 1 , 40 - 1 , 83 ( 8H , m , CH 2 cycl . ) , 2 , 53 ( 2H , s , NCH 2 ) , 2 , 60 ( 4H , q , J = 7 Hz , CH 2 - CH 3 ) , 2 , 70 ( 1H , s , OH ) ; rmn l3 C ( CDC1 3 ) 8 : 79 , 4 ( C - l ) , 62 , 6 ( C - l &apos; ) , 48 , 5 ( CH 3 CH 2 ) , 39 , 6 ( C - 2 , C - 5 ) , 23 , 9 ( C - 3 , C - 4 ) , 12 , 2 ( CH 3 ) ; sm m / e : 171 , 20 ( M + , 4 , 9 ) , 142 , 15 ( M - C , H S , 12 ) , 86 , 15 ( C 2 H 5 NCH 2 + , 100% ) , 58 , 10 ( 32 ) .</p> 
+				
+			<p>( Morpholinyl - 4 ) méthyl - 1 cyclopentanol ( 14 ) En utilisant 2 , 882 g ( 16 , 7 mmol ) d &apos; ester 4 , après distillation on obtient 2 , 258 g de cyclopentanol 14 ; Rdt = 73% ; Eb = 60 - 62°C ( 0 , 02Torr ) ( litt . ( 4 ) Eb 77°C ( 3 Torr ) ) ; ir v max ( CH , C1 , ) : 3405 , 2955 , 2850 , 2870 , 1117 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 40 - 1 , 95 ( 8H , m , CH , cycl . ) , 2 , 48 ( 2H , s , NOLO ) , 2 , 49 - 2 , 75 ( 4H , m , CH , N ) , 3 , 50 ( 1H , s , OH ) , 3 , 62 - 3 , 85 ( 4H , m , CH 2 CH 2 0 ) ppm ; rmn 13 C ( CDC1 3 ) S : 80 , 0 ( C - l ) , 67 , 6 ( C - l &apos; ) , 67 , 2 ( C - 2 &quot; , C - 6 &quot; ) , 55 , 3 ( C - 3 &quot; , C - 5 &apos; ) , 39 , 7 ( C - 2 , C - 5 ) , 23 , 9 ( C - 3 , C - 4 ) ppm ; sm m / e : 185 , 20 ( M + , 3 , 1 ) , 101 , 15 ( 11 ) , 100 , 15 ( C 4 H 8 ONCH 2 + , 100% ) , 56 , 16 ( 11 ) .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) - 2 éthy¡cyclopentanol ( 15 ) En utilisant 1 , 748 g ( 10 , 2 mmol ) d &apos; ester 5 on obtient , après distillation , 1 , 450 g de cyclopentanol 15 ; Rdt = 75% ; Eb = 68 - 70°C ( 0 , 03 Torr ) ; F = 67 - 68°C ; ir v max ( CH 2 C1 , ) : 3190 , 2945 , 2870 , 2803 , 1335 , 1133 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 57 - 1 , 93 ( 14H , m , CH 2 cycl . ) , 2 , 43 - 2 , 93 ( 6H , m , CH 2 N ) , 6 , 30 ( 1H ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 82 , 6 ( C - l ) , 54 , 1 ( C - 2 &quot; , C - 5 &quot; ) , 53 , 9 ( C - 2 &apos; ) , 40 , 1 ( C - 2 , C - 5 ) , 37 , 3 ( C - l &apos; ) , 23 . 8 ( C - 3 , C - 4 ) , 23 , 6 ( C - 3 &quot; , C - 4 &quot; ) ppm ; sm m / e : 183 , 25 ( M + , 2 , 3 ) , 84 , 10 ( C 4 H 8 NCH 2 + , 100% ) , 71 , 10 ( 12 ) , 70 , 00 ( 9 ) . Anal , calcd . pour CnH 2 iNO : C 72 , 08 , H 11 , 55 , N 7 , 64 ; tr . : C72 , 14 , H 11 , 51 , N 7 , 61 .</p> 
+			
+			<p>( Pipéridinyl - 1 ) - 2 éthyl - 1 cyclopentanol ( 16 ) En utilisant 1 , 81 g ( 9 , 80 mmol ) de l &apos; ester 6 on obtient , après distillation , 76% ( 1 , 466 g ) de ( pipéridinyl - 1 ) - 2 éthyl - 1 cyclopentanol ( 16 ) ; Eb = 62 - 64°C ( 0 , 02 Torr ) ( litt . ( 10 ) Eb 104°C ( 25 Torr ) ) ; F = 38 , 5 - 39 , 5°C ; ir v max ( film ) : 3206 , 2922 , 2841 , 2798 , 1119 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 23 - 1 , 91 ( 16H , m , CH , cycl . ) , 2 , 30 - 2 , 77 ( 6H , m , CH 2 N ) , 6 , 63 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 82 , 6 ( C - l ) , 56 , 9 ( C - 2 &apos; ) , 54 , 7 ( C - 2 &quot; , C - 6 &quot; ) , 40 , 1 ( C - 2 , C - 5 ) , 35 , 2 ( C - l &apos; ) , 26 , 2 ( C - 3 &quot; , C - 5 &quot; ) , 24 , 4 ( C - 4 &quot; ) , 23 , 8 ( C - 3 , C - 4 ) ppm ; sm m / e : 197 , 20 ( M + , 4 ) , 98 , 10 ( C 5 H| 0 NCH 2 , 100% ) , 85 , 10 ( 14 ) , 84 , 10 ( 11 ) .</p> 
+			
+			<p>( Morpholinyl - 4 ) - 2 éthyl - 1 cyclopentanol ( 17 ) En utilisant 1 , 872 g ( 10 , 00 mmol ) d &apos; ester 7 on obtient , après de distillation , 1 , 660 g de cyclopentanol 17 ; Rdt = 83% ; Eb = 72 - 73°C ( 0 . 02Torr ) ; ir v max ( film ) : 3295 , 2945 , 2842 , 2809 , 1121 cm &quot; 1 ; rmn &apos; H ( CC1 4 ) S : 1 , 26 - 1 , 90 ( I0H , m , CH 2 cycl . ) , 2 , 37 - 2 , 77 ( 6H , m , CH , N - 0 ) , 3 , 53 - 3 , 83 ( 4H , m ) , 4 , 97 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) S : 82 , 7 ( C - l ) , 67 , 0 ( C - 2 &quot; , C - 6 &quot; ) , 56 , 6 ( C - 2 &apos; ) , 53 , 8 ( C - 3 &quot; , C - 5 &quot; ) , 40 , 1 ( C - 2 , C - 5 ) , 35 , 0 ( C - l &apos; ) , 23 , 8 ( C - 3 , C - 4 ) ppm ; sm m / e : 199 , 20 ( M - 15 ) , 100 , 15 ( C 4 H 8 ONCH 2 + , 100% ) , 87 , 10 ( 16 ) , 57 , 05 ( 10 ) , 55 , 95 ( 13 ) . Anal . calc . pour C &quot; H 12 N0 2 : C 66 , 29 , H 10 , 62 , N 7 , 02 ; tr . : C 66 , 32 , H 10 , 75 , N 7 , 11 .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) - 3 propyl - 1 cyclopentanol ( 18 ) En utilisant 1 , 839 g ( 9 , 92 mmol ) d &apos; ester distillation , 1 , 611 g de cyclopentanol 18 ; Rdt = ( 0 , 02 Torr ) ; F = 33 , 5 - 35 , 0°C ; ir v max ( film ) 2787 , 1137 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 43 - cycl . ) , 2 , 40 - 2 , 73 ( 6H , s , CH , N ) , 6 , 77 ( 1H , s ( CDC1 3 ) 8 : 80 , 3 ( C - l ) , 57 , 1 ( C - 3 &apos; ) , 53 , 8 ( C - 2 &quot; 40 , 3 ( C - 2 ) , 24 , 7 , 24 , 3 , 23 , 5 ppm ; sm m / e : 197 ( 7 ) , 84 , 20 ( C 4 H 8 NCH , + , 100% ) , 70 , 10 ( 7 ) , 55 pour C , 2 H 23 NO : C 73 , 05 , H 11 , 75 , N 7 , 09 ; tr . N 6 , 98 . 8 on obtient , après 82% ; Eb = 78 - 80°C : 3390 , 2950 , 2867 , 1 , 97 ( 16H , m , CH 2 OH ) ppm ; rmn 13 C C - 5 &quot; ) , 41 , 6 ( C - l &apos; ) , , 25 ( M + , 1 , 3 ) , 85 , 10 05 ( 11 ) . Anal . calc . : C 72 , 98 , H 11 , 71 ,</p> 
+			
+			<p>( Pipéridinyl - 1 ) - 3 propyl - 1 cyclopentanol ( 19 ) En utilisant 2 , 018 g ( 10 , 2 mmol ) d &apos; ester 9 on obtient , après distillation , 1 , 811 g de cyclopentanol 19 ; Rdt = 84% ; Eb = 75 - 77°C ( 0 , 03Torr ) ( litt . ( 14a ) Eb 107 - 109°C ( 2Torr ) ) ; F = 40 - 41°C ; ir v max ( film ) : 3380 , 3110 , 2918 , 2842 , 2787 , 2757 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 25 - 1 , 90 ( 18H , m , CH , cycl . ) , 2 , 24 - 2 , 60 ( 6H , m , CH 2 ) , 6 , 78 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 5 : 80 , 3 , 59 , 9 , 54 , 5 , 41 , 9 , 40 , 3 , 25 , 6 , 24 , 4 , 24 , 3 , 22 , 8 ppm ; sm m / e : 215 , 15 ( M + , 1 , 7 ) , 98 , 15 ( C 5 H 10 NCH 2 + , 100% ) , 84 , 15 ( 8 ) , 55 , 10 ( 9 ) .</p> 
+			
+			<p>( Morpholinyl - 4 ) - 3 propyl - 1 cyclopentanol ( 10 ) ( 20 ) En utilisant 2 , 0240 ( 10 , 1 mmol ) d &apos; ester 10 on obtient , après distillation , 1 , 770 g de cyclopentanol 20 ; Rdt = 82% ; Eb = 92 - 94°C ( 0 , 03 Torr ) ; F = 49 , 5 - 50°C ; ir v max ( film ) : 3420 , 3150 , 2948 , 2862 , 2844 , 2802 , 1269 , 1132 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 30 - 1 , 35 ( 12H , m , CH 2 cycl . ) , 2 , 30 - 2 , 67 ( 6H , m , CH 2 N ) , 3 , 60 - 3 , 87 ( 4H , m , CH , - 0 ) , 5 , 50 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) ô : 80 , 7 , 66 , 7 , 59 , 6 , 53 , 6 , 41 , 0 , 40 , 2 , 24 , 1 , 22 , 0 ppm ; sm m / e : 213 , 30 ( M + , 2 , 0 ) , 100 , 20 ( C 4 H 8 ONCH 2 + , 100% ) , 56 , 10 ( 13 ) , 55 , 10 ( 14 ) . Anal . calc . pour CI 2 H 23 N0 2 : C 67 , 57 , H 10 , 87 , N6 , 56 ; tr . : C67 , 52 , H 10 , 83 , N 6 , 62 .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) - l éthyl - 1 cyclopentanol ( 24 ) En utilisant 2 , 917 g ( 17 , 8 mmol ) d &apos; ester 21 on obtient , après distillation , 2 , 128 g de cyclopentanol 24 ; Rdt = 71% ; Eb = 56 - 58°C ( 0 , 03 Torr ) ; ir v max ( film ) : 3375 , 3060 , 2875 , 2805 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 0 , 93 ( 3H , d , J = 7 Hz , CH 3 ) , 1 , 27 - 2 , 97 ( 12H , m , CH 2 cycl . ) , 2 , 43 - 2 , 83 ( 4H , s , CH , ) , 2 , 97 ( 1H , q , CHN ) , 4 , 73 ( 1H , s , OH ) ppm ; rmn l3 C ( CDC1 3 ) 8 : 82 , 4 ( C - l ) , 61 , 5 ( C - l ) , 49 , 5 ( C - 2 &quot; , C - 5 &quot; ) , 39 , 1 ( C - 5 ) , 35 , 8 ( C - 2 ) , 25 , 2 ( C - 4 ) , 24 , 2 ( C - 3 ) , 24 , 0 ( C - 3 &quot; , C - 4 &quot; ) , 7 , 4 ( C - 2 &apos; ) ppm ; sm m / e : 183 , 25 ( M + , 0 , 8 ) , 28 , 20 ( C 4 H g NCH + CH 3 , 100% ) , 55 , 10 ( 11 ) . Anal . calc . pour C n H , iNO : C 78 , 08 , H 11 , 55 , N 7 , 64 ; tr . : C 71 , 95 , H 11 , 59 , N 7 , 55 . ( Méthyl - 1 ) - pyrrolidinyl - l éthyl - 1 cyclopentanol ( 25 ) En utilisant 1 , 995 ( 10 , 9 mmol ) de méthyl - 2 pyrrolidinyl - 2 propa - noate d &apos; éthyle ( 22 ) , on obtient après distillation , 1 , 446 g de ( méthyl - 1 ) - pyrrolidinyl - 1 éthyl - 1 cyclopentanol ( 24 ) ; Rdt = 72% ; Ed = 58 - 60°C ( 0 , 05 Torr ) ; ir v max ( film ) : 3360 , 2978 , 2869 , 2812 , 1173 , 1013 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 07 ( 6H , s , CH 3 ) , 1 , 23 - 1 , 87 ( 12H , m , CH 2 cycl . ) , 2 , 50 - 2 , 83 ( 4H , m , CH , 0 ) , 4 , 65 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 85 , 2 ( C - l ) , 60 , 8 ( C - l &apos; ) , 47 , 6 ( C - 2 &quot; , C - 5 &quot; ) , 37 , 5 ( C - 2 , C - 5 ) , 24 , 4 ( C - 3 , C - 4 ) , 19 , 1 ( CH 3 ) ; sm m / e : 197 , 35 ( M + , 0 , 1 ) , 113 , 20 ( 7 ) , 112 , 10 ( C 4 H 8 NC + ( CH 3 ) 2 , 100% ) , 70 , 15 ( 17 ) , 55 ( 8 ) . </p>
+
+			<p>( Morpholinyl - 4 )- ] éthyl - 1 cyclopentanol ( 26 ) En utilisant 2 , 706 g ( 14 , 0 mmol ) d &apos; ester 23 on obtient après purification 2 , 280 g de cyclopentanol 26 ; Rdt = 80% ; Eb = 81 - 83°C ( 0 , 03 TOIT ) ; ir v max ( film ) : 3955 , 2955 , 2845 , 1118 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 00 ( 3H , d , J = 7 Hz , CH 3 CH ) , 1 , 33 - 1 , 90 ( 8H , m , CH 2 cycl . ) , 2 , 30 - 2 , 90 ( 5H , m , OLN , CH 2 N ) , 3 , 73 ( 4H , t , J = 4 , 5 Hz , CH , 0 ) , 4 , 63 ( 1H , s , OH ) ppm ; rmn l3 C ( CDC1 3 ) 8 : 82 , 3 ( C - l ) , 67 , 5 ( C - 2 &quot; , C - 6 &quot; ) , 66 , 4 ( C - l &apos; ) , 50 , 5 ( C - 3 &quot; , C - 5 &quot; ) , 39 , 2 ( C - 5 ) , 35 , 7 ( C - 2 ) , 25 . 2 ( C - 4 ) , 23 , 6 ( C - 3 ) , 7 , 4 ( C - 2 &apos; ) ppm ; sm m / e : 199 , 25 ( M + , 1 , 0 ) , 115 , 20 ( 7 ) , 114 , 10 ( C 4 H 8 ONCH + CH 3 , 100% ) , 70 , 15 ( 6 ) . Anal . calc . pour CnH 21 NO , : C 66 , 29 , H 10 , 62 , N 7 , 02 ; tr . : C 66 , 19 , H 10 , 72 , N 7 , 15 .</p> 
+			
+			<p>Préparation des N , N - dialkylaminoalkylcyclohéxanols En suivant le même mode opératoire que pour la préparation des / V , / V - dialkylcyclopentanols , on constate que le produit brut contient des quantités variant de 2 à 18% d &apos; alcools secondaires insaturés . La séparation s &apos; est avérée difficile dans certains cas . La spectroscopie de rmn &apos; H montre des faibles quantités d &apos; alcool insaturé même après purification des aminoalkylcyclopentanols liquides .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) méthyl - l cyclohexanol ( 10 ) ( 27 ) En utilisant 1 , 852 ( 11 , 9 mmol ) de l &apos; ester 1 on obtient , après distillation , 1 , 356 g de cyclohexanol 27 ; Rdt = 66% ; Eb = 62 - 65°C ( 0 , 2 Torr ) ; ir v max ( CH , C1 2 ) : 3420 , 2930 , 2848 , 2800 cm &quot; 1 ; rmn &apos; H ( CDCI3 ) 8 : 1 , 10 - 1 , 93 ( 14H , m , CH 2 ) , 2 , 45 ( 2H , s , NCH 2 COH ) , 2 , 50 - 2 , 83 ( 4H , m , CH 2 N ) , 3 , 47 ( 1H , s , OH ) ppm ; rmn l3 C ( CDC1 3 ) 8 : 70 , 0 ( C - l ) , 66 , 6 ( C - l &apos; ) , 56 , 9 ( C - 2 &quot; , C - 5 &quot; ) , 37 , 2 ( C - 2 , C - 6 ) , 26 , 0 ( C - 4 ) , 24 , 3 ( C - 3 &quot; , C - 4 &quot; ) , 22 , 3 ( C - 3 , C - 5 ) ; ms m / e : 183 , 20 ( M + , 3 , 1 ) , 85 , 15 ( 9 ) , 84 , 15 ( C 4 H 8 NCH 2 , 100% ) , 55 , 15 ( 9 ) .</p> 
+			
+			<p>( Pipéridinyl - 1 ) méthyl - l cyclohexanol ( 10 ) ( 28 ) En utilisant 3 , 802 g ( 22 , 2 mmol ) de l &apos; ester 2 on obtient , après distillation , 1 , 601 g de cyclohexanol 28 ; Rdt = 68% ; Eb = 56 - 58°C ( 0 , 02 Torr ) ; ir v max ( film ) : 3440 , 2922 , 2847 , 2790 , 1110 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 46 ( 16H , m , CH 2 cycl . ) , 2 , 27 ( 2H , s , CH , N ) , 2 , 43 - 2 , 70 ( 4H , m , CH 2 N ) , 3 , 45 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 70 , 00 ( C - l ) , 68 , 4 ( C - l &apos; ) , 57 , 5 ( C - 2 &quot; , C - 6 &quot; ) , 37 , 2 ( C - 2 , C - 6 ) , 26 , 6 ( C - 3 &quot; , C - 5 &quot; ) , 26 , 1 ( C - 4 ) , 24 , 1 ( C - 4 &quot; ) , 22 , 4 ( C - 3 , C - 5 ) ppm ; sm m / e : 197 , 30 ( M + , 2 ) , 99 , 15 ( 8 ) , 98 , 15 ( C 5 H I0 NCH 2 + , 100% ) , 55 , 05 .</p> 
+			
+			<p>( Morpholinyl - 4 ) méthyl - l cyclohexanol ( 29 ) En utilisant 1 , 732 g ( 10 , 0 mmol ) de l &apos; ester 4 on recueille 1 , 366 g de composé 29 ; Rdt = 70% ; Eb = 77 - 78°C ( 0 , 03 Torr ) ; ir v max ( film ) : 3460 , 2923 , 2844 , 2802 , 1120 , 1010 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 33 - 1 , 70 ( 10H , m , CH 2 cycl . ) , 2 , 33 ( 2H , s , NCH 2 ) , 2 , 50 - 2 , 73 ( 4H , m , CH 2 N ) , 3 , 03 ( 1H , s , OH ) , 3 , 60 - 3 , 90 ( 4H , m , CH 2 0 ) ppm ; rmn 13 C ( CDCI3 ) 8 : 70 , 6 ( C - l ) , 68 , 5 ( C - l &apos; ) , 67 , 4 ( C - 2 &quot; , C - 6 &quot; ) , 56 . 3 ( C - 3 &quot; , C - 5 &quot; ) , 37 , 0 ( C - 2 , C - 6 ) , 26 , 0 ( C - 4 ) , 22 , 2 ( C - 3 , C - 5 ) ppm ; sm m / e : 199 , 30 ( M + , 2 , 5 ) , 101 , 15 ( 12 ) , 100 , 15 ( C 4 H 8 ONOL\ 100% ) , 56 , 05 ( 14 ) . Anal . calc . pour C , , H 21 NO , : C 66 , 29 , H 10 , 62 , N 7 , 02 ; tr . : C 66 , 20 , H 10 , 49 , N 6 , 98 .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) - 2 éthyl - 1 cyclohexanol ( 30 ) En utilisant 2 , 002 g ( 11 , 7 mmol ) de l &apos; ester 5 on recueille , après distillation , 1 , 410 de l &apos; aminocyclohexanol 30 ; Rdt = 65% ; Eb = 71 - 72°C ( 0 , 04 Torr ) ; F = 46 , 5 - 47 , 5°C ; ir v max ( CH , C1 2 ) : 3200 , 2936 , 2860 , 2809 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 17 - 1 , 93 ( 16H , m , CH 2 cycl . ) , 2 , 42 - 2 , 90 ( 6H , m , CH , N ) , 6 , 27 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 71 , 6 ( C - l ) , 54 , 1 ( C - 2 &quot; , C - 5 &quot; ) , 51 , 7 ( C - 2 &apos; ) , 38 , 3 ( C - 2 , C - 6 ) , 37 , 6 ( C - l &apos; ) , 26 , 3 ( C - 4 ) , 23 , 6 ( C - 3 &quot; , C - 4 &quot; ) , 22 , 4 ( C - 3 , C - 5 ) ppm ; ms m / e : 197 , 25 ( M + , 3 , 7 ) , 85 , 05 ( 6 ) , 84 , 15 ( C 4 H 8 NOL + , 100% ) , 71 , 70 ( 5 ) , 70 , 10 ( 6 ) , 55 , 15 ( 7 ) . Anal . calc . pourC P H 23 NO : C 73 , 04 , H 11 , 75 , N 7 , 10 ; tr . : C 72 , 98 , H 11 , 79 , N 7 , 11 .</p> 
+			
+			<p>( Pipéridinyl - 1 ) - 2 éthyl - 1 cyclohexanol ( 31 ) En utilisant 1 , 927 g ( 10 , 4 mmol ) de l &apos; ester 6 on obtient après purification 1 , 406 g de cristaux blancs ; Rdt = 70% ; Eb = 67 - 69°C ( 0 , 03 Torr ) ( litt . ( 10 ) Eb 115°C ( 2 , 9 Torr ) ) ; F = 46 , 0 - 48 , 0°C ; irv max ( film ) : 3220 , 2923 , 2848 , 2810 , 2758 , 1119 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 28 - 1 , 87 ( 18H , m , CH 2 cycl . ) , 2 , 33 - 2 , 77 ( 7H , m , CH , N ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 71 , 6 ( C - l ) , 54 , 8 ( C - 2 &apos; , C - 2 &quot; , C - 6 &quot; ) , 38 , 5 ( C - 2 , &apos; H ( CDCI3 ) 8 : 1 , 17 - 1 , 97 ( 18H , m , , CH 2 N ) , 5 , 70 ( 1H , s , OH ) ppm ; rmn C - 6 ) , 35 , 5 ( C - l &apos; ) , 26 , 2 ( C - 4 , C - 3 &quot; , C - 5 &quot; ) , 25 , 1 ( C - 4 &quot; ) , 22 , 5 ( C - 3 , C - 5 ) ppm ; sm m / e : 211 , 5 ( M + , 2 , 1 ) , 99 , 15 ( 7 ) , 98 , 15 ( C 5 H| 0 NCH 2 + , 100% ) .</p> 
+			
+			<p>( Morpholinyl - 4 ) - 2 éthyl - 1 cyclohexanol ( 32 ) En utilisant 1 , 872 g ( 10 , 0 mmol ) de l &apos; ester 7 on obtient après purification 68% ( 1 , 670 g ) d &apos; aminocyclohexanol 32 ; Eb = 91 - 93°C ( 0 , 08 Torr ) ; F = 37 , 5 - 39 , 0°C ; ir v max ( film ) : 3350 , 2921 , 2845 , 2810 , 1436 , 1135 , 1020 , 1008 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 23 - 1 , 77 ( 12H , CH 2 cycl . ) , 2 , 43 - 2 , 77 ( 7H , m , OLN ) , 3 , 64 - 3 , 86 ( 4H , m , CH , 0 ) ppm ; rmn l3 C ( CDC1 3 ) 8 : 71 , 6 ( C - l ) , 67 , 0 ( C - 2 &quot; , C - 6 &quot; ) , 54 , 6 ( C - 2 &apos; ) , 53 , 8 ( C - 3 &quot; , C - 5 &quot; ) , 38 , 3 ( C - 2 , C - 6 ) , 35 , 3 ( C - l &apos; ) , 26 , 2 ( C - 4 ) , 22 , 3 ( C - 3 , C - 5 ) ; sm m / e : 213 , 20 ( M + , 3 , 0 ) , 100 , 20 ( C 4 H 8 ONCH 2 + , 100% ) , 56 , 10 ( 10 ) . Anal . calc . pour C , 2 H 23 NO , : C 67 , 57 , H 10 , 87 , N 6 , 56 ; tr . : C 67 , 6 , H 10 , 79 , N 6 , 61 .</p> 
+			
+			<p>( Pyrrolidinyl - 1 ) - 3 propyl - 1 cyclohexanol ( 33 ) En utilisant 1 , 872 g ( 10 , 0 mmol ) de l &apos; ester 8 on obtient après purification 1 , 460 g d &apos; aminocyclohexanol 33 ; Rdt = 67% ; Eb = 85 - 87°C ( 0 , 03 Torr ) ; ir v max ( film ) : 3100 , 3025 , 2928 , 2870 , 2833 , 2799 , 1458 , 1442 cm &quot; 1 ; rmn CH , cycl . ) , 2 , 33 - 2 , 77 ( 6H , n 13 C ( CHCI3 ) 8 : 69 , 3 ( C - l ) , 57 , 1 ( C - 3 &apos; ) , 53 , 9 ( C - 2 &quot; , C - 5 &quot; ) , 41 , 4 ( C - l &apos; ) , 38 , 2 ( C - 2 , C - 6 ) , 26 , 3 ( C - 4 ) , 23 , 5 ( C - 3 &quot; , C - 4 &quot; ) , 22 , 6 ( C - 3 , C - 5 , C - 2 &apos; ) ppm ; sm m / e : 211 , 15 ( M + , 1 , 9 ) , 84 , 15 ( C 4 H 8 NCH 2 + , 100% ) , 55 , 10 ( 10 ) . Anal . calc . pour C 13 H 25 NO : C 73 , 88 , H 11 , 92 , N 6 , 62 ; tr . : C 73 , 80 , H 11 , 98 , N 6 , 67 .</p> 
+			
+			<p>( Pipéridinyl - 1 ) - 3 propyl - 1 cyclohexanol ( 34 ) En utilisant 1 , 955 g ( 10 , 0 mmol ) de l &apos; ester 9 on recueille , après distillation , 68% de cyclohexanol 34 ; Eb = 86 - 87°C ( 0 , 05 Torr ) ( litt . ( 14a ) Eb 122 - 123°C ( 2Torr ) ) ; ir v max ( film ) : 3380 , 3120 , 2922 , 2843 , 2795 , 2760 , 729 cm &quot; &apos; ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 20 - 1 , 80 ( 20H , m , CH 2 cycl . ) , 2 , 20 - 2 , 57 ( 6H , m , CH , N ) , 5 , 95 ( 1H , s , OH ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 69 , 1 ( C - l ) , 59 , 9 ( C - 3 &apos; ) , 54 , 6 ( C - 2 &quot; , C - 6 &quot; ) , 41 , 7 ( C - l ) , 38 , 3 ( C - 2 , C - 6 ) , 26 , 3 ( C - 4 ) , 25 , 6 ( C - 3 &quot; , C - 5 &quot; ) , 24 , 4 ( C - 4 &quot; ) , 22 , 6 ( C - 3 , C - 5 ) , 20 ( C - 2 &apos; ) ppm ; sm m / e : 225 , 25 ( M + , 2 , 1 ) , 99 , 15 ( 6 ) , 98 , 15 ( C 5 H 10 CH 2 + , 100% ) , 84 , 15 ( 6 ) , 55 , 10 ( 8 ) . Anal . calc . pour C 14 H 27 NO : C 74 , 61 , H 12 , 08 , N 6 , 21 ; tr . : 74 , 59 , H 12 , 05 , N 6 , 17 .</p> 
+			
+			<p>( Morpholinyl - 4 ) - 3 propyl - 1 cyclohexanol ( 35 ) En utilisant 2 , 088 g ( 10 , 4 mmol ) de l &apos; ester 10 on recueille , après distillation , 2 , 086 g de cyclohexanol 35 ; Rdt = 75% ; Eb = 106 - 107°C ( 0 , 03 Torr ) ; ir v max ( film ) : 3440 , 2929 , 2850 , 2804 , 1120 cm &apos; 1 ; rmn &apos; H ( CDCI3 ) 8 : 1 , 10 - 1 , 85 ( 14H , m , CH 2 cycl . ) , 2 , 30 - 2 , 67 ( 6H , m , CH , N ) , 3 , 60 - 3 , 87 ( 4H , m , CH 2 0 ) , 5 , 00 ( 1H , s , OH ) ; rmn 13 C ( CDCI3 ) 8 : 69 , 8 ( C - l ) , 66 , 7 ( C - 2 &quot; , C - 6 &quot; ) , 59 , 8 ( C - 3 &apos; ) , 53 , 8 ( C - 3 &quot; , C - 5 &quot; ) , 41 , 0 ( C - l &apos; ) , 38 , 1 ( C - 2 , C - 5 ) , 26 , 1 ( C - 4 ) , 22 , 5 ( C - 3 , C - 5 ) , 20 , 0 ( C - 2 &apos; ) ppm . Anal . calc . pour C| 3 H 25 N0 2 : C 68 , 68 , H 11 , 08 , N 6 , 16 ; tr . : C 68 , 45 , H 11 , 16 , N 6 , 11 .</p> 
+			
+			<p>Phénoxyméthylcyclopentanol ( 42 ) En utilisant 1 , 915 g ( 10 , 6 mmol ) d &apos; ester 36 on obtient 1 , 526 g de cyclopentanol 42 ; Rdt = 80% ; Eb = 80 - 81°C ( 0 , 05 Torr ) ; F = 47 - 48°C ; ir v max ( film ) : 3430 , 2960 , 2862 , 1602 , 1590 , 1498 , 1249 , 1044 , 757 , 694cm &quot; 1 ; rmn [ H ( CDC1 3 ) 8 : 1 , 87 ( 8H , m , CH 2 cycl . ) , 2 , 30 ( 1H , s , OH ) , 3 , 93 ( 2H , s , CH , 0 ) , 6 , 83 - 7 , 53 ( 5H , m , 4 aromatiques ) ppm ; rmn 13 C ( CDC1 3 ) 8 : 159 , 3 ( C - l &quot; ) , 129 , 7 ( C - 3 &quot; , C - 6 &quot; ) , 121 , 2 ( C - 4 &quot; ) , 115 , 0 ( C - 2 &quot; , C - 6 &quot; ) , 81 , 4 ( C - l ) , 75 , 0 ( C - l &apos; ) , 37 , 5 ( C - 2 , C - 5 ) , 24 , 4 ( C - 3 , C - 4 ) ; ms m / e : 193 , 20 ( M + 1 , 7 , 8 ) , 192 , 30 ( M + , 15 , 7 ) , 108 , 10 ( C 6 H 5 OCH 3 , 100% ) , 94 , 20 ( C 6 H 5 OH + , 71 ) , 85 , 77 , 15 , 67 , 15 , 65 , 20 , 51 , 20 . Anal . calc . pour C , 2 H 16 0 2 : C 74 , 96 , H 8 , 39 ; tr . : C 74 , 81 , H 8 , 28 .</p> 
+			
+			<p>Phénylthiométhyl - 1 cyclopentanol ( 43 ) En utilisant 2 , 085 g ( 10 , 6 mmol ) d &apos; ester 37 on recueille 1 , 856 g de cyclopentanol 43 ; Rdt = 84% ; Eb = 108 - 110°C ( 0 , 03 Torr ) ; ir v ( film ) : 3427 , 2958 , 2862 , 1579 , 1474 , 1000 , 737 , 688 &apos; H ( CDCI3 ) 8 : 1 , 70 ( 8H , m , CH 2 cycl . ) , 2 , 20 ( 1H , s , OH ) , 3 , 27 ( 2H , s , CH 2 S ) , 7 , 20 - 7 , 63 ( 5H , m , aromatiques ) ppm ; rmn 13 C ( CDC1 3 ) 8 ; 137 , 3 ( C - l ) , 129 , 9 ( C - 3 &quot; , C - 5 ) , 129 , 1 ( C - 2 &quot; , C - 6 &quot; ) , 126 , 4 ( C - 4 &apos; ) , 81 , 9 max cm - 1 ; rmn ( C - l ) , 46 , 8 ( C - T ) , 39 , 5 ( C - 2 , C - 5 ) , 24 , 1 ( C - 3 , C - 4 ) ppm ; sm m / e : 209 , 15 ( M + 1 , 2 ) , 208 , 15 ( M + , 14 ) , 124 , 15 ( C 6 H 5 CH 3 + , 21 ) , 78 , 15 ( C 6 H 5 + , 11 ) , 77 , 15 ( C 6 H 5 , 13 ) , 67 , 15 ( 21 ) , 65 , 20 ( C 6 H 5 + , 15 ) , 57 , 20 ( 11 ) , 51 , 20 ( 14 ) . Anal . calc . pourC 12 H 16 OS : C 69 , 18 , H 7 , 74 ; tr . : C 69 , 27 , H 7 , 70 .</p> 
+			
+			<p>Chlorométhyl - 1 cyclopentanol ( 44 ) En utilisant 4 , 80 g ( 39 , 2 mmol ) de chloroacétate d &apos; éthyle ( 38 ) on obtient 3 , 203 g de cyclopentanol 44 ; Rdt = 67% ; Eb = 60 - 62°C ( 7 Torr ) ( litt . ( 14b ) Eb 57 - 58°C ( 6 Torr ) ) ; ir v max ( film ) : 3400 , 2955 , 2869 , 1437 , 1322 , 1285 , 1249 , 1217 , 1188 , 1066 , 990, 727 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 55 - 1 , 90 ( 8H , m , CH , cycl . ) , 2 , 23 ( 1H , s , OH ) , 3 , 62 ( 2H , s , CH 2 C1 ) ppm ; rmn l3 C ( CDC1 3 ) 8 : 81 , 9 ( C - l ) , 54 , 2 ( C - T ) , 38 , 3 ( C - 2 , C - 5 ) , 24 , 4 ( C - 3 , C - 4 ) ppm ; sm m / e : 136 , 5 ( M + + 2 , 0 , 4 ) , 134 , 25 ( M + , 1 , 4 ) , 107 , 10 ( C 4 H 6 0 37 C1 , 12 ) , 105 , 10 ( C 4 H 6 0 35 C1 , 37 ) , 92 , 10 ( 27 ) , 85 , 25 ( C 3 H 8 OH + , 100% ) , 67 , 15 ( C 5 H 7 + , 44 ) , 57 , 10 , 55 , 10 , 53 , 10 . Anal . calc . pour C 6 H U OC1 : C 53 , 53 , H 8 , 23 ; tr . : C 53 , 43 , H 8 , 15 .</p> 
+			
+			<p>( Phénoxy - 1 éthyl ) - l cyclopentanol ( 45 ) En utilisant 5 , 00 g ( 26 mmol ) de phénoxy - 2 propanoate d &apos; éthyle ( 39 ) on obtient , après distillation , 4 , 043 g de cyclopentanol 45 ; Rdt = 87% ; Eb = 125°C ( 0 , 03 Torr ) ; irv max ( film ) : 3450 , 2960 , 2885 , 1595 , 1488 , 1447 , 1288 , 1240 , 1170 , 1050, 740 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 32 ( 3H , d , CH 3 ) , 1 , 74 ( 8H , m , CH 2 cycl . ) , 2 , 11 ( 1H , s , OH ) , 4 , 27 ( 1H , q , CHCH 3 ) , 6 , 72 - 7 , 45 ( 5H , m , 4 aromatiques ) ppm . Anal . calc . pour C 13 H 18 0 2 : C 75 , 69 , H 8 , 79 ; tr . : C 75 , 52 , H 8 , 74 .</p> 
+			
+			<p>Diéthoxyméthyl - 1 cyclopentanol ( 46 ) En utilisant 5 , 00 g ( 28 mmol ) de diéthoxyacétate d &apos; éthyle ( 40 ) on recueille , après distillation , 4 , 039 g de diéthoxyméthyl - 1 cyclopenta - nol 46 ; Rdt = 76% ; Eb = 48°C ( 0 , 08 Torr ) ; ir v max ( film ) : 3460 , 2970 , 2865 , 1100 , 1065 cm - 1 ; rmn &apos; H 8 : 1 , 25 ( 6H , t , CH - &gt; - CH 3 ) , 1 , 44 - 2 , 00 ( 8H , m , CH 2 cycl . ) , 2 , 18 ( 1H , s , OH ) , 1 , 47 - 4 , 10 ( 4H , m , CH 3 CH , ) , 4 , 38 ( 1H , s , OH ) ppm . Anal . calc . pour C 10 H , 0 O 3 : C 63 , 79 , H 10 , 71 ; tr . : C 63 , 71 , H 10 , 76 .</p> 
+			
+			<p>( Dithiolane - 1 , 3 ) - l cyclopentanol ( 49 ) En utilisant 3 g ( 27 mmol ) de dithiolane - 1 , 3 acétate d &apos; éthyle 41 on obtient , après distillation , 2 , 131 g de cyclopentanol 49 ; Rdt = 67% ; Eb = 92 - 94°C ( 0 , 05 Torr ) ; ir v max ( film ) : 3440 , 2950 , 2865 , 1355 , 1278 , 1000 cm - 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 79 ( 8H , m , CH , cycl . ) , 2 , 28 ( 1H , s , OH ) , 3 , 27 ( 4H , s , CH 2 - CH 2 ) , 4 , 72 ( 1H , s , CH ) ppm . Anal . calc . pour C 8 H 14 OS 2 : C 50 . 49 , H 7 . 41 ; tr . : C 50 . 42 , H 7 . 46 .</p> 
+			
+			<p>Phénylthiométhyl - 1 cyclohexanol ( 50 ) En utilisant 2 , 085 g ( 10 , 6 mmol ) de l &apos; ester 37 on recueille , après distillation , 1 , 080 g de cyclohexanol 50 ; Rdt = 55% ; Eb = 112°C ( 0 , 02 Torr ) ; ir v max ( film ) : 3440 , 2930 , 2860 , 1587 , 1483 , 1442 , 1032, 987 , 741 , 695 cm &quot; 1 ; rmn &apos; H ( CDC1 3 ) 8 : 1 , 17 - 1 , 70 ( 10H , m , CH 2 cycl . ) , 2 , 23 ( 1H , s , OH ) , 3 , 10 ( 2H , s , CH 2 S ) , 7 , 24 ( 5H , m , H aromatiques ) ppm . Anal . calc . pour C 13 H , 8 OS : C 70 , 22 , H 8 , 16 ; tr . : C 70 , 21 , H 8 , 14 .</p> 
+			
+			<p>( Phénoxy - 1 éthyl - l ) - l cyclohexanol ( 51 ) En utilisant 4 , 00 g ( 21 mmol ) de phénoxy - 2 propanoate d &apos; éthyle ( 39 ) on recueille , après distillation , 3 , 291 g de liquide incolore . D &apos; après le spectre de rmn &apos; H nous obtenons une quantité appréciable de phénoxy - 2 heptène - 6 ol - 3 . Le rendement approximatif en ( phénoxy - 1 éthyl - 1 ) - 1 cyclohexanol ( 51 ) est de 38% ; Eb = 90 - 104°C ( 0 , 02Torr ) ; ir v max ( film ) : 3430 , 2940 , 2865 , 1605 , 1500 , 1245, 918 , 758 , 700 cm &quot; 1 ; rmn 1 H ( CDC1 3 ) 8 : 1 , 30 ( 3H , d , CH 3 ) , 1 , 62 ( 10H , m , OH cycl . ) , 2 , 10 ( 1H , s , OH ) , 3 , 71 ( 1H , m , CHCH 3 ) , 4 , 03 - 4 , 43 ( 1H , m , CHCH 3 ) , 6 , 73 - 7 , 56 ( 5H , m , aromatiques ) ppm . Anal . calc . pour C 14 H 20 O 2 : C 76 , 32 , H 9 , 15 ; tr . : C 76 , 28 , H 9 , 03 .</p>
+			</div>
+			
+			<div type="section">
+				<head>Remerciements</head>
+				
+			<p>Nous remercions le Conseil de recherches en sciences naturelles et en génie du Canada et le Ministère de l&apos;éducation du gouvernement du Québec pour l&apos;aide financière apportée sous forme de subventions et bourses.</p>	
+			
+			</div>	
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">G</forename>
+				<surname>Cook</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">K</forename>
+				<surname>Fields</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">27</biblScope>
+			<biblScope type="pp">3686</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Maillard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Vincent</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Delaunay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Rapin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Vo</forename>
+				<surname>Van-Tri</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">1683</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">F</forename>
+				<surname>Hennion</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Price</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">27</biblScope>
+			<biblScope type="pp">1587</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Miescher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Marxer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">U.S. Appl. 2,590,638</title>
+		<imprint>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Kira</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">N</forename>
+				<surname>Aboul-Enein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Tammam</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. U.A.R</title>
+		<imprint>
+			<biblScope type="vol">11</biblScope>
+			<biblScope type="pp">51</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<date type="published" when="2969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kudo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Nose</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">82</biblScope>
+			<biblScope type="pp">125255</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Offen. 250953 (C1,C07C), 11 sept</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">V</forename>
+				<surname>Shetty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">L</forename>
+				<surname>Thomas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. Appl. Mars Chem. Abstr</title>
+		<imprint>
+			<biblScope type="vol">447804</biblScope>
+			<biblScope type="issue">84</biblScope>
+			<biblScope type="pp">58889</biblScope>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Galbraith</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Hobbs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Massy-Westropp</surname>
+			</persName>
+		</author>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="issue">112</biblScope>
+			<date type="published" when="1963" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">I</forename>
+				<surname>Kruglikova</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">A</forename>
+				<surname>Kamennov</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zh. Org. Khim</title>
+		<imprint>
+			<biblScope type="vol">2</biblScope>
+			<biblScope type="pp">1227</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cannone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Caron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Foscolos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">40</biblScope>
+			<biblScope type="pp">865</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cannone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">B</forename>
+				<surname>Foscolos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle"></forename>
+				<surname>Bélanger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">45</biblScope>
+			<biblScope type="pp">1828</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cannone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bélanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lemay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">B</forename>
+				<surname>Foscolos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">46</biblScope>
+			<biblScope type="pp">3091</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hayashi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Furakawa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Fujino</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Ohkawara</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Pharm. Bull</title>
+		<imprint>
+			<biblScope type="vol">17</biblScope>
+			<biblScope type="pp">1054</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cannone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Thibeault</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Fytas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">42</biblScope>
+			<biblScope type="pp">4203</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Viscontini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Meier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helv. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">33</biblScope>
+			<biblScope type="pp">1773</biblScope>
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Schmutz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Hirt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Kunzle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Eichenberger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Lauener</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helv. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">36</biblScope>
+			<biblScope type="pp">620</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Henry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">M</forename>
+				<surname>Dehn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">72</biblScope>
+			<biblScope type="pp">2280</biblScope>
+			<date type="published" when="1950" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">V</forename>
+				<surname>Drake</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">M</forename>
+				<surname>Mcelvain</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="issue">697</biblScope>
+			<date type="published" when="1934" />
+		</imprint>
+	</monogr>
+	<note>et. références citées</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Moffett</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">14</biblScope>
+			<biblScope type="issue">862</biblScope>
+			<date type="published" when="1949" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">W</forename>
+				<surname>Adamson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. S</title>
+		<imprint>
+			<biblScope type="vol">144</biblScope>
+			<date type="published" when="1949" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">A</forename>
+				<surname>Weisel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">S</forename>
+				<surname>Mosher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">C</forename>
+				<surname>Whitmore</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">67</biblScope>
+			<biblScope type="pp">1071</biblScope>
+			<date type="published" when="1945" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">N</forename>
+				<surname>Nazarov</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">I</forename>
+				<surname>Kruglikova</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">M</forename>
+				<surname>Nikolaev</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zh. Obshch. Khim</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<biblScope type="pp">462</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chim. Abstr</title>
+		<imprint>
+			<biblScope type="vol">54</biblScope>
+			<biblScope type="pp">22634</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">G</forename>
+				<surname>Traynham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<forename type="middle">S</forename>
+				<surname>Pascual</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">7</biblScope>
+			<biblScope type="pp">165</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">C</forename>
+				<surname>Barrass</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">W</forename>
+				<surname>Brimblecombe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C Rich</forename>
+				<surname>Parkesetp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Pharmacol</title>
+		<imprint>
+			<biblScope type="vol">34</biblScope>
+			<biblScope type="pp">345</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J. Munch-Peterson</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<biblScope type="issue">519</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Morel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">968</biblScope>
+			<date type="published" when="1899" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">E</forename>
+				<surname>Truce</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Steltenkamp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">27</biblScope>
+			<biblScope type="pp">2816</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Attenburrow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Elks</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">A</forename>
+				<surname>Hems</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">N</forename>
+				<surname>Speyer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">510</biblScope>
+			<date type="published" when="1949" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ripps</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Derappe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Dupont</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Crucifix</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chim. Ther</title>
+		<imprint>
+			<biblScope type="vol">6</biblScope>
+			<biblScope type="pp">45</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">M</forename>
+				<surname>Trost</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hiemstra</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">42</biblScope>
+			<biblScope type="pp">3323</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">J</forename>
+				<surname>Cristeau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bazhovs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Ph</forename>
+				<surname>Morand</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Tonelles</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">27</biblScope>
+			<biblScope type="pp">3009</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Deprotonation de /V-oxydes d'amines aliphatiques: schéma réactionnel général et nouvelle synthèse de pyrrolidines</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">René</forename>
+								<surname>Beugelmans</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Leïla</forename>
+								<surname>Benadjila-Iguertsira</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacqueline</forename>
+								<surname>Chastanet</surname>
+							</persName>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Guillermo</forename>
+								<surname>Negron</surname>
+							</persName>
+						</author>
+						<affiliation>
+							<orgName type="department">ET GEORGES ROUSSI</orgName>
+							<address>
+							</address>
+						</affiliation>
+						<affiliation>
+							<orgName type="department">Institut de Chimie des Substances Naturelles</orgName>
+							<orgName type="institution">C.N.R.S</orgName>
+							<address>
+								<postCode>91190</postCode>
+								<settlement>Gif-sur-Yvette</settlement>
+								<country key="FR">France</country>
+							</address>
+						</affiliation>
+						<title level="a" type="main">Deprotonation de /V-oxydes d'amines aliphatiques: schéma réactionnel général et nouvelle synthèse de pyrrolidines</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">63</biblScope>
+							<biblScope type="fpage">725</biblScope>
+							<date type="published" when="1985">1985</date>
+						</imprint>
+					</monogr>
+					<note>Ce memoire est dédié au Professeur Paul de Mayo à l'occasion de son 60'' anniversaire</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Sous l'action du diisopropyl amidure de lithium, les /V-oxydes d'amines aliphatiques de structures diverses 1, 5, 10, 15, 21, 23 sont déprotonés. La monodéprotonation livre des aminés secondaires et du benzaldéhyde résultant de l'hydrolyse d'un imonium (1), ou des hydroxylamines issues d'un réarrangement de type Stevens observé pour la première fois à partir d'un N-oxyde. La double déprotonation livre un intermédiaire ylure d'imonium (Y) pouvant évoluer en fonction de la structure de l'aminé tertiaire initiale soit vers des pipérazines "tête-tête" (comportement de radical double (DD)), soit vers des aziridines. L'ylure d'imonium (Y5) dérivant du /V-oxyde de triméthylamine dont la formation et la réactivité sont décrites pour la première fois possède la propriété remarquable d'entrer dans des réactions de cycloaddition avec des oléfines non activées, permettant ainsi une synthèse originale et efficace de pyrrolidines diverses.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Amine oxides, 1, 5, 10, 15, 21, 23, when treated by lithium diisopropylamide undergo deprotonation. Monodeprotonation gives rise either to secondary amines and benzaldehyde resulting from the hydrolysis of an intermediate immonium (I) or to hydroxylamines via a Stevens-like rearrangement observed for the first time on an amine oxide. Double deprotonation gives an immonium ylid (Y) which, depending upon the structure of the initial tertiary amine yields either "head to head" piperazines (biradical-like behavior of (DD)) or aziridines. The immonium ylid (Y5) derived from trimethylamine oxide, whose formation and reactivity are reported for the first time, has the remarkable property of undergoing cycloaddition reactions with unactivated olefins, leading to a new and efficient synthesis of various pyrrolidines.</p>
+			</div>
+		</front>
+		<body>
+			<p>La déprotonation des ammoniums quaternaires est une propriété bien connue (Réactions de Stevens, de Sommelet— Hauser), mais celle des N-oxydes d'amines aliphatiques tertiaires , structuralement proches restait inexplorée. 2 Cette constation fut à l'origine de l'étude systématique (2) présentée ici, dont quelques résultats préliminaires furent publiés (3, 4).</p>
+			<div>
+				<head>Résultats</head>
+				<p>Le N-oxyde de benzyldiméthylamine 1, en présence d'un équivalent de BuLi conduit au benzaldéhyde 2, à la benzylamine 3 et au mélange de pipérazines cis + trans 4 (15%). Le rendement en pipérazine 4 atteint 30% en présence de 2 équivalents ou plus de cette base. La nature de la base est importante et nous avons constaté que seules les bases lithiées RLi (R = CH " n-Bu, f-Bu, Ph, NH 2 , N(Et) 2 , N(i-prop) 2 , tétraméthylpiperidine ) sont actives et que, parmi elles, le diisopropyl amidure de lithium (DAL) a permis le rendement en pipérazine 4 le plus élevé (61%), dans des conditions reproductibles (exp. 1).</p>
+				<p>C'est donc cette base qui a été utilisée pour traiter les Noxydes benzyliques 1, 5, 10 (tableau 1).</p>
+				<p>Le N-oxyde 5 livre une hydroxylamine 7 (exp. 3) qui ne se forme pas à partir de 1 tandis que la quantité de pipérazine décroît comparativement à l'exp. 1. Cette tendance est plus accentuée pour le N-oxyde 10 dont la réaction ne livre plus de pipérazine, l'hydroxylamine 13 étant le produit majoritaire (exp. 5). Selon une publication récente, due à H. Takayama et T. Nomoto (5) qui ont étudié la réactivité de N-oxydes tribenzyliques différemment substitués en présence de DAL, les aziridines seraient les seuls produits formés à 0°C. En particulier , les auteurs rapportent la formation de 14 (41%) à partir de 10. Nous avons donc pratiqué les expériences n° 2, 4 et 6 dans le but d'examiner la réactivité de 1, 5, 10 à 0°C. Pour le N-oxyde 1, nous n'avons pas constaté de différence significative entre les expériences n° 1 et 2. Par contre, l'aziridine 9 est formée à partir de 5 traité à 0°C (exp. 4), alors qu'elle ne l'était pas à —78°C (exp. 3). En ce qui concerne la réactivité de 10 à 0°C (exp. 6), nous avons bien retrouvé 14, avec le rendement annoncé par Takayama et Nomoto, mais de plus, nous avons isolé la dibenzylamine 12 (12%) et l'hydroxylamine 13 (20%). C'est pour 10 que le contraste est le plus net puisqu'à 0°C (exp. 6) l'aziridine 14 est le produit majoritaire tandis que les quantités d'hydroxylamine 13 et de dibenzylamine 12 sont réduites de plus de la moitié par rapport à l'expérience 5. Le benzaldéhyde 2 est toujours présent, en quantités plus notables à 0°C qu'à — 78°C.</p>
+				<p>Le TV-oxyde de diméthylaniline 15 traité par le i-BuLi présente une réactivité différente de celle des TV-oxydes benzyliques puisque les produits obtenus (exp. 7) (tableau 2) sont la yV-méthylaniline 16, l'amine tertiaire 17, la phényl-1-pyrrolidine 18. Le i-BuLi est manifestement la source des 4 atomes de carbone fixés sur 17 et par ailleurs, la formation de la pyrrolidine 18 implique la fixation de 2 atomes de carbone sur 15. Or, le i-BuLi est une base suffisamment puissante pour décomposer le tétrahydrofuranne et donner de l'éthylène (6), source des deux atomes de carbone requis pour la formation de 18. Un barbottage d'éthylène (exp. 8) provoque le doublement de la quantité de pyrrolidine et vient appuyer cette hypothèse. L'obtention de butyl-3 pyrrolidine 20 en présence de l'hexène-1 (exp. 9) confirme bien que les 2 atomes de carbone nécessaires à la formation des pyrrolidines 18 ou 19 proviennent d'un enchaînement —CH=CH—. Le TV-oxyde de mésidine 21 comporte un cycle benzènique stériquement encombré sur les positions 2 et 6, et ne donne lieu qu'à la formation du produit 22. Le /V-oxyde de triméthylamine 23 livre la pipérazine 24 (exp. 11) et la pyrrolidine 25 en présence de styrène (exp. 12).</p>
+			</div>
+			<div>
+				<head>Discussion</head>
+				<p>La formation des produits obtenus à partir des /V-oxydes 1, 5, 10, 15, 21, 23 implique la déprotonation d'un ou de deux carbones adjacent(s) à la fonction /V-oxyde (tableau 3).</p>
+				<p>Monodeprotonation</p>
+				<p>Le premier cas clairement défini de réactivité anionique du carbone situé en a de la fonction /V-oxyde est celui rapporté par nous en 1977, qui concerne le /V-oxyde de quinuclidine (7).</p>
+				<p>La structure des aminés tertiaires d'où dérivent les /V-oxydes 1, 5, 10, 15, 21 et 23 permet contrairement à celle de la quinuclidine l'existence d'une liaison imonium C=N= attestée par l'obtention de produits d'hydrolyse et d'attaque par un réactif nucléophile. En effet, l'intermédiaire formulé soit par (1) + OLi (sel d'imonium) soit par (!') (amino alcoolate de Li) est hydrolysé en aldéhyde R 1 —CHO et en aminé secondaire HN (R 3 )—CH 2 R 2 , tout comme dans les cas où il a été engendré à partir de la /V-diméthylbenzylamine par d'autres voies (oxydation chimique ou électrochimique de l'aminé, réduction ou décomposition catalysée par les métaux, du /V-oxyde 3 ) (schéma 2).</p>
+				<p>L'imonium (1) est également formé en série aniline et est caractérisé non seulement par l'obtention de l'aminé secondaire 16 provenant de l'hydrolyse, mais aussi par celle des aminés tertiaires 17 et 19 résultant de l'attaque nucléophile de ?-C 4 H 9 ~ + ou n-C 4 H 9 ~ sur C 6 H 5 —N(CH,)=CH 2.</p>
+				<p>Le réarrangement en hydrolyxamines 7 (à partir de 5) et 13 (à partir de 10) observé pour la première fois sur des /V-oxydes serait dû à un mécanisme radicalaire analogue à celui intervenant sur les sels d'ammonium quaternaires soumis à l'action des bases (Réaction de Stevens) (9, 10). Parmi les /V-oxydes étudiés ici, seuls 5 et 10 engendrent des anions pouvant subir la rupture homolytique nécessaire, avec formation de -CH 2 C 6 H 5 (schéma 3).</p>
+				<p>Dans le cas du N-oxyde 10, le processus radicalaire menant à l'hydroxylamine est plus efficace à —78°C qu'à 0°C, ce qui indique qu'il y a compétition entre la migration du radical *CH 2 C 6 H 5 et la seconde déprotonation discutée plus loin.</p>
+				<p>Deprotonation double</p>
+				<p>Comme le montre le tableau 3, la monodéprotonation des N-oxydes qui est à l'origine de la formation de l'aldéhyde, des aminés primaires et des hydroxylamines n'est pas sélective, puisque des pipérazines, des aziridines, des pyrrolidines sont formées également, même dans les réactions effectuées avec un seul équivalent de base. Cette seconde série de produits a pour origine une entité réactionnelle intermédiaire</p>
+				<p>La déprotonation des sels d'imonium par les bases fortes a déjà été rapportée dans des cas particuliers et les produits, aziridines (11) ou pipérazines (12) selon la structure des imoniums initiaux, proviennent d'un ylure d'imonium qui a pu être piégé par le norbornène. Nous obtenons également des aziridines (9, 14) et des pipérazines (4, 8) à partir des /V-oxydes benzyliques 5, 10, et de ceux dérivées de l'aniline 21 ou de la triméthylamine 23. De plus, les pyrrolidines 18, 20, 25, sont formées en présence d'une oléfine. L'origine de tous ces produits peut être rationalisée en invoquant l'existence d'un ylure d'imonium (Y) intermédiaire formé par déprotonation de (I).</p>
+				<p>Formation des pipérazines</p>
+				<p>Les pipérazines obtenues par duplication d'ylures d'imonium engendrés selon différentes voies possèdent toutes une structure "tête—queue" (substituants en positions 2 et 5) résultant d'une cycloaddition (3 + 3) (12—14). Or, les pipérazines 4 et 8 que nous obtenons à partir des /V-oxydes respectifs possèdent des structures "tête—tête" (substituants en positions 2 et 3), excluant un couplage d'ylures (Y 1 ) ou (Y2). Cependant, ces ylures sont isoélectroniques de diradicaux (Dl) et (D2) où le site benzylique (C () H 5 CH—N serait stabilisé par l'effet captodatif défini par H. Viehe et coll. (15). Le radical méthylènique N—CH,' plus réactif réagirait donc le premier en se dupliquant, donnant ainsi un radical double (DD1) (DD2) précurseur des pipérazines "tête—tête" finales. L'interconversion photochimique 4 cis —» 4 trans par l'intermédiaire d'un état excité menant à un radical double fournit un argument important en faveur de l'existence de (DD1) (16). Selon cette hypothèse, seuls les ylures d'imonium, générés à partir de N-oxydes d'amines portant au moins un substituant méthyle, précurseur du radical méthylène devraient donner des pipérazines, ce qui est vérifié.</p>
+				<p>Formation des aziridines</p>
+				<p>Nous avons vérifié que l'aziridine 26 est stable dans les conditions réactionnelles utilisées pour le traitement du Noxyde 5 et qu'elle n'est donc pas à l'origine de la pipérazine 8. L'espèce monodéprotonée (1) issue de 5 se déprotonne une seconde fois pour mener à (Y2) isoélectronique de (D2). Celle issue de 13 subit à — 78°C une réaction compétitive menant à l'hydroxylamine 13 (exp. 5), la seconde déprotonation n'intervenant qu'à température plus élevée (exp. 6). La géométrie cis des phényles 2 et 3 portés par les aziridines 9 et 14 est conforme à celle attendue pour la cyclisation conrotatoire d'un intermédiaire ionique (Y2) ou (Y3) de conformation trans.</p>
+				<p>Formation des pyrrolidines</p>
+				<p>La déprotonation de l'imonium provenant du /V-oxyde 15 livre un ylure (Y4), suffisamment réactif pour s'additionner à des oléfines simples (éthylène ou hexène-1). L'ylure d'imonium (Y5) est formé à partir du /V-oxyde 23, sans que l'existence d'un intermédiaire imonium soit étayée comme précédemment par l'obtention de l'aminé secondaire HN(CH 3 ) 2 que nous avons recherchée sans succès. Ceci laisse penser que, en l'absence d'un substituant phényle porté sur le carbone (Noxydes 1, 5, 10) ou sur l'azote (N-oxyde 15), l'imonium initial très réactif est déprotoné (de manière synchrone?) pour donner l'ylure (Y5).</p>
+				<p>Le styrène ajouté dans le milieu réactionnel ne se polymérise pas et livre 25 (50%), indiquant que l'intermédiaire n'est pas de nature radicalaire. D'autre part, l'addition de (Y5) au cis ou au trans stilbène livre la méthyl-1 diphényl-3,4 pyrrolidine cis 26 ou trans 27, en conformité avec le processus de cycloaddition (3 + 2) (pour des révues récentes voir la réf. 17) (schéma 6). En l'absence d'oléfine, le seul produit isolable 4 à partir de 23 est la pipérazine 24, qui n'étant pas substituée sur le cycle, ne peut fournir d'indice quant à la nature de l'intermédiaire mis en jeu.</p>
+				<p>Parmi les divers produits rapportés dans le tableau 3, les plus intéressants du point de vue de la synthèse sont ceux résultant de la double fonctionnalisation en a et a': pipérazines, aziridines et pyrrolidines. La réaction de cycloaddition (3 + 2) entre (Y5), premier terme de la série des ylures d'imonium ne portant aucun substituant et donc non stabilisé et des dipolarophiles non ou très peu activés par des groupes attracteurs d'électrons est nouvelle et nous semble être susceptible de développements synthétiques importants dont nous présentons ici quelques éléments.</p>
+				<p>Réactivité de (Y5) vis-ci-vis d'oléfines simples</p>
+				<p>La réactivité de (Y5) est importante puisqu'il entre, à basse température, dans des réactions de cycloaddition avec des oléfines simples, ainsi qu'avec des cycloalcènes de taille variée: 5 cyclopentène, cycloheptène, cyclooctène, pour donner les systèmes hétérobicycliques 28, 29, 30.</p>
+				<p>Réactivité de (Y5) vis-à-vis d'oléfins fonctionnalisées</p>
+				<p>Les possibilités synthétiques de la cycloaddition de (Y5) sont en fait plus vastes que celles montrées dans le schéma 7 puisque la double liaison de l'alcool allylique ou celle de la cyclopentenone dont la fonction carbonyle est protégée, la subissent pour donner 31 et 32. La double liaison de la 3-pipéridéine est moins réactive et le rendement en système hétérobicyclique 33 est moindre.</p>
+				<p>Réactivité de (Y5) vis-à-vis de diénes</p>
+				<p>Les diènes conjugués cyclooctadiène, diphényl-1,4 butadiène livrent des mélanges de produits résultant d'une cycloaddition simple (34, 36) ou double (35, 37). Alors que 34 est instable, la pyrrolidine insaturée 36 isolée et traitée une seconde fois avec le N-oxyde 23 livre la bipyrrolidine 37; aucun produit résultant d'une cycloaddition en 1,4 sur le système diénique n'a été obtenu. L'hexadiène-1,5 et l'hexadiène-1,5 3-ol se comportent de la même manière que les diènes conjugués , c'est-à-dire qu'ils subissent une ou deux cycloadditions avec (Y5) pour donner respectivement le mélange 38 + 39 et 40.</p>
+				<p>Limites de la réaction de cycloaddition</p>
+				<p>La réaction s'avère sensible à l'encombrement stérique du dipolarophile comme nous l'avons observé à propos du comportement de (Y5) vis-à-vis du méthyl-l cyclopentène et de l'alcool méthyl-2-allylique contrastant avec l'addition facile sur les homologues inférieurs. Par ailleurs, (Y4) issu de 15 via (14) possède une réactivité satisfaisante vis-à-vis de l'éthylène et de l'hexène-1 et en ce qui concerne l'addition au norbornène, une expérience préliminaire conduit au produit attendu 41 dont la stéréochimie n'a pas été déterminée.</p>
+			</div>
+			<div>
+				<head>Conclusion</head>
+				<p>Les résultats de ce travail permettent de proposer pour la première fois un schéma réactionnel rendant compte de l'ensemble des données actuellement connues concernant la réactivité des /V-oxydes d'amines aliphatiques traités par les bases fortes; ce schéma est susceptible, selon nous, de servir de fil conducteur pour développer de nouvelles applications synthétiques . En ce qui concerne celles-ci notre méthode de synthèse de pyrrolidines substituées en 3 ou disubstituées en 3 et 4 complète de manière appréciable les méthodes connues fondées sur diverses réactions (18, 19) et particulièrement sur la cycloaddition (3 + 2) d'ylures d'azométhines stabilisés (12, 20, 21), masqués (22) ou diversement protégés (23, 24) avec des oléfines qui dans tous les cas sont activées (25).</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>L'analyse des mélanges réactionnels et la séparation des composés ont été effectuées par Chromatographie: en phase liquide sur colonne d'alumine alcaline (AA), de Florisil 60 Mesh (F), ou de gel de silice (S); sur couche mince de gel de silice Merck HF 254 + 366 neutre ou alcaline (ccm). Les proportions des solvants d'élution ont été exprimées en volume; en phase gazeuse (cpg) à l'aide d'un chromatographe Girdel série 300. Les analyses et dosages ont été réalisés sur une colonne A: OV1 5% (phényl méthyl-silicone 300 x 0,3); B: OVI 10% (300 x 0,3); C: Pennwalt 323 (28%, KOH 4%, 300 x 0,3); D; SE30 QF1 8% (300 x 0,3) ou E: Craig-Polyester 20% (300 x 0,3). L'identification par cpg des produits obtenus a été effectuée par comparaison de leur temps de rétention (tr) avec ceux des produits de référence.</p>
+				<p>Les spectres infra-rouge (ir) ont été enregistrés sur un appareil Perkin—Elmer 297, en utilisant le chloroforme comme solvant. Les spectres ultra-violet (uv) ont été réalisés en solution dans le méthanol, à l'aide d'un spectromètre Jobin-Yvon. Les spectres de résonance magnétique nucléaire du proton (rmn) ont été enregistrés sur un appareil Perkin—Elmer R12 à 60 MHz ou Bruker WM400 à 400 MHz. Le chloroforme deutérié a été utilisé comme solvant et le TMS comme référence interne. Les spectres de masse (ms) ont été enregistrés sur un spectromètre AE1, MS 50 our sur un appareil couplé avec un chromatographe gc/ms Hewlett Packard 5992A. Les points de fusion (F) des composés cristallisés ont été mesurés au banc Kofler ou sur un appareil Biichi.</p>
+				<p>Les organolithiens utilisés («-BuLi dans l'hexane, PhLi dans l'éther ou /-BuLi dans le pentane) sont des préparations commerciales qui ont été titrées avant emploi par une solution 1 M d'isobutanol dans le toluène en présence de phénantroline-1,10. Le tétrahydrofuranne (THF) employé a été traité par passage sur colonne d'alumine alcaline puis distillé sur sodium en présence de benzophénone, avant chaque usage. Toutes les oléfines et les diènes sont des produits commerciaux ainsi que le Ai-oxyde de triméthylamine qui a été utilisé soit après séchage prolongé sous un vide poussé, soit après sublimation.</p>
+				<p>Préparation des N-oxydes</p>
+				<p>N-oxyde de diméthylbenzylamine 1</p>
+				<p>La diméthylbenzylamine commerciale (10 g, 66 mmol) dissoute dans le méthanol distillé (60 mL) est traitée pendant une nuit par 110 mL d'eau oxygénée à 110 volumes, selon la méthode de Cope et Towle (26). L'excès d'eau oxygénée est détruit par du palladium sur charbon activé à 10%. Un séchage poussé à 60°C sous 10" 2 Torr (1 Torr = 133.3 Pa) livre le Ai-oxyde 1 (9,8 g, 65 mmol), Rdt = 98%; F = 62°C (acétate d'éthyle) (litt. (26) F = 64,5°-67°C); F picrate = 162°C (litt. (26) F = 158 — 160°C); ir v N _ 0 : 975 cm" 1 ; rmn: 3,1 (s, 6H), 4.4 (s, 2H), 7,4-7,6 (m, 5H)</p>
+				<p>N-oxyde de dibenzylméthylamine 5</p>
+				<p>L'oxydation de la dibenzylméthylamine (10 g, 44 mmol) dans les conditions décrites ci-dessus, conduit après séchage prolongé à 8 g (35,2 mmol, 75%) de N-oxyde 5; F = 150°C (acétate d'éthyle) (litt. (26) F = 150°Ç).</p>
+				<p>N-oxyde de tribenzylamine 10</p>
+				<p>L'oxydation de la tribenzylamine (10 g, 35 mmol) en solution dans 30 mL de chloroforme par l'acide m-chloroperbenzoïque (12 g, 69 mmol) conduit après purification sur colonne AA (CHCh-MeOH 3:1) à 10,3 g (33,9 mmol, 97%) de N-oxyde 10; F = 138°C (hexane-acétone) (litt. (27) F = 133°C).</p>
+				<p>N-oxyde de diméthylaniline 15</p>
+				<p>L'oxydation par l'eau oxygénée de la diméthylaniline commerciale (3 g, 24,7 mmol) conduit à 1,5 g (11 mmol, 44%) de /V-oxyde 15; F = 150°C (méthanol) (litt. (27) F = 150°C).</p>
+				<p>N-oxyde de diméthylmésidine 21</p>
+				<p>La diméthylmésidine (2,89 g, 17,73 mmol) préparée par méthylation de la mésidine par le sulfate de méthyle (28), et oxydée par l'acide m-chloroperbenzoïque (2,93 g, 18,7 mmol), conduit après Chromatographie sur colonne AA au /V-oxyde 21 (364 mg, 2,01 mmol), Rdt = 11%, amorphe; rmn: 2,2 (s, 3H), 2,7 (s, 6H), 3,7 (s, 6H), 6,9 (s, 2H). Action du DAL sur les N-oxydes benzyliques à — 78°C et à 0°C</p>
+				<p>Expérience type Toutes les réactions sont effectuées sous azote. Le DAL (3,5 mmol) en solution dans le THF est ajouté à l'aide d'une seringue, à 1 mmol de Ai-oxyde en suspension dans 25 mL de THF à —78°C. L'évolution de la réaction est suivie par des prélèvements analysés en ccm (MeOH/CH 2 CI 2 1:99). Après disparition du produit de départ (environ 4 h) l'hydrolyse et l'extraction (CH 2 C1 2 ) conduisent à un mélange qui est séparé par Chromatographie sur colonne. A 0°C les conditions expérimentales sont identiques à celles décrites dans le cas de réactions effectuées à —78°C, seuls les rapports des concentrations /V-oxyde/base changent (1:3, 5 à —78°C; 1:1,2 à 0°C).</p>
+				<p>Action du DAL sur le N-oxyde de diméthylbenzylamine 1</p>
+				<p>(a) Expérience n" 1 (-78°C)</p>
+				<p>Le Ai-oxyde 1 (306 mg, 2,02 mmol) traité dans les conditions décrites ci-dessus, par le DAL (13,5 mmol) donne 310 mg de produit brut qui est chromatographié sur colonne AA. L'élution (pentane) livre des traces de benzaldéhyde identifié par cpg et par ccm analytique . L'élution (pentane/chlorure de méthylène: 90:10) livre un mélange de pipérazines-2,3 diphényl A^Ai-diméthyl eis (4c) et trans (4f) dont l'analyse par cpg sur colonne A indique un rapport 4c/4f = 2,4 (tr 4/ = 20 min; 4c = 28 min à 195°C sous 1,1 atm) (1 atm = 101,3 kPa). La cpg préparative sur colonne E permet d'obtenir 4/ (25 mg) et 4c (60 mg), identifiés à des échantillons authentiques. Pipérazine 4 trans: F = 263°C (cyclohexane) (litt. (29) F = 263—264°C); rmn: 2 (s, 6H), 2,5-3,1 (système AA'BB', 4H), 2,82 (s, 2H), 7-7,5 (m, lOHarom); L, C: 43,54 (c, Cl et C4), 54,78 (t, C5 et C6), 75,06 (d, C2 et C3), 128,16 (d, C3*. C4* etC5*), 130,69 (d, C2* et C6*), 138,03 (s, Cl*); sm m/e: 266 (M + ), 146, 118.</p>
+				<p>Pipérazine 4 cis: F = 90°C (cyclohexane) (non décrit dans la litt.); rmn: 2,1 (s, 6H), 2,5-3,2 (système AA'BB', 4H), 3,7 (s, 2H), 6,9-7,5 (m, 10H, arom); "C: 43,54 (q, Cl et C4), 52,85 (t, C5 et C6), 71,81 (d, C2 et C3), 127,12 (d, C4*), 127,4 (d, C3* et C5*), 130,6 (d, C2* et C6*), 136,9 (s, Cl*); sm: identique à 4 trans.</p>
+				<p>Synthèse de 4c et 4b</p>
+				<p>Synthèse de la diphényl-2,3 dihydro-5,6 pyrazine (a) Le benzil (10 g, 47 mmol) est mis à réagir avec de l'éthylènediamine (2,8 g , 47 mmol) dans 250 mL d'éthanol distillé. Une recristallisation dans l'éthanol livre a (9 g, 38 mmol), Rdt = 81%; F = 161°C (litt. (29) F = I61°C); rmn: 3,7 (s, 4H), 7,2-7,7 (m, 10H arom).</p>
+				<p>Obtention des diphényl-2,3 pipérazines (b cis et b trans)</p>
+				<p>Le traitement de a (3,5 g, 15 mmol) par le sodium (7 g, 300 mmol) dans l'éthanol à reflux livre, après une première extraction des eaux mères en milieu alcalin, le composé b {3 g, 13 mmol) sous forme de mélange d'isomères b cis et b trans (Rdt = 85%), séparés par cristallisation des tartrates dont l'extraction en milieu alcalin conduit à b trans (1 g, 4,2 mmol) et b cis (1,8 g, 7,6 mmol).</p>
+				<p>Composé b trans: F = 123°C (litt. (30) F = 123-124°C); rmn:3,15 (s, 4H), 3,75 (s, 2H), 7,15 (s large, ICIH arom). Composé b eis: F = II2°C (litt. (30) F = 108-109°C); rmn: 2,7-3,5 (système A 2 A' 2 , 4H), 4,3 (s, 2H), 7-7,6 (m, I0H arom). Un autre mode de réduction de a par l'hydrure de lithium et d'aluminium dans l'éther anhydre, permet d'obtenir b eis et b trans avec un rendement de 37%.</p>
+				<p>Méthylation de b eis et b trans</p>
+				<p>L'action d'un excès d'iodure de méthyle distillé sur b trans (0,5 g, 2,2 mmol) dans l'éthanol à chaud livre 4 trans (0,55 g, 2 mmol), Rdt = 97%, cristallisant après Chromatographie sur colonne F (élution: éther/pentane, 50:50 jusqu'à 70:30). Un traitement analogue livre 4 eis (0,47 g, 1,7 mmol), Rdt = 84%, à partir de b eis (0,5 g, 2,2 mmol). Ces produits sont identiques (ir, rmn) à ceux issus de la réaction du /V-oxyde 1.</p>
+				<p>(b) Expérience n" 2 (0°C)</p>
+				<p>Le /V-oxyde 1 (906 mg, 6 mmol) traité par le DAL (7,2 mmol) livre après Chromatographie sur colonne S (élution: chlorure de méthylène/hexane, 5:95): (/) les pipérazines 4C et 4/(530 mg, 1,99 mmol), Rdt = 66%, e/t = 1,4; (&lt;ï) le benzaldéhyde 2 (60 mg, 0,56 mmol), Rdt = 9%; (iii) le /V-oxyde 1 (élution: méthanol/chlorure de méthylène, 3:97) (35 mg) contenant de la benzylméthylamine 3.</p>
+				<p>Action du DAL sur le N-oxyde de dibenzylméthylamine 5</p>
+				<p>(a) Expérience n" 3 (~78°C)</p>
+				<p>Le W-oxyde 5 (908 mg, 4 mmol) traité par le DAL (14 mmol) livre après Chromatographie sur colonne S: (/) la pipérazine 8 (229 mg, 0,55 mmol), éluée par CH 2 Cl 2 /hexane, 5:95), Rdt = 27%, F = I85°C (CH 2 Cl 2 /hexane); rmn (400 MHz): 2,3 (d, 2H, J = 8 Hz) 2,7-2,9 (d, 2H, J = 8 Hz et d, 2H, J = 14 Hz), 3.35 (s, 2H), 3,6-3,8 (d, 2H, J = 14 Hz), 7-7,3 (m, 20H arom); sm m/e: 417 (M + — 1), 327, 210; sm (ionisation chimique): 419 (M + l) + .(;ï)Le composé 8, non décrit dans la littérature, est identique (ir, rmn) à un échantillon de référence préparé par le traitement de b trans avec le bromure de benzyle. (iii) L'hydroxylamine 7 (250 mg, 1,1 mmol, éluée par MeOH/CH 2 CI 2 , 1:99), F = I04-105°C (éther), Rdt = 27%; ir v OH : 3580 cnT 1 ; rmn (400 MHz): 2,5 (s, 3H), 3 (2d, IH. J = I Hz), 3,4-3,8 (2H), 6,7-7,3 (m, I0H arom); ,5 C: 40,358 (t, Cl), 46,40 (q, C3), 76,62 (d, C2), 125,8 (d, C4), 127,5 (d, C4), 127,9 (d, C3C5*), 128,2 (d, C5*C3*), 128,7 (d, C2'C6'), 129,4 (d, C2*C6*), 138,6 (s, Cl'), 139,4 (s, Cl*); sm m/e: 226 (M + -I), 181, 136, 118. Anal. calc. pour C,.,H l7 NO: C79,20, H 7,48, N 6,16, O 7,04; tr: C 79,18, H 7,52, N 5,90, O 7,45%.</p>
+				<p>(b) Expérience n" 4 WQ</p>
+				<p>Le Ai-oxyde 5 (908 mg, 4 mmol) traité par le DAL (4,8 mmol) livre après Chromatographie sur colonne F: (/) le benzaldéhyde 2 (30 mg, 0,28 mmol), Rdt = 7% (élution: CH 2 Cl 2 /hexane, 30:70); (ii) la pipérazine 8 (260 mg, 0,62 mmol), Rdt = 31%, (élution: CH 2 C1 2 / hexane, 30:70); (iii) l'aziridine 9 (23 mg, 0,12 mmol), Rdt = 3% (élution: CH 2 /C1 2 30:70); rmn: 2,7 (3H, s), 2,8 (2H, s), 7,15 (10H, s élargi); M + 209, m/e 194; (iV) l'hydroxylamine 7 (250 mg, 1,1 mmol), Rdt = 27% (élution: CH 2 Cl 2 /hexane, 50:50); (v) la méthylbenzylamine 6 (30 mg, 0,24 mmol), Rdt = 6% (élution: CH 2 C1 2 ); (vi) le /V-oxyde 5 (90 mg, 0,4 mmol), Rdt = 10% (élution: CH 2 Cl 2 /MeOH 90:10).</p>
+				<p>Action du DAL sur le N-oxyde de tribenzylamine 10</p>
+				<p>(a) Expérience n" 5 ( — 78°C)</p>
+				<p>Le Ai-oxyde 10 (909 mg, 3 mmol), traité par le DAL (10,5 mmol) livre après Chromatographie sur colonne S: (i) l'hydroxylamine 13 (430 mg, 1,42 mmol), Rdt = 47% (élution: CH 2 Cl 2 /hexane, 50:50); F = 115°C (CH 2 Cl 2 /hexane); ir: 3580 cm" 1 (OH); rmn (400 MHz): 3 (2d, \H,J = 7 Hz), 3,6 (2d, 2H, J = 7 Hz; Id, J = 13 Hz), 3,8 (d, 1 H, ^ = 13 Hz), 3,9 (2d, IH, 7 = 7 Hz), 6,9-7,4 (m, 10H); sm m/e: 304 (M* -1), 196, 122, 106. Anal. calc. pour C,,H " NO: C 83,13, H 6,98, N 4,62, O 5,27; tr.: C 82,98, H 6,90, N 4,83, O 5,21%; (ii) la dibenzylamine 12 (109 mg, 0,86 mmol), Rdt = 29% (élution: CH 2 Cl 2 /hexane, 30:70); (iii) le Ai-oxyde 10 (60 mg, 0,2 mmol), Rdt = 6% (élution: CH 2 Cl 2 /MeOH, 90:10).</p>
+				<p>(b) Expérience n" 6 (0°C)</p>
+				<p>Le Ai-oxyde 10 (900 mg, 3 mmol) traité par le DAL (3,6 mmol) livre après chromatographie sur colonne S: (/) l'aziridine 14 (350 mg, 1,22 mmol), Rdt = 42% (élution: CH 2 Cl 2 /hexane, 40:60); rmn identique à celle décrite (5). (ii) l'hydroxylamine 13 (175 mg, 0,58 mmol), Rdt = 20% (élution: CH 2 CI 2 /hexane, 50:50); (iii) la dibenzylamine 12 (75 mg, 0,38 mmol), Rdt = 12% (élution: CH 2 Cl 2 /MeOH, 99:1); (/v) le Ai-oxyde 10 (45 mg, 0,15 mmol), Rdt = 5% (élution: CH 2 Cl 2 /MeOH, 90:10).</p>
+				<p>Action du t-BuLi sur le N-oxyde de diméthylaniline</p>
+				<p>Expérience n" 7 Le /V-oxyde 15 (1,25 g, 9 mmol) traité par le /-BuLi (30 mmol) en solution dans le THF livre un mélange (0,600 g), analysé par cpg (colonne A, t = 100°C). Trois composés 17, 18 et 16 dans le rapport 7,2:1,7:1 sont identifiés et la cpg préparative permet d'obtenir des échantillons pour la spectroscopie de masse. /V-méthyl aniline 16: (cpg: (tr) = 11 min), sm m/e: 107 (M + ). /V-phénylpyrrolidine 18: (cpg: (tr) = 7 min), sm m/e: 147 (M + ) 119, 104, identique à un échantillon de référence préparé selon la littérature (31). /V-méthyl /V-isopentyl aniline 17: (cpg: (tr) = 4,8 min) sm m/e: 177 (M + ) 162, 120.</p>
+				<p>Expérience n" 8</p>
+				<p>De l'éthylène est mis à barboter à —78 C C dans une solution de 15 (400 mg, 2,9 mmol) dans le THF. Le traitement par le ;-BuLi (3,9 mL, 6 mmol) conduit à un mélange (0,2 g) analysé par comparaison (cpg, colonne A, t four = I70°C) à un essai témoin ne contenant pas d'éthylène. Les calculs à partir des chromatogrammes montrent que la quantité de 18 est doublée par rapport à l'expérience n" 7.</p>
+				<p>Expérience n" 9</p>
+				<p>De l'hexène-1 (500 mg, 6 mmol) est ajouté à 15 (400 mg, 2,9 mmol) en solution dans le THF à —78°C. Le tout est traité par du «-BuLi (4,5 mL, 7,3 mmol) puis hydrolysé à basse température. Une première extraction (chlorure de méthylène) suivie d'une deuxième extraction (butanol) livre 0,26 g d'un mélange chromatographié sur colonne AA. L'élution (pentane/éther, 50:50) conduit à la /V-méthyl /V-pentyl aniline 19, Rdt = 10% (cpg); sm m/e: 177 (M + ), 120, (Ai + — 57, C 4 H.,), 106; l'élution par l'éther conduit à la /V-phényl butyl-3 pyrrolidine 20, Rdt = 18% (cpg); rmn: 0,8-1,6 (m, 9H), 1,9-2,4 (m, 2H), 2,6-3 (m, 1H), 3,1-3,6 (m, 4H), 6,5-7 (m, 3H arom), 7-7.5 (m, 2H arom); sm m/e: 203 (M + ), 119, 104.</p>
+				<p>Action du t-BuLi sur 21</p>
+				<p>Expérience n" 10</p>
+				<p>Le /V-oxyde de diméthylmésidine 21 (181 mg, 1,52 mmol) en solution dans 25 mL de THF traité à -78°C par 4 mmol de /-BuLi pendant 30 min livre après chromatographie (colonne S) la pipérazine 22 (54 mg, 0,17 mmol), Rdt = 22%, F = 190-I9I°C (EtOH) (litt. (32) F = 190-191°C).</p>
+				<p>Action du DAL sur le N-aryc/c de triméthylamine 23</p>
+				<p>Expérience n" II</p>
+				<p>Le /V-oxyde 23 (345 mg, 4,6 mmol) traité par le DAL (16 mmol) à -78°C, conduit après hydrolyse et extraction au CH 2 CI 2 à un mélange brut (72 mg) qui, sous l'action d'une solution alcoolique saturée d'acide picriquc, donne le dipicrate de diméthylpipérazine 24 (86 mg, 0,26 mmol), Rdt = 12%, F = 277°C (EtOH). Une solution aqueuse de soude 10% libère la pipérazine 23 identique (cpg, rmn) au produit commercial.</p>
+				<p>Méthyl-1 phényl-3 pyrrolidine 25</p>
+				<p>Expérience n" 12</p>
+				<p>Le W-oxyde de triméthylamine 23 (91 mg, 1,21 mmol) et du styrène (138 mg, 1,33 mmol) en solution dans 25 mL de THF traité à -78°C par le DAL (4,2 mmol), conduit à la pyrrolidine 25 (111 mg, 0,60 mmol), Rdt = 50%. Picrate: F = 158-160°C (EtOH) (litt. (33) F = 155— I58°C).</p>
+				<p>Méthyl-1 diphényl-3,4 pyrrolidine eis 26</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (85 mg, 1,13 mmol) et le eis stilbène (211 mg, 1,17 mmol) en solution dans 25 mL de THF traité à — 78°C par le DAL (3,9 mmol) livre la pyrrolidine 26 (165 mg, 0,70 mmol), Rdt = 62%; F = 67 -69°C (EtOH); rmn: 2,55 (s, 3H), 2,93-3,33 (m, 4H), 2,73-4,0 (m, 2H), 7,1 (s élargi, I0H); sm m/e: 237 (M + ), 180, 57. Anal. calc. pour C I7 H,.,N: C 86,00, H 8,07, N 5,93; tr.: C 85,86, H 8,08, N 5,94%.</p>
+				<p>Méthyl-1 diphényl-3,4 pyrrolidine trans 27</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (106 mg, 1,42 mmol) et le trans stilbène (295 mg, 1,55 mmol) en solution dans 25 mL de THF traité à —78°C par le DAL (4,9 mmol), livre la pyrrolidine 27 (241 mg, 1,01 mmol), Rdt = 72%; rmn: 2,45 (s, 3H), 2,7-3,8 (m, 6H), 7,2 (s élargi, 10H). sm m/e: 237 (M + ), 180, 57. Picrate: F = 186-I87°C (EtOH). Anal. calc. pour C 23 H 22 N 4 0 8 : C 59,22, H 4,75, N 12,02, O 24,01; tr.: C 58,97, H 4,72, N 12,00, O 23,73%.</p>
+				<p>Méthyl-3 aza-3 bicyclo[3.3.0]octane 28</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (92 mg, 1,23 mmol) et du cyclopentène (92 mg, 1,35 mmol) en solution dans 25 mL de THF traité à —78°C par le DAL (4,4 mmol) conduit à la pyrrolidine 28 (34) (65 mg, 0,52 mmol), Rdt = 42%; rmn: 1,3-1,8 (m, 6H), 1,8-2,3 (m, 2H), 2,3 (s, 3H), 2,4-2,9 (m, 4H); sm tn/e: 237 (M + ). Picrate: F = 203—205°C (EtOH).</p>
+				<p>Méthyl-3 aza-3 bicyclo[5.3.OJdécane 29</p>
+				<p>Le N-oxyde de triméthylamine 23 (161 mg, 2,14 mmol) et du cycloheptène (235 mg, 2,35 mmol) en solution dans 25 mL de THF traité à —78°C par le DAL (5,5 mmol) conduit à la pyrrolidine 31 (201 mg, 1,31 mmol), Rdt = 61%; rmn: 1-2 (m, 12H), 2-2,6 (m + ls, 5H), 2,6-3 (m, 2H); sm m/e: 153 (M + ), 57. Picrate: F = 238-240°C (EtOH). Anal. calc. pour C l6 H 22 N 4 0 7 : C 50,25, H 5,80, N 14,66, O 29,29; tr.: C 50,37, H 5,87, N 14,64, O 29,32%.</p>
+				<p>Méthyl-3 bicyclo[6.3.0]undécane 30</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (80 mg, 1,06 mmol) et du cyclooctène (129 mg, 1,16 mmol) en solution dans 25 mL de THF traité à — 78°C par le DAL (4,2 mmol) livre la pyrrolidine 30 (159 mg, 0,95 mmol), Rdt = 90%; rmn: 1-1,2 (m, 14H), 1,9-2,4 (m, 3H), 2,25 (s, 3H), 2,8-3,2 (m, 2H); sm m/e: 167 (M + ), 57. Picrate: F = 218—219°C (EtOH); Anal. calc. pour C 17 H 24 N 4 0 7 : C 51,51, H 6,10, N 14,14, O 28,25; tr.: C 51,44, H 6,09, N 13,96, O 28,14%.</p>
+				<p>Méthyl-1 méthanol-3 pyrrolidine 31</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (115 mg, 1,52 mmol) et du propen-2 ol (192 mg r 1,67 mmol) en solution dans 25 mL de THF traité à -78°C par le DAL (4,2 mmol) livre la pyrrolidine 31 ( 106 mg, 0,92 mmol), Rdt = 60%; rmn: 1-2 (m, 3H), 2-3 (m, 7H), 2,35 (s, 3H), 3,6 (d, 2H), 4,2 (s élargi, 1H); sm m/e: 115 (M + ), 57.</p>
+				<p>Méthyl-1 aza-1 (dioxolane-1,3)-4 bicyclo[3.3.0]heptane 32</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (96 mg, 1,24 mmol) et du dioxolane de la cyclopenten-2 one (171 mg, 1,36 mmol) en solution dans 25 mL de THF traité à -78°C par le DAL (4,3 mmol) livre la pyrrolidine 32 (152 mg, 0,83 mmol), Rdt = 67%; rmn: 1,4-2,3 (m, 6H), 2,3 (s, 3H), 2,4-3 (m, 4H), 3,9 (s, 4H); sm m/e: 183 (M + ), 99, 57. Picrate: F = 171-172°C (EtOH). Anal. calc. pour C l6 H, " N 4 0 9 : C 46,60, H 4,89, N 13,59, O 34,92; tr.: C 46,10, H 4,86, N 13,43, O 34,27%.</p>
+				<p>Diméthyl-3,8 diaza-3,8 bicyclo[4.3,0]nonane 33</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (281 mg, 3,75 mmol) et de la méthyl-1 tétrahydro-1,2,3,6 pyridine (400 mg, 4,12 mmol) en solution dans 25 mL de THF traité à -78°C par le DAL (13 mmol) livre un mélange de produits (209 mg) dont le spectre de masse indique qu'il est constitué de diméthylpipérazine 24 (M* 114) et de pyrrolidine 33 (M* 154).</p>
+				<p>Méthyl-1 aza-l bicyclo[6.3.0.(3.10)1 undecene-4 34 et diméthyl-1,6 diaza-1,6 tricyclo[4.3.0.(3.10)(4.8)]tétradecène eis 35c et trans 351</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (415 mg, 5,53 mmol) et du cyclooctadiène-1,3 (330 mg, 3,06 mmol) en solution dans 50 mL de THF traité à -78°C par le DAL (19 mmol) livre un mélange dont la Chromatographie sur colonne donne la pyrrolidine instable 34 (46 mg, 0,27 mmol), Rdt = 5%, la dipyrrolidine eis 35C (40 mg, 0,18 mmol), Rdt = 7%, et la dipyrrolidine trans 35/(108 mg, 0,48 mmol), Rdt = 18%, séparées sous forme de picrates: 34 (46 mg, 0,27 mmol) instable, Rdt = 5%; sm m/e: 165 (M + ), 57. 35C (40 mg, 0,18 mmol), Rdt = 7%; rmn: I -1,8 (m, 8H), 1,8-2,7 (m, 8H), 2,45 (s, 6H), 2,7-3,5 (m, 4H); sm m/e: 222 (M + ), 57. Dipicrate: F = I78-180°C (EtOH). 35/ (106 mg, 0,48 mmol), Rdt = 18%; rmn: 1-1,7 (m, 8H), 1,7-2,7 (m, 8H), 2,3 (s, 6H), 2,7-3,5 (m, 4H); sm m/e: 22'2 (M + ), 57. Dipicrate: F = 108-110°C (EtOH). Anal. calc. pour C 2i ,H 32 N 8 O l4 : C 45,88, H 4,74, N 16,46, O 32,91; tr.: C 45,71, H 4,76, N 16,28, O 32,84%.</p>
+				<p>Méthyl-1 phényl-3 (phényl-2' ethene-!'yl)—4 pyrrolidine 36 et bis-(méthyl-1 phényl-3 pyrolidine)-4,4 37</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (243 mg, 3,34 mmol) et du 1.4-diphényl-l ,3-butadiène (350 mg, 1,7 mmol) en solution dans 50 mL de THF traité à -78°C par le DAL (I l mmol) conduit à un mélange dont la Chromatographie sur colonne AA permet de séparer: 36 (327 mg, 1,22 mmol), Rdt = 38%; uv \, oe , x : 257 nm (e = 20 200), 285 nm (e = 800), 294 nm (e = 400); rmn: 2,4 (s, 3H), 2.5-3,2 (m, 6H), 6,3 (s élargi, 1H); 7,35 (s élargi, 11 H); sm m/e: 263 (M + ), 57. Picrate: F = 130-131°C (EtOH). Anal. calc. pour C 25 H 24 N 4 0 7 : C 60,97, H 4,91, N 11,38, O 22,74; tr.: C 60.73, H 4,80, N 11,60, O 22,66%. 37 (131 mg, 0,43 mmol), Rdt = 26%; rmn: 2,1-3,2 (m, 9H), 2,4 (s, 3H), 7,25 (s élargi, 10H); sm m/e: 320 (M + ). Dipicrate: F = 240—242°C (EtOH). Anal. calc. pour QuH^NsO,.,: C 52,44, H 4,40, N 14,39, O 28,77; tr.: C 52,65, H 4,59, N 14,33, O 28,52%. Traité par un excès de Ai-oxyde de triméthylamine 23, la pyrrolidine 36 a conduit, quantitativement, en présence de DAL, au composé disubstitué 37.</p>
+				<p>Méthyl-1 (butène-2'yl)-3 pyrrolidine 38 et bis(méthyl-l pyrrolidine)-3 éthane-l ,2 39</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (216 mg, 2,88 mmol) et l'hexadiène-1,5 (131 mg, 1,60 mmol) en solution dans 50 mL de THF traité à —78°C par le DAL (10,1 mmol) conduit, après Chromatographie (AA) à: 38 (28 mg, 0,20 mmol), Rdt = 7%; sm m/e: 139 (M + ), 57. 39 (18 mg, 0,09 mmol), Rdt = 3%; rmn: 0,9-1,5 (m, 8H), 1,5-3 (m, 10H), 2,3 (s, 6H); sm m/e: 196 (M + ), 57.</p>
+				<p>Méthyl-1 (butène-2' yl ol-l')-3 pyrrolidine 40</p>
+				<p>Le Ai-oxyde de triméthylamine 23 (245 mg, 3,26 mmol) et l'hexadiène-1,5 ol-3 ( 176 mg, 1,79 mmol) traités à -78°C par le DAL (16,4 mmol) conduisent à la pyrrolidine 40 (170 mg, 1,09 mmol), Rdt = 34%; ir: 3350, 1625, 920 cm" 1 ; rmn: 1-2 (m, 4H), 2-3 (m, 5H), 2,35 (s, 3H), 3,2-3,7 (m, IH), 4,5-6,2 (m, 3H); sm m/e: 155 (M + ), 57.</p>
+				<p>N-phényl-perhydro méthanoisoindole 41</p>
+				<p>Le Ai-oxyde de diméthylaniline 15 (274 mg, 2 mmol) et du norbornène (198 mg, 2 mmol) en solution dans 25 mL de THF traité à —78°C par le DAL (4 mmol) pendant 30 min, conduit après Chromatographie (ccm) à la pyrrolidine 41 (29 mg, 0,13 mmol), Rdt = 7%; rmn: 1-1,18 (m, 6H), 1,8-2,5 (m, 4H), 2,6-3,1 (m, 2H), 3,1-3,7 (m, 2H), 6,2-6,8 (m, 3H), 6,8-7,5 (m, 2H); sm m/e: 213 (M + ), 119.</p>
+			</div>
+			<note place="foot">La faible réactivité du cyclohexène est actuellement étudié plus en détail au laboratoire, et peut, selon la remarque de l'un des rapporteurs , avoir des implications concernant le mécanisme réactionnel mis en jeu.</note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Ogino</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Heterocycles</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="pp">583</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<monogr>
+							<title level="m" type="main">Dans Open chain nitrogen compounds</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">A S</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1966"/>
+								<pubPlace>Benjamin, New York</pubPlace>
+							</imprint>
+						</monogr>
+						<note>Chap. 8. p. 21</note>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">L. Benadjila-Iguertsira</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<title level="m" type="main">Thèses de spécialité</title>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<pubPlace>Orsay, France</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Beugelmans</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L. Benadjila-Iguertsira</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Roussi</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">544</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Beugelmans</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Roussi</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">31</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Nomoto</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="vol">408</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">B</forename>
+									<surname>Blum</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">3791</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H R</forename>
+									<surname>Barton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">N</forename>
+									<surname>Young</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">NOUV. J.. Chim</title>
+							<imprint>
+								<biblScope type="vol">2</biblScope>
+								<biblScope type="pp">363</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Chow</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">C</forename>
+									<surname>Danen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H Rosenblatt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Rev</title>
+							<imprint>
+								<biblScope type="vol">243</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">R</forename>
+									<surname>Lepley</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">91</biblScope>
+								<biblScope type="pp">1237</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">L</forename>
+									<surname>Bumgardner</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">B</forename>
+									<surname>Hsu</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Afghahi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">L</forename>
+									<surname>Roberts</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">T</forename>
+									<surname>Purrington</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<biblScope type="pp">2348</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A W A</forename>
+									<surname>Deyrupet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Szabo</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">2048</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">S</forename>
+									<surname>Kuta</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">43</biblScope>
+								<biblScope type="pp">501</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">2291</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+						<note>et. références citées</note>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+									<surname>Ouali</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrie</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="vol">633</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+						<note>et. références citées</note>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Stella</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Z</forename>
+									<forename type="middle">Janousek</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">G</forename>
+									<surname>Viehe</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">691</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L. Benadjila-Iguertsira</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Roussi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Hetero-cycles</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">213</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">497</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Kellogg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">2165</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<monogr>
+							<title level="m" type="main">Dans Rodd's chemistry of carbon compounds</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Livingston</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>Elsevier</publisher>
+								<biblScope type="pp">379</biblScope>
+								<pubPlace>Amsterdam</pubPlace>
+							</imprint>
+						</monogr>
+						<note>2éme. éd. EditéparS. Coffey.</note>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Barluenga</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Yus</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Heterocycl. Chem</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">1297</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Huisgen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">2</biblScope>
+								<biblScope type="pp">565</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Vaultier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Danion-Bougot</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Danion</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Hamelin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Carrie</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">2990</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">O</forename>
+									<surname>Nagy</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">2727</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Smith</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">210</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Sekiya</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">2589</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<monogr>
+							<title level="m" type="main">The chemistry of double bonded functional groups</title>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Bianchi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+								<publisher>John Wiley and Sons</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+						<note>Suppl. . A. Edité par S. Patai.</note>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">C H</forename>
+									<surname>Copeetp</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Towle</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">71</biblScope>
+								<biblScope type="pp">3423</biblScope>
+								<date type="published" when="1949"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">K</forename>
+									<surname>Purushothaman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">1721</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">C</forename>
+									<surname>Hampson</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">981</biblScope>
+								<date type="published" when="1939"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">J</forename>
+									<surname>Mason</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="issue">101</biblScope>
+								<date type="published" when="1889"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Hayashi</forename>
+									<surname>Sci</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Papers Inst. Phys. Chem. Res</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">446</biblScope>
+								<date type="published" when="1941"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Lemke</forename>
+									<surname>Ber</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1922"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Verdier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2044</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Bergel</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">C</forename>
+									<surname>Hindley</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">L</forename>
+									<surname>Morrison</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R. Rinder-Knecht</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">269</biblScope>
+								<date type="published" when="1944"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Griot</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">67</biblScope>
+								<date type="published" when="1959"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

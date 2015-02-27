@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Photoréactivité des complexes nitriles -cuivre (I) et (II). II. Système cyanure d'ailyle — cuivre (I) et (II)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Michèle</forename>
+								<surname>Bolte</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Photochimie</orgName>
+								<orgName type="institution">Université de Clermont II</orgName>
+								<address>
+									<addrLine>BP. 45</addrLine>
+									<postBox>E.R.A. N" 929</postBox>
+									<postCode>63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jacques</forename>
+								<surname>Lemaire</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Photochimie</orgName>
+								<orgName type="institution">Université de Clermont II</orgName>
+								<address>
+									<addrLine>BP. 45</addrLine>
+									<postBox>E.R.A. N" 929</postBox>
+									<postCode>63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Photoréactivité des complexes nitriles -cuivre (I) et (II). II. Système cyanure d'ailyle — cuivre (I) et (II)</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>La complexation du cuivre® avec le cyanure d'ailyle se fait par transfert de charge entre le métal et le groupement nitrile. Elle induit la transformation du cyanure d'ailyle en crotonitrile (isomère a,P insaturé). Le cuivre(Il) se fixe également sur l'azote du nitrile par un transfert de charge — C = N —» Cu". La photoréactivité des complexes avec le cuivre(ll) montre que le ligand complexé se comporte comme un nitrile a , p insaturé.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Through complexation with copper I, the allyl cyanide ligand has been shown to be converted in the dark into cis + trans crotonitrile. The photoreactivity of allyl cyanide — copper 11 complexes provides evidence that the ligand behaves like an a,P unsaturated nitrile. In both cases, the copper atom is bonded with the nitrogen atom of the allyl cyanide by charge transfer from the ligand to the metal (LMCT).</p>
+			</div>
+		</front>
+		<body>
+			<p>La photoréactivité des complexes de cuivre® et (II) a connu un développement important durant ces dernières années. Notamment, l'aptitude du cuivre I à se fixer sur les doubles liaisons éthyléniques a permis la synthèse photochimique de nombreux dérivés cyclobutaniques (1, 2). L'emploi de CuCl comme catalyseur a été décrit pour la dimérisation de molécules à cycle tendu telles que le norbornène ou le bicyclopentadiène (1). L'utilisation du triflate de cuivre CF 3 S0 3 Cu a permis l'obtention de dérivés cyclobutaniques à partir de composés à double liaison extracyclique (3):</p>
+			<p>Par ailleurs, la photo-isomérisation du norbornadiène en quadricyclane, catalysée par un sel de cuivre I est un système envisagé pour la récupération de l'énergie solaire (4). En ce qui concerne le cuivre(II), de nombreux systèmes contenant des protéines complexes ou des macrocycles polyazotés ont été étudiés (5, 6). Gagné et al. ont décrit un complexe Cu" — macrocycle tétraazoté qui peut fixer photochimiquement un cinquième ligand sur le cuivre (CO, CH 3 CN ou la 1-méthyl imidazole) (7).</p>
+			<p>Dans un précédent mémoire, nous avons décrit la photoréactivité des complexes du cuivre(I) et (II) avec différents nitriles saturés ou ot,p insaturés (8). La position en a,[3 de la double liaison dans les complexes cuivre—nitrile insaturés semble être un facteur déterminant de la photoréactivité de ces complexes. Ainsi, nous avons pu établir que la délocalisation existant dans le ligand facilite le transfert de charge —C=N —» Cu du ligand vers le cuivre:</p>
+			<p><formula>8 + 5" CH 2 —C—C=N Cu</formula></p>
+			<p>Dans le cas du cuivre(I), cette délocalisation favorise la formation des complexes dans lequels le métal est lié à la double liaison ou au groupement nitrile; l'association avec la double liaison reste cependant minoritaire.</p>
+			<p>Les photoréactivités associées à ces deux types de complexation sont différentes. La complexation du cuivre sur la double liaison induit sélectivement la photodimérisation cyclobutanique du ligand. La complexation avec le groupement nitrile augmente le rendement quantique d'isomérisation trans—&gt;cis: ainsi le crotonitrile CH 3 —CH=CH—C=N pour lequel les valeurs des rendements quantiques d'isomérisation cj)^. et cj)^, sont multipliées par un facteur trois lors de l'irradiation en présence de CuCl (9). Il en est de même pour le cinnamonitrile C 6 H 5 —CH=CH—C=N dont le rendement augmente de 0,28 (sans CuCl) à 0,42 (avec CuCl) (10). De plus, dans les deux cas, l'isomérisation de nitrile est assistée par le complexe R—CH=CH—C=N—Cu' (effet catalytique du cuivre(I)).</p>
+			<p>L'étude des systèmes nitriles—cuivre(II) a montré que la présence d'une double liaison conjuguée avec le groupement nitrile augmente aussi le rendement quantique de réduction du cuivre(II) (8). Il apparaissait donc que la position de la double liaison en a,(3 du groupement nitrile était un facteur déterminant de la photoréactivité des complexes nitriles—cuivre. Afin de vérifier cette conclusion, nous avons entrepris l'étude de système cuivre — nitrile (3,y insaturé, soit:</p>
+			<div>
+				<head>Résultats expérimentaux</head>
+				<p>Dans les systèmes étudiés, le nitrile sert de ligand avec le cuivre et de solvant pour le complexe formé. Les spectres d'absorption que nous décrivons correspondent aux transitions supplémentaires inhérentes à la formation d'un complexe entre le métal et le ligand. (a) Système CH 2 =CH—CH 2 —C=N, CuCl CuCl est très soluble dans le cyanure d'allyle, on peut obtenir des solutions de concentration en CuCl égale à 0,5 M. Lorsqu'on dissout du chlorure cuivreux dans le nitrile, on note une augmentation importante de densité optique entre 250 et 320 nm sans qu'il soit possible de déterminer un maximum d'absorption.</p>
+				<p>Le spectre Raman de ces solutions permet de mettre en évidence un transition supplémentaire à 2279 cm -1 (Tableau 1). On ne note, par ailleurs, aucune autre modification du spectre.</p>
+				<p>Nous observons à l'obscurité, la transposition lente du cyanure d'allyle en son isomère et,(3 insaturé, le crotonitrile:</p>
+				<p><formula>CH 2 =CH—CH 2 —C=N -g. ^ &gt; CH 3 —CH=CH—CSN 9 = 20°C (cis + trans) 50% 50%</formula></p>
+				<p>Cette réaction d'ordre apparent 1 se fait avec une constante de vitesse k = 5,7 x 10" 5 mn" 1 calculée sur l'apparition des crotonitriles. La transposition en crotonitrile est catalysée par CuCl; l'emploi d'une solution, par exemple de concentration égale à 0,1 M en CuCl permet de transformer 20% du cyanure d'allyle pris à l'état pur, soit 2,4 mol.</p>
+				<p>Nous n'avons pas observé d'accélération du phénomène par excitation photochimique à 254 nm.</p>
+				<p><formula>(b) Systèmes CH 2 =CH—CH 2 —C=N—CuCl 2</formula></p>
+				<p>CuCl 2 est relativement peu soluble dans le cyanure d'allyle. La concentration en sel de cuivre est généralement comprise entre 5 x 10" 3 M et 2 x 10~ 4 M. Dans ces conditions, on obtient des spectres d'absorption comportant deux transitions en uv et une dans le visible ( <ref type="figure">Fig. 1</ref>). Selon la concentration en CuCl 2 , on observe deux spectres différents correspondant à des complexes que nous désignerons par "A" et "B"; le complexe "A" apparaît à des concentrations en CuCl 2 supérieures à 10" 3 M\ le complexe "B" est observé quand la concentration en CuCl 2 devient inférieure à 5 x 1CT 4 M. La dilution d'une solution contenant le complexe "A" entraîne l'apparition rapide du complexe "B". Les solutions concentrées évoluent dans le temps: on observe une modification spectrale lente conduisant au spectre obtenu en solution diluée. Cependant, on peut conserver le complexe "A" quelques jours sans modification notable de son spectre d'absorption. Le tableau 2 regroupe les caractéristiques spectrales des spectres d'absorption observés dans les différents domaines de concentration de CuCl 2.</p>
+				<p>L'addition de LiCl (Cl/Cu ~ 3) à la solution concentrée de CuCl 2 dans le cyanure d'allyle entraîne une modification du spectre d'absorption et notamment une très forte augmentation de la transition à 468 nm (e max = 1200 M~ 'cm" 1 ). Une addition supplémentaire de LiCl (Cl/Cu ~ 8) ne modifie que très légèrement le spectre, on voit apparaître un épaulement à environ 405 nm ( <ref type="figure">Fig. 2</ref>).</p>
+				<p>Nous avons irradié le complexe "A" en lumière monochromatique de longueur d'onde 254, 313 et 491,6 nm correspondant à chacune des transitions du complexe. Quelle que soit la longueur d'onde utilisée, on observe le même phénomène en deux étapes: la transformation de "A" en "B" durant laquelle le faisceau des courbes correspondantes présente deux points isobestiques à 263 et 440 nm ( <ref type="figure">Fig. 3</ref>); puis la disparition de la transition dans le visible. En suivant cette réaction, on note la présence d'un point isobestique à 246 nm (X irT = 313 ou 491,6 nm) ( <ref type="figure">Fig. 4</ref>). Les transitions à 250 et 315 nm disparaissent également.</p>
+				<p>Les rendements quantiques de transformation A —» B et de disparition de B sont rassemblés dans le tableau 3. Ces derniers ont été calculés à partir du complexe "B" pur (solution diluée). Dans tous les cas, les rendements quantiques ont été mesurés par spectroscopic uv sur la modification spectrale de la transition dans le visible.</p>
+				<p>En rpe, le complexe "A" est caractérisé par un signal symétrique à g = 2,136 ( <ref type="figure">Fig. 5</ref>); l'addition de LiCl n'entraîne pas l'apparition d'un nouveau signal. Lorsque la solution (complexe "A") évolue thermiquement ou photochimiquement, on observe la disparition progressive du signal. Le complexe "B" qui correspond à une absorption maximum dans le visible ne présente aucun signal en rpe. Par irradiation de ce complexe, il apparaît de nouveau un signal à quatre raies qui disparaît en fin de photoréaction. Cette étude a été également réalisée avec le système CuCl 2 —CH 3 CN pour lequel nous obtenons des résultats tout à fait analogues.</p>
+			</div>
+			<div>
+				<head>Discussion</head>
+				<div n="A">
+					<head>Système cyanure d'allyle — cuivre(I)</head>
+					<p>L'étude en spectroscopie Raman montre que le cuivre(I) se fixe uniquement sur le groupement nitrile. En effet, dans un précédent mémoire (11), il a été établi que l'augmentation de fréquence du mode v(C=N) correspond à une complexation du cuivre(I) avec le ligand, de type —C=N -» Cu(I). La complexation avec la double liaison observée avec les nitriles a,(3 insaturés est donc directement liée à la conjugaison présente dans la molécule et à l'appauvrissement en électrons qui en résulte:</p>
+					<p><formula>Cu 1 8 + i 5" CH2—CH—C=N</formula></p>
+					<p>La transposition du cyanure d'allyle en crotonitrile à l'obscurité , est analogue à celle décrite par Mialhe et Vessière (12) pour les composés allyliques en présence d'une base:</p>
+					<p><formula>\ / C=CH—C—CssN À HB H \ I I C—C—C—CssN I -C—CH=CH—C=N I BH B = diéthylamine</formula></p>
+					<p>Dans notre cas, en l'absence de base, l'hydrogène placé en a du groupement nitrile est rendu plus labile par la complexation avec le cuivre, ce qui favorise la migration de la double liaison:</p>
+					<p><formula>CH 2 =CH—CH—C=N + Cu 1 ^ CH 2 =CH—CH—C=N —* Cu 1 I I' @BULLET H H 8 + I CH 3 —CH=CH— C=N « CH 2 ^CH—C—C=N —@BULLET Cu 1 + H+</formula></p>
+					<p>La stéréochimie du carbanion formé ne favorise aucun isomère en particulier, les crotonitriles cis et trans se forment en quantités équivalentes. Il n'apparaît aucune modification notable de ce processus par excitation photochimique. L'étude photochimique des systèmes crotonitrile (cis ou trans) — Cu 1 (9) a montré que le phénomène majoritaire est la désactivation par isomérisation trans ^ cis du ligand. L'état photostationnaire obtenu contient les deux isomères en égales proportions. Par ailleurs, la photodimérisation cyclobutanique observée avec le complexe crotonitrile cis — Cu 1 est un phénomène extrêmement minoritaire qu'il est donc impossible de mettre en évidence à partir du cyanure d'allyle.</p>
+				</div>
+				<div n="B">
+					<head>Systèmes cyanure d'allyle — cuivre(Il)</head>
+					<p>Comme le montre la figure 6, les spectres d'absorption des complexes "A" et "B" sont analogues à ceux obtenus avec un ligand saturé (acétonitrile); la fixation du métal se fait exclusivement sur l'azote du groupement nitrile (8) (caractère de donneur a de ce groupement).</p>
+					<p>L'absorption à 470 nm dans le visible est caractéristique d'un complexe tétracoordoné du cuivre(II) (13). Sykora et al. indiquent effectivement que la mise en solution de CuCl 2 (c Cu ci 2 ~ 10 3 M) dans l'acétonitrile correspond à l'apparition de différents complexes CuCl (CH 3 CN) 3 + (17%), CuCl 3 (CH 3 CN)" (26%) et CuCl 2 (CH 3 CN) 2 (52%) Cu 2+ (4%). Ils indiquent également la présence d'un signal rpe qui disparaît par irradiation . L'addition d'ions Cl" à cette solution entraîne la formation de CuCl 3 ~ (96% pour un rapport Cu 2+ /Cl" = 1/3) puis celle de CuCl^ -(\ max = 404 nm) obtenu presque pur pour un rapport Cu 2+ /Cl" = 1/8.</p>
+					<p>La mise en solution de CuCl 2 dans le cyanure d'allyle provoque en proportions vraisemblablement différentes, la formation des complexes mentionnées ci-dessus. L'addition d'ions Cl" à cette solution favorise la formation de CuCl 3 ; par contre, une addition supplémentaire d'ions Cl" ne permet l'obtention de CuClJ" qu'en très faible quantité (épaulement à 404 nm).</p>
+					<p>Le signal symétrique observé en rpe à g = 2,136 pour une solution concentrée du CuCl 2 dans le cyanure d'allyle avec et sans LiCl est attribué au complexe CuCl 3 RCN~. La disparition de ce signal provisoire thermiquement ou photochimiquement correspond à la transformation A —» B mise en évidence par spectroscopie d'absorption. L'absence de signal rpe pour le complexe "B" alors que l'absorption dans le visible est maximum indique la présence de cuivre(II) fortement solvaté par lesmolécules de nitriles. Par ailleurs, la réapparition d'un signal rpe différent du précédent, observée en poursuivant l'irradiation , montre que le complexe "B" est effectivement un complexe de cuivre(II). L'hypothèse d'une structure dimère pourrait expliquer la disparition du signal rpe soit par liaison directe métal-métal, soit par super-échange par l'intermédiaire du ligand. Cependant cette hypothèse est en contradiction avec l'obtention du complexe "B" par dilution et son existence dans un domaine de concentration inférieure à 5 x 10~ 4 M. Le cuivre(II) se trouve donc fortement solvaté par les molécules de nitriles et il y a couplage entre les électrons du cuivre(II) paramagnétique et les électrons du ligand. Ce même phénomène a été observé avec les complexes chrome(III) — acides aminés pour lesquels l'addition en quantités croissantes d'acide aminé à une solution aqueuse de chrome(III) entraîne la disparition progressive du signal rpe (14).</p>
+					<p>L'ensemble de ces résultats nous conduit à décrire le complexe "B" présent en solution diluée comme une entité neutre tétracoordonnée autour du cuivre:</p>
+					<p><formula>Cl^ —R Cu c/ ^N^C—R</formula></p>
+					<p>Le complexe "A" est, comme nous l'avons déjà indiqué, un mélange instable de différentes espèces dont CuCl + , CuCl 3 ~ et CuCl 2 . Par dilution, activation thermique ou photochimique, on observe la transformation de ces différents complexes en une seule entité, le complexe neutre solvaté "B".</p>
+					<p>Par excitation dans chacune des trois bandes de transfert de charge du complexe "B", on observe la destruction du complexe (réapparition du signal du cuivre(II) en rpe) et photoréduction du cuivre(II) en cuivre(I). En ce qui concerne la cinétique de photoréduction, les valeurs des rendements quantiques (Tableau 3) sont élevées, de l'ordre de celles obtenues avec les nitriles a,(3 insaturés; elles sont bien supérieures à celles observées avec l'acétonitrile. Elles ne varient que relativement peu avec la longueur d'onde d'excitation.</p>
+					<p>Cette similitude de comportement avec les nitriles a,[3 insaturés , indique que le cyanure d'allyle complexé avec le cuivre possède à l'état excité une conjugaison importante qui favorise le transfert de charge du ligand vers le cuivre(II) et donc la réduction du Cu" en Cu 1 . Cependant, en l'état actuel de nos connaissances, il n'est pas possible de préciser si le cyanure d'allyle complexé se comporte déjà à l'état fondamental comme un ligand a,[3 insaturé. Nous n'avons pas observé, à l'obscurité, de transposition en crotonitrile induite par le cuivre(II). Il convient toutefois de noter que les concentrations de cuivre(II) mises en jeu sont nettement inférieures à celles observées pour le cuivre® et que la mise en évidence d'une telle transposition peut s'avérer plus difficile. Il s'est avéré également impossible d'identifier les photoproduits d'oxydation du cyanure d'allyle.</p>
+				</div>
+			</div>
+			<div>
+				<head>Conclusion</head>
+				<p>Les résultats obtenus pour le système cyanure d'allyle — Cu 1 montrent que, lorsque la double liaison n'est pas conjuguée avec le groupement nitrile, on n'observe pas de complexation du cuivre® sur la double liaison. La seule complexation mise en évidence est une liaison par transfert de charge entre le groupement nitrile et le cuivre, quelle que soit la valence du cuivre, (I) ou (II).</p>
+				<p>Avec le cuivre®, cette complexation favorise la migration de la double liaison et entraîne la transposition du cyanure d'allyle en son isomère ot,ß insaturé, le crotonitrile (eis et trans). La liaison —C=N —» Cu" observée avec le cuivre divalent induit une photoréactivité analogue à celle d'un complexe CuCl 2 — nitrile a,ß insaturé.</p>
+			</div>
+			<div>
+				<head>Partie expérimentale</head>
+				<p>Le cyanure d'allyle (Merck) est distillé afin d'éliminer les impuretés qu'il contient. Ainsi distillé, il ne peut être conservé que quelques semaines à l'obscurité. Le liquide se teinte ensuite progressivement en jaune et l'impureté qu'il contient empêche toute complexation avec le cuivre.</p>
+				<p>Les spectres d'absorption uv—visible ont été enregistrés sur un appareil Cary 118CX. les crotonitriles eis et trans ont été analysés par Chromatographie en phase gazeuse sur un appareil Carlo Erba Fractovap 2101 équipé d'une colonne Carbowax 20M. Les mélanges réactionnels sont mis en solution dans l'acétonitrile et analysés sur une colonne dont la température est fixée à 100°C.</p>
+				<p>Les spectres Raman ont été faits sur un spectromètre Jobin Yvon, modèle Ramanor HG 28 équipé de deux réseaux holographiques concaves. La raie d'excitation 514,5 nm est celle d'un laser à argon ionisé Spectraphysics Modèle 164.</p>
+				<p>Les spectres de rpe ont été faits sur un appareil ER 200D Brucker. Les solutions dégazées à l'argon, sont placées dans des cellules plates (épaisseur 0,1 mm). Les conditions de travail sont les suivantes: fréquence 9,52 MHz, modulation de champ 400 kHz, modulation d'amplitude 4 G, puissance 56 mW.</p>
+				<p>La manipulation de sels et complexes de cuivre(l) est faite uniquement en boîte à gants sous atmosphère d'azote sec. Les solutions de CuCl 2 sont préparées à l'air mais elles sont dégazées puis irradiées sous vide. Les dégazages sont faits par des cycles de congélationdécongélation dans l'azote liquide (trois cycles).</p>
+				<p>Les irradiations à 254 nm des solutions de CuCl dans le nitrile ont été faites dans un réacteur en quartz cylindrique entouré de six tubes à vapeur de mercure basse pression (/ H = 3 x I0' 6 photons/cm 3 s). Les actinométries sont faites avec l'oxalate d'uranyle. Les irradiations à 313 nm et 491,6 nm sont faites en faisceau parallèle avec une lampe à vapeur de mercure moyenne pression équipée d'un monochromateur Bausch et Lomb "haute intensité". Les solutions de CuCl 2 sont irradiées dans des cellules cylindriques de 1 cm de rayon et de 1 cm ou 1 mm de longueur. Les actinométries sont faites avec le ferrioxalate de potassium (0,006 M ou 0,15 M).</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+									<surname>Trecker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">S</forename>
+									<surname>Foote</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">88</biblScope>
+								<biblScope type="pp">3021</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+									<surname>Kochi</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">1137</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Sinha</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">1367</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Maruyama</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Tarda</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Lett</title>
+							<imprint>
+								<biblScope type="pp">1259</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">U</forename>
+									<surname>Sakaguchi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Dalton Trans</title>
+							<imprint>
+								<biblScope type="pp">600</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">C</forename>
+									<surname>Weatherburn</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Aust. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">291</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+									<surname>Gagne</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Allison</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">J A</forename>
+									<surname>Galletc</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">99</biblScope>
+								<biblScope type="pp">7170</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">-M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lemaire</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nouveau J. Chim</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">461</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Massaux</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">191</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Bolte</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Zarembovitch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chim. Acta</title>
+						</monogr>
+						<note>A. paraître</note>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Massaux</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">183</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Vessière</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">4181</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sykora</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+									<surname>Horvathet</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. Anorg. Allg. Chem</title>
+							<imprint>
+								<biblScope type="vol">442</biblScope>
+								<biblScope type="pp">245</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de Docteur-Ingénieur</title>
+							<meeting>
+								<address>Université de Clermont-Ferrand II, France</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mécanisme des réactions du chlorite et du dioxyde de chlore. 2. Cinétique des réactions du chlorite en présence d'orf/io-tolidine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Guy</forename>
+								<surname>Schmitz</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des Sciences Appliquées</orgName>
+								<orgName type="institution">Université Libre de Bruxelles</orgName>
+								<address>
+									<addrLine>50 avenue F. Roosevelt</addrLine>
+									<postCode>1050</postCode>
+									<settlement>Bruxelles</settlement>
+									<country key="BE">Belgique</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Henri</forename>
+								<surname>Rooze</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des Sciences Appliquées</orgName>
+								<orgName type="institution">Université Libre de Bruxelles</orgName>
+								<address>
+									<addrLine>50 avenue F. Roosevelt</addrLine>
+									<postCode>1050</postCode>
+									<settlement>Bruxelles</settlement>
+									<country key="BE">Belgique</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mécanisme des réactions du chlorite et du dioxyde de chlore. 2. Cinétique des réactions du chlorite en présence d'orf/io-tolidine</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>En présence d'orf/îo-tolidine (NH 2 RNH 2), utilisée pour éliminer les complications dues aux réactions des produits inter-médiaires de la dismutation du chlorite, la stoechiométrie est HC10 2 + 2NH,RNH, -&gt; Cl" + H + + 2NHRNH + 2H 2 0. On ne forme pas de chlorate. La loi cinétique, en l'absence de chlorure, est
+ -d[HC10 2 ]/dr = k [CIOJ] [Fe 3+ ]  k = 269 M~' s -1 à 25°C et une force ionique de 1 M. Sans fer ajouté, la vitesse observée est due uniquement aux traces de fer toujours présentes comme impureté des réactifs. La réaction 2HC10 2 —&gt; HCIO + C10 3 + H + n'est donc pas une réaction élémentaire.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>With added orf/jo-tolidine (NH 2 RNH 2) in order to eliminate complicating side reactions of the intermediate products of the disproportionate of chlorite, the stoichiometry is HCIO, + 2NH 2 RNH, —&gt; Cl~ + H + + 2NHRNH + 2H 2 0. No chlorate is formed. The rate law, in the absence of chloride ions, is  -d[HC10 2 ]/df = k [C10 2 l [Fe 3+ ] k = 269 A/ -1 s~' at 25°C and 1 M ionic strength. Without added iron, the observed rate is only due to the small amount of iron always present as an impurity in the reactants. Thus the reaction 2HC10 2 -^&gt; HCIO + C10 3 + H + is not an elementary reaction.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Conservées à l'abri de la lumière, les solutions de chlorite sont stables en milieux alcalins. En milieux neutres elles se décomposent lentement suivant l'éq. [1] , La vitesse n'est notable que dans les solutions chaudes (1, 2).</p>
+				<p><formula>[1] 3C10" = 2C10 3 + Ci-</formula></p>
+				<p>En milieux acides elles se décomposent dès la température ordinaire, d'autant plus vite que l'acidité est grande. En absence de chlorure l'éq. [2] est la plus fréquemment citée mais des écarts importants ont été observés (réfs. 1 à 8).</p>
+				<p><formula>[2] 4HC10, = 2C10, + C10 3 " + Cl" + 2H + + H,0</formula></p>
+				<p>Les ions chlorures augmentent la vitesse de décomposition et modifient la stoechiométrie. En milieux très acides et très riches en chlorures elle tend vers [3]</p>
+				<p>Dans notre article précédent (9), nous avons montré qu'une des causes de la variation des rapports stoechiométriques est l'existence d'une bifurcation dans le mécanisme, que l'on peut schématiser comme suit:</p>
+				<p>En absence de chlorure la loi cinétique [4] proposée par Barnett (10) est généralement admise, avec éventuellement un effet de l&amp;apos;acidité sur la constante (réfs. 4 à 8, 11, 12 ).</p>
+				<p><formula>[4] -d [HC10 2 ]/df = h [HC10 2 ] 2</formula></p>
+				<p>Kieffer et Gordon ont vérifié la loi [4] en milieux 2 et 1.2 molaires en HC10 4 mais ont constaté qu'elle n'est pas satisfaite en milieux 0.2 molaires. Ils n'on pas trouvé de loi satisfaisante dans ces conditions.</p>
+				<p>Nous avons étudié l'effet accélérateur des ions chlorures (9) et obtenu l'éq. [5] en bon accord avec les travaux précédents; k n = 9.1 x 10" 3 M' 1 s" 1 à 25°C et I = 1 M; v, représente la vitesse en l'absence de chlorure, objet de notre étude actuelle.</p>
+				<p><formula>[5] -d [HC10 2 ] /df = v, + k n [HC10 2 ][C1"][H + ]</formula></p>
+				<p>Cherchant l'explication des écarts à la loi [4] observés par Kieffer et Gordon (8) nous avons fait une observation qui remet en cause les conclusions de plusieurs travaux antérieurs. La dismutation du chlorite est catalysée par des traces de fer, de l'ordre de celles que l'on trouve couramment comme impureté des réactifs. La figure 1 en donne un exemple. Pour étudier la cinétique de cette catalyse nous avons mis à profit les propriétés de l'ori/îo-tolidine, comme nous l'avions fait pour la catalyse par les ions chlorures.</p>
+			</div>
+			<div type="section">
+				<head>Téchnique expérimentale</head>
+				<p>Nous avons vu (9) que l'orr/w-tolidine ne réagit pas directement avec le chlorite mais est oxydée extrêmement rapidement par le dioxyde de chlore, le chlore et l'acide hypochloreux. Elle permet ainsi d'étudier la cinétique de la dismutation du chlorite en évitant les complications dues à la réaction entre le chlorite et le chlore ou l'acide hypochloreux. Toutes les vitesses indiquées dans cet article sont des vitesses initiales obtenues dans des conditions telles que l'effet des ions chlorures soit négligeable. Elles ont été mesurées en suivant l'absorbance des solutions due au dérivé oxydé de l'ori/îo-tolidine. Son absorbance molaire étant élevée (e = 59 750) on obtient aisément des valeurs précises des vitesses initiales. Pour plus de détails, cf. la réf. 9. Les symboles suivants seront utilisés: NH 2 RNH 2 et NHRNH, formules abrégées de l'orf/îo-tolidine et de son dérivé oxydé; [NaC10 2 ] , concentration totale du chlorite, c'est-à-dire [HC10 2 ] + [C10 2 ] ; [Fe] concentration totale du fer ajouté.</p>
+			</div>
+			<div type="section">
+				<head>Résultats en présence de fer ajouté</head>
+				<p>Stoechiométrie</p>
+				<p>On ajoute le chlorite à un mélange d'acide perchlorique (0.1 M), d'orf/îo-tolidine en excès et de fer. Lorsque la réaction est terminée on mesure le pouvoir oxydant de la solution par iodométrie et l'ori/zo-tolidine oxydée par absorptiométrie. On constate que le pouvoir oxydant est conservé, normalité finale = 4.0 ± 0.2 [NaClO 2 ] 0 , et que le rapport [NHRNH] / [NaClO 2 ] 0 vaut en moyenne 2.08 ± 0.15. L'ori/zo-tolidine supprime donc la formation de chlorate et le système évolue conformément à [6].</p>
+				<p><formula>[6] HC102 + 2NH2RNH2 = CR + H + + 2H20 + 2NHRNH</formula></p>
+				<p>Cinétique</p>
+				<p>L'effet de la force ionique I entre 0.2 et 1 M est faible. Elle a été fixée à 1 M avec du NaC10 4 . La figure 2 montre que la vitesse de [6] est indépendante de la concentration de Y orthotolidine , à condition que celle-ci soit suffisamment grande. La valeur minimale de la concentration à utiliser augmente avec l'acidité et avec la concentration du chlorite. La raison de l'augmentation de la vitesse aux faibles concentrations apparaîtra lorsque nous discuterons la figure 5.</p>
+				<p>Les figures 3 et 4 montrent que la vitesse de [6] est proportionnelle à la concentration du fer. Nous ne considérons ici que les pentes des droites, les ordonnées à l'origine seront discutées dans le paragraphe suivant. Les résultats ne dépendent pas de la nature du sel de fer utilisé, nitrate de Fe(III), sulfate de Fe(III) ou sel de Mohr. Les pentes des droites de la figure 3 étant proportionnelles à [NaC10 2 ] posons</p>
+				<p><formula>[7] d[NHRNH] /di = k' [NaC10 2 ][Fe]</formula></p>
+				<p>L'effet de l'acidité sur k' est donné dans le tableau 1. On constate que l/k' est proportionnel à 1 + [H + ]/AT a avec K à = 2.4 X 10 -2 , valeur obtenue par Hong et Rapson (7) pour la constante d'acidité de HC10 2 si T = 25°C et 1 = 1 M. L'écart à la valeur thermodynamique K i = 1.1 X 10~ 2 (9) correspond à une valeur vraisemblable du coefficient d'activité, y ± = 0.66. On en déduit la loi cinétique [8].</p>
+				<p><formula>[8] d[NHRNH] /di = k s [C10 2 ][Fe 3+ ]</formula></p>
+				<p>Lors de la discussion du modèle cinétique nous montrerons qu'au cours de nos expériences la quasi-totalité du fer est maintenue sous forme de Fe(III). D'autre part la constante de première hydrolyse du Fe(III) vaut 9 X 10^ 4 (13, 14). Aux acidités considérées on a donc [FeOH ++ ] [Fe 3+ ] et [Fe 3+ ] — [Fe] , Les valeurs du tableau 1 donnent k$ = 538 ± 18 Ai" 1 s" 1 .</p>
+				<p>Effet de la température</p>
+				<p>Nous avons vérifié la proportionnalité entre la vitesse de [6] et la concentration du fer à trois autres températures. Si [HC10 4 ] = 0.41 Mon obtient k' = 7.0(15.1°C), 110(35.6°C), 267 (44.2°C) et une énergie d'activation apparente de 95 kJ/mol. Pour obtenir l'énergie d'activation relative à k$ il faudrait connaître la variation de K a en fonction de la température.</p>
+			</div>
+			<div type="section">
+				<head>Résultats sans addition de fer</head>
+				<p>la zone de pH étudiée le chlorite se dismute en absence de fer introduit intentionnellement, mais cela ne signifie pas qu'il existe un chemin réactionnel indépendant du fer. Les ordonnées à l'origine des figures 3 et 4 résultent des traces de fer inévitablement présentes dans les réactifs. Cette affirmation remettant en cause un aspect important du mécanisme de la dismutation du chlorite nous détaillerons quelque peu nos observations.</p>
+				<p>Si l'on purifie davantage les réactifs les vitesses diminuent. On ne peut cependant les rendre négligeables à cause de la grande sensiblité de la réaction et de l'impossibilité d'éliminer suffisamment le fer des réactifs. L'acide perchlorique Merck "Suprapur" et le chlorite recristallisé plusieurs fois contiennent assez de fer pour catalyser la réaction. L'un de nous a montré (15) que les ordonnées à l'origine de droites telles que celles des figures 3 et 4 correspondent bien aux vitesses calculées par [7] en utilisant les valeurs des teneurs en fer des réactifs déterminées par spectroscopie d'émission de plasma.</p>
+				<p>En milieux perchloriques 1 M et en absence d'ori/io-tolidine la dismutation du chlorite obéit à une loi d'ordre deux. La figure 5 montre nos résultats en présence d'ori/zo-tolidine. Si la concentration de celle-ci est faible on obtient une somme de deux termes, l'un d'ordre un, l'autre d'ordre deux. Si on l'augmente , on supprime le terme d'ordre deux. Les analyses par spectroscopie d'émission de plasma ont montré que lors des expériences de la figure 5 le fer provenait principalement de l'acide perchlorique, pour le reste de la solution d'orthotolidine et que la concentration totale du fer était quasiindépendante du chlorite. Le terme d'ordre un est ainsi conforme à la loi [7].</p>
+				<p>La réaction d'ordre un étant catalysée par le fer on prévoit qu'un agent complexant tel que l'EDTA réduise sa vitesse, ce que nous avons vérifié. Par exemple si [HC10 4 ] = 0.1 M, [NaC10 2 ] = 8.7 x 10" 4 M et [NH 2 RNH 2 ] = 2.5 x 10" 4 M nous avons obtenu d [NHRNH] /df = 5.48 \0~ s M s~' sans EDTA et 0.33 x 10" 8 M s" 1 avec 5 x 10" 3 mol/L d'EDTA. Par contre, dans nos conditions expérimentales, il n'y a pas lieu de considérer de complexe avec l'ori/zo-tolidine, la vitesse de la réaction d'ordre un étant indépendante de sa concentration.</p>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>La loi [8] peut être interprétée 1 en admettant l'étape déterminante [9],</p>
+				<p><formula>[9] C10 2 + Fe 3+ -» C10 2 + Fe 2+</formula></p>
+				<p>Nous savons (9) que le dioxyde de chlore oxyde très rapidement l'or/Ao-tolidine suivant [10].</p>
+				<p><formula>[10] 2C10 2 + NH 2 RNH 2 -&gt; 2HC10 2 + NHRNH</formula></p>
+				<p>Pour compléter le mécanisme nous nous basons sur les résultats d'Ondrus et Gordon (16).</p>
+				<p>En considérant que l'intermédiaire qu'ils désignent par Cl(II) est le radical CIO leur mécanisme s'écrit:</p>
+				<p><formula>[11] HCIO, + Fe 2+ -&gt; CIO + FeOH + + [12] CIO," + Fe 2+ + H 2 0 -&gt; CIO + Fe (OH) 2 [13] CIO + Fe 2+ + H + -&gt; HCIO + Fe 3+ Fe(OH), + H + FeOH ++ + H,0 FeOH ++ + H + Fe 3+ + H,0</formula></p>
+				<p>Dans le domaine d'acidité étudié les concentrations des formes hydroxylées du Fe(III) sont négligeables. En présence d'orthotolidine , il est probable que le CIO est réduit directement, la réaction globale [14] remplaçant [13] .</p>
+				<p><formula>[14] 2C10 + 3NH 2 RNH 2 -&gt; 2C1" + 2H + + 3NHRNH + 2H 2 0</formula></p>
+				<p>On obtient la stoechiométrie [6] en faisant la somme [9] + 1/2 [10] + [11] ou [12] + 1/2 [14] , En vitesse initiale, l'effet des ions Cl" est négligeable et la vitesse est déterminée par [9] , On retrouve ainsi la loi expérimentale.</p>
+				<p><formula>2 ~] [Fe 3+ ] 269 ± 9 M" 1 s" K a = 2.4 x 10"</formula></p>
+				<p>Pour obtenir les valeurs de k n et k n nous avons recalculé les valeurs de k obs données par Ondrus et Gordon (16).</p>
+				<p><formula>kn + k n = \\\ + [H + ] 2 V" [H + ]y Ayant [HC10 4 ] =</formula></p>
+				<p>0.05 à 1 M le second nombre de cette relation dépend peu de K s . Nous l'avons calculé en prenant K a = 2.4 x 10" 2 . Un ajustement par la méthode des moindres carrés donne Jfc " = 930; K,k n = 64 (25°C, / = 2 M) Ces valeurs nous permettent de vérifier que nous pouvions interpréter [7] en admettant [Fe 3+ ] &gt; [Fe 2+ ] , L'approximation de la stationnarité donne</p>
+				<p><formula>[Fe 3+ ] (* " [H + ] + K n k a ) [Fe 2+ ] = 290 [H + ] + 20 1</formula></p>
+			</div>
+			<div type="section">
+				<head>Conclusions</head>
+				<p>En présence d'assez d'ori/zo-tolidine on obtient uniquement la réaction [6] , sans formation de chlorate, obéissant à la loi [7] , Il n'y a pas de réaction directe entre le chlorite et Yorthotolidine mais uniquement une décomposition du chlorite catalysée par le fer et l'oxydation de l'ori/zo-tolidine par les produits de cette décomposition. Les vitesses observées en absence de fer ajouté sont dues aux traces de fer présentes dans les réactifs. La réaction 2HC10 2 HCIO + C10^~ + H + d'ordre deux obtenue en absence d'orthotolidine n'est pas une réaction simple, car si elle l'était, elle subsisterait en sa présence. Le mécanisme proposé pour la réaction [6] nous fournit les premiers éléments du mécanisme de la dismutation du chlorite en absence d'ori/io-tolidine, objet de notre prochain article.</p>
+			</div>
+			<note>1 Remarquons que nos résultats pourraient également être interprétés par HCIO2 + FeOH 2+ -&gt; CIO, + Fe 2+ + H 2 0, sans que cela change nos conclusions.par le chlorite, en présence de phénol pour capter le HCIO, et ont obtenu —d [Fe 2+ ] /di = k obs [NaC10 2 ] [Fe 2+ ] /c obs est une fonction décroissante de l'acidité. Ils ont montré que l'étape déterminante correspond à l'échange d'un seul électron et ont admis le mécanisme suivant.</note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Taylor</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>White</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">L</forename>
+									<surname>Cunning</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Ham</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ind. Eng. Chem</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">899</biblScope>
+								<date type="published" when="1940"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>White</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">P</forename>
+									<surname>Vincent</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ind. Eng. Chem</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="pp">783</biblScope>
+								<date type="published" when="1942"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Hanisch</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">35</biblScope>
+								<biblScope type="pp">2547</biblScope>
+								<date type="published" when="1952"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Stitt</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Frielander</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">E</forename>
+									<surname>Young</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">26</biblScope>
+								<biblScope type="pp">1479</biblScope>
+								<date type="published" when="1954"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Boemlander</forename>
+									<surname>Wasser</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1962"/>
+								<biblScope type="pp">78</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Gas Wasserfach</title>
+							<imprint>
+								<biblScope type="vol">104</biblScope>
+								<biblScope type="issue">518</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">M</forename>
+									<surname>Nabar</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Sundaram J</forename>
+									<surname>Indian</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1964"/>
+								<biblScope type="pp">7</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">H Rapson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">2053</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Gordon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="issue">7</biblScope>
+								<biblScope type="pp">239</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Schmitz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rooze</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">1177</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Barnett</forename>
+									<surname>Dissertation</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1935"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">F</forename>
+									<surname>Launer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Flynn</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Res. Natl. Bur. Stand</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">237</biblScope>
+								<date type="published" when="1953"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Tomatsu</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">2591</biblScope>
+								<date type="published" when="1954"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">O</forename>
+									<surname>Hedstrom</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ark. Kemi</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1953"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Schlyter</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Chem. Scand</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">1327</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Rooze</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="issue">601</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Gordon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="issue">985</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

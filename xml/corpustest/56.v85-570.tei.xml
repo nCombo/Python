@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sélectivité du transport de Ca 2+ /Mg 2+ à travers une membrane liquide par A.23187 (calcimycine) et son dérivé N-méthyle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<surname>Bolte</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Biologique</orgName>
+								<orgName type="department">ERA 392</orgName>
+								<orgName type="institution" key="instit1">CNRS</orgName>
+								<orgName type="institution" key="instit2">Université de Clermont II</orgName>
+								<address>
+									<addrLine>B.P.45</addrLine>
+									<postCode> 63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Colette</forename>
+								<surname>Demuynck</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Biologique</orgName>
+								<orgName type="department">ERA 392</orgName>
+								<orgName type="institution" key="instit1">CNRS</orgName>
+								<orgName type="institution" key="instit2">Université de Clermont II</orgName>
+								<address>
+									<addrLine>B.P.45</addrLine>
+									<postCode> 63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Georges</forename>
+								<surname>Jeminet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique Biologique</orgName>
+								<orgName type="department">ERA 392</orgName>
+								<orgName type="institution" key="instit1">CNRS</orgName>
+								<orgName type="institution" key="instit2">Université de Clermont II</orgName>
+								<address>
+									<addrLine>B.P.45</addrLine>
+									<postCode> 63170</postCode>
+									<settlement>Aubière</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sélectivité du transport de Ca 2+ /Mg 2+ à travers une membrane liquide par A.23187 (calcimycine) et son dérivé N-méthyle</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Le transport préférentiel de Ca 2+ /Mg 2+ par A.23187 est mis en évidence dans une cellule eau/CHCl 3 /eau. Par des mesures de flux d'extraction et de flux de libération dans une demi-cellule eau/CHCl 3 , on montre que la sélectivité du transport est liée à une cinétique de libération nettement différente pour les deux ions, qui pourrait s'expliquer par la structure des complexes dimériques formés, si on se réfère aux études cristallographiques correspondantes. La méthylation du groupement —NHCH 3 entraîne une inversion de la sélectivité de transport.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Operating in a cell of water/CHCl 3 /water, it is shown that there is a preferential transport of Ca 2+ /Mg 2+ by A.23187. On the basis of measurements of flux of extraction and of flux of liberation in a half-cell of water/CHCl 3 , it is shown that the selectivity of the transport is related to the kinetics of liberation, which is markedly different for the two ions and which could be explained by the structure of the complex dimers that are formed, according to the corresponding crystallographic studies. The methylation of the —NHCH 3 entails an inversion of the selectivity in the transport. [Traduit par le journal]</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>L'étude du transport cationique induit par les antibiotiques polyéthers carboxyliques, à travers une membrane liquide épaisse, a été abordée au laboratoire dans le cadre plus général d'une recherche menée sur le mode d'action de ces composés. Un premier travail consacré aux ionophores X.537A, A.23187 et X. 14547A (1), classés comme des transporteurs des ions divalents (2), avait permis de mettre en évidence dans le système triphasique eau/CHCl 3 /eau: (;') l'existence d'une courbe sigmoïdale de transport reliant le flux ionique Jq a -+ au pH du compartiment d'extraction, et (;';') le décalage des courbes d'un ionophore à l'autre, attribué aux différences de stabilité des associations formées aux interfaces avec H + et Ca 2+.</p>
+				<p>Récemment, une étude semblable a été abordée d'une manière approfondie pour des polyéthers couronnes de synthèse portant une ou deux fonctions —COOH (3).</p>
+				<p>Des trois ionophores cités, A.23187 (composé 1, <ref type="figure">fig. 1</ref>) est le seul qui transporte préférentiellement les cations divalents et particulièrement Ca 2+ et Mg 2+ présents "in vivo" dans les compartiments cellulaires (4). Il paraissait donc intéressant d'étudier dans le système modèle évoqué la sélectivité de transport de ces deux ions et d'en préciser l'origine. Dans les conditions expérimentales utilisées mettant ou non en compétition les deux ions, on observe que J c . d i+ &gt; J Mj ,?+ quel que soit le pH. J représente le nombre de moles transportées par s et par cm 2 . Le même transport préférentiel a été mentionné dans des vésicules de D.M.P.C. (5), des B.L.M. (6), ou dans la membrane mitochondriale (7). Une étude récente fait apparaître une augmentation de cette sélectivité pour un analogue bromé sur le cycle benzénique de A.23187 (8). Par opposition, le présent travail montre qu'une méthylation du groupement —NHCH 3 (composé 2, <ref type="figure">fig. 1</ref>) entraîne une inversion de cette sélectivité.</p>
+				<p>Les valeurs des constantes thermodynamiques de complexation mesurées dans le méthanol ne permettent pas de prévoir les sélectivités observées; la détermination des cinétiques d'échange dans une demi-cellule eau/chloroforme autorise une interprétation des résultats en relation avec la structure des complexes dimériques connus à l'état cristallin.</p>
+			</div>
+			<div type="section" n="A">
+				<head>Étude de la sélectivité Ca2+/Mg2+ pour A.23187 1. Transport dans une cellule eau/CHCl3/eau</head>
+				<p>Les variations du flux ionique J en fonction du pH du compartiment d'extraction sont représentées sur la <ref type="figure">fig. 1</ref>. Pour Ca 2+ , J est inférieur à 10" 12 mol s -1 cm -2 (limite de sensibilité de la méthode) lorsque pH &lt; 6,6, puis il augmente jusqu'à pH 9 sans atteindre un palier distinct. Pour Mg 2+ , on ne décèle aucun transport à pH &lt; 7,4, au-delà duquel le flux reste faible. 11 existe donc un transport préférentiel en faveur de Ca 2+ qui se trouve confirmé si les deux cations sont présents en compétition dans la phase aqueuse d'extraction, la mesure du flux à pH 8,5 montre alors un transport exclusif de Ca 2+ avec une valeur J = 1 x 10"" mol s"' cm" 2.</p>
+				<p>Une telle sélectivité n'est pas apparente pour les constantes de formation des complexes 1:1 et 2:1 mesurées dans le méthanol (1) exprimées sous la forme:</p>
+				<p><formula>[1] A " + M 2+ ^ AM + log pACa + = 8,2 log p AMg + = 7,6 PA,M [2] 2A " + M 2+ ^ A 2 M log (3 A2 ca = 16,2 log (3 A2 M s = 15,9 ou pour l'équation globale de l'échange: [3] 2AH + M 2+ ^ A 2 M + 2H + p; 2 c a = 2,09 x 10" 6 p;, Mg = 1,04 x IO" 6</formula></p>
+				<p>La différence de flux ionique doit donc se créer au cours des échanges aux interfaces dans le processus global représenté sur la <ref type="figure">fig. 2</ref>pour un transport par l'intermédiaire d'un complexe 2:1.</p>
+				<p>Pour préciser ce point nous avons utilisé une approche expérimentale en étudiant les cinétiques d'échange dans une demi-cellule eau/CHCl 3 , à partir de l'acide libre, pour obtenir une information sur l'entrée de M 2+ dans la phase organique ou, à partir du complexe 2:1, pour la libération du cation dans la phase aqueuse. Ces conditions expérimentales diffèrent donc nécessairement du processus dynamique qui s'établit au cours du transfert triphasique. L'information recueillie sous cette forme permet cependant de proposer une explication à la discrimination Ca 2+ /Mg 2+ qui s'opère.</p>
+				<div>
+					<head>Cinétique d'extraction dans une demi-cellule eau/CHCl_,</head>
+					<p>On mesure la cinétique d'entrée de Ca 2+ ou Mg 2+ dans la phase organique contenant l'antibiotique (4 x 1(T 4 M) à partir d'une solution aqueuse 10" 2 M de ces cations tamponnée à pH 8,5 qui correspond à un maximum d'extraction. La pente des droites représentant la quantité de cation extrait en fonction du temps permet d'accéder aux flux initiaux d'entrée qui sont respectivement: J c j+ = 1,1 x 10" 10 mol s" 1 cm" 2 y Mg 2 + = 1,2 x 10"'° mol s"' cm" 2</p>
+					<p>Ces valeurs ne reflètent aucune différence notable entre les deux cations.</p>
+				</div>
+				<div>
+					<head>Cinétique de libération dans une demi-cellule eau/CHCl_,</head>
+					<p>La cinétique d'apparition de Ca 2+ ou Mg 2+ dans la phase aqueuse tamponnée à pH 7,0 est mesurée à partir des sels cristallisés de A.23187 dissous dans la phase organique à la concentration 2 X10" 4 M. Les courbes ainsi obtenues sont représentées sur la <ref type="figure">fig. 3</ref>. La différence entre les vitesses de libération des deux ions est apparente, les flux initiaux sont respectivement:</p>
+					<p><formula>Jcj+ = 1,1 x 10"10 mol s"1 cm"2 yMg2+ = 1,2 x 10"'° mol s"' cm"2</formula></p>
+					<p>Ces valeurs ne reflètent aucune différence notable entre les deux cations.</p>
+				</div>
+				<div>
+					<head>Cinétique de libération dans une demi-cellule eau/CHCl_,</head>
+					<p>La cinétique d'apparition de Ca2+ ou Mg2+ dans la phase aqueuse tamponnée à pH 7,0 est mesurée à partir des sels cristallisés de A.23187 dissous dans la phase organique à la concentration 2 X 1 0 " 4 M . Les courbes ainsi obtenues sont représentées sur la fig. 3. La différence entre les vitesses de libération des deux ions est apparente, les flux initiaux sont respectivement:</p>
+					<p><formula>Jca' + = 4,5 X 10" 10 mol s"' cm" 2 = 3,5 X 10"" mol s" 1 cm" 2</formula></p>
+					<p>soit un rapport ./ Ca 2+/Ai,r + ~ 13. Le même type de courbe est obtenu dans l'intervalle de pH 7,0-1,0. Les flux initiaux mesurés sont indépendants de [H + ] dans la phase aqueuse.</p>
+					<p>Les premières études cinétiques entreprises en phase homogène dans le méthanol ou le mélange méthanol 70/eau 30 (w/w) par des techniques de flux stoppé ou saut de température (9) donnent pour la constante cinétique globale de dissociation du complexe 1:1 qui constitue l'étape limitante (en s" 1 ):</p>
+					<p>Ceci conduit les auteurs à admettre que si l'étape limitante dans le transport est la libération du cation, on doit attendre une sélectivité de l'ordre de 8 en faveur de Ca 2+ . Les résultats mentionnés dans ce travail qui décrivent une cinétique globale de libération à l'interface eau/CHClj sont en accord avec cette proposition.</p>
+					<p>Les différences de propriétés des ions Ca 2+ et Mg 2 + en biologie ont été fréquemment discutées notamment par Williams (10). Il note que Ca 2+ (1,06 A) s'associe aux ligandes avec un indice de coordination minimum de 6 mais plus fréquemment 7 ou 8 dans une géométrie irrégulière (angles et longueurs de liaison), alors que Mg 2+ (0,78 A) est généralement hexacoordiné dans une géométrie proche de l'octaèdre. Pour l'assemblage moléculaire très particulier que représente le dimère de A.23187 la proposition de Williams est respectée si l'on compare l'heptacoordination irrègulière de Ca 2+ (11) et l'hexacoordination octaédrique de Mg 2+ (12). Cet aspect a été examiné récemment par Gresh et Pullman (13) au moyen de simulations théoriques à partir des données cristallographiques. Ils montrent que la présence d'une molécule d'eau observée dans le cristal du complexe avec Ca 2+ comme 7ème site coordinant (11) est nécessaire pour assurer au complexe une stabilité comparable à celle du complexe avec Mg 2+ ; la possibilité d'un co-transport de molécules d'eau dans la migration intramembranaire est envisagée par les auteurs.</p>
+					<p>Ces différences structurales observées à l'état cristallin constituent un argument en faveur d'une différenciation entre les vitesses de libération des ions Ca 2+ et Mg 2+ à partir de leurs complexes, si l'on admet des structures comparables en solution . Il serait intéressant de préciser le mécanisme de cette discrimination cinétique. Dans un premier temps nous nous proposons d'étudier la présence éventuelle de molécules d'eau dans l'espèce qui assure le transport; cela nécessite la mise au point d'un processus expérimental approprié.</p>
+				</div>
+			</div>
+			<div type="section" n="B">
+				<head>Sélectivité Ca2+/Mg21 pour N-Me A.23187 2</head>
+				<p>Les deux substituants —NHCH 3 et —COOH (ou —COO") dans A.23187 ( <ref type="figure">fig. 1</ref>, R = H) présentent une chélation intramoléculaire —NH (CH 3 ) @BULLET @BULLET @BULLET 0=C( @BULLET @BULLET @BULLET ) qui les maintient dans le plan du benzoxazole, si l'on se rapporte aux résultats radiocristallographiques donnés sur l'acide libre (14) et les sels complexes ( 11, 12). L'introduction d'un deuxième groupement méthyle sur —NHCH 3 (15) ( <ref type="figure">fig. 1</ref>, R = CH 3 ) supprime cette possibilité de chélation et entraîne une modification des propriétés d'association avec les cations qui apparaît à l'examen des constantes de formation des complexes 1:1 et 2:1 dans le méthanol (16) (équilibres [l] [3]).</p>
+				<p><formula>log (3 A 'Ca + = 4,7 log Pascu = 8,5 log (3 A ' m s + = 5,2 log p A ., Mg = 9,5 (3V, Ca = 1,26 X 10"' 3 p;., Mg = 1,25 X 10" :12</formula></p>
+				<p>où l'on observe une nette déstabilisation des associations formées.</p>
+				<p>Les résultats du transport cationique dans un système eau/CHCl 3 /eau par cet ionophore modifié sont représentés sur la fig. 1. L'ion Mg 2+ est transporté préférentiellement à Ca 2+ , le flux maximun atteint étant supérieur à celui de Ca 2+ pour A.23187 bien que la stabilité des complexes soit très inférieure. On avait déjà observé un phénomène semblable pour X.537A</p>
+				<p>Lorsque les deux cations sont présents en compétition dans la phase d'extraction, les flux initiaux mesurés à pH 8,5 sont respectivement</p>
+				<p><formula>J Q -+ = 0,2 X 10"" mol s" 1 cm" 2 J Mg 2 + = 2,3 X 10"" mol s" 1 cm" 2</formula></p>
+				<p>La faible modification introduite sur la structure naturelle a donc pour effet d'inverser la sélectivité du transport Ca 2+ /Mg 2+ dans ce système membranaire.</p>
+				<p>Comme précédemment, les flux initiaux correspondant aux phénomènes d'extraction et de libération des cations dans une demi-cellule eau/CHCl 3 ont été mesurés; on obtient les valeurs suivantes:</p>
+				<p><formula>Je= 1,7 x 10" " JcJ+ = 8 x 10"" J Ms 2+ = 5,3 x 10"" = 15 x 10""</formula></p>
+				<p>Les flux d'entrée sont plus faibles si l'on se réfère à A.23187. Par ailleurs, tant à l'entrée qu'à la sortie de la phase organique les valeurs des flux sont en faveur de Mg 2+ ce qui peut entraîner un transport global préférentiel de ce cation. Ainsi la transformation de —NHCH 3 en —N(CH 3 ) 2 suffit pour créer des effets stériques et électroniques autour du —C0 2 H qui modifient la structure des complexes dimériques formés et par voie de conséquence les cinétiques d'échange aux interfaces , confirmant ainsi les observations faites pour A.23187.</p>
+				<p>En conclusion, il est nécessaire d'insister sur le fait que ces résultats ne sont pas nécessairement transposables systématiquement à d'autres phases membranaires, en particulier à la membrane mitochondriale (4) où un bon ionophore des cations divalents doit posséder des constantes d'associations élevées avec ces cations, compte tenu de la compétition avec les sites propres de la mitochondrie; c'est le cas de A.23187, mais c'est un transporteur lent (9).</p>
+				<p>Les premiers résultats obtenus avec N-Me A.23187 qui forme des complexes moins stables montrent effectivement que c'est un ionophore peu efficace dans cet organite. 1 Le transport préférentiel de Ca 2+ /Mg 2t mis en évidence pour A.23187 dans différentes conditions expérimentales (5-7) est très vraisemblablement attribuable à une cinétique de libération différente pour ces deux ions comme dans la membrane liquide chloroformique qui constitue sur ce point un modèle intéressant.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>produit</p>
+				<p>L'antibiotique A.23187 1 est isolé à partir d'une culture en fermenteur de 20 L de la souche NRRL 3882 (Streptomyces chartreusis) (1). La préparation du dérivé 2 est décrite dans la réf. 15.</p>
+				<p>Les sels de Ca 2+ et Mg 2+ sont préparés et isolés selon la technique de Deber et Pfeiffer (17). Le complexe cristallisé obtenu avec Mg 2+ a servi conjointement pour les déterminations radiocristallographiques (12). Pour la N-méthylcalcimycine 2, les sels de Ca 2+ et Mg 2+ sont préparés in situ en agitant au vortex une solution chloroformique 2 x 10" 4 M du dérivé et une solution aqueuse tamponnée à pH 10,3 des sels Mg(CI0 4 ) 2 ou Ca(C10 4 ) 2 Merck, 10" 2 M. La formation du complexe 2:1 dans la phase chloroformique est totale, elle est vérifiée sur une quantité aliquote par libération des cations à l'aide d'HCl 0,1 N et mesure de leur concentration par absorption atomique (appareil Perkin-Elmer 420).</p>
+				<p>Les solutions aqueuses sont tamponnées par un mélange tricine-triéthanolamine Merck \0~ 2 M, le pH est ajusté avec une précision de 0,02 unités.</p>
+				<p>Transport triphasique eau/CHCl.,/eau (<ref type="figure">fig. I</ref>)</p>
+				<p>La cellule utilisée et les conditions du transport ont été décrites précédemment (1). La phase chloroformique est préalablement saturée d'eau, elle contient l'ionophore 1 ou 2 à la concentration 4 x 10~ 4 M. La phase aqueuse d'extraction ou d'entrée est une solution 10~ 2 M de Ca(C10 4 ) 2 ou Mg(C10 4 ) 2 Merck.</p>
+				<p>On mesure les flux ioniques exprimés en mol s" 1 cm 2 à l'établissement du régime quasi-stationnaire dans la phase aqueuse de libération ou de sortie, maintenue à pH 7,0, pour chaque valeur du pH 'J. Guyot, travaux non publiés.de la phase d'entrée. Pour cela, un échantillon de 1 mL est prélevé dans la phase de sortie à intervalles de temps réguliers et dosé par absorption atomique, la même quantité de phase aqueuse tamponnée est introduite dans la cellule en compensation.</p>
+				<p>Le pH de la phase d'entrée est contrôlée en permanence.</p>
+				<p>Cinétiques de libération eau/CHCIj (<ref type="figure">fig. 3</ref>)</p>
+				<p>Une solution chloroformique (6 mL) préalablement saturée d'eau contenant le complexe de Ca 2+ ou Mg 2+ des composés 1 ou 2 à la concentration 2 x 10 -4 M et 6 mL d'une solution aqueuse à pH 7,0 (tampon tricine 10 -2 M) sont mis en contact dans une cellule cyclindrique thermorégulée à 25°C (diamètre intérieur 2 cm, hauteur 6 cm).</p>
+				<p>La phase organique est agitée par un agitateur magnétique tournant à 600 tours/min et la phase aqueuse par une baguette de verre (diamètre 3 mm) terminée par une pale rectangulaire de 6 x 3 mm mue par un moteur électrique synchrone tournant à 600 tours/min. La concentration des cations dans la phase aqueuse est mesurée par absorption atomique.</p>
+				<p>Cinétiques d'extraction eau/CHCIj</p>
+				<p>La même cellule que précédemment est utilisée. Une solution chloroformique (6 mL) de 1 ou 2 à la concentration 2 x 10 -4 M et 6 mL d'une solution tamponnée à pH 8,5 (triéthanolamine-tricine) de Ca(C10 4 ) 2 ou Mg(C10 4 )2 10 -2 M sont mis en contact et agitées comme ci-dessus. La vitesse d'apparition du cation dans la phase organique est mesurée en prélevant 1 mL de celle-ci que l'on traite par 1 mL de HC1 0,1 N pour libérer le cation et le doser. Pour faire des mesures en fonction du temps on opère avec une série de cellules synchronisées. Les valeurs de flux initiaux mentionnés portent sur trois mesures.</p>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Ce travail a été effectué dans le cadre de la R.C.P. 80/605 du C.N.R.S.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bolte</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Demuynck</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Jeminet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Tissier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">981</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<title level="a" type="main">Polyether antibiotics</title>
+						</analytic>
+						<monogr>
+							<title level="j">Biology. M. Dekker</title>
+							<editor>J. W. WESTLEY</editor>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dulyea</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">M M</forename>
+									<surname>Fylesetd</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Whitfield</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">498</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Guyot</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Debise</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Experientia</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">551</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H</forename>
+									<surname>Haynes</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biophys. J</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">369</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">S</forename>
+									<surname>Yaguzhinsky</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">FEBS Lett</title>
+							<imprint>
+								<biblScope type="vol">163</biblScope>
+								<biblScope type="pp">42</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+									<surname>Lardy</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochemistry</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">937</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Debono</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Molloy</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">E</forename>
+									<surname>Dorman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+									<surname>Paschal</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">F</forename>
+									<surname>Babcock</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">R</forename>
+									<surname>Pfeiffer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochemistry</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="pp">6865</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Krause</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Grell</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Albrecht-Gary</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">SCHWING. Stud. Phys. Theor. Chem</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">255</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<monogr>
+							<title level="m" type="main">In Calcium in biological systems. Cambridge Univ. Press</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">J P</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1976"/>
+								<biblScope type="fpage">1</biblScope>
+								<biblScope type="lpage">17</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">L</forename>
+									<surname>Duax</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">1578</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Barrans</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">63</biblScope>
+								<biblScope type="pp">3482</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Pullman</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Quantum Chem</title>
+							<imprint>
+								<biblScope type="vol">10</biblScope>
+								<biblScope type="pp">215</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">O</forename>
+									<surname>Chaney</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">V</forename>
+									<surname>Demarco</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Oc</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Colowitz</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">1932</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Jeminet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Experientia</title>
+							<imprint>
+								<biblScope type="vol">39</biblScope>
+								<biblScope type="pp">256</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Bolte</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S. Caffarel-Mendes</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Jeminet</forename>
+									<surname>Stud</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys. Theor. Chem</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">247</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">R</forename>
+									<surname>Pfeiffer</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochemistry</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">132</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">C</forename>
+									<surname>Ce</surname>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

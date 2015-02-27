@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Transposition des cations radicaux aminés en spectrométrie de masse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Henri</forename>
+								<forename type="middle">Edouard</forename>
+								<surname>Audier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">Ecoie Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jean</forename>
+								<forename type="middle">Pierre</forename>
+								<surname>Denhez</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">Ecoie Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Arielle</forename>
+								<surname>Milliet</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">Ecoie Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Georges</forename>
+								<surname>Sozzi</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Synthèse Organique</orgName>
+								<orgName type="institution">Ecoie Polytechnique</orgName>
+								<address>
+									<postCode>91128</postCode>
+									<settlement>Palaiseau Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Transposition des cations radicaux aminés en spectrométrie de masse</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Il est montré en spectrométrie de masse, que les cations radicaux de faible énergie interne des alkylamines substituées en position 2, s'isomérisent au travers d'intermédiaires constitués par des cyclopropancs ionisés, liés à une molécule d'ammoniac. Ce processus est induit par le transfert sur l'azote d'un hydrogène de la chaîne situé en position 3. L'ouverture et la dissociation de ces complexes conduisent à des ions fragments m/z 44, 58 et 72 de structure [CH,(CH2)„CH NH2]. Le mécanisme de leur formation est démontre par les données des spectres M1KE de composés marques, soit au l'C, soit au deutérium. Les résultats expérimentaux sont en accord avec ceux précédemment obtenus par Gross et coll. qui ont étudié les produits de fragmentation du complexe résultant de la réaction entre une molécule d'ammoniac et des cyclopropanes substitués ionisés, en phase gazeuse.</p>
+			</div>
+			<div type="abstract" xml:lang="3n">
+				<p>It is demonstrated in mass spectrometry that alkylamincs substituted at C2 and containing weak internal energy isomcrize in the gas phase into intermediary ions composed of ionized cyclopropanes complexed with an ammonia molccule. This process is induced by a C3 hydrogen shift on the nitrogen atom. After opening of the cyclopropane, the dissociation of these complexes leads to m/z 44, 58, and 72 ions having [CH,(CH 2) " CH NH 2 ] structures. The mechanism of their formation is demonstrated by the MIKE spectra of L, C and deuterium labelled compounds. The experimental results are in good agreement with those described by Gross et a!., who studied the fragmentation of the complexes formed during the reaction between substituted ionized cyclopropanes and ammonia in the gas phase.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Dans un travail préliminaire, un mécanisme de transposition des chaînes alkylées a été proposé ( I) pour expliquer la fragmentation en phase gazeuse de cations radicaux organiques de faible énergie interne.</p>
+				<p>Ce mode de réarrangement (schéma 1 ) a été mis en évidence lors de l'étude des éthers (1, 2), des benzoates d'alkyle (3) et de l'acide isopentaoïque (4). 11 est induit par le transfert d'un hydrogène de la chaîne sur la fonction présente dans la molécule, conduisant à un intermédiaire dans lequel un ion cyclopropanique substitué est lié à une molécule neutre.</p>
+				<p>Le même mode de transposition est observé pour les aminés. Alors qu'à 70 eV, le spectre de masse des ions aminés [R—CH 2 —NH : ] t-ne présente qu'un seul pic très intense: m/z 30 (CH 2 —NH 2 ). ce pic est le plus souvent absent du spectre MIKE dès lors que la longueur de la chaîne excède trois carbones (1, 5-7). Des pics intenses apparaissent à m/z 44, 58, 72, etc. . . Ils correspondent à des ions plus substitués et donc plus stables dont la formation implique une transposition préalable de la molécule.</p>
+				<p>Ainsi la décomposition métastable de l'isoamylamine (1) conduit à l'obtention d'un ion fragment abondant m/z 58 de structure [(CH 3 ) 2 —C '—NH 2 ] (8) dont la formation a été expliquée par le mécanisme représenté schéma 2. Afin de vérifier la validité et la généralité de ce mécanisme, les aminés alkylées et substituées en position 2 ont été étudiées dans ce travail (1 à 5. schéma 3).</p>
+			</div>
+			<div type="section">
+				<head>Résultats et interprétation</head>
+				<div type="section" n="1">
+					<head>Données expérimentales</head>
+					<p>(a) Les spectres MIKE des ions 1 à 5 (tableau 1 ) présentent: des ions correspondant à l'élimination d'un radical (m/z 44, 58, 72 et m/z 30 dans le seul cas de 1) qui sont généralement intenses; des ions découlant de la perte d'une molécule d'alcène dès lors que la chaîne principale contient cinq carbones au moins (ions m/z 59 et 73 dans les aminés 3 et 5); des ions m/z 32, [CH,—NH,] f de faible abondance; enfin des ions [M — NH,] + dont l'étude est rendue difficile par la présence fréquente d'ions situés à une unité de masse inférieure et dont l'origine n'a pu être précisée.</p>
+					<p>(b) Les spectres ont été comparés à ceux d'amines isomères. Seuls ont été rapportés les résultats relatifs aux aminés 6 à 10 à cinq atomes de carbone, isomères de 2. Tous ces spectres diffèrent fondamentalement de celui de 2, ce qui indique que cette aminé ne s'isomérise pas en une forme moléculaire ionisée avant dissociation.</p>
+					<p>(c) Tous les pics correspondant à la perte d'un radical sont fins, les valeurs de T 0 , 5 étant faibles et inférieures à 0,020 eV (tableau 2).</p>
+					<p>(d) Les structures des ions m/z 44 et 58 ont déjà fait l'objet d'une étude particulière (8). Dans le cas des aminés 1 à 4, l'ion m/z 44 a toujours la structure [CH,—CH—NH,]' et l'ion m/z 58: [CH.,—CH 2 —CH—NH 2 ]\ (e) Enfin de nombreux composés marqués ont été préparés (tableaux 3, 4 et 5).</p>
+					<p>2. Les spectres MIKE des composés 1 à 5 et de leurs dérivés marqués sont en accord avec le mécanisme d'isomérisation proposé</p>
+					<p>Ruptures simples et réarrangements Le comportement de l'isobutylamine 1 se distingue nettement de celui des homologues supérieurs 2 à 5: le pic m/z 30 est très intense dans le spectre MIKE de 1 (tableau l); il est totalement déplace à m/z 32 pour l'isobutylamine 1,1-A et correspond donc à une rupture simple; et les pics m/z 44 et 58 sont de très faible intensité.</p>
+					<p>Par contre l'absence de pic m/z 30 dans les spectres MIKE des aminés 2 à 5 (tableau 1), l'élimination totale des hydrogènes en position 1 lors de la formation des ions m/z 44 notamment (tableaux 3, 4 et 5) prouvent qu'il y a réarrangement des ions moléculaires avant leur dissociation.</p>
+					<p>En particulier, les spectres MIKE des aminés isomères 3 et 4 présentent des pics intenses aux mêmes unités de masse avec des valeurs de T a i très proches. Seules les intensités respectives des pics et notamment l'existence d'un pic important à m/z 59 pour 3, permettent de différencier les deux spectres. Ces observations suggèrent l'existence d'intermédiaires de fragmentation communs.</p>
+					<p>Mécanisme de réarrangement de la méthyl-2 pentylamine 3</p>
+					<p>La fragmentation de l'aminé 3 est précédée d'un échange des hydrogènes du groupe NH 2 (tableau 3: 3A). Toutefois cet échange n'implique pas les hydrogènes en position 1 (3b) ou 2 (3c); la même observation a déjà été faite pour les aminés linéaires (7). Les hydrogènes portés par le C3' ne s'échangent que lentement; par contre, ceux portés par les groupes CH 2 sont nettement impliqués (3e). C'est donc par la migration sur l'azote de l'un des hydrogènes échangeable que débute la fragmentation ; cette première étape conduit aux ions a, b et c (schéma 4).</p>
+					<p>Les ions a et b conduisent aux formes d dans lesquelles un ion cyclopropane ionisé est lié à une molécule d'ammoniac. Ces entités s'isomérisent par fixation de NH 3 sur un carbone substitué du cyclopropane qui s'ouvre pour donner les ions intermédiaires de type e dont la dissociation conduit aux ions fragments m/z 44, 58 et 72 (schéma 4).</p>
+					<p>Les mécanismes de formation de ces fragments sont confirmés par l'étude des spectres des composés spécifiquement marqués (tableau 3). (/) La formation de l'ion m/z 44, de structure [CH 3 —CH—NH 2 ]+ (8), se produit avec rétention des hydrogènes du C2 (3c) et du groupe CH 3 en position 3' (3d, 3/ et 3g) mais avec élimination des hydrogènes du Cl {3b), ce qui est conforme au mécanisme proposé, (ii) Le pic m/z 72 est déplacé à m/z 74 pour le composé 3b, à m/z 73 pour 3c et 3f, à m/z 75 pour 3d et 3g, ce dont rend compte le schéma 4. (iii) Enfin, conformément à ce schéma, l'ion m/z 58, de structure [CH 3 —CH 2 —CH—NH,] + (8), a deux origines. Pour 20% environ (tableau 3) cet ion se forme à partir de a avec élimination des hydrogènes portés par les carbones Cl, C2 et C3'. La fraction dominante de l'ion m/z 58 découle de b: selon ce mécanisme, l'ion est déplacé h m/z 59 pour 3c et 3/, à 60 pour 3b et à 61 pour 3d et 3g.</p>
+					<p>Dans les dérivés marqués pour lesquels il y a échange d'hydrogène avant isomérisation, les résultats expérimentaux ont été comparés à ceux d'un calcul statistique en supposant l'échange rapide d'atomes d'hydrogène portés par le groupe NH 2 avec les quatre portés par les groupes CH 2 en positions 3 et 4. Un tel calcul revient à rechercher par exemple dans le dérivé 3a, les intensités respectives des pics m/z 44, 45 et 46 en considérant un système H 4 D 2 (9) avec rétention de deux de ces atomes dans l'ion comme le prévoit le mécanisme proposé. Les bonnes corrélations obtenues pour les dérivés 3a (H 4 D 2 ) et 3e (H 4 D 2 avec rétention du groupe CD 3 ) confirment que l'échange des hydrogènes en 3 et 4 est facile et celui des hydrogènes en 3' beaucoup plus lent (tableau 3).</p>
+					<p>Enfin l'ion c ne saurait être précurseur des ions fragments étudiés: en effet, la fixation de NH 3 sur le carbone 4 à partir de c conduirait à un ion m/z 44 contenant les carbones 4 et 5, ce qu'infirment les spectres des dérivés marqués. Par contre, par rupture simple, c donne l'ion m/z 59 (schéma 4).</p>
+					<p>Intermédiaires de fragmentation communs à la méthyl-2 pentylamine 3 et à l'éthyl-2 butylamine 4</p>
+					<p>Du fait de son caractère symétrique, la fragmentation de l'aminé 4 est plus simple (schéma 5). Le transfert d'un hydrogène de la position 3 sur l'azote conduit au complexe d u puis après isomérisation à d 2 et d 3 .</p>
+					<p>Les ions m/z 44, 58 et 72 découlent des ruptures de d 2 et d 3 . Les intermédiaires d\, d 2 et d 3 sont identiques à ceux formés à partir de l'aminé 3 (schémas 4 et 5): l'identité des valeurs de r 0 , 5 pour les ions m/z 44 et 72 (tableau 2) dans les spectres de 3 et 4 témoigne de l'existence de ces intermédiaires communs. Les composés marqués (tableau 4) corroborent le mécanisme: il y a élimination des H1 et H2 lors de la formation de l'ion m/z 44, rétention de ces hydrogènes lors de celle de l'ion m/z 72 et élimination des H1 lors de celle de l'ion m/z 58. Il y a par ailleurs échange rapide des H3 et H4 avec ceux du groupe NH 2 avant isomérisation.</p>
+					<p>Les comportements de 3 et 4 se distinguent toutefois sur deux points: (0 le pic m/z 58 est nettement plus intense dans le spectre de 3: comme il a été montré, la fraction principale de ce pic provient dans ce composé de la fragmentation de l'ion b qui ne peut se former à partir de 4 (schéma 4); l'élimination d'alcène est une fragmentation importante pour l'aminé 3 {m/z 59, [M — C 3 H 6 ] + ) alors que le pic correspondant m/z 73 [M — C 2 H 4 ] + est pratiquement inexistant dans le spectre de 4. La plus grande stabilité de la molécule de propène par rapport à celle d'éthylène serait à l'origine de ce phénomène.</p>
+					<p>L'ensemble de ces données permet de conclure que 3 et 4 se fragmentent au travers des intermédiaires communs d ] , d 2 et d 3 et que les réactions 3 ou 4 —» d ne sont pas réversibles. La méthyl-2 butylamine 2 conduit à un intermédiaire dans lequel les carbones en positions 3 et 4 jouent un rôle symétrique Les composés marqués (tableau 5) de la méthyl-2 butylamine 2 montrent tout d'abord que les modes d'échange des hydrogènes sont les mêmes que ceux déjà décrits: absence de participation des HI et H2, échange lent des H3' primaires, échange rapide des H3 secondaires (comparaison des spectres de 2a et 2/).</p>
+					<p>Le transfert d'un H3 ou d'un H3' conduit aux ions h et i puis aux formes cyclopropaniques j.</p>
+					<p>Dans le mécanisme proposé, l'ion yj étant symétrique doit conduire après isomérisation à deux ions m/z 44 de structure + CH 3 —CH—NH 2 (8) contenant des carbones placés différemment dans l'ion moléculaire initial (schéma 6).</p>
+					<p>Conformément à ce schéma, le pic m/z 44 est déplacé environ pour moitié 1 à m/z 45 dans les spectres des dérivés 2c et 2e et m/z Al pour 2d tandis que les H1 sont éliminés (2b) (tableau 5).</p>
+					<p>La formation de l'ion m/z 58 CH 3 CH 2 —CH—NH 2 (8) est induite par le transfert sur l'azote d'un hydrogène en 3' (schéma 6): il y a bien rétention des Hl, H2 et H3' (tableau 5).</p>
+					<p>Afin de préciser le mécanisme conduisant à la dissociation de 2, le spectre de 2 a été comparé à ceux des isomères 8, 9 et 10. Le spectre de 8 comme celui de 9 présente un pic intense m/z 43 (tableau 1) lié à l'élimination d'une molécule de propane (10). Ce pic est totalement absent dans le spectre de 2: il n'y 1 La présence d'un pic de faible intensité m/z 45 dont l'origine n'a pu être précisée rend difficile une appréciation exacte du taux de déplacement de l'ion m/z 44. a pas isomérisation k 2 —» 8 ou 9. La formation de l'ion m/z 44 à partir de k 2 résulte donc de la rupture d'une liaison C—C concertée avec le transfert sur le radical d'un hydrogène du groupe NH 3 (schéma 6).</p>
+					<p>De même le spectre de 10 (schéma 6) présente un pic m/z 57 lié à l'élimination d'éthane, phénomène qui n'est pas observé pour l'aminé 2 (tableau 1). L'absence d'isomérisation k s 10 est confirmée par les spectres des composés marqués: si un tel processus avait lieu avant formation de l'ion m/z 58, celui-ci ne conserverait que la moitié des Hl et des H3', ce qui n'est pas le cas (schéma 7).</p>
+					<p>Deux types de facteur déterminent le mode de fragmentation des ions k (ou des ions e provenant de 3 et 4): (i) la nature du radical élininé n'est pas sans incidence sur le processus. Ainsi un radical méthyle s'élimine difficilement: les pics [M - CH 3 ] + sont très généralement de faible intensité ou inexistants dans les dérivés 1 à 5; (ii) quand un ion de type k est susceptible d'éliminer deux radicaux identiques mais suivant des états de transition différents ([C 2 H 5 ]' à partir de k s par exemple: schéma 7), il y a rétention dans l'ion de la chaîne portant initialement le radical.</p>
+					<p>Dans le but de vérifier le caractère général de la sélectivité de ce mode de rupture, l'aminé 5 a été étudiée. Le spectre de ce composé présente un pic m/z 72 qui est déplacé pour 80% à 74 dans le spectre de sont dérivé bideutérié en position 1, Sa: schéma 8.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>(a) Les ions m/z 44, 58 ou 72 sont plus substitués donc plus stables que l'ion m/z 30, CH 2 —NH 2 (<ref type="figure">fig. 1</ref>). Lossing et al. (11) ont en effet mis en évidence une différence de 88 kJ mol -1 entre le AH { de CH 2 —NH 2 (744 kJ mol" 1 ) et celui de l'ion CH 3 —CH—NH 2 (656 kJ mol" 1 ).</p>
+				<p>Dans ces conditions, alors que la rupture simple 2 —» [30]+ nécessite 81 kJ (voir partie expérimentale), le AH ( correspondant à l'état final de l'ion m/z 44 est situé 26 kJ seulement au-dessus du AH t de l'ion moléculaire 2.</p>
+				<p>(b) La première étape de la fragmentation -la protonation de l'azote par un hydrogène de la chaîne -est fortement exothermique . Ainsi le AH t de l'ion h (656 kJ mol" 1 ) est 60 kJ mol -1 plus faible que celui de l'ion 2 dont il provient.</p>
+				<p>Le A// f de l'état de transition conduisant à l'ion m/z 30 étant au moins égal à 797 kJ mol -1 , les isomérisations de h conduisant à un ion stable et dont l'énergie critique est inférieure à 141 kJ seront observées ( <ref type="figure">fig. 1</ref>).</p>
+				<p>Toutefois, même si AH s (h) &lt; AH s (2), la réaction de protonation de l'azote présente une énergie critique qui dépend de la nature et de la position de l'hydrogène transféré. 11 apparaît notamment que les migrations des hydrogènes en positions 1 et 2 ne s'effectuent pas (tableau 5).</p>
+				<p>L'étude de la formation du pic m/z 30 dans l'isobutylamine 1 explique cette constation. Ce pic est totalement déplacé à m/z 32 dans le dérivé bideutérié en position 1 et demeure à m/z 30 dans le composé 2-d,. L'énergie critique nécessaire à des trans-ferts et échanges de ces hydrogènes est donc supérieure à l'énergie de la rupture 1 —» [30], soit 85 kJ. Ces transferts ne peuvent donc être observés lors de la formation des ions m/z 44, 58, ou 72 dans les aminés 2 à 5.</p>
+				<p>(c) Des formes intermédiaires ou des états de transition de type cyclopropanique ont été proposés pour expliquer la fragmentation de nombreux composés: alcènes (12-14), alcanes (15), acides et esters (16, 17) dérivés phénoliques (18), etc...</p>
+				<p>Par ailleurs, l'existence de formes stables dans lesquelles un ion [C " H 2 " ]t de structure éthylénique, carbénique ou cyclopropanique est lié à une molécule d'eau ou d'ammoniac a été montrée (19-24). Quand l'entité C " H 2 " a une structure éthylénique ou carbénique, ces formes stables ont des AH t souvent inférieurs à ceux des alcools et aminés isomères. Il n'existe par contre pas de données thermodynamiques quant aux complexes cyclopropaniques proposés dans ce travail.</p>
+				<p>Toutefois les données expérimentales indiquent que les réactions donnant ces intermédiaires constituent une barrière dans le processus d'isomérisation.</p>
+				<p>Tout d'abord ces réactions sont irréversibles. En effet, dans l'hypothèse d'une réversibilité de la réaction h (schéma 6), l'ion m/z 58 formé à partir de 2 contiendrait -fut-ce partiellement -le carbone en position quatre, ce qui est contraire aux données expérimentales (tableau 5, schéma 6). Les différences de comportement de 3 et 4 déjà évoquées vont dans le même sens.</p>
+				<p>Par ailleurs, alors que dans les aminés 2, 3 et 4, les hydrogènes en position 3 s'échangent statistiquement avant formation de l'ion m/z 44, l'échange de ces mêmes hydrogènes est très lent avant formation du même ion m/z 44 dans la 3,3-d 2 heptylamine. Ceci montre que l'énergie critique nécessaire à la formation de l'ion m/z 44 au travers d'une forme cyclopropanique est supérieure à celle nécessaire à sa formation à partir des aminés linéaires pour lesquelles l'intermédiaire proposé est constitué par un ion alcène lié à une molécule de NH 3 (7).</p>
+				<p>Enfin la stabilité du complexe intermédiaire proposé dépend nécessairement du nombre et de la nature des substituants du cyclopropane. Il est connu en effet (25) que l'énergie d'ionisation du méthyl-cylopropane est supérieure à celle de l'éthylcyclopropane et plus encore à celle d'un diméthyl-cyclopropane . Dans le cas de l'isobutylamine 1, l'intermédiaire de transposition donnant l'ion m/z 44 est précisément le méthylcyclopropane ionisé lié à NH 3 moins stable que les complexes cyclopropaniques formés à partir des homologues supérieurs.</p>
+				<p>Cette observation peut expliquer la faible intensité de l'ion m/z 44 et corrélativement l'abondance de l'ion m/z 30 découlant de la rupture simple de 1.</p>
+			</div>
+			<div type="section">
+				<head>Conclusion</head>
+				<p>Un mode général d'isomérisation en phase gazeuse des cations aminés a été mis en évidence dans ce travail sur la base de nombreuses données expérimentales.</p>
+				<p>Le mécanisme proposé est en accord avec les résultats obtenus par Gross et Lin (26) qui ont étudié à 15 et 25 eV les fragmentations des complexes formés par action d'un ion cyclopropane substitué et d'une molécule de NH 3 : un ion m/z 44 est observé quand un carbone du cyclopropane est substitué par un groupe méthyle, un ion m/z 58 est formé quand l'un des carbones porte, soit un groupe éthyle, soit deux groupes méthyles.</p>
+				<p>D'autres travaux sur la fragmentation des aminés sont en cours afin de préciser si les "complexes" proposés dans ce travail constituent des formes métastables ayant une certaine durée de vie ou ne sont simplement que des états de transition.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les AHf des radicaux propyle (86 kJ), isopropyle (73 kJ) et secbutyle (53 kJ) figurent dans les tables (25). Le A//f (2) = 716 kJ mol" 1 a été calculé à partir du AH t de la molécule neutre ( -120 kJ mol" 1 ) déterminée par la méthode de Benson (25) et de l'énergie d'ionisation de l'isobutylamine, soit 8,70 eV (25).</p>
+				<p>Le même calcul et les mêmes sources conduisent à AH r (1) = 732 kJ mol" 1 et à AH t (8) = 709 kJ mol" 1 . Les Atfr [CH,—NH2] = 744 kJ mol" 1 et A H, [CH3—CH—NH2] = 656 kJ mol" 1 ont été déterminés par Lossing et al. (11). Le A// r (h) = 653 kJ mol" 1 est calculé à partir du AH t de la méthyl-2 butylamine (-120 kJ mol" 1 ) de l'affinité protonique (27) de l'isobutylamine (932 kJ mol" 1 ) et de l'énergie de dissociation d'une liaison CH—H (28).</p>
+				<p>Les spectres MIKE ont été réalisés sur un appareil VG.ZAB.2F. Les valeurs de 7" 0 , 5 ont été déterminées à partir de la largeur à mihauteur des pics après correction liée à la largeur du faisceau principal. Les composés marqués ont été préparés suivant des procédés classiques: alkylation en a des nitriles, réduction par AlLiDj, etc. ..</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Milliet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spectrom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">475</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+									<surname>Audier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Bouchoux</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Milliet</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">382</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Milliet</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">15</biblScope>
+								<biblScope type="pp">477</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Sozzi</surname>
+								</persName>
+							</author>
+						</monogr>
+						<note>Soumis. pour publication</note>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Hammerum</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="issue">157</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Hammerum</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">B</forename>
+									<surname>Christensen</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Egsgaard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Larsen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">F</forename>
+									<surname>Donchi</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spectrom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">351</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<monogr>
+							<title level="m" type="main">Mass Spectrom</title>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+									<surname>Audier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Denhez</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<biblScope type="pp">131</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">E</forename>
+									<surname>Audier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Milliet</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<surname>Sozzi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Denhez</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</monogr>
+						<note>Mass. Spectrom. Sous presse</note>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<monogr>
+							<title level="m" type="main">Metastable ions</title>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+									<surname>Cooks</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Beynon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>Elsevier</publisher>
+								<biblScope type="pp">257</biblScope>
+								<pubPlace>Amsterdam</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Hammerum</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">J</forename>
+									<surname>Derrick</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spectrom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">47</biblScope>
+								<biblScope type="pp">347</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">P</forename>
+									<surname>Lossing</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Maccoll</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">2228</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Harrison</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">P</forename>
+									<surname>Dymerski</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">703</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">G</forename>
+									<surname>Harrison</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">1813</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<surname>Harrison</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">9th International Mass Spec-trometry Conference</title>
+							<meeting>
+								<address>Vienna (Austria</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Yamamoto</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<surname>Takeuchi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Nishimoto</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spectrom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">46</biblScope>
+								<biblScope type="pp">239</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">N</forename>
+									<surname>Witiak</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">13</biblScope>
+								<biblScope type="pp">499</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">H</forename>
+									<surname>Hemberger</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">C</forename>
+									<surname>Kleingeld</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Levsen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Mainzer</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Mandelbaum</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">M M</forename>
+									<surname>Nibbering</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Schwarz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Weber</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Wesdemiotis</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">102</biblScope>
+								<biblScope type="pp">3736</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">M. M. Nibbering</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Adv. Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">1287</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Holmes</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">P</forename>
+									<surname>Lossing</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">BURGERS. 9th International Mass Spectrometry Conference</title>
+							<meeting>
+								<address>Vienna (Aus-tria</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+									<surname>Burgers</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Holmes</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Mass Spectrom</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">369</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+									<surname>Terlouw</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Dijkstra</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spec-938 CAN. J. CHEM. trom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="issue">47</biblScope>
+								<biblScope type="pp">147</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Holmes</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">P</forename>
+									<surname>Lossing</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">C</forename>
+									<surname>Burgers</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">104</biblScope>
+								<biblScope type="pp">2931</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M</forename>
+									<surname>Rosenstock</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Draxl</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">T</forename>
+									<surname>Herron</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem. Ref. Data</title>
+							<imprint>
+								<biblScope type="issue">6</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<monogr>
+							<title level="m" type="main">Mass Spectrom</title>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+									<surname>Bouma</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Radom</forename>
+									<surname>Org</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1983"/>
+								<biblScope type="pp">12</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">W</forename>
+									<surname>Benson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="middle">J</forename>
+									<surname>Thermochemical Kinetics</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Wiley</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1968"/>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<monogr>
+							<title level="m" type="main">Mass Spectrom</title>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">H</forename>
+									<surname>Lin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Org</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1974"/>
+								<biblScope type="pp">1194</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Franklin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Mass Spectrom. Ion Phys</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">85</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+									<surname>Kerr</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Rev</title>
+							<imprint>
+								<biblScope type="vol">66</biblScope>
+								<biblScope type="pp">465</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

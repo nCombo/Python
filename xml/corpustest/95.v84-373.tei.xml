@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Propriétés nucléophiles des phosphoranures</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">B</forename>
+								<surname>Garrigues</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">E.R.A. N" 926</orgName>
+								<orgName type="institution">Université Paul Sabatier</orgName>
+								<address>
+									<addrLine>118 route de Narbonne</addrLine>
+									<postCode>31062</postCode>
+									<settlement>Toulouse Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">A</forename>
+								<surname>Munoz</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">E.R.A. N" 926</orgName>
+								<orgName type="institution">Université Paul Sabatier</orgName>
+								<address>
+									<addrLine>118 route de Narbonne</addrLine>
+									<postCode>31062</postCode>
+									<settlement>Toulouse Cédex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Propriétés nucléophiles des phosphoranures</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">62</biblScope>
+							<biblScope type="fpage">2179</biblScope>
+							<date type="published" when="1984">1984</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les phosphoranures formés par action des bases sur des phosphoranes à liaison P—H contenant les ligands a hydroxyacide, a aminoacide ou acide iminodiacétique, réagissent avec des électrophiles comme les halogénures d'alcoyle, l'azoture de phényle, le disulfure de carbone, les orthoquinones ou les cétoacides. Ces réactions ont permis de préparer des phosphoranes et des composés à phosphore hexacoordonné nouveaux.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The reaction of various bases with P—H bond-containing phosphoranes bearing a-hydroxy acid, a-aminoacid, or im-inodiacetic acid ligands leads to the formation of phosphoronates which react with electrophiles such as alkyl halides, phenyl azide, carbon disulfide, orthoquinones, or keto-acids. New phosphoranes and hexacoordinated phosphorus compounds could thus be prepared. </p>
+			</div>
+		</front>
+		<body>
+			<div type="section" n="I">
+				<head>Introduction</head>
+				<p>Dans un travail précédent (1), nous avons identifié par rmn, la base conjuguée des phosphoranes 1, 2 et 3, en traitant ces composés par la trié thy lamine. Leur déprotonation conduit au phosphite 1' seul dans le cas des premiers, à un équilibre entre le phosphoranure 2" et le phosphite 2' dans celui des seconds et au phosphoranure 3" seul en ce qui concerne le troisième. Quant au phosphorane 4, il ne réagit pas avec la triéthylamine.</p>
+				<p>Il est important de souligner que les composés 1-4 ne présentent pas, en solution, et au regard de la rmn, l'équilibre tautomère phosphite ^ phosphorane à l'exception des premiers termes non substitués 1 a et la (R = R' = H) (1, 2). Ces résultats nous inclinent à prendre en considération, pour les composés 2 et 3, le phosphoranure 2" et 3" comme entité réactive vis-à-vis des électrophiles, plutôt que les formes phosphites tautomères. Ce choix parait d'autant plus justifié que les phosphites contenant le motif dioxaphospholane sont peu nucléophiles et manifestent même des propriétés d'électrophiles (3). Nous montrerons, d'ailleurs, sur quelques exemples de réactions entre des phosphoranes et des électrophiles que l'espèce réactive est bien le phosphoranure et non les phosphite.</p>
+				<p>Déjà en 1975, <ref type="bibr">P. Savignac et al. (4)</ref>ont postulé l'intervention du phosphoranure et non du phosphite lors de la réaction d'iodures d'alcoyle sur un spirophosphorane, traité au préalable par des bases fortes. Nous avons entrepris une étude systématique de la réactivité des phosphoranures, bases conjuguées des phosphoranes 2 et 3, vis-à-vis d'électrophiles variés: halogénures d'alcoyle, azoture de phényle, disulfure de carbone, orthoquinones et cétoacides. Les phosphoranures ont été formés en traitant par la tri-éthylamine les phosphoranes. Nous avons mené des essais parallèles en metant en contact ces derniers avec les électrophiles , en l'absence de base. Nous avons également étudié l'action de l'iodure de méthyle en présence de bases, sur les spirophosphoranes 1 et 4, dont les phosphoranures n'on pas été identifiés (1).</p>
+			</div>
+			<div type="section" n="II">
+				<head>Résultats et discussion</head>
+				<div type="section" n="1">
+					<head>Action des phosphoranures sur les halogénures</head>
+					<p>(a) Réaction du phosphorane 4 avec l'iodure de méthyle en présence d'hydrure de sodium</p>
+					<p>Nous avons opéré de trois façons différentes: (/) addition simultanée, à une solution de phosphorane 4 dans le DMF, de l'iodure de méthyle et de l'hydrure de sodium. Le spectre de rmn de 31 P montre la disparition du doublet P—H du composé 4 et l'apparition d'un quadruplet correspondant à un phosphorane à liaison P—CH 3 . (ii) Addition de l'iodure de méthyle seul au spirophosphorane 4: aucune réaction n'est observée au bout de 24 h. En ajoutant alors l'hydrure, on obtient quantitativement le même phosphorane à liaison P—CH 3 . (iii) Si on inverse l'ordre d'introduction des réactifs, le résultat est différent: l'action de HNa sur le composé 4 conduit à l'amidosphosphite 4' qui a été isolé (Schéma 1). Un résultat comparable a déjà été décrit pour un phosphorane contenant deux restes pinacol (4). Le composé 4' réagit avec l'iodure de méthyle en donnant un mélange complexe de composés du phosphore tétracoordonné.</p>
+					<p>Le phosphorane à liaison P—CH 3 5 a été isolé complexé à 0,4 molécules d'iodure de sodium. Ce dernier a été éliminé par passage sur de l'alumine activée (voir partie expérimentale). Les résultats précédents excluent l'amidophosphite 4' comme entité réactive dans la formation du phosphorane 5. En fait, le produit cinétique de la réaction de HNa sur le phosphorane 4 doit être le phosphoranure 4", qui, en présence d'iodure de méthyle, conduit au composé 5. En l'absence de ce réactif, il se transforme en amidophosphite 4' qui est l'entité thermodynamiquement stable (Schéma 1).</p>
+					<p>(b) Action des phosphoranes 1-3 sur les halogénures d'alcoyle en présence de triéthylamine</p>
+					<p>La réaction de l'iodure de méthyle sur le sel de diéthylammonium des phosphites 1' régénère les phosphoranes 1. Le même résultat est observé quand on ajoute un excès d'iodure au mélange 1 d (R = CH 3 ) + Et 3 N ou le (R = C 6 H 5 ) + Et 3 N. Ces réactions confirment le faible caractère nucléophile de l'atome de phosphore des phosphites 1', possédant le motif dioxaphospholane , préalablement souligné par Hudson et Brown (3). En fait, c'est l'atome d'azote de la base, en équilibre avec son cation ammonium, qui attaque le groupement méthyle (schéma 2).</p>
+					<p>L'action d'un excès d'iodure de méthyle sur les mélanges phosphoranes 2 + base (Et 3 N, DBU, HNa) ne régénère pas, comme précédemment, le phosphorane 2. Dans tous les cas essayés, nous avons observé la formation du phosphorane à liaison P—CH 3 6 que nous avons isolé en partant du phosphorane le (R = R' = C 6 H 5 ). Ce résultat montre encore que l'entité réactive est l'ion phosphoranure 2" et non le phosphite 2' (schéma 3). Le phosphoranure 3" est moins réactif que ses homologues 2": la formation du phosphorane à liaison P—CH 3 n'est pas observée, comme dans le cas des composés 2, immédiatement après l'addition de CH 3 —I. Cependant, en remplaçant ce dernier par le bromure de benzyle, nous avons préparé, avec un bond rendement, le phosphorane 7 (schéma 4).</p>
+				</div>
+				<div type="section" n="2">
+					<head>Action des phosphoranures sur l'azoture de phényle </head>
+					<p>On sait que les phosphoranes réagissent sur les azotures organiques pour conduire, après élimination d'azote, à des aminophosphoranes. Cette réaction est facile quand le phosphorane est en équilibre avec sa forme à phosphore tricoordonné tautomère (5).</p>
+					<p>Dans le cas où cette dernière n'est pas décelable à la température ambiante, la réaction n'a lieu qu'à température élevée (5). Les phosphoranes Id ou 3 ne réagissent pas sur l'azoture de phényle, à la température ambiante. En revanche, avec leurs phosphoranures de triéthylammonium, il se produit un dégagement immédiat d'azote. Le spectre de rmn de 3I P du mélange réactionnel montre que les phosphoranes Id et 3 ont été transformés quantitativement en composés du phosphore pentacoordonné dépourvus de liaison P—H, 8 et 9, que nous avons isolés (schéma 5).</p>
+					<p>Nous pouvons proposer l'attaque du site déficient en électrons de l'azoture par le phosphoranure, suivie de la décomposition du produit intermédiaire, avec élimination d'azote, et de la formation d'un anion amidure, lequel, protoné donne finalement l'aminophosphorane 8 ou 9 (schéma 5).</p>
+				</div>
+				<div type="section" n="3">
+					<head>Action des phosphoranures sur le disulfure de carbone</head>
+					<p>Le disulfure de carbone réagit avec de nombreux composés à phosphore tricoordonné pour donner, soit des composés d'addition (6), soit d'insertion, lorsque les substrats phosphorés contiennent des liaisons P—N (7). Des réactions d'insertion sont également connues, dans le cas de phosphoranes à liaison P—N. Dans ces derniers composés l'atome de phosphore atteint l'hexacoordination par retour d'un atome de soufre (8). Cependant, aucune réaction d'addition entre un phosphorane et le disulfure de carbone n'a encore été décrite, à notre connaissance.</p>
+					<p>Les phosphoranures de triéthylammonium l"d (R = R' = CH 3 ) et 3" réagissent immédiatement et à la température ambiante , sur le disulfure de carbone. Nous avons isolé des substances cristallines fortement colorées. Dans le cas du phosphoranure l"d (R = R' = CH 3 ) nous en avons déterminé la structure par diffraction de rayons X. Nous avons affaire au sel de triéthylammonium d'un dithiophosphorane 10 (9). Cette structure est confirmée en solution, par les spectres de rmn ( 3I P et 'H). A partir du phosphoranure 3", nous avons obtenu le phosphorane homologue 11 (schéma 6). Comme dans le cas de l'azoture de phényle, aucune réaction n'est observée entre les phosphoranes Id, 3 et le disulfure de carbone. Nous pouvons encore postuler une attaque du site électrophile, en l'occurrence l'atome de carbone du disulfure, par le doublet du phosphoranure (schéma 6).</p>
+				</div>
+				<div type="section" n="4">
+					<head>Action des phosphoranures 2" sur les composés carbonylés: ditertiobutylorthoquinone et acide benzoylformique</head>
+					<p>Les réactions des a dicétones ou orthoquinones et des  cétoacides avec les composés du phosphore tricoordonné, ont été abondamment étudiées (10, 11). La formation de phosphoranes qui en découle a été expliquée par des processus ayant comme point de départ l'attaque du doublet de l'atome de phosphore tricoordonné sur l'atome de carbone électrophile d'un groupement carbonylé (10, 11). La forme phosphite tautomère des phosphoranes à liaison P—H, peut également réagir avec les a dicétones pour donner un 7 hydroxyphosphorane, capable de se transformer en présence de bases, en composé du phosphore hexacoordonné (12). Cependant, de telles réactions peuvent également se produire même quand l'équilibre phosphite ^ phosphorane n'est pas décelable à température relativement élevée. Ainsi le phosphorane 2d et la ditertiobutylorthoquinone réagissent, au bout de 12 h pour donner naissance au 7 hydroxyphosphorane 12 (schéma 7). Sa structure est bien démontrée par son ô 31 P (-44), très proche de celui de composé isologue 14 (13). En milieu basique (DMF, DMSO, solvant neutre + un équivalent de Et 3 N), le composé 12 se transforme quantitativement d'après la rmn de 3I P, en composé du phosphore hexacoordonné 13.</p>
+					<p>Ce dernier peut être obtenu directement et de façon instantanée , en mélangeant le phosphorane et la quinone en présence de triéthylamine.</p>
+					<p>Ces résultats peuvent s'interpréter par des schémas classiques à partir de la forme à phosphore tricoordonné 2'd, aussi bien par voie ionique (mécanisme proposé par Ogata et Yamashita (10)) que par voie radicalaire ( <ref type="bibr">Boekenstein et al. (14)</ref>). Cependant, nous pouvons également proposer un processus inspiré des schémas ioniques d ' Ogata , faisant intervenir le phosphoranure (schéma 7 ) , sans oublier toutefois que des entités radicalaires peuvent également jouer un rôle .</p>
+					<p>L ' action des cétoacides sur les spirophosphoranes à liaison P—H , contrairement aux réactions avec les orthoquinones , n ' a pas encore été décrite , à notre connaissance . Nous exposons , dans ce dans ce travail, des résultats préliminaires observés lors de la réaction entre le phosphorane 2d et l'acide benzoylformique.</p>
+					<p>On sait que les composés à phosphore tricoordonné (phosphites, phosphonites) contenant le motif Éoxaphospholane réagissent avec les cétoacides. Le composé principal de la réaction est un spirophosphorane contenant lécligand a hydroxyacide résultant de la réduction de la fonctioff cétone en fonction alcool (11).</p>
+					<p>Les spirophosphoranes 2 ne réagissent pas à la température ambiante et sur une durée de plusieurs heures , sur l ' acide benzoylformique . Cependant , en présence de triéthylamine qui entraîne la formation du phosphoranure 2 " on observe une réaction légèrement exothermique . Ainsi , avec le phosphoranure 2 " d , R = R ' = CH 3 , on observe la formation de composés dont le ô 31 P correspond à des entités du phosphore hexacoordonné ( - 108 &lt; ô 3l P &lt; - 102 ) . Stables en solution ( le spectre de rmn 31 P reste inchangé pendant plusieurs jours ) , ils se dégradent dès qu ' ils sont isolés . Leur spectre de rmn de ' H présente un multiplet à 8 = 5 , 4 attribuable à des protons CH—C 6 H 5.</p>
+					<p>La présence de ces signaux montre que la fonction cétonique a été réduite en fonction alcool et que le ligand cétoacide a été transformé en reste acide mandélique . Compte tenu de la valeur absolue élevée des ô 3 ' P , nous pouvons alors proposer la structure 15 ( schéma 8 ) , qui est confirmée par les intensités relatives des différents signaux de rmn ' H . La multiplicité des signaux de rmn 3I P ainsi que celle des pics des protons CH—C 6 H 5 et C—CH 3 , s ' explique par l ' existence possible de nombreux diastéréoisoméres.</p>
+					<p>La formation des composés 15 peut encore s ' expliquer par l ' attaque de l ' atome de carbone électrophile de la fonction cétone de l ' acide benzoylformique par le phosphoranure , suivie de réactions de réarrangement aboutissant finalement à la création de la fonction ester phosphorique P—O—CH—Ph ( schéma 8 ) . On peut remarquer que dans le benzène , la triéthylamine et l ' ion benzoylformate ont une basicité comparable . Par conséquent le proton lié au phosphore peut être arraché par l ' une ou l ' autre des deux bases , d ' où le schéma 8.</p>
+				</div>
+			</div>
+			<div type="section" n="III">
+				<head>Conclusion</head>
+				<p>Jusqu ' à ce jour , la réactivité des phosphoranes à liaison P—H a été envisagée , d ' une façon générale , uniquement à travers l ' intervention des formes à phosphore tricoordonné tautomères . Les résultats exposés dans ce travail montrent qu ' il convient de prendre également en considération les phosphoranures.</p>
+				<p>Nous avons démontré que dans les réactions entre les phosphoranes 2 - 4 et les halogénures d ' alcoyle , en présence de bases , les phosphoranures correspondants étaient les seules ehtités phosphorées réactives . Dans tous les autres cas étudiés nous pouvons affirmer que l ' intervention exclusive de ces derniers est très probable . Les réactions ainsi étudiées nous ont permis d ' accéder à des phosphoranes originaux difficiles à préparer par des méthodes plus classiques. C'est le cas, notamment des phosphoranes 5 et 6 qui n'ont pas été obtenus à partir des réactions mises au point pour les pyrocatéchols, les diols et les éthanolamines (schéma 9) (15).</p>
+				<p>De même, les composés à phosphore hexacoordonné 15 n'ont pas été isolés par réaction directe d'à hydroxyacides sur le pentacholorure de phosphore alors que la condensation de pyrocatéchols (12b) ou d'acides benzhydroxamiques (16) sur le même substrat conduit assez facilement aux composés à phosphore hexacoordonné correspondants.
+Quant aux phosphoranes isolés à partir du disulfure de carbone, ils représentent des exemples intéressants d'activation de ce dernier par les phosphoranures.</p>
+				<p>Ces résultats laissent entrevoir une utilisation systématique de ces composés comparable à celle des phosphines dont ils se rapprochent par leurs propriétés nucléophiles.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<p>Les analyses élémentaires ont été effectuées dans le service central d ' analyse du CNRS ( BP 22 69390 Vernaison).</p>
+				<p>Les spectres de rmn 3I P ont été enregistrés sur un appareil Perkin-Elmer R32 à transformée de Fourier ( 36 , 433 MHz ) . Les déplacements chimiques ont été comptés négativement à champ fort par rapport au signal de l ' acide phosphorique pris comme référence . Les spectres de rmn ' H ont été enregistrés sur un appareil Varian T60 ( 60 MHz ) ou Perkin-Elmer R24 (60 MHz).</p>
+				<p>1 . Action de HNa sur le phosphorane 4 : préparation du composé 4 ' La préparation du phosphorane 4 a été décrite ( 17 ) ; 1 , 93 g de phosphorane 4 ( 0 , 01 mol ) sont dissous dans 5 mL de DMF ; 1 , 2 g de HNa ( 0 , 05 mol ) sont ajoutés en une seule fois : un fort dégagement gazeux est observé . Le volume de gaz recueilli , 220 mL , correspond environ à 0 , 01 mol d ' hydrogène . Oh ' maintient sous agitation pendant 30 min . L ' excès d ' hydrure est filtré . ! Le filtrat présente en rmn de 3 ' P un seul pic à 8 +135 . Il est repris par 50 mL d ' éther : un précipité blanc laiteux se forme que l ' on centrifuge , lave à l ' éther et sèche sous 10~ 2</p>
+				<p>Torr ( 1 Torr = 133 . 3 Pa ) . On obtient une poudre blanche soluble seulement dans le DMSO . Anal . calc . pour C 6 H n N Na0 4 P : C 33 , 52 , H 5 , 16 , N 6 , 52 , Na 10 , 69 , P 14 , 43 ; tr . : C 33 , 04 , H 5 , 20 , N 6 , 50 , Na 10 , 70 , P 14 , 07% . 2 . Action de CH_ , I sur le phosphorane 2e ( R = R ' = Ph ) en présence de triéthylamine A 0 , 01 mol ( 4 , 54 g ) du phosphorane 2e ( R = R ' = C 6 H 5 ) on ajoute dans 10 cm 3 de DMF à la température ambiante , 0 , 04 mol ( 4 , 04 g ) de triéthylamine . La réaction est instantanée. Un large excès d ' éther entraîne la formation d ' un précipité blanc qui est lavé plusieurs fois à l ' éther . Le rendement est quantitatif . A 5 , 85 g ( 0 , 01 mol ) de sel de triéthylammonium du mélange 2 ' e , 2 " e ( R = R ' = C 6 H 5 ) en équilibre , dispersés dans 20 mL de THF , on ajoute 4 , 26 g de CH 3 I ( 0 , 03 mol ) . Un précipité d ' iodure de tri-éthylammonium se forme qui est filtré . Le filtrat , repris par 20 mL d ' hexane laisse déposer un précipité qui est filtré , redissous dans le THF , puis passé à travers une couche de silice . L ' éluant , débarrassé du solvant sous 12 Torr abandonne une poudre blanche qui est le composé 6 pur ; rmn de 3I P 5 : - 24 ( sol . THF ) ; rmn ' H ( DMSO - d 6 , TMS , 60 MHz ) : 2 , 1 ( 3H , d , 2 J h - C - P = 18 Hz , CH , —P ) . Anal . calc . pour C 29 H 23 0 6 P : C 69 , 94 , H 4 , 66 , P 6 , 23 ; tr . : C 70 , 8 , H 5 , 28 , P 6 , 19% .</p>
+				<p>3 . Action de Ph—CH 2 —Br sur le phosphorane 3 en présence de Et_ , N</p>
+				<p>Préparation du composé 7 : 1 , 2 g de composé 3 ( 0 , 005 mol ) sont dissous dans 5 mL de DMF ; 1 , 01 g de Et 3 N ( 0 , 01 mol ) sont ajoutés , puis 1 , 4 g de bromure de benzyle ( 0 , 005 mol ) . Il se forme un précipité blanc de bromure de triéthylammonium . On filtre , lave à l ' éther . Le filtrat est repris par 20 mL d ' eau froide : un précipité se forme que l ' on filtre , lave à l ' eau puis à l ' éther et sèche sous 10~ 2 Torr ; Rdt : 80% ; rmn 3I P ô : - 31 ( sol . DMF ) ; rmn ' H ( CDC1 3 , TMS , 60 MHz ) : 8 et 7 , 3 ( 10H , m , C6tf5 ) , 3 , 7 ( d , 2 JH - C - P = 11 HZ , CH2—P ) , 3 , 3 ( 2q , parties AB d ' un système ABX , X étant l ' atome de phosphore , formé par les protons CH 2 —N—P , J AB = 15 Hz ) . L ' ensemble de l ' intensité des protons CH 2 représente 6 protons conformément à la structure 7 . Anal . calc . pour C . TH^NOÎP : C 62 , 00 , H 4 , 86 , N 4 , 25 , P 9 , 42 ; tr . : C 61 , 98 , H 4 , 91 , N 4 , 22 , P 9 , 36% . 4 .</p>
+				<p>Action de CH_ , I sur le phosphorane 4 en présence de HNa</p>
+				<p>Préparation du phosphorane 5 : 1 , 93 g de composé 4 ( 0 , 01 mol ) sont dissous dans 10 mL de THF ; 7 , 1g d ' iodure de méthyle ( 0 , 05 mol ) sont introduits , suivis de 1 , 2 g d ' hydrure de sodium ( 0 , 05 mol ) . Un fort dégagement gazeux se produit . Le volume de gaz , recueilli dans une éprouvette est de 220 mL . La solution est maintenue sous agitation pendant 1 h . L ' iodure de sodium formé et l ' excès d ' hydrure sont éliminés par centrifugation . Le filtrat est concentré sous pression réduite ; rmn de 3I P ( sol . THF ) ô : - 24 . On reprend par 50 mL d ' hexane : une poudre précipite qui est filtrée , lavée à l ' hexane et séchée ; rmn ' H ( DMSO - D6 , TMS , 60 MHz ) : 5 , 33 ( 1H , d , 2 JH - N - P = 19 , 5 Hz , P—N H— ) , 3 , 3 ( 4H , m , CH 2 —O— ) , 1 , 63 ( 3H , d , 2 J H —c—p = 18 Hz , CH , —P ) , 1 , 27 ( 6H , s , C—C H , ) . Ce spectre correspond bien au composé 6 . Cependant des quantités non négligeables d ' iodure de sodium restent retenues ( test de détection de l ' ion iodure largement positif ) - L ' analyse élémentaire correspond à 6 + 0 , 4 Nal .</p>
+				<p>La spectrographie de masse par désorption de champ permet de mettre en évidence les cations M + , M + Na + , 2M + Na + . Ces résultats peuvent s ' expliquer par la complexation du phosphorane et de l ' iodure probablement au niveau du groupement carbonyle ou au niveau de l ' atome de phosphore . Des phénomènes comparables ont été observés pour les adduits Nal , 3 DMF ( 18 ) et entre l ' ion Al 3+ et des composés organophosphorés ( 19 ) . La poudre est soluble dans CH 2 C1 2 . L ' iodure a été éliminé par passage de la solution à travers une colonne d ' alumine Merck 1077 activée par chauffage à + 149°C , pendant 3 h . L ' éluant , débarrassé du solvant sous pression réduite fournit directement le composé 5 pur sous la forme de cristaux blancs . Anal . calc . pour C7H14NO4P : C 40 , 61 , H 6 , 82 , N 6 , 77 , P 14 , 99 ; tr . : C 40 , 33 , H 6 , 75 , N 6 , 76 , P 14 , 09% . II . Action de l ' azoture de phényle sur les composés 2d et 3 Les composés 2d ou 3 ( 0 , 0025 mol ) sont dissous dans 10 mL de CH 2 C1 2 ; 0 , 25 g d ' azoture de phényle ( 0 , 0025 mol ) sont ajoutés . Aucun échauffement ni dégagement gazeux n ' est observé . Le spectre de rmn de 3I P des solutions , 2 h plus tard présente seulement les signaux des phosphoranes 2d et 3 . On ajoute alors 0 , 25 g de Et 3 N ( 0 , 0025 mol ) . Il se produit un dégagement gazeux abondant et un léger échauffement . On concentre sous pression réduite ; rmn de 31 P ( CH 2 C1 2 ) Ô : - 50 , 2 ( peu intense ) , - 58 , 3 ( très intense ) , pour 2d et Ô : +35 , 7 , + 17 , 6 , +4 , 2 ( très peu intenses ) et - 50 , 8 ( très intense ) , pour 3 .</p>
+				<p>On porte le volume de la solution à 10 mL de CH 2 C1 2 , puis on ajoute 10 mL d ' hexane : il se forme un trouble . On laisse à - 20°C pendant 4 h . Des menus cristaux sont décantés , lavés à l ' hexane et séchés ; Rdt : 30% ; rmn de 3I P ( CDC1 3 ) ô : - 57 , 6 ; rmn ' H ( CDC1 3 , TMS , 60 MHz ) : 7 , 3 ( 5H , m , C6H5 ) , 5 , 4 ( 1H , d , 3 JH - N - P = 13 Hz , P—N H ) , 1 , 6 ( 12H , d , J = 4 Hz , C—CH , ) . Anal . calc . pour C , 4 H l8 N0 6 P : C 51 , 37 , H 5 , 50 , N 4 , 28 , P 9 , 44 ; tr . : C 50 , 77 , H 5 , 46 , N 4 , 28 , P 9 , 51% .</p>
+				<p>Le volume de la solution est porté à 20 mL . On ajoute 30 mL d ' éther . Une huile dorée précipite . On laisse à - 20°C pendant 16 h . On décante , lave à l ' éther et sèche . Un solide jaune-clair est obtenu , qui , séché sous 10~ 2 Torr , se transforme en une poudre ocre clair . Celle-ci est dissoute dans 10 mL de CH 2 C1 2 et reprise par 1 mL d ' éther : une huile orangée précipite qui est décantée immédiatement . On rajoute 2 mL d ' éther au filtrat : un peu d ' huile précipite encore que l ' on décante . Le filtrat est laissé à —20°C pendant 4 h . Des micro-cristaux se forment que l ' on décante , lave à l ' éther et sèche ; Rdt : 40% ; rmn de 3I P ( CDC1 3 ) ô : - 50 , 8 ; rmn ' H ( CDC1 3 , TMS , 60 MHz ) : 7 , 7 , 7 , 4 , 7 , 2 ( 10H , m , C6H5 ) , 5 , 3 ( 1H , d , VH - N - P = 14 Hz , NH—P ) ,</p>
+				<p>3 , 9 ( 4H , d , JH - C - N - P = 12 Hz , CH 2 —CO— ) . Anal . calc . pour C I6 H 15 N0 4 P : C 58 , 18 , H 4 , 54 , N 8 , 48 , P 9 , 39 ; tr . : C 58 , 30 , H 4 , 70 , N 8 , 20 , P 8 , 82% . III . Action du disulfure de carbone sur les phosphoranes 2à et 3</p>
+				<p>Préparation des composés 10 et 11</p>
+				<p>La préparation du composé d ' addition 10 entre 2d et CS 2 , en présence de Et 3 N a été décrite ( 9 ) . Isolement du composé 11 Phosphorane 3 ( 0 , 6 g ; 0 , 0025 mol ) est dissous dans 4 mL de CH 2 C1 2 ; 0 , 8 g de disulfure de carbone ( 0 , 01 mol ) sont ajoutés . Le spectre de rmn de 3I P de la solution enregistré 3 h plus tard présente uniquement le doublet P—H du composé 3 ; 0 , 25 g de Et 3 N ( 0 , 0025 mol ) sont alors ajoutés . Un léger échauffement se produit . La solution se colore rapidement en orangé intense ; rmn de 3 ' P ô : - 21 , +11 , +3 , 4 ( très peu intense ) , —45 , 8 ( très intense ) . On reprend par 30 mL d ' éther : une huile orangée précipite qu ' on laisse à - 20°C pendant 2 h . On décante , lave à l ' éther et sèche . On obtient une masse orangée visqueuse qui est redissoute dans 10 mL de CH 2 C1 2 puis reprise par 10 mL d ' éther . Une huile orangée précipite . On laisse pendant quelques heures à la température ambiante . On décante , lave à l ' éther et sèche . Une poudre orangée et hygroscopique est finalement obtenue ; Rdt : 50% ; rmn de 3I P ô : - 46 ( sol . CH 2 C1 2 ) ; rmn ' H ( CDC1 3 , TMS , 60 MHz ) : 8 et 7 , 6 ( 5H , m , C 6 H 5 ) , 3 , 8 ( 4H , 5 raies , N—CH - &gt;—CO— ) , 3 , 1 ( 6H , q , JH - C - C - H = 7 Hz , N—CH2— ) , 1 , 2 ( 9H , t , JH - C - C - H = 7 Hz , N—CH 2 —CH , ).</p>
+				<p>IV . Action de la ditertiobutylorthoquinone sur le phosphorane 2d</p>
+				<p>Préparation du composé 12</p>
+				<p>On dissout 2 , 4 g de phosphorane 2d dans 10 mL de THF ; 2 , 2 g de ditertiobutylorthoquinone ( 0 , 01 mol ) , dissous dans 10 mL de THF sont ajoutés , à la température ambiante ; rmn de 3I P après 12 h , ô : —45 . La solution est reprise par 20 mL d ' hexane : une huile brune précipite qu ' on laisse déposer pendant 12 h à - 20°C . Elle est ensuite décantée , lavée à l ' hexane et séchée . Une poudre brune est ainsi finalement obtenue ; PF : 128°C ; ir ( pastille KBr ) , v c=0 : 1725 et 1795 cm " 1 ; rmn de 3I P ( CH 2 C1 2 ) 6 : - 45 ; rmn de ' H ( CDC1 3 , TMS , 60 MHz ) : 9 , 7 ( 1H , s , OH ) , 7 ( 2H , s , C 6 H , ) , 1 , 4 - 1 , 7 ( 30H , m , ; Bu et C ( C Hih ) . Masse moléculaire : nous l ' avons déterminée par cryoscopie dans le DMSO . Dans ce solvant , il faut prendre en compte les deux espèces chimiques anion hexacoordonné et H + . . . DMSO qui constituent le composé à phosphore hexacoordonné 13 . La valeur trouvée est , dans ces conditions , apparente et il est nécessaire de la multiplier par deux pour avoir la masse réelle . PF , DMSO : 18 , 45°C ; K = 4 , 4 K Kg mol " ' . Cette constante a été déterminée en étalonnant le solvant avec la triphénylphosphine et l ' acide phénylphosphinique . Celle est conforme aux valeurs de la littérature ( 20 , 21 ) . Poids de 12 : 80 , 45 mg . Poids de DMSO : 4985 mg . A7 * = 0 , 36°C . M apparente : 200 ; M réelle : 400 ; théorique pour 12 : 456 . Anal . calc . pourC 22 H 33 0 8 P : C 57 , 89 , H 7 , 28 , P 6 , 78 ; tr . : C 55 , 82 , H 7 , 41 , P 6 , 78% . Isolement de 13 ( HB = HNEt&lt; ' ) La réaction est conduite comme pour la préparation du phosphorane 12 . A la solution brute de ce composé dans le THF , on ajoute 1 , 01 g de Et 3 N ( 0 , 01 mol ) . Il se produit un léger échauffement ; rmn de 3I P 5 : —98 ( 60% ) et —100 ( 40% ) . Les deux pics correspondent à deux des huit diastéréoisomères possibles du composé 13 . On reprend par 20 mL d ' hexane : un précipité brun se forme qu ' on laisse déposer quelques heures à la température ambiante . On filtre , lave à l ' hexane et sèche . Une poudre brune est finalement obtenue ; Rdt : 80% ; rmn de 3I P ( THF ) 5 : - 98 ( 60% ) , - 100 ( 40% ) ; rmn ' H ( CDCU , TMS , 60 MHz ) :</p>
+				<p>V . Action de l ' acide benzoylformique sur le spirophosphorane 2d</p>
+				<p>Deux solutions sont préparées en dissolvant 1 , 18 g de phosphorane 2d ( 0 , 005 mol ) et 0 , 75 g de Ph—CO—COOH ( 0 , 005 mol ) dans 10 mL de benzène . A l ' une des deux , on ajoute 0 , 5 g de Et 3 N ( 0 , 005 mol ) . Un échauffement sensible se produit . On refroidit dans la glace .</p>
+				<p>On laisse pendant 20 h à la température ambiante ; rmn 31 P 5 : — 2 , J P — H = 630 Hz , - 1 ( 10% ) , - 104 , 3 ( 20% ) , - 105 , 4 ( 45% ) , - 107 , 2 ( 15% ) , - 108 ( 10% ) . Le benzène est chassé sous 10~ 2 Torr . 11 reste une substance résineuse légèrement ambrée ; rmn ' H ( 60 MHz , C 6 D 6 , TMS ) : 8 , 7 ( s , 1H , NH + ) , 7 et 7 , 5 ( m , 5H , C e , / / , ) , 5 , 4 ( m , 1H , CH—C 6 H 5 ) , 2 , 6 ( q , 6H , N—CH 2 , J = 1 Hz ) , 1 , 6 ( m , 12H , C—CH , ) , 0 , 85 ( t , 9H , N—CH 2 C / / 3 , J = 1 Hz ) . Ce spectre correspond aux composés 15 . Essai de purification : la substance précédente est dissoute dans 10 mL de CH 2 C1 2 puis reprécipitée par 20 mL d ' éther . Une huile précipite que l ' on décante . Le filtrat , débarrassé du solvant , abandonne une huile épaisse . Les spectres rmn 31 P des deux fractions ainsi obtenues sont à peu près les mêmes que celui du produit de départ . Cependant , la quantité de phosphonate à liaison P—H est plus importante ( entre 10 et 30% ) . Les composés 15 se détériorent . Le spectre du produit brut en solution dans le benzène demeure inchangé pendant plusieurs jours . Spectre rmn 3I P de l ' essai en l ' absence de triéthylamine : ô —48 , Jp— H = 934 Hz ( phosphorane 2d de départ ) . Il reste inchangé après une semaine à la température ambiante . Deux autres essais ont été effectués avec les mêmes quantités de réactifs , en remplaçant le benzène par le chlorure de méthylène ; rmn de 31 P ( après 20 h de réaction ) ô : +2 , - 0 , 5 , - 6 , - 8 ( 10% ) , - 48 , JP_H = 934 Hz ( 15% ) , - 101 , 7 ( 15% ) - 102 , 6 ( 45% ) , - 103 , 5 ( 7% ) , - 106 , 2 ( 8% ) .</p>
+				<p>Un fractionnement par redissolution dans CH 2 C1 2 et reprécipitation par l ' éther ou l ' hexane conduit à deux fractions dont les spectres de rmn 31 P sont comparables à celui du produit brut . Ce dernier reste stable en solution et s ' altère assez rapidement une fois isolé (augmentation sensible du taux des phosphonates à liaison P—H ) . Le spectre de rmn de 31 P des mélanges ( 2d + PhCOCOOH ) dans CH 2 C1 2 présente le doublet P—H du phosphorane de départ ( ô 3 ' P : - 48 , y P _ H = 934 Hz ) . Vingt jours plus tard , ce doublet reste majo - ritaire . On note la présence de signaux larges à ô + 7 , Jp—H = 727 Hz .</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Garrigues</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">2170</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Sanchez</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2193</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">ACC. Chem. Res</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="pp">204</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<title level="a" type="main">Or-ganometal</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Savignac</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Richard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<surname>Leroux</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Burgada J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem</title>
+							<imprint>
+								<biblScope type="vol">93</biblScope>
+								<biblScope type="pp">331</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Sanchez</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Brazier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nouv. J. Chim</title>
+							<imprint>
+								<biblScope type="vol">3</biblScope>
+								<biblScope type="pp">775</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Justus Liebigs Ann. Chem</title>
+							<imprint>
+								<biblScope type="vol">1</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1861"/>
+							</imprint>
+						</monogr>
+						<note>Suppl. .</note>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">A</forename>
+									<surname>Jensen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Prakt. Chem</title>
+							<imprint>
+								<biblScope type="vol">148</biblScope>
+								<biblScope type="issue">101</biblScope>
+								<date type="published" when="1937"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H</forename>
+									<surname>Templeton</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">2311</biblScope>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+									<surname>Pudovik</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">K</forename>
+									<surname>Kibardina</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">A</forename>
+									<surname>Aleksandrova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">N</forename>
+									<surname>Pudovick</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Zh. Obshch. Khim. Traduc. Angl</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">23</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<title level="a" type="main">et références incluses</title>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Dahl E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Ruger</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta. Chem. Scand. Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<biblScope type="issue">21</biblScope>
+								<biblScope type="pp">62</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Oertel</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Holtschmidt</forename>
+									<surname>Ber</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1964"/>
+								<biblScope type="pp">891</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Dahl</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta. Chem. Scand</title>
+							<imprint>
+								<biblScope type="vol">24</biblScope>
+								<biblScope type="pp">1179</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Noth</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">96</biblScope>
+								<biblScope type="pp">1308</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Boudjebel</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Mathis</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1671</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">G</forename>
+									<surname>Cavell</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Vandegriend</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Inorg. Chem</title>
+							<imprint>
+								<biblScope type="vol">20</biblScope>
+								<biblScope type="pp">3813</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Dubourg</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Roques</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Germain</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Declercq</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Klaébé</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phosphorus Sulfur</title>
+							<imprint>
+								<biblScope type="vol">14</biblScope>
+								<biblScope type="pp">121</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">J</forename>
+									<surname>Yamashita</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">92</biblScope>
+								<biblScope type="pp">4670</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">38</biblScope>
+								<biblScope type="pp">3423</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+						<note>et. références incluses</note>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Saegusa</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Kobayashi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Yokoyama</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">7843</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Koenig</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">182</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Koenig</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Klaébé</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">40</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phosphorus Sulfur</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">47</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Boekestein</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">G</forename>
+									<surname>Voncken</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">M</forename>
+									<surname>Buck</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Reel. Trav. Chim. Pays-Bas</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">69</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Foroughi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="pp">419</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Malavaud</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J. Bar-Rans</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">497</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Z. Anorg. Allg. Chem</title>
+							<imprint>
+								<biblScope type="vol">437</biblScope>
+								<biblScope type="pp">53</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">Ugi</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Res. (S)</title>
+							<imprint>
+								<biblScope type="pp">338</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Garrigues</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Koenig</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Sanchez</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wolf</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">635</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Piret</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Van Murssche</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">205</biblScope>
+								<date type="published" when="1963"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Delpuech</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Khaddar</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Rubini</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">97</biblScope>
+								<biblScope type="pp">3373</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Lamandé</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Koenig R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phosphorus Sulfur</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="pp">71</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">E</forename>
+									<surname>Prue</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Trans. Faraday. Soc</title>
+							<imprint>
+								<biblScope type="vol">64</biblScope>
+								<biblScope type="pp">1206</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Garrigues</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron Lett</title>
+							<imprint>
+								<biblScope type="pp">4205</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Munoz. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci. Paris</title>
+							<imprint>
+								<biblScope type="vol">293</biblScope>
+								<biblScope type="pp">677</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Polymérisation de l'acide molybdique induite par l'acide métatungstique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">P</forename>
+								<surname>Courtin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie des polymères inorganiques</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, place Jussieu, le 17 janvier</addrLine>
+									<postCode>75230, 1985</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">J</forename>
+								<surname>Lefebvre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie des polymères inorganiques</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4, place Jussieu, le 17 janvier</addrLine>
+									<postCode>75230, 1985</postCode>
+									<settlement>Paris Cédex 05</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Polymérisation de l'acide molybdique induite par l'acide métatungstique</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>En solution aqueuse, l'acide métatungstique se décompose très lentement en oxyde tungstique, haut polymère insoluble, et la polymérisation de l'acide molybdique préparé par échange d'ions à partir du molybdate, Na 2 Mo0 4 , est limitée (n = 24). L'addi-tion d'acide métatungstique à l'acide molybdique entraîne la formation relativement rapide de hauts polymères solubles. Ce sont des acides mixtes molybdotungstiques dont la composition dépend de la fraction molaire/= [Mo]/[Mo + W] du mélange. En particulier si 0,80 «/=£ 0,95, la réaction des acides est totale; c'est une méthode pour obtenir des sols très riches en molybdène, puisque le rendement en haut polymère est égal à 80%. La formation de l'acide mixte peut résulter soit de l'interaction directe des deux acides, soit de la décomposition de l'acide métatungstique substitué par le molybdène, formé transitoirement. Durant la polymérisation suivie par ultracentrifugation et échange d'ions, la teneur en Mo et W des acides mixtes ne varie pas.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>In acid media, metatungstic acid very slowly decomposes into tungstic oxide, an insoluble high polymer; under the same conditions, the polymerization of molybdic acid, prepared by ion exchange from the molybdate, Na 2 Mo0 4 , is limited (n = 24). The addition of metatungstic acid to molybdic acid involves the relatively rapid formation of soluble high polymers. These are mixed molybdotungstic acids whose compositions vary according to the molar fraction, /= [Mo]/[Mo + W], of the reaction mixture. When 0.80 /=s 0.95, this reaction is complete: this is a method of obtaining colloids very rich in molybdenum since the yield in high polymer is equal to 80%. The formation of the mixed acid can be due either to the direct interaction of the two acids or to the decomposition of the metatungstic acid, substituted by the molybdenum, which would be formed transiently. As determined by ultracentrifugation and by ion exchanges, the relative proportions of Mo and W in the mixed acids do not vary during the course of the polymerization. </p>
+			</div>
+		</front>
+		<body>
+			<div type="section">
+				<head>Introduction</head>
+				<p>Beaucoup d'oxydes de métaux de transition (W0 3 , V 2 0 5 ) peuvent être obtenus à l'état colloïdal ou de gel; ce sont alors des matériaux aux propriétés intéressantes, qui se prêtent à de nombreuses applications: réalisation de cellules électrochromiques ou de dispositif d'affichage, emploi comme semi-conducteur (1). Les gels tungstiques ou vanadiques sont facilement obtenus suivant une méthode développée au laboratoire (2): préparation d'un acide à partir d'un sel passé sur une résine échangeuse de protons, suivie de la polymérisation de cet acide par élimination de H 2 0 entre deux groupements M—OH voisins. Les gels molybdiques, par contre, ne sont pas obtenus par cette voie parce que la polymérisation de l'acide molybdique formé est limitée. Il est donc nécessaire d'utiliser la préparation de Graham-Murgier (3) qui part de solutions très concentrées.</p>
+				<p>Cependant, un autre moyen d'accéder aux gels molybdiques dans des conditions moins restrictives de concentration pourrait consister à incorporer à l'acide molybdique peu condensé un autre acide pouvant évoluer spontanément vers une forme hautement condensée, par exemple, l'acide tungstique, afin d'induire la formation d'un haut polymère mixte. En effet, des composés mixtes à base de tungstène et de molybdène sont aisément obtenus aussi bien dans le domaine des faibles condensations (hexa-et dodéca-métallates (4)) que dans celui des condensations élevées caractéristiques des gels (5). Le problème est donc de savoir si la texture hautement condensée de l'acide tungstique est susceptible de se maintenir dans le polymère mixte, même lorsqu'il y est présent en faible proportion.</p>
+				<p>Dans ce travail, le tungstène a été introduit dans la solution aqueuse molybdique sous forme d'hétéropolyacide possédant la structure de Keggin (6) de formule générale H (8 _ " ) [X W 12 O 40 ] où n est le degré d'oxydation de l'hétéro-élément X (X = Si, H 2 ). En effet, nous avons observé qu'en solution aqueuse pure, l'un de ces composés faiblement condensés, l'acide métatungstique (X = H 2 ), avait la propriété de se transformer très lentement en acide tungstique très condensé. 3 C'est donc sous cette forme que le tungstène a principalement été introduit dans la solution aqueuse molybdique, avec l'avantage de ne pas apporter d'autre élément étranger que le tungstène. D'autres hétéropolyacides du type précédent (X = Si) ou mixtes lui ont été ensuite comparés pour tenter de préciser le mécanisme de formation des acides mixtes molybdotungstiques polymérisés.</p>
+			</div>
+			<div type="section">
+				<head>Partie expérimentale</head>
+				<div type="section" n="1">
+					<head>Réactifs</head>
+					<div type="section" n="1.1">
+						<head>Acide molybdique</head>
+						<p>Il est préparé par échange d'ions sur une résine cationique de type Dowex 50 W X-2, 100-200 mesh, sous forme H + , à partir d'une solution de molybdate de sodium Na 2 Mo0 4 -2H 2 0 à 20°C.</p>
+					</div>
+					<div type="section" n="1.2">
+						<head>Hétéropolyacides tungstiques</head>
+						<p>Ils sont préparés suivant les méthodes classiques (8), par extraction ou par échange d'ions.</p>
+					</div>
+					<div type="section" n="1.3">
+						<head>Hétéropolyacides substitués molybdotungstiques</head>
+						<p>Les sels sont d&amp;apos;abord préparés (4, 9), puis les acides, par échange d'ions. Le système mixte à étudier est préparé soit par mélange des réactifs 1.1 et 1.2, soit par dissolution de 1.3. Il est défini par sa fraction molaire /= [Mo]/[Mo + W]. Les réactions sont lentes; elles sont suivies pour la plupart à température constante de 20°C.</p>
+					</div>
+				</div>
+				<div type="section" n="2">
+					<head>Techniques et méthodes analytiques</head>
+					<div type="section" n="2.1">
+						<head>Ultracentrifugation préparative</head>
+						<p>Réalisée dans un appareil Beckman Spinco, modèle E équipé d'un d'un rotor à godets SW65E, à 36 000 r/min pendant 100 min, elle permet la séparation des hauts polymères qui sont rassemblés au fond du tube sous forme d'un gel. En surface, on dispose d'une solution pure de composés légers.</p>
+					</div>
+					<div type="section" n="2.2">
+						<head>Échange d'ions</head>
+						<p>Par passage sur une résine Amberlite CG-400, 100-200 mesh, sous forme Cl -, les ions polymolybdiques sont fixés. En utilisant 2 méquiv. de résine pour 0,10 méquiv. de molybdène, l'échange est complet quelle que soit la concentration.</p>
+					</div>
+					<div type="section" n="2.3">
+						<head>Hydrolyse rapide à pH contrôlé </head>
+						<p>Réalisée sous azote, à pH constant égal à 8, par addition de soude pendant 1 min à l'aide d'un combititreur Methrohm E 415, elle permet la dégradation alcaline en ions Mo0 4 2 ~ et W0 4 2-des formes labiles du mélange exclusivement.</p>
+					</div>
+					<div type="section" n="2.4">
+						<head>Hydrolyse totale</head>
+						<p>Réalisée par un excès de soude à l'ébullition, elle permet la décomposition totale du système à l'état d'ions Mo042" et W04 2-.</p>
+					</div>
+					<div type="section" n="2.5">
+						<head>Analyse</head>
+						<p>Les hétéropolyanions substitués [XMoWnO«]'8 - "'- sont dosés par Polarographie en milieu acide chlorhydrique 1,0 x 10"' M (X = H2) et par spectrophotométrie d'absorption à 500 nm, après réduction, à pH 2, du molybdène par le chlorure stanneux  en solution dans le glycérol (10) (X = Si). Les autres dosages sont effectués après hydrolyse des mélanges:</p>
+						<p>Hydrolyse rapide: la somme [Mo0 4 2 ~ + W0 4 2-] labile est titrée par dosage protométrique avec l'acide chlorhydrique en présence de mannitol (11), et Mo0 4 2 " est déterminé, à 475 nm, par spectrophotométrie d'absorption du complexe coloré formé avec le pyrocatéchol en tampon phosphate (pH 7,50) ( 12) ; le métatungstate est dosé par Polarographie en tampon phosphate de pH 7,50 (13).</p>
+						<p>Hydrolyse totale: Mo0 4 2 " et W0 4 2 " sont dosés simultanément, à 475 et 350 nm, par spectrophotométrie d'absorption du complexe formé avec le pyrocatéchol en tampon phosphate de pH 7,50, ou par Polarographie en milieu acide chlorhydrique 8 M (14),</p>
+					</div>
+				</div>
+				<div type="section" n="3">
+					<head>Masse molaire</head>
+					<p>La condensation est mesurée par ultracentrifugation analytique à l'aide d'un appareil Beckman équipé de l'optique Schlieren.</p>
+					<p>3.1 Les coefficients de sédimentation apparents, (i p ) a pp, sont déterminés en cellule de 12 mm d'épaisseur, à double secteur, à différentes vitesses de rotation ( 14 000 &lt; v &lt; 26 000 r/min), dans des solutions suffisamment diluées pour éliminer les effets dus aux interactions moléculaires (1,0 x 10" 2 M &lt; Mo &lt; 5,0 x 10~ 2 M). Le solvant ajouté au moment de la mesure est constitué de chlorure de lithium à la concentration 5,0 x 10~ 2 M. La distribution des coefficients (i)app est obtenue au moyen de la fonction de distribution normalisée g(i) = l/C(dC/di) où Cest la concentration du soluté(15). </p>
+					<p>3.2 Les coefficients de diffusion, D " , sont obtenus par centrifugation à basse vitesse, v = 10 000 r/min, en cellule à frontière synthétique à capillaire, selon la méthode de Fujita -Van Holde (16).</p>
+					<p>3.3 La masse molaire des composés lourds est calculée à l'aide de la relation de Svedberg (17); celle des composés légers est obtenue par construction du diagramme d'Archibald après centrifugation en transition vers l'équilibre de sédimentation (18), à différentes vitesses (15 000 &lt; v &lt; 42 000 r/min), avec cellule à double secteur, à remplissage homogène.</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Résultats expérimentaux</head>
+				<div type="section" n="I">
+					<head>État du système à l'équilibre</head>
+					<p>Il est déterminé lorsque les concentrations des constituants ne varient plus avec l'âge, c'est-à-dire au bout de 30 jours à 20°C. Le système est toujours homogène.</p>
+					<div type="section" n="1">
+						<head>Polymérisation du système</head>
+						<p>Le coefficient de sédimentation apparent est supérieur à 50 svedbergs pour tous les mélanges dont la fraction molaire / = [Mo]/[Mo + W] est comprise entre 0,08 et 0,94. Il se forme donc des hauts polymères dans un domaine étendu de compositions . Le système est assez polydispersé ( <ref type="figure">fig. 1</ref>) mais ne renferme qu'une famille de composés lourds de coefficient de sédimentation moyen de l'ordre de 100 svedbergs quelle que soit la valeur de / entre 0 et 1, la concentration en molybdène <ref type="figure">FIG. 1</ref>. Distribution du coefficient de sédimentation apparent (i p ) a pp mesuré dans les mélanges de fraction molaire /= 0,50 (a); 0,66 (b); 0,75 (c) et 0,80 (d). dans le haut polymère étant voisine de 1,0 x 10~ 2 M. La distribution des coefficients de sédimentation tend à se resserrer lorsque / augmente.</p>
+					</div>
+					<div type="section" n="2">
+						<head>Composés lourds formés dans le système</head>
+						<p>Ils sont recueillis après ultracentrifugation préparative, sous forme d'un gel amorphe aux rayons X. La proportion de molybdène et de tungstène polymérisé peut être importante— 80% de ce qui a été introduit. Elle est atteinte dans un domaine de compositions qui est plus large pour le molybdène, 0,14&lt; /&lt;0,94 ( <ref type="figure">fig. 2</ref>, courbe a), que pour le tungstène, 0,80 &lt;/&lt; 0,94 ( <ref type="figure">fig. 2</ref>, courbe b), en raison de la persistance de la forme métatungstique dans les mélanges de/&lt; 0,80 ( <ref type="figure">fig. 2</ref>, courbe c). À partir des résultats de l'analyse élémentaire (tableau 1), on peut exprimer la composition des acides mixtes dans le haut polymère (H.P.), en fraction molaire/ H P . = [Mo] H .p./[Mo + W] H .p.. Elle dépend de la composition initiale du mélange ( <ref type="figure">fig. 3</ref>): d'abord constante et égale à 0,50 pour les faibles valeurs de/ (0&lt;/&lt;0,30), elle croît ensuite jusqu'en /= 0,90 de façon pratiquement linéaire. Au-delà de /= 0,95, la précision des analyses n'est plus suffisante pour préciser le mode de variation de / H P , en particulier l'existence éventuelle d'une limite vers /H.P. = 0,95.</p>
+						<p>La masse molaire des composés lourds calculée à partir des mesures de coefficients de sédimentation et de diffusion du gel remis en solution est de l'ordre de 1,0 x 10 5 pour une concentration moyenne de (1,0-4,0) x 10~ 2 M en molybdène (tableau 2).</p>
+					</div>
+				</div>
+				<div type="section" n="II">
+					<head>Évolution des mélanges avec l'âge</head>
+					<div type="section" n="1">
+						<head>Masse molaire</head>
+						<p>Durant les trois premiers jours d'évolution, la masse molaire apparente des mélanges reste égale à la masse moyenne des constituants (M — 3000). Puis un composé lourd sédimente en ultracentrifugation. Au fur et à mesure que progresse la formation de ce composé lourd, on observe que son coefficient de sédimentation, mesuré dans le milieu même de formation, augmente (tableau 3). Ceci pourrait signifier que le composé lourd tend à se polymériser davantage, mais il est également possible que la variation du coefficient de sédimentation soit due simplement aux changements de concentration du milieu réactionnel. Pour le vérifier, le composé lourd a été isolé par ultracentrifugation, puis redissous dans du LiCl 5,0 x 10" 2 M: son coefficient de sédimentation prend alors une valeur approximativement constante (40-50 svedbergs), quels que soient son âge et le rapport / (tableau 4). Il ne semble donc se former qu'une seule famille de hauts polymères.</p>
+					</div>
+					<div type="section" n="2">
+						<head>Composition des acides mixtes légers</head>
+						<p>Les mélanges en cours d'évolution sont constitués de formes labile et inerte. La forme inerte ne renferme que du métatungstate ; la forme labile contient des acides mixtes, lourds et légers et éventuellement l'acide molybdique n'ayant pas réagi. Les composés légers peuvent être isolés durant les premiers jours d'évolution avant que le haut polymère ne se forme: les ions polymolybdiques sont d'abord éliminés par échange d'ions, puis le composé mixte est séparé du métatungstate par précipitation de son sel de césium à 25°C. Le rapport [Mo/W] léger des composés légers ainsi isolés (tableau 5) est égal à celui déterminé dans les composés lourds à l'équilibre (tableau 1), la charge, par contre, est plus élevée. D'après la masse molaire mesurée (M ==3400), le degré de condensation moyen des acides mixtes formés initialement est égal à 18. La polymérisation a donc lieu par simple diminution de la charge, sans modification de la composition en molybdène et tungstène. Ceci est vérifié par les dosages des constituants dans les composés lourds et légers, en cours d'évolution des mélanges. Ils indiquent en effet que le rapport [Mo/W] y est le même et que sa valeur demeure constante durant l'évolution (tableau 6). De plus, ils indiquent que l'acide molybdique finit par réagir totalement (<ref type="figure">fig. 4</ref>, courbe a), contrairement à l'acide métatungstique (<ref type="figure">fig. 2</ref>). La vitesse de réaction peut être mise sous la forme d'une loi du premier ordre par rapport à la concentration en acide molybdique, v = ^ [Mo], avec k\ — 0,115 d -1 à 20°C.</p>
+					</div>
+					<div type="section" n="3">
+						<head>Comparaison avec d'autres hétéropolyacides</head>
+						<p>3.1 Acide silico-12 tungstique (X = Si). En fin d'évolution, après 20 jours à 40°C, un composé lourd sédimente en ultracentrifugation et tout l'acide molybdique a réagi. En cours d'évolution, les dosages par la soude, à pH 8, des acides débarassés des ions polymolybdiques par échange d'ions, indiquent que le molybdène se répartit sous une forme labile constituée d'un acide mixte molybdotungstique, de composition constante, en grande partie polymérisé, et sous une forme inerte, constituée de l'acide substitué H 4 [SiMoW n 0 4 o]. Cette dernière réaction n'était pas observée avec l'acide métatungstique.</p>
+						<p>3.2 Acides substitués H^-n)[XMoWuO40]. Aucune évolution n'est observée par polarographie et ultracentrifugation dans la solution d'acide H 4 [SiMoW n 0 4 o], même en présence d'acide molybdique, au contraire de la solution d'acide H 6 [H 2 MoWnO 40 ]. Dans celle-ci, le pourcentage d'acide s'annule au bout de 30 jours à 20°C ( <ref type="figure">fig. 4</ref>, courbe b): sa vitesse de réaction peut se mettre sous la forme v = k 3 [acide substitué], avec k 3 = 0,123 d -1 à 20°C; elle ne dépend pas de la concentration en acide molybdique éventuellement présent. Au terme de l'évolution, le coefficient de sédimentation vaut 57 svedbergs et le molybdène est totalement dosé sous une forme labile à pH 8, tandis que le tungstène se répartit sous formes labile (en quantité égale au molybdène) et inerte (seul, à l'état de métatungstate). Les produits de la réaction sont donc l'acide métatungstique et un acide mixte, de rapport Mo/W = 1, qui se polymérise.</p>
+					</div>
+				</div>
+			</div>
+			<div type="section">
+				<head>Discussion</head>
+				<p>1. Les résultats montrent qu'il est possible d'obtenir des acides mixtes hautement polymérisés en solution, par interaction des acides molybdique et métatungstique, dans un grand intervalle de fraction molaire /= [Mo]/[Mo + W] des mélanges . En particulier si 0,80 &lt;/&lt; 0,95, la réaction est totale; ce sont les conditions de préparation de sols riches en molybdène.</p>
+				<p>La fraction molaire du haut polymère/ H P est alors égale à celle du mélange. Toutefois au-delà de /= 0,90, sa détermination précise devient vite difficile, en raison justement du pourcentage très élevé de Mo par rapport à celui de W. La fraction molaire/ H .p. devrait tendre vers une limite correspondant à celle de l'espèce légère formée. Expérimentalement, elle se situe au-dessus de / H P . = 0,94, ce qui correspond à l'introduction d'un tungstène dans une molécule de 18 ou 24 centres métalliques (/H.P. = 0,944 ou 0,958).</p>
+				<p>Les sols sont constitués de deux familles de composés de même rapport Mo/W, mais de masses très différentes. La répartition entre les deux s'établit en général ainsi: 80% d'espèces lourdes et 20% de légères. Du point de vue polymérisation , le système étudié ici se comporte comme les autres systèmes mixtes, à base d'acide antimonique en particulier, étudiés au laboratoire. Tous ces systèmes sont constitués de plusieurs familles d'espèces de masse molaire différente en équilibre. Si les deux acides en présence peuvent évoluer spontanément vers une forme hautement condensée, les familles d'espèces en présence diffèrent à la fois par leur masse molaire et leur composition. Ceci a été vérifié sur le système acide antimonique -acide tungstique (19). Par contre, si l'un des éléments en présence n'évolue pas spontanément vers une forme hautement condensée, les familles d'espèces en présence ne diffèrent que par leur masse molaire. Cette conclusion valable dans le cas des composés de l'acide antimonique et des acides phosphorique, arsénique et arsénieux (20) est aussi vérifiée dans le cas des composés molybdovanadiques (7) et dans le cas présent des composés molybdotungstiques.</p>
+				<p>2. La fraction molaire / H P ne varie pas de façon continue comme la fraction molaire / du mélange, puisqu'elle est constante dans l'intervalle 0 &lt;/&lt; 0,30. Cette particularité est le signe d'un comportement différent des mélanges selon la valeur de leur fraction molaire. C'est probablement au niveau de la formation de l'espèce légère que se situe cette différence, puisque la polymérisation ne modifie pas la fraction molaire de l'espèce mixte.</p>
+				<p>À partir des résultats obtenus avec les deux hétéropolyacides tungstiques (X = H 2 et Si) d'une part, et avec les acides substitués correspondants d'autre part, nous proposons le schéma suivant pour rendre compte de la formation des acides mixtes.</p>
+				<p>(i L'action de l'acide molybdique sur l'hétéropolyacide est double:</p>
+				<p>[1] formation d'espèce légère mixte </p>
+				<p>[2] formation d'espèce substituée [XMoWnO^]8-"</p>
+				<p>(ii) Suivant la nature de X, une troisième réaction peut avoir lieu:</p>
+				<p>[3] formation d'espèce légère mixte à partir de l'espèce substituée.</p>
+				<p>L'influence de la valeur de la fraction molaire / du mélange intervient au niveau de la compétition entre les réactions 1 et 2: aux faibles valeurs de /, la réaction 1 est négligeable devant l'autre, dans le cas des mélanges avec l'acide métatungstique. Les réactions 1 et 2 sont bien mises en évidence dans le cas de l'acide silico-12 tungstique; elles sont simultanées, puisque la polymérisation ne se fait pas à partir de l'acide substitué, même en présence d'acide molybdique. Dans le cas de l'acide métatungstique, nous pouvons penser que la réaction se déroule suivant le même processus, bien qu'aucun résultat ne montre la présence de l'espèce substituée correspondante (en particulier, la présence de molybdène sous une forme inerte à pH 8). Pour que la réaction 2 ne soit pas observée expérimentalement, il suffit que sa vitesse soit égale à celle de la réaction 3 qui a lieu obligatoirement dans ce cas. C'est ce qui est vérifié expérimentalement: les deux constantes de vitesse kx et k 3 sont voisines et ki est bien la constante de vitesse de la réaction 2 si la réaction 1 est négligeable en /= 0,17. Dans ces conditions (0 &lt;/&lt; 0,30), l'acide mixte ne se forme que suivant [3] et sa composition est constante. Aux plus fortes valeurs de /, la réaction 1 n'est plus négligeble, et la composition varie.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. LIVAGEETJ. LEMERLE. Annu. Rev. Mater. Sci</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="issue">103</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lemerle</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">Nejemetj J</forename>
+									<surname>Lefebvre</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Inorg</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nucl. Chem</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">17</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<monogr>
+							<title level="m" type="main">Nouveau traité de chimie minérale</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<monogr>
+							<author>
+								<persName>
+									<surname>Masson</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Paris</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1958"/>
+								<biblScope type="fpage">666</biblScope>
+								<biblScope type="lpage">667</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Courtin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="fpage">2747</biblScope>
+								<biblScope type="lpage">2751</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lefebvre</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1983</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Sanchez</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Livage</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Launay</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Fournier</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">Jeannin</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Am. Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">104</biblScope>
+								<biblScope type="pp">3194</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lefebvre</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">1727</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Keggin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<imprint>
+								<biblScope type="vol">131</biblScope>
+								<biblScope type="pp">908</biblScope>
+								<date type="published" when="1933"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse de 3 E cycle</title>
+							<meeting>
+								<address>Paris</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Margueritte</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ann. Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">477</biblScope>
+								<date type="published" when="1946"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Copeaux</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Ann. Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="issue">217</biblScope>
+								<date type="published" when="1909"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">F</forename>
+									<surname>Smith</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. News</title>
+							<imprint>
+								<biblScope type="vol">136</biblScope>
+								<biblScope type="pp">129</biblScope>
+								<date type="published" when="1927"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">J. R. Weakley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Struct. Bonding (Berlin)</title>
+							<imprint>
+								<biblScope type="vol">18</biblScope>
+								<biblScope type="pp">131</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<forename type="middle">Arribas</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Rincon</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Alvarez</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chim. Acta</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">205</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<monogr>
+							<title level="m" type="main">Poly anions et polycations. Gauthiers-Villars, Paris</title>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1963"/>
+								<biblScope type="pp">93</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Seifteret</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<surname>Novic</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Anal. Chem</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="issue">188</biblScope>
+								<date type="published" when="1951"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P. Launay. C. R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">268</biblScope>
+								<biblScope type="pp">1354</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<monogr>
+							<title level="m" type="main">Inter-science</title>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lingane</forename>
+									<surname>Polarography</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1952"/>
+								<biblScope type="fpage">457</biblScope>
+								<biblScope type="lpage">461</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">K</forename>
+									<surname>Schachman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Biochim. Biophys. Acta</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">268</biblScope>
+								<date type="published" when="1957"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">64</biblScope>
+								<biblScope type="pp">1582</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<monogr>
+							<title level="m" type="main">The ultracentrifuge</title>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">O</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1940"/>
+								<publisher>Johnson Reprint Co</publisher>
+								<biblScope type="pp">39</biblScope>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+									<surname>Archibald</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Colloid Chem</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">1204</biblScope>
+								<date type="published" when="1947"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lefebvre</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">409</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Jolivet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Lefebvre</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">2415</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

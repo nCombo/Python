@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Réactions de Wittig et d&apos;Horner—Emmons en série trifluorométhylée : synthèse de nouveaux F-alkyl esters isomères a,p et p,Y-insaturés</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1985">1985</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Hedi</forename>
+								<surname>Trabelsi</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique du Fluor</orgName>
+								<orgName type="institution" key="instit1">U.E.R. — I.M.S.P</orgName>
+								<orgName type="institution" key="instit2">Université de Nice</orgName>
+								<address>
+									<addrLine>ParcValrose</addrLine>
+									<postCode>06034</postCode>
+									<settlement>Nice Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Brigitte</forename>
+								<surname>Bertaina</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique du Fluor</orgName>
+								<orgName type="institution" key="instit1">U.E.R. — I.M.S.P</orgName>
+								<orgName type="institution" key="instit2">Université de Nice</orgName>
+								<address>
+									<addrLine>ParcValrose</addrLine>
+									<postCode>06034</postCode>
+									<settlement>Nice Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Aimé</forename>
+								<surname>Cambon</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Chimie Organique du Fluor</orgName>
+								<orgName type="institution" key="instit1">U.E.R. — I.M.S.P</orgName>
+								<orgName type="institution" key="instit2">Université de Nice</orgName>
+								<address>
+									<addrLine>ParcValrose</addrLine>
+									<postCode>06034</postCode>
+									<settlement>Nice Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Réactions de Wittig et d&apos;Horner—Emmons en série trifluorométhylée : synthèse de nouveaux F-alkyl esters isomères a,p et p,Y-insaturés</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Les réactions de Wittig et Horner—Emmons sont réalisées en utilisant la n-butyl trifluorométhyl cétone et la benzyl trifluorométhyl cétone. De nouveaux F-alkyl esters a,(3 et p,7-éthyléniques sont obtenus. Le mode de formation de ces derniers est discuté.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>New F-alkyl a,(3 and p-7-unsaturated esters were obtained by Wittig and Horner-Emmons reactions using n-butyl and benzyl trifluorométhyl ketones. A mechanism for formation is discussed.</p>
+			</div>
+		</front>
+		
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les réactions de Wittig, Wittig—Horner ou Horner- Emmons, très utilisées en série hydrocarbonée (1—5), se sont également révélées de bonnes méthodes pour synthétiser des alcènes F-alkylés activés par des groupements électroattracteurs (6—10): la réaction de condensation d&apos;un dérivé carbonylé, d&apos;accès facile (9), sur un ylure de phosphore ou un phosphonate conduit alors, essentiellement à un composé a,P-insaturé et F-alkylé.</p>
+
+			<p>Nous avons souhaité utiliser ces réactions pour synthétiser des composés du type:</p> 
+				
+	<p><formula>:C=CHCOOEt</formula></p> 
+				
+			<p>en vue de l&apos;obtention de polymères à bas indice de réfraction utilisables dans l&apos;industrie des fibres optiques (11).</p>
+
+			<p>Si la méthode de Wittig a répondu à nos espérances, celle d&apos;Horner—Emmons a conduit majoritairement à des esters P,7-insaturés.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Dans le cas de la réaction de Wittig, la condensation de la n-butyl trifluorométhyl cétone avec le carboéthoxyméthylènetriphénylphosphorane conduit aux résultats suivants:</p>
+
+			<p>Dans le cas de la réaction d&apos;Horner-Emmons, la même phosphonate en présence de NaH. Les résultats sont les cétone a été condensée avec le carboéthoxyméthyl diéthyl suivants:</p>
+
+			<p>On voit clairement que la réaction d&apos;Horner—Emmons donne un mélange de trifluorométhyl oléfines activées a,(3- insaturées (1) ((A) + (B) = 10%) et (3,7-insaturées (2) ((C) + (D) = 90%).</p> 
+			
+			<p>La formation de 2 peut être envisagée par une isomérisation prototropique en milieu basique de 1 comme cela été montré en série hydrocarbonée (12—17).</p>
+
+	<p><formula>CF 3 \ .C=CHCOOEt nBu P a 1 CF 3 \ C=CHnPr EtOOCCH 2 P Y a 2</formula></p>
+
+			<p>En effet, il est bien connu qu&apos;il existe un équilibre entre les formes a,(3 et (3,7-insaturées des ions carboxylates, des esters carboxyliques, des cétones et des nitriles.</p>
+
+			<p>X = COO&quot;, COOEt, COCH3, CN . ..</p>
+
+			<p>Afin de démontrer l&apos;existence d&apos;une telle prototropie en série trifluorométhylée nous avons procédé aux essais suivants.</p> 
+				
+			<p>(a) Nous avons fait agir sur le mélange (Z + E) du composé 1 à température ambiante et en milieu THF (conditions de la réaction d&apos;Horner—Emmons).</p> 
+			
+			<p>(b) Nous avons mis le composé 1 au reflux du THF pendant 24 h, afin de déterminer si ce dernier était responsable de l&apos;éventuelle prototropie.</p> 
+			
+			<p>(c) Nous avons fait réagir Ph 1 P=CHCOOEt respectivement sur les composés 1 et 2 au reflux du THF pour savoir si l&apos;éventuelle isomérisation se produisait sous l&apos;influence de l&apos;ylure.</p> 
+			
+			<p>(d) Nous avons effectué la même réaction avec le phosphonate (Et0) 2 P(0)CH 2 C00Et.</p>
+			
+			<p>Les résultats suivants ont été obtenus: les essais (b) et (c) se sont révélés négatifs et les produits de départ ont été intégralement récupérés. Dans les essais (a) et (d), c&apos;est-à-dire en milieu fortement basique (en présence de NaH ou du carbanion dérivé du phosphonate), nous constatons qu&apos;environ 95% des composés 1 (isomères Z et E) sont réarrangés en composés 2.</p> 
+			
+			<p>Ceci permet de conclure que les esters 3,7-insaturés obtenus au cours de la réaction d&apos;Horner—Emmons résultent de la prototropie catalysée par le milieu basique des esters a,(3-insaturés. Seuls ces derniers sont obtenus par la réaction de Wittig qui ne nécessite pas l&apos;utilisation d&apos;une base.</p> 
+			
+			<p>En série hydrocarbonnée, Kon et Linstead (13, 14) ont montré que l&apos;équilibre entre les formes a,(3 et 7,[}-insaturées dépend peu de la nature de X, mais est très sensible à la nature des groupements sur l&apos;atome de C en position 7. Ainsi, dans le cas où R 1 = Ph, R 2 = H, l&apos;équilibre est complètement déplacé vers la formation de l&apos;ester p,7-éthylénique.</p> 
+			
+			<p>Afin de démontrer une éventuelle analogie en série trifluorométhylée , nous avons condensé la benzyl trifluorométhyl cétone avec le carboéthoxyméthyl diéthyl phosphonate dans les conditions d&apos;Horner-Emmons. 1 Les résultats sont les suivants:</p>
+
+	<p><formula>CF 3 \ PhCH 2 + (Et0) 2 P(0)CH 2 C00Et CF 3\ ,c=c; EtOOCCH 2 3 isomère E -H Ph</formula></p>
+
+			<p>Dans ce cas, seul l&apos;ester (3,7-insaturé est obtenu et la réaction est stéréospécifique (100% E). Nous avons alors synthétisé l&apos;isomère a,p-éthylénique 2 par une réaction de Wittig et nous l&apos;avons soumis aux essais (a), (b), (c) et (d). Nous avons constaté que les essais (b) et (c) sont négatifs comme précédemment alors que (a) et (d) donnent uniquement le composé 3 (isomère E). Sous l&apos;effet de la base NaH ou du carbanion dérivé du phosphonate, le benzyl-3 trifluoro-4, 4, 4 butène-2 oate d&apos;éthyle (Z + E), s&apos;isomèrise intégralement en un composé unique 3.</p>
+
+			<div type="section">
+				<head>Identification des divers composés obtenus</head>
+
+			<p>(1) (E, Z) L&apos;analyse élémentaire jointe à la détermination de la masse moléculaire par spectrométrie de masse (M 1 224), conduit à la formule brute CuH^F^. Le spectre ir montre que nous avons affaire à des oléfines conjuguées avec un groupement ester: v (C =oi = 1709 cm&quot;&apos;, v, c =c&gt; = 1653 cm&quot;&apos;. On note également v (C _ F) = 1100— 1250 cm&quot;&apos;. Le spectre&apos; 1 rmn du &apos;H montre: à 6,05 ppm et 6,33 ppm les signaux des H éthyléniques ; à 4,21 et 1,3 ppm respectivement un quadruplet et un triplet (OC//2C//O; entre 2,66 et 1,5 ppm un large multiplet correspondant aux CH 2 de nBu; et à 0,95 ppm, le CH 3 du groupement n-butyle.</p> 
+			
+			<p>La présence de 2 signaux attribuables aux H éthyléniques, l&apos;un vers 6,33 ppm, l&apos;autre vers 6,05 ppm (moins déblindé et environ 3 fois moins intense), montre l&apos;existence d&apos;un mélange de 2 stéréoisomères. La configuration (Z, E) a été déterminée grâce au couplage allylique du proton éthylénique et du groupement CF 3 . En effet, en rmn du l9 F, on observe sur le spectre du mélange, deux groupes de signaux à —63,8 ppm et à —69,6 ppm correspondant aux CF 3 . La résolution de ces signaux a permis de déduire les constantes de couplage V allylique de H et CF 3 . Le CF 3 résonant à —69,6 ppm se présente sous forme de doublet V H -C F, -1 &gt;6 Hz. La résolution du signal de CFT à —63,8 ppm ne fait apparaître aucun couplage ( 4 J H -CFy = 0 Hz).</p>
+
+			<p>Il est communément admis que la constante de couplage 4 J allylique H —CF 3 est pratiquement nulle si H est en trans par rapport à CF 3 et peut atteindre 2,1 Hz, si H est cis. La confrontation de ces données expérimentales (18 — 20) avec celles tirées des spectres nous a permis d&apos;attribuer la constante de couplage 4 J = 1,6 Hz au composé E. L&apos;absence de couplage</p> 
+				
+	<p><formula>CF 3 ^ /H c=c nBu&quot;&apos; ^COOEt CFw ,COOEt nBu H VH-CFJ</formula></p> 
+				
+			<p>est donc attribuable au composé Z. L&apos;intensité relative des signaux nous permet d&apos;attribuer la configuration E au produit majoritaire (90%).</p> 
+			
+			<p>(2) (E, Z) La caractérisation des composés 2 peut s&apos;opérer à partir des observations suivantes.</p>
+			
+			</div>
+			
+			<div type="section">
+				<head>Composé majoritaire</head>
+			
+			 <p>L&apos;analyse élémentaire jointe à la masse moléculaire, déterminée par spectrométrie de masse (M + 224), conduit à la formule brute C10H15F3O2. En ir, v (C=0) = 1724 cm&quot;&apos; correspond à un ester éthylique qui est confirmé en rmn du &apos;H par le quadruplet à 4,16 ppm d&apos;intensité 2 et un triplet à 1,3 ppm d&apos;intensité 3. La fréquence de celui-ci est augmentée de 15 cm&quot;&apos; par rapport à la bande v&lt;c=oi du composé 1. Ceci démontre la non conjugaison du groupement ester. Cette situation suggère qu&apos;il existe au moins un groupement méthylénique susceptible de former un écran. Le singulet à 3,18 ppm d&apos;intensité 2 correspond à un CH 2 en a d&apos;un C=0. On a le groupement —CH2—C—O—CH2CH3.</p>
+
+			<p>Compte-tenu de la formule brute, il nous reste: C 6 H 8 F 3 avec un centre d&apos;insaturation. L&apos;insaturation peut être une double liaison ou un cycle.</p> 
+			
+			<p>La position de la bande ir à 1669 cm&quot;&apos;, la présence du triplet d&apos;intensité I à 6,33 ppm dans la zone des &quot;éthyléniques&quot; et le couplage mis en évidence par ce triplet (J = 7,5 Hz), témoignent en faveur d&apos;un système du type:</p> 
+				
+	<p><formula>H \c=c/ / \</formula></p> 
+				
+			<p>Le couplage H —H est variable selon le schéma envisagé:</p>
+
+	<p><formula>. ^CH H. /CH r=r c=c = -0,8 à -2,5 Hz V, &quot; = -0,8 à -2 Hz \ / H C=C ^ CH V,. = 4 à 10 Hz</formula></p>
+
+			<p>La valeur expérimentale J = 7,5 Hz démontre que H est couplé avec un CH 2 géminé absorbant à 2,66 ppm. Ceci est en accord avec la structure:</p>
+
+	<p><formula>H 7 \ CH,</formula></p>
+
+			<p>IL reste donc à affecter C 3 H 5 F 3.</p> 
+			
+			<p>L&apos;infra-rouge suggère que l&apos;absorption à 1100-1250 cm&quot;&apos; peut être attribuée à une vibration V,C-FI (confirmée en rmn du fluor par un signal à —68,5 ppm, caractéristique d&apos;un groupement CF 3 ). 11 reste donc C 2 H 5 . Le triplet à 0,91 ppm (J = 7,5 Hz), d&apos;intensité 3 et le multiplet à 1,43 ppm, d&apos;intensité 2 font partie du groupement CH 3 CH 2 CH 2 porté par la double liaison. Ceci nous conduit à la formule:</p>
+
+			<p>Ce composé peut exister sous deux formes stéréoisomères:</p>
+
+	<p><formula>F 3\ CF 3 ^ /H c=c EtOOCCHi&quot;&quot; ^nPr isomère E CF 3 \ /nPr &gt;=C EtOOCCH 2 H isomère Z</formula></p>
+
+			<p>3 Le spectre rmn a été réalisé sur une fraction enrichie du mélange dans la proportion 75%: 25%.</p>
+
+			<p>Avant d&apos;aborder la détermination de la stéréochimie de ce composé, nous allons voir si le composé minoritaire est l&apos;une de ces deux formes stéréoisomères envisagées.</p> 
+			
+			</div>
+			
+			<div type="section">
+				<head>Composé minoritaire</head>
+			
+			<p>Un raisonnement analogue au précédent est appliqué. L&apos;analyse élémentaire associée à la masse moléculaire déterminée par spectrométrie de masse (M + 224), conduit à la formule brute C10H15F3O2. Ce composé présente en ir, les bandes suivantes: à 1728 cm&quot;&apos; v (C=0 ), à 1667 cm&quot;&apos; v ( c=o et à 1100-1250 cm &apos; V(c—F). En rmn du &apos;H on observe: un triplet à 5,88 ppm, un quadruplet à 4,16 ppm, un singulet à 3,16 ppm, un multiplet à 2,28 ppm, un multiplet à 1,46 ppm, un triplet à 1,23 ppm, un triplet à 0,93 ppm avec un rapport d&apos;intensités relatives 7/2/2/2/2/5/3. Le spectre rmn du lg F montre un signal à -60,2 ppm caractéristique d&apos;un CF 3 .</p> 
+			
+			<p>La seule structure compatible avec les spectres ir, rmn &apos;H, l9 F, la masse et l&apos;analyse élémentaire (C, H, F, O) est:</p>
+
+	<p><formula>EtOOCCHj-&apos; C=CHnPr</formula></p> 
+				
+			<p>Les deux produits isolés sont donc bien deux stéréoisomères. La configuration correspondante à chaque isomère a été attribuée par étude des constantes de couplage 4 J allylique du proton et du fluor (rmn &apos;H, rmn W F). En rmn du &apos;H, le signal du proton éthylénique, pour le composé majoritaire, résonant à 6,33 ppm, est constitué par un triplet de quadruplet dû à la multiplicité avec le CF, VH-CF, = 1.8 Hz. Ce couplage est compatible avec un couplage allylique cis &apos;H— l9 F. La configuration attribuée à ce composé est donc E.</p>
+
+	<p><formula>CF 3\ M EtOOCCH^&apos; ^nPr</formula></p>
+
+			<p>Ceci est confirmé par la rmn du l9 F. Le signal correspondant au CF 3 paraît être un quadruplet bien résolu. En réalité, c&apos;est un faux quadruplet. En effet, le CF, est couplé d&apos;une part au proton éthylénique et d&apos;autre part au CH 2 (b):</p>
+
+	<p><formula>(a) (b)</formula></p>
+
+			<p>Le couplage V CH , w-cf, (géminé) n&apos;est pas observable. On devrait s&apos;attendre à un triplet de doublet. Les composantes des triplets sont séparées par V CH , (b ,-CFl Unms) = 2 Hz, tandis que le dédoublement correspond à V H _ CFl u . is) = 2 Hz confirmant une configuration E pour ce composé.</p> 
+			
+			<p>Quant au composé minoritaire, en rmn du &apos;H la résolution du triplet à 5,88 ppm du proton éthylénique fait apparaître un quadruplet mal résolu V H _ CF , = 0,8-0,7 Hz résultant d&apos;un couplage trans du H et du CF 3 . La configuration attribuée à ce composé est Z:</p> 
+			
+	<p><formula>CTW ^nPr &gt;=C EtOOCCH 2 H</formula></p> 
+		
+			<p>La rmn du l9 F est en accord avec cette stéréochimie. En effet, le signal du CF 3 est un triplet très mal résolu et résulte d&apos;un couplage trans V h _CF 3 = 0 Hz.</p>
+
+			<p>Seul apparaît le couplage homoallylique V CH , (b )-cF, = 2 Hz.</p>
+
+			<p>(3) (E) L&apos;analyse élémentaire jointe à la masse moléculaire déterminée par spectrométrie de masse (M + 258), conduit à la formule brute C l3 H l3 F 3 0 2 .</p> 
+			
+			<p>L&apos;infra-rouge montre une bande v, c =o&gt; non conjuguée d&apos;ester éthylique à 1724 cm&quot; 1 . Cette fonction est confirmée en rmn par un quadruplet à 4,2 ppm d&apos;intensité 2 et un triplet à 1,26 ppm d&apos;intensité 3.</p> 
+			
+			<p>En ir, une bande à 1621 cm&quot; 1 correspond à v (C=:C , conjuguée avec un noyau aromatique (bandes fines entre 1450 et 1600 cm&quot; 1 ). La double liaison ainsi mise en évidence n&apos;est pas conjuguée avec la fonction ester éthylique. Nous envisageons entre les deux un groupement CH 2 . Cette hypothèse est en accord avec un signal unique rencontré en rmn du &apos;H à 3,36 ppm d&apos;intensité 2.</p> 
+			
+			<p>Par ailleurs, un signal à 7,4 ppm d&apos;intensité 6, indique que le signal du noyau aromatique se superpose à l&apos;absorption d&apos;un H éthylénique. En rmn du fluor, on observe à —68 ppm un signal attribuable à un groupement CF 3 porté par une double liaison. La résolution de ce signal se présente sous forme d&apos;un doublet, la constante de couplage 1,6 Hz est compatible avec un couplage 4 JH_CF, &lt;&lt;,,). Deux structures peuvent être proposées:</p>
+
+	<p><formula>CF: 3\ EtOOCCHz&quot;&apos; Ph Ph CH 2 COOEt (a) (b)</formula></p>
+
+			<p>La structure (b) doit être rejetée à cause de la multiplicité du signal du CH 2 en a du groupement ester qui se présente sous forme d&apos;un singulet. Le produit obtenu est donc le phényl-4 trifluorométhyl-3 butène-3 oate d&apos;éthyle, de configuration E.</p>
+
+			</div>
+			
+			</div>
+			
+			<div type="section">
+				<head>Conclusion</head>
+			
+			<p>Si nous récapitulons les résultats obtenus, nous observons que quelque soit la cétone (CF 3 )C(0)R avec R = nBu et PhCH 2 , la réaction de Wittig conduit toujours aux trifluorométhyl oléfines activées a,P-insaturées. Par contre, la réaction d&apos;Horner—Emmons, réalisée sur les phosphonates en milieu fortement basique, donne un mélange d&apos;esters a,P-éthyléniques (1) (Z + E) et P,-y-éthyléniques (2) (Z + E) majoritaires quand R = nBu ou exclusivement le composé (3) (E) quand R = PhCH 2 . Le produit transposé est dû à une prototropie de l&apos;oléfine attendue sous l&apos;influence de la base. Donc la réaction d&apos;Horner—Emmons ne permet pas d&apos;obtenir de manière spécifique les trifluorométhyl oléfines activées a,P-insaturées.</p> 
+			
+			<p>Il est à noter également une différence de réactivité des cétones en série hydrocarbonée et fluorée vis-à-vis du phosphorane Ph 3 P=CHCOOEt. Les réactions de condensation avec les trifluorométhyl cétones s&apos;effectuent dans des conditions douces (7) comparativement à celles requises pour les cétones classiques hydrocarbonées. En effet, il est bien connu, en série hydrocarbonée, que les ylures stabilisés par un groupement carbonylé réagissent avec les aldéhydes, mais pas avec les cétones sauf dans des conditions dures, alors que l&apos;utilisation d&apos;un carbanion phosphonate permet une réaction beaucoup plus aisée (21 —25).</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Les spectres rmn &apos;H et &apos;&apos;&apos;F ont été enregistrés sur Bruker Spectroscope WH-90-DS (&apos;H = 90 MHz; &quot; J F = 84,67 MHz). Les spectres ir ont été effectués sur un spectromètre Leitz—Wetzlar, modèle II1G. Les spectres de masse ont été enregistrés sur un appareil Ribermag R 10-10 couplé à la chromatographie en phase gazeuse. Les analyses élémentaires ont été effectuées par les laboratoires d&apos;analyse du CNRS à Lyon. La pureté des produits a été contrôlée sur C.P.V. Girdel (séries 30 et 3000), colonne 1,3 m inox SE30 10% Chromosorb WHMDS 80/100; colonne 1,5 m inox 5% OV 17 Gas-Chrom Q 80/100, colonne capillaire Pyrex SE30 30 m, 4&gt; = 0,30 mm, et colonne capillaire Carbowax 20M-25 m.</p>
+
+			<p>Deux trifluorométhyl cétones (R = nBu, Ph—CH 2 ) ont été synthétisées par action des organomagnésiens sur les F-acides (26, 27).</p> 
+				
+			<p>1. n-Butyl trifluorométhyl cétone (trifiuoro-I,/,/ hexanone-2) Préparation du bromure de n-butyl magnésium (réf. 28)</p> 
+				
+			<p>Dans un ballon rodé de 500 mL équipé d&apos;un agitateur magnétique, d&apos;une ampoule à brome et maintenu sous atmosphère d&apos;azote, on place 6,48 g (0,27 at-g) de Mg en tournure et un petit cristal d&apos;iode. Quinze millilitres d&apos;une solution de 34 g (0,25 mol) de bromobutane dans 100 mL d&apos;éther anhydre sont ajoutés par l&apos;ampoule à brome. Dès que la réaction a démarré, on ajoute le reste de la solution de bromobutane de façon à maintenir un léger reflux. L&apos;addition terminée, le mélange réactionnel est maintenu au reflux de l&apos;éther pendant 30 min.</p>
+
+			<p>Synthèse de la cétone</p>
+
+			<p>On ajoute 11,4 g (0,1 mol) d&apos;acide trifluoroacétique goutte à goutte à la solution de bromure de n-butyl magnésium agitée et refroidie à 15°C par un bain d&apos;eau thermostaté. L&apos;addition terminée, l&apos;agitation est poursuivie pendant 3 h à température ambiante. Le mélange est hydrolysé à froid par environ 100 mL d&apos;une solution de HCI à 15%. La phase éthérée est séparée par décantation, traitée à l&apos;aide d&apos;une solution saturée de bicarbonate de sodium, lavée à l&apos;eau, séchée sur MgS0 4 puis P 2 0 5 . L&apos;éther est évaporé aux 2/3 puis le résidu est purifié par distillation fractionnée à pression atmosphérique. Nous obtenons 8,47 g de produit, Rt 55%, Eb 89°C (lit. (26) Eb 9I°C); ir (CCU) v en cm&quot;&apos;: 1754 (C=0), 1100-1250 (C—F); rmn &quot; J F (CDCI,, référence interne CFCI,) Ô en ppm: -79,6 (CF,).</p> 
+			
+			<p>2. Benzyl trifluorométhyl cétone (phényl-3 trifluoro-1, /, / propanone-2 )</p> 
+			
+			<p>Cette cétone est obtenue de la même façon que la trifluoro-1,1,1 hexanone-2. A une solution de chlorure de benzylmagnésium, obtenu à partir de 0,27 at-g de Mg en tournure et 0,25 mol de chlorure de benzyle (refroidie à 15°C par un bain d&apos;eau thermostaté), on ajoute lentement 1 1,4 g (0,1 mol) d&apos;acide trifluoroacétique. Le mélange est ensuite agité à température ambiante pendant 3 h. Après traitement, l&apos;éther est évaporé et le résidu est distillé sous vide. Nous obtenons 9.4 g de produit, Rt 50%, Eb/160 Torr I20°C (lit. (29) Eb 66/16 Torr) (I Torr = 133.3 Pa); ir (CC1 4 ) l&apos;en cm&quot; 1 : 1754 (C=0), 1100-1250 (C—F); rmn &apos;&quot;F (CDCI,, référence interne CFCI.,) ô en ppm: -78,7 (CF,).</p> 
+			
+			<p>Synthèse de 1 (E, Z)</p> 
+				
+			<p>Nous avons utilisé la technique décrite dans la littérature (7). A partir de 0,015 mol de carboéthoxyméthylcnetriphénylphosphorane et 0,015 mol de trifluoro-1,1,1 hexanone-2 on obtient un mélange de deux composés avec un rendement global de 90%, Eb/280 Torr 80°C. La composition du mélange a été déterminée par cpv (90/10%); ir (CCU) v en cm&quot; 1 : 1709 (C=0), 1653 (C=C), 1100-1250 (C—F); rmn &apos;H (CDCI,, référence interne TMS) ô en ppm: 6,05 et 6,33 (q et s, H, =CH— (1) (£)et(l)(Z), = 1,6 Hz), 4, 21 (9, 2H, —OCH 2 —, V M -H = 7,5 Hz), 1,3 (t, 3H, —CH.,, V &quot; . &quot; = 7,5 Hz), 2,66-1,5 (m, 6H, —(CH 2 ),—), 0,95 (t, 3H, —CH.,, V &quot; _ H = 7.5 Hz); rmn &apos;&quot;&apos;F (CDCI.,, référence interne CFCI,) ô en ppm: -69,6 et -63,8 (d et s, CF., (1) (£) et (1) (Z), 4 J &quot; -CF , = 1,6 Hz); spectrométrie de masse: M + = 224. Anal. calc. pour CK)HI 5 F.,0 2 : C 53,57, H 6,69, F 25,44; trouvé: C 53,42, H 6,82, F 25,28.</p> 
+			
+			<p>Synthèse du mélange 1 (E, Z) + 2 (E, Z) A 0,96 g de NaH (préalablement lavé deux fois à l&apos;hexane et deux fois au THF) mis en suspension dans 30 mL de THF anhydre, on ajoute goutte à goutte 0,02 mol de carboéthoxyméthyl diéthyl phosphonate . On laisse 1 h sous agitation magnétique et sous courant d&apos;azote, puis on ajoute lentement 0,02 mol de trifluoro-1,1.1 hexanonc-2. Après 3 h de réaction, le mélange est porté au reflux du THF pendant 1/2 h. On laisse refroidir, puis le mélange est traité par l&apos;eau et extrait à l&apos;éther. La phase ethérée est lavcc à l&apos;eau et séchée. Après évaporation du solvant, le mélange est analysé par un appareil de spcctrométric de masse couplé à la chromatographic en phase vapeur.</p> 
+			
+			<p>Nous avons obtenu un mélange complexe de 2 produits attendus 1 = 10%, déjà caractérisés et 2 produits inattendus 2 dans la proportion 81/9%, Rt 62%; 2 Eb/125 Torr I04°C; 1 Eb/280 Torr 80°C. Les composés 2 sont séparés par chromatographic en phase liquide, colonne d&apos;alumine d&apos;activité neutre, calibre 0,063 —0,200 mm, éluant hexane—éther 9:1 (v/v).</p> 
+			
+			<p>2 (E, Z) Isomère E: ir (CCI 4 ) v en cm&apos; 1 : 1724 (C=0), 1669 (C=C), 1100-1250 (C—F); rmn &apos;H (CDCI,. référence interne TMS) Ô en ppm: 6,33 (tq. H, =CH—, V &quot; &quot; = 7,5 Hz, &apos;./ &quot; , &quot; , &quot; = 1,8 Hz), 4,16 (q, 2H, —OCH 2 —, V M &quot; = 7,5 Hz). 1,23 (t. 3H, —CH.,, = 7,5 Hz), 3,18 (s, 2H,—CH 2 COO—), 2,11-1,43 (m, 4H, —(CH 2 ) 2 —), 0,91 (t, 3H, —CH,, V &quot; ii = 7.5 Hz); rmn &quot;&apos;F (CDCI,, référence interne CFCI,) ô en ppm: —68,5 (q, CF,, 4 J U CF , «°;.«&gt; = 5 J C&apos; HÏ-CF, m ¡m. *) = 2 Hz); spectrométrie de masse: M + = 224. Anal. calc.&quot; pour C &quot; ,H|,F,0 2 : C 53,57, H 6,69, F 25,44; trouvé: C 53,48, H 6,72, F 25,31.</p> 
+			
+			<p>Isomère Z: ir (CCI 4 ) v en cm&apos;&quot; 1 : 1728 (C=0), 1667 (C=C), I 100-1250 (C—F); rmn &apos;H (CDCI,, référence interne TMS) 8 en ppm: 5,88 (tq. H, =CH—, V H . H = 6,5 Hz, 4 J IU CP , ,, &quot; &quot; &quot; , = 0,8 Hz), 4,16 (q, 2H, —OCH 2 —, V M &quot; = 7,5 Hz). 1,23 (t, 3H, —CH.,, Vn- &quot; = 7,5 Hz), 3,16 (s, 2H,—CH 2 COO—), 2,28-1,46 (m, 4H, —(CH 2 ) 2 —), 0,93 (t, 3H,— CH,, V &quot; &quot; = 7,5 Hz); rmn &quot;&apos;F (CDCI,, référence interne CFCI,) ô en ppm: —60,2 (t, CF,, Vu &lt;&gt;, = 2 Hz); spectrométrie de masse: M + = 224. Anal. calc. pour CIOH| 5 F.,0 2 : 53,57, H 6,69, F 25,44; trouvé: C 53,62, H 6,82, F 25,35.</p>
+			
+			<p>Synthèse de 3 (E)</p>
+			
+			<p>Les conditions opératoires sont identiques aux précédentes (Horner—Emmons), avec la benzyl trifluorométhyl cétone; Rt 74,5%, Eb/30 Torr I2I°C; ir (CC1 4 ) ven cm &apos;: I724(C=0), 1621 (C=C), I 100-1250 (C—F); rmn &apos;H (CDCI,, référence interne TMS) 8 en ppm: 7,4 (s, 6H, protons aromatiques et proton éthylénique), 4,2 (q, 2H, —OCH 2 —, -V H -n = 7,5 Hz), 1,26 (t, 3H, —CH.,, V &quot; ~ H = 7,5 Hz), 3,36 (s, 2H, —CH 2 COO—); rmn &quot;&apos;F (CDCI,, référence interne CFCI,) ô en ppm: —67,6 (d, CF,, 4 J U CF , &quot; .,-,, = 1,6 Hz); spectrométrie de masse: M + = 258. Anal. calc. pour CI,H,,F,0 2 : C 60,46, H 5,03, F 22,09; trouvé: C 60,38. H 5,10, F 22,14.</p>
+
+			</div>
+			
+			<note place="foot">1 La réaction d&apos;Horner—Emmons avec (CF 3 )C(0)Ph est stéréospécifique et conduit au produit (CF:,)C(Ph)=CH—COOEt (isomère E).</note>
+				
+			<note place="foot">2 Dans le cas de la réaction de Wittig, cette cétone condensée avec le carboéthoxyméthylènetriphénylphosphorane conduit au benzyl-3 trifluoro-4,4,4 butène-2 oate d&apos;éthyle (isomère E (75%); isomère Z (25%)).</note>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Wittig</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>	
+		<title level="j">Experientia</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">41</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chcm</title>
+		<imprint>
+			<biblScope type="vol">68</biblScope>
+			<biblScope type="issue">505</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Horner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hoffmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">G</forename>
+				<surname>Wippel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Ber</title>
+		<imprint>
+			<biblScope type="vol">91</biblScope>
+			<biblScope type="pp">61</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Horner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Hoffmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Klahre</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chcm. Ber</title>
+		<imprint>
+			<biblScope type="vol">92</biblScope>
+			<biblScope type="pp">2499</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">S</forename>
+				<surname>Wadsworth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jr</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">D</forename>
+				<surname>Emmons</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">83</biblScope>
+			<biblScope type="pp">1732</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Dans Ylid chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">W</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966" />
+			<publisher>Academic Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">K</forename>
+				<surname>Knunyants</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">P Ch &apos;en Ch &apos;ing Yun</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Acad. Sci. U.S.S.R. (Engl. Transi.)</title>
+		<imprint>
+			<biblScope type="pp">633</biblScope>
+			<date type="published" when="1962" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Dull</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">1</forename>
+				<surname>Baxter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">S</forename>
+				<surname>Mosher</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chcm</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">1622</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Wakselman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluorine Chem</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">97</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse de 3ème Cycle</title>
+<meeting><address>Nice</address></meeting>		<imprint>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Camp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Coll</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Messegueret</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">10</biblScope>
+			<biblScope type="pp">791</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Dislich</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope type="vol">18</biblScope>
+			<biblScope type="pp">49</biblScope>
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Structure and mechanism in organic chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969" />
+			<publisher>Cornell University Press</publisher>
+			<biblScope type="pp">823</biblScope>
+			<pubPlace>Ithaca, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">P</forename>
+				<surname>Linstead</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rep. Prog. Chem.(Chem. Soc. London)</title>
+		<imprint>
+			<biblScope type="vol">24</biblScope>
+			<biblScope type="pp">109</biblScope>
+			<date type="published" when="1927" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">P</forename>
+				<surname>Linstead</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rep. Prog. Chcm. (Chem. Soc. London)</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="pp">119</biblScope>
+			<date type="published" when="1928" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">W</forename>
+				<surname>Baker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1934" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Organic chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1938" />
+			<publisher>Wiley</publisher>
+			<biblScope type="pp">819</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lespiau</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Fr</title>
+		<imprint>
+			<biblScope type="pp">460</biblScope>
+			<date type="published" when="1905" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Burton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">L</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">T</forename>
+				<surname>Bogan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">44</biblScope>
+			<biblScope type="pp">635</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">R</forename>
+				<surname>Leeder</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope type="vol">5</biblScope>
+			<biblScope type="pp">1004</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Burton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">E</forename>
+				<surname>Herkeset</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">J</forename>
+				<surname>Klabunde</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">88</biblScope>
+			<biblScope type="pp">5042</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chcm. Ind</title>
+		<imprint>
+			<biblScope type="vol">990</biblScope>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">A. MAECHER. Org. React</title>
+		<imprint>
+			<biblScope type="vol">14</biblScope>
+			<biblScope type="issue">277</biblScope>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Dans Organophosphorous reagents in organic synthesis. Edité par J. I. G. Cadogan</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">G</forename>
+				<forename type="first">Gosney</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979" />
+			<publisher>Academic Press</publisher>
+			<biblScope type="pp">17</biblScope>
+			<pubPlace>Londres</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">F</forename>
+				<surname>Kucherov</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nauk S.S.S.R. Ser. Khim</title>
+		<imprint>
+			<biblScope type="pp">1341</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chcm. Abstr</title>
+		<imprint>
+			<biblScope type="vol">61</biblScope>
+			<biblScope type="pp">11887</biblScope>
+			<date type="published" when="1964" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Petrov</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monatsh. Chcm</title>
+		<imprint>
+			<biblScope type="pp">1651</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sykes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">C J</forename>
+				<surname>Tohamas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc</title>
+		<imprint>
+			<biblScope type="vol">835</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Chcm. Ind</title>
+		<imprint>
+			<biblScope type="vol">630</biblScope>
+			<date type="published" when="1955" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Levine</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chcm. Soc</title>
+		<imprint>
+			<biblScope type="vol">78</biblScope>
+			<biblScope type="pp">2268</biblScope>
+			<date type="published" when="1956" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">E</forename>
+				<surname>Dreger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Synth</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">306</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Burton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">1311</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

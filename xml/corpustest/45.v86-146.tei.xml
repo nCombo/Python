@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Transferts d'électrons assistés par les métaux de transition : influence de la nature du cation métallique sur la réduction de composés carbonylés en milieu aprotique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1986">1986</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Françoise</forename>
+								<surname>Fournier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique structurale, Centre national de la recherche scientifique, Unité associée 419</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, cédex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Fournier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique structurale, Centre national de la recherche scientifique, Unité associée 419</orgName>
+								<orgName type="institution">Université Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230, cédex 05</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Transferts d'électrons assistés par les métaux de transition : influence de la nature du cation métallique sur la réduction de composés carbonylés en milieu aprotique</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>L'électropinacolisation de cétones est favorisée en présence de cations des métaux de transition. C'est un phénomène général qui se produit avec Cr2+, Mn2+, Fe2+, Co2+, Zn2+, mais pas avec Ni2+. La réduction conduit aux a-glycols, avec un bon résultat, sans résinification et à un potentiel moins négatif que celui de la cétone de départ. La répartition des composés isolés dépend du caractère acide, au sens de Lewis, et du pouvoir complexant du cation métallique. Ainsi, la plus grande spécificité, en dimère généralement, est observée avec F e 2 + , sauf pour la chalcone, où Z n 2 + conduit à la meilleure stéréosélectivité. Aucun complexe préexistant, entre le dérivé carbonylé et l'ion métallique, n'a pu être mis en évidence.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>The pinacolisation of ketones is enhanced when a bivalent transition metal cation is present. This phenomenon is general and occurs with Cr2+, Mn2+, Fe2+, Co2+, Zn2+ but not with Ni2+. The cathodic reduction leads to a-glycols with a good yield, without any resin production, and at a less negative potential than that of the ketone itself. The distribution of all isolated compounds is dependent on the Lewis character-acidity and complexing power of the metallic cation. Thus, for the dimerization, the greatest specificity is generally observed when Fe2+ is present. For the chalcone, the better stereoselectivity is obtained with Zn2+. No evidence of initial carbonyl complex of the metal ion was shown.</p>
+			</div>
+		</front>
+		<body>
+			<p>Les réactions catalysées par transferts d'électrons et plus particulièrement celles assistées par les complexes de métaux de transition, font l'objet d'études intensives (1).</p>
+			<p>Le cas des composés carbonylés, spécialement celui des cétones aromatiques, suscite depuis ces dernières années quelques controverses (2). En effet, le problème essentiel qui se pose dans l'interprétation du mécanisme de la réduction électrochimique duplicative de la fonction carbonylé est celui de l'étape de couplage. Ainsi après formation initiale de l'anion radical A T , éventuellement suivie de sa protonation, trois types de couplage peuvent être envisagés : (1) radical-radical ; (2) radical-substrat ; (3) ion-substrat. Ce qui peut être résumé par le Schéma suivant :</p>
+			<p>ce qui se traduit sur le plan préparatif, par l'obtention de ! différents produits, monomères ou dimères.</p>
+			<p>Par exemple, avec les cétones aromatiques, on obtient uniquement des alcools (monoalcool ou diol). Par contre, avec les cétones ct-j3 éthyléniques, les hydrodimères formés peuvent avoir des structures diverses, le radical anion créé existant sous plusieurs formes tautomères. Ainsi selon les liaison formées :</p>
+			<p><formula>4 3 2 1 C=C—c=o diol biséthylénique furanne</formula></p>
+			<p>De plus, si le milieu est aprotique, DMF par exemple, l'électroréduction des cétones aromatiques conduit souvent à un fort pourcentage d'alcools par rapport à celui des glycols-a (3). Elle s'accompagne malheureusement d'une intense résinification . Le rapport monomère-dimère dépend de nombreux paramètres (4), et en particulier de la concentration d'éventuels donneurs de protons introduits en cours de réduction (2b, 2c). La résinification est souvent moins importante pour les cétones insaturées, les composés obtenus correspondant rarement à l'hydromérisation, mais à l'oligomérisation du réactif (dimérisation , trimérisation ...) (5, 6).</p>
+			<p>Des études polarographiques et voltampérométriques ont également montré que lors de l'électroréduction de quelques cétones aromatiques en présence de cations alcalins ou alcalinoterreux (2e, 7) (Na + , Li + , K + , Ba 2+ ), il se forme des paires d'ions souvent instables qui disparaissent par dimérisation ou dismutation. Le schéma réactionnel couramment proposé est alors le suivant :</p>
+			<p>De notre côté, nous avions pu montrer qu'en présence d'un cation métallique de transition tel que Cr(IH) ou Mn(II), la réduction électrochimique des cétones aromatiques (8, 9) ou a-p insaturées (5) conduisait préférentiellement aux hydrodimères avec inhibition totale des polymérisations, et ce, au potentiel même de réduction du métal(II) lorsque ce dernier a un potentiel de demi-vague plus positif que celui de la cétone.</p>
+			<p>Cet effet entraine un gain d'«énergie» pouvant atteindre 500 mV. L'interprétation de ce processus d'électroréduction assistée est complexe bien que certains auteurs pensent en avoir élucidé le mécanisme ( 10,11 ). De plus, leurs études sont restées limitées au seul cas du chrome, alors que nous avons montré que le manganèse présente une action également bénéfique (9).</p>
+			<p>Il nous a paru indispensable d'établir la généralité du phénomène en variant la nature du cation métallique.</p>
+			<p>Notre choix, affecté par la solubilité dans le DMF du chlorure correspondant, a privilégié les éléments de la première série de transition (Cr, Mn, Fe, Co, Ni, Zn) pour étudier l'influence de la configuration électronique sur l'orientation du processus de réduction. Puisque nous avions suggéré antérieurement que le caractère acido-basique du cation métallique pouvait influer sur le mécanisme de l'hydrodimérisation (5), il nous a paru judicieux de pratiquer parallèlement l'étude électrochimique et les électrolyses préparatives en présence de Li + , dont le caractère acide est bien connu dans ce milieu.</p>
+			<p>Pour éviter toute ambiguïté quant à la structure des composés formés et pour faciliter l'établissement des bilans réactionnels, notre étude s'est volontairement limitée à quelques cétones aromatiques, cycliquement ou linéairement encombrées, dont le potentiel de réduction diffère de, ou avoisine, celui du cation métallique, et à une cétone a-(3 éthylénique. Ces composés sont présentés dans la figure i.</p>
+			<div n="A">
+				<head>Analyse polarographique (tabl. 1) et voltammétrique (tabl. 2)</head>
+				<div n="I">
+					<head>Ions des métaux de transition</head>
+					<p>Les polarogrammes et voltammogrammes des espèces Cr(III) et Mn(II) dans le diméthylformamide (DMF) ont été précédemment décrits (8,9). En ce qui concerne les autres cations, leur polarogramme, pour des solutions de concentration 10~ 3 M dans le DMF, présente, soit une seule vague de réduction biélectronique (cas de FeCl 2 -4H 2 0 ou de NiCl 2 -6H 2 0), soit deux vagues de réduction monoélectroniques de hauteurs sensiblement égales (cas de CoCl 2 -6H 2 0).</p>
+					<p>L'analyse par voltamétrie cyclique de ces différents systèmes montre que les pics correspondants aux processus</p>
+					<p>de nature irréversible.</p>
+					<p>Sur électrode stationnaire, sans renouvellement de la goutte de mercure, les voltammogrammes se modifient à chaque cycle jusqu'à disparition complète du phénomène de réduction. Si l'on renouvelle la goutte après chaque balayage, et après agitation de la solution par barbottage d'argon, une variation linéaire du potentiel du premier pic de réduction £ pcl avec le logarithme de la vitesse de balayage (v) est observée. Ces résultats sont rassemblés dans le tableau 2.</p>
+					<p>La solution de ZnCl 2 anhydre ne présente pas de vague de réduction dans le domaine d'électroactivité accessible dans ces conditions.</p>
+					<p>Cette absence de réductibilité, surprenante au premier examen, méritait d'être confirmée. Des essais répétés en solvant anhydre nous ont permis d'établir ce résultat sans ambiguïté. Toutefois, l'addition de traces d'eau (1% en volume) ou l'utilisation de DMF insuffisamment déshydraté permet de révéler, vers —2 V, une vague de hauteur sensiblement égale à celle de Mn 2+ lorsqu'on l'enregistre dans les mêmes conditions. Cette vague est très sensible à la présence d'eau et peut même se déplacer jusqu'à —1,8 V si le zinc est complètement hydraté.</p>
+					<p>Ce phénomène n'est pas affecté par la nature de l'anion du sel de fond puisque les résultats sont inchangés en présence de TB A C10 4 . Le cation Zn 2+ , solvaté par le DMF, est donc non réductible dans ce domaine d'électroactivité (—0,4 V ; —3 V). Ce résultat fera l'objet d'une publication prochaine. 3</p>
+				</div>
+				<div n="II">
+					<head>Cétones</head>
+					<p>Elles présentent toutes une première vague de réduction polarographique qui correspond à l'échange d'un électron. En effet, leur hauteur est égale à moins de 10% près à celle de la vague de réduction du benzaldéhyde enregistrée dans les mêmes conditions et dont il est établi (12) qu'elle traduit un échange monoélectronique réversible.</p>
+					<p>Cette première vague est réversible, pour toute vitesse de balayage, dans le cas des cétones aromatiques (composés 1-9). Par contre pour la chalcone 10, si le balayage est inférieur à 0,5 V s -1 , la réduction devient irréversible.</p>
+					<p>Dans tous les cas, la seconde vague de réduction est, lorsqu'elle n'est pas masquée par la décharge de l'électrolyte support, irréversible et sensiblement monoélectronique.</p>
+				</div>
+				<div n="III">
+					<head>Mélanges cétone - cation métallique</head>
+					<p>Dans un souci de simplicité évidente, nous n'avons considéré que l'influence du cation métallique sur la première vague de réduction du composé carbonylé.</p>
+					<p>(a) Cations non réductibles : Li+, Zn2+</p>
+					<p>Quelle que soit la cétone, leur action est un simple abaissement du potentiel de réduction dans un effet rappelant celui des protons. En voltamétrie cyclique, le pic correspondant devient alors irréversible pour toute vitesse de balayage.</p>
+					<p>Ceci rappelle l'effet bien connu des ions alcalins ou alcalinoterreux , habituellement interprété par la formation de paires d'ions entre le radical anion et le cation. Toutefois, cette interaction est souvent plus importante sur l'espèce A 2 ~ que sur le radical anion A T , ce qui se traduit, sur les polarogrammes, par un rapprochement des deux étapes monoélectroniques, pouvant même conduire à leur confusion. Ceci est particulièrement bien mis en évidence dans le cas des quinones (7 c). Dans notre cas, seule la première vague est très notablement affectée et le zinc présente un effet moindre que celui du lithium.</p>
+					<p>(b) Cation beaucoup plus réductible que la cétone : Ni2+</p>
+					<p>On observe alors (polarographie et voltammétrie cyclique) la simple additivité des systèmes en présence, sans intéraction.</p>
+					<p>(c) Cations de potentiel de réduction voisin de celui du composé carbonylé : Cr2+, Mn2+, Fe2+</p>
+					<p>Dans le cas où le potentiel de réduction du cation métallique est plus négatif que celui de la première vague de réduction de la cétone (fluorénone 9, chalcone 10), la vague de réduction du système M(II)/M(0) disparaît et la première vague de réduction de la cétone se trouve avancée vers des potentiels plus positifs (de 50 à 100 mV selon les cas), rappelant ainsi l'action des cations non réductibles. Il en est de même avec le cation zinc aquo, Zn-(H 2 0) 4 2+ lorsque sa vague de réduction peut être observée.</p>
+					<p>Si le potentiel de réduction du cation métallique est moins négatif que celui de la cétone (cétones aromatiques 1-8), la vaque de réduction de cette dernière disparaît complètement pour des quantités équimolaires de cétone et de sel métallique. La vague de réduction du métal M(II) —» M(0) est très peu affectée et se déplace légèrement vers les potentiels positifs (de l'ordre de 10 mV).</p>
+					<p>La voltammétrie cyclique montre, pour toute vitesse de balayage supérieure à 5 mV s" 1 , la simple additivité de systèmes en présence pour quasiment toutes les cétones aromatiques.</p>
+					<p>Par contre, pour la chalcone 10, l'addition de quantités croissantes de cation métallique entraîne l'apparition d'un nouveau pic, irréversible, qui remplace progressivement le premier pic de réduction de la chalcone. Sa hauteur croit et le potentiel de pic £ pc] se déplace légèrement vers des potentiels moins négatifs. À l'équimolarité, ce nouveau pic, traduit une réaction monoélectronique. L'addition d'un excès de cation métallique n'affecte pas le potentiel de pic, mais augmente légèrement sa hauteur. Les pics de réduction propres au cation métallique ne réapparaissent jamais.</p>
+					<p>Le comportement des systèmes 6d, le et 8b est intermédiaire ; il dépend fortement de la vitesse de balayage, et nous verrons plus loin que dans ces cas le monoalcool est obtenu seul et quantitativement.</p>
+					<p>( d ) Cas du cobalt Co2+</p>
+					<p>Les vagues polarographiques sont mal définies en raison de la complexité du système Co 2+ /Co (0) . Toutefois, quelques effets marqués peuvent être observés. Pour les cétones dont la première vague de réduction est située entre les deux vagues de réduction Co 2+ —&gt; Co + , Co + —&gt; Co (0) du cation métallique (cétone aromatiques 1-8) la deuxième vague de réduction du cation métallique (Co + —&gt; Co°) disparaît sans que la vague correspondant au système Co 2+ —» Co + soit affectée. La vague de réduction de la cétone est alors légèrement déplacée vers des potentiels moins négatifs. Le phénomène est proche de celui observé dans le cas du chrome(III) et décrit antérieurement (5, 10, 11).</p>
+					<p>Pour les cétones dont la réduction se fait avant celle du système métallique (florénone 9 et chalcone 10), les vagues du système Co 2+ /Co disparaissent comme dans le cas précédent (III(c)) et la première vague de réduction de la cétone se déplace vers des potentiels moins négatifs. En voltammétrie cyclique, le phénomène est analogue à celui décrit en III(c).</p>
+				</div>
+				<div n="IV">
+					<head>Discussion</head>
+					<p>Dans tous les cas de cétones aromatiques, il apparaît que l'interaction composé carbonylé -espèce métallique est cinétiquement lente, puisqu'elle n'affecte les voltammo grammes que pour des vitesses de balayage inférieures à 5 mV s -1 , domaine où les processus de diffusion deviennent prépondérants. Aux vitesses supérieures, les systèmes cation métallique/métal cétone/radical anion se comportent indépendamment, y compris en terme de réversibilité de la première étape du dérivé carbonylé. Les modifications observées aux faibles vitesses ne peuvent donc provenir que d'une réaction lente impliquant l'espèce métallique. Par contre, dans le cas d'insaturation (chalcone 10) ou dans les cas 8b, 6d et 7c, l'interaction est soit très rapide, soit d'une autre nature ; puisque la disparition du pic de réduction du métal est observée même pour des vitesses supérieures à 5mVs _1 et jusqu'à des vitesses égales à 500 raV s -1 , limite supérieure accessible avec notre appareillage. La variation du potentiel du premier pic de réduction du système cétone -cation métallique en fonction de log v 4 (8E pcl /ô log v) est fortement dépendante du cation métallique présent comme le montre le tableau 2, et ceci que cette première étape soit attribuée à la réduction du cation ou à la réduction du dérivé carbonylé.</p>
+					<p>Ceci suggère donc que l'échange électronique a lieu sur chaque espèce indépendamment, bien que suivi d'une interaction forte entre les espèces formées, interaction dont la cinétique peut être lente ou très rapide selon le cas.</p>
+				</div>
+			</div>
+			<div n="B">
+				<head>Étude spectrophotométrique</head>
+				<p>Dans le but de mettre en évidence un éventuel complexe cétone -ion métallique préexistant dans la solution avant électrolyse et de déterminer l'influence des ions halogénures (chlorures et bromures) présents en concentration importante, nous avons choisi d'étudier l'influence du dérivé carbonylé sur le spectre d'absorption du cation métallique. Cette étude a été menée avec le cobalt, dont le spectre d'absorption électronique est caractéristique ( <ref type="figure">fig. 2</ref>), dans les conditions de concentration des électrolyses préparatives.</p>
+				<p>Dans le DMF, pour l'ion cobalteux, si le contre ion n'est pas complexant (nitrate par exemple), le spectre est voisin de celui de l'ion hexa aquo (X. max 520 nm, e = 22,5). Par contre, à la même concentration, le chlorure cobalteux hexahydraté fournit un spectre caractéristique du complexe tétraédrique CoCl 4 2-en présence de la quantité équivalente du complexe aquo. Si le sel est dissout en présence de TB ABr 0,1 M, alors la proportion de cobalt cationique décroit au profit du mélange des complexes halogénés.</p>
+				<p>L'addition de benzophénone 6 à la solution dans le DMF du composé cationique aquo Co-(H 2 0) 6 2+ ne modifie pas le spectre du complexe cationique. Il en est de même dans le cas du complexe anionique. Aucune modification dans la répartition des deux espèces n'est perceptible. Ainsi, peut-on considérer qu'il n'y a pas d'interaction préexistante significative dans ce cas.</p>
+				<p>La même étude a été menée avec la chalcone 10. Là encore, aucune interaction ne se manifeste sur le spectre de l'élément métallique. Il en est de même du spectre de la chalcone 10, qui n'est pas influencé par la présence du cobalt. La même observation peut être faite pour une solution de chalcone dans LiCl 0,1 M.</p>
+			</div>
+			<div n="C">
+				<head>Électrolyses</head>
+				<p>Les bilans réactionnels globaux, en produits effectivement isolés, pour chaque composé et chaque système métallique sont rassemblés dans le tableau 3. Les résultats des électrolyses préparatives confirment la différence de comportement des cétones aromatiques et d'un composé a-(3 insaturé, comme la chalcone, telle qu'elle est suggérée par la voltammétrie cyclique.</p>
+				<div n="I">
+					<head>Coulométries</head>
+					<div n="a">
+						<head>Chalcone 10</head>
+						<p>Réalisées dans les conditions d'équimolarité cétone -cation ! métallique, au palier de la nouvelle vague de réduction de 10, | les coulométries confirment, pour tout métal, un échange monoélectronique (1-1,2 F/mol selon les cas).</p>
+					</div>
+					<div n="b">
+						<head>Cétones aromatiques 1-9</head>
+						<p>La proportion respective R de cation métallique et de cétone a été déterminée empiriquement par variation continue de telle sorte que ces conditions expérimentales permettent la conversion totale du composé carbonylé de départ.</p>
+						<p>Dans le cas où le cation métallique n'est pas réductible (Li + , Zn 2 ), l'équimolarité (R = 1) des composants suffit pour transformer la totalité de la cétone par réduction au palier de sa première vague et après passage d'une quantité d'électricité Q variable selon le composé carbonylé et telle que</p>
+						<p><formula>1,5 F ^ Q « 2 F pour Li + 2 F ^ Q =£ 3 F pour Zn 2+</formula></p>
+						<p>Lorsque le cation métallique est lui-même réductible (Cr 3+ , Mn 2+ , Fe 2+ , Co 2+ ), mais de potentiel de réduction voisin de celui de la cétone, la réduction a été menée au potentiel du palier de la vague de réduction du cation métallique (système M n /M°) dans le cas des composés 1-8. Dans le cas du composé 9, c'est la première vague de réduction de la fluorénone qui est touchée et nous considérerons ce composé à part.</p>
+						<p>Pour un composé donné, les proportions respectives des constituants dépendent fortement du métal. Si l'équimolarité (R = 1) suffit pour Cr 3 " 1 " et Mn 2+ , il faut doubler la quantité du cation (R = 2) dans le cas où M = Fe ou Co. Ainsi, pour la tétralone 1 en présence de Fe 2+ , l'électrolyse ne conduit après séparation qu'à un taux de conversion de 78% (60% de diol d,l et 18% de diol méso) si R = 1.</p>
+						<p>Ceci s'explique si l'on prend en compte les quantités respectives anion/cation dans ces deux cas précis ( <ref type="figure">fig. 2</ref>) où l'étude spectrophotométrique indique une équipartition entre les complexes cationiques et anioniques, et si l'on admet que c'est l'espèce cationique qui intervient dans le phénomène d'électrocatalyse . Il en est vraisemblablement de même dans le cas du fer(II). Les quantités d'électricité sont telles que les taux de conversion de 100% ne sont obtenus que pour</p>
+						<p><formula>Q = 4 F (Cr 3 " 1 "); 3 F (Mn 2+ ) 3F^ Q ^ 5 F(Fe 2+ , Co 2+ )</formula></p>
+						<p>Si l'on considère (8) que le système Cr 3 " 1 " —Cr 2 " 1 " consomme 1F sans intervenir dans le processus, ce qui est confirmé par l'utilisation de chrome(II), alors chrome et manganèse sont équivalents du simple point de vue de la coulométrie (3 F). Par contre, après prise en compte de l'excès d'espèce métallique, fer et cobalt induisent un échange tel que 1 F ^ Q 3 F selon le cas; c'est-à-dire un comportement intermédiaire entre Li + et Cr 2 " 1 " (Mn 2+ ). Si le cation métallique est beaucoup plus réductible que la cétone (Ni 2+ ), le taux de conversion T est toujours nul quel que soit R.</p>
+						<p>La fluorénone 9 se distingue des autres cétones aromatiques. Le taux de conversion est nul (T = 0) avec Li + , Mn 2+ et Ni 2+ quel que soit R. Il est maximum (T = 100%) avec C^iR = 1, Q = 4 F); Co 2+ (R = 2, Q = 1,7 F); (R = 2, Q = 1,2 F). Dans ce cas encore, si le rapport fer/fluorénone est R = 1, le taux de conversion est T = 80% et après traitement le mélange comprend 80% de diol et 20% de fluorénone non transformée.</p>
+					</div>
+				</div>
+				<div n="II">
+					<head>Résultats et discussion</head>
+					<p>L'influence de Ni 2+ est nulle et les résultats des électrolyses préparatives confirment les prévisions qui pouvaient être faites de l'examen des polarogrammes et des voltammogrammes.</p>
+					<p>Par contre, comme le montre le tableau 3, la nature et la répartition des produits obtenus dépendent plus ou moins du cation présent selon la cétone étudiée.</p>
+					<p>(a) Cétone a-(3 insaturée 10</p>
+					<p>La structure des hydrodimères obtenus par électroréduction de la chalcone 10 a été résolue dans une publication antérieure (5). La prise en compte des facteurs orbitalaires et des données électrochimiques a permis de proposer, pour chaque hydrodimère , un mécanisme de formation. Dans ce mémoire (5), nous avions montré qu'en l'absence de cation métallique, la réduction électrochimique (DMF, TBABr 0,1 M) conduit, par une réaction d'oligomérisation radicalaire, à un trimère cétonique cyclique avec un rendement de 60%, à côté de résines non séparables. Nous avions montré également qu'en présence d'un cation métallique, tel que Cr 3 " 1 ", le taux de conversion et le rendement chimique sont toujours de 100%, le produit majoritaire étant toujours un P-cétol.</p>
+					<p>Qu'en est-il, en présence d'ions métalliques de polarisabilité différente, mais qui, dans ce cas, se réduisent toujours après le composé carbonylé, et dont les voltammogrammes suggèrent une interaction cétone-cation forte et rapide qui pourrait être de type paire d'ions?</p>
+					<p>(¡) Cations non réductibles</p>
+					<p>En présence de Li + , le p-cétol est obtenu de façon sélective, avec un rendement très élevé, sous ses deux formes cis (46%) et trans (46%).</p>
+					<p>En présence de Zn 2+ anhydre, le même cétol est obtenu avec un rendement de 97%, mais uniquement sous sa forme trans. Dans ces deux cas, un seul produit est formé et la variation du potentiel de pic de réduction de la cétone avec la vitesse de balayage est une droite de pente — 32 mV. La pente théorique pour un mécanisme de couplage radical anion -substrat est de 30 mV (13). Ceci suggère que le mécanisme de formation du P-cétol débute par l'attaque d'un radical anion sur une molécule neutre. Un tel couplage a d'ailleurs été proposé par Savéant dans le cas de milieux aprotiques très secs (14). Le radical anion serait stabilisé par formation d'une paire d'ions avec le cation métallique, ce qui est conséquent avec la variation du ptoentiel de demi-vague du composé carbonylé vers les potentiels positifs. De telles interactions sont fondamentales dans les processus biochimiques où l'ion Zn 2+ est particulièrement efficace dans l'hydrolyse des chaînes peptidiques. De la même façon, l'influence de l'ion Mg 2+ a déjà été signalée lors de la réduction de composés carbonylés (15).</p>
+					<p>2 2 2+ 2+ (ii) Cations réductibles : Cr *, Fe *, Co , Mn</p>
+					<p>Les composés obtenus sont les mêmes pour tous ces cations : cétone, dicétone, p-cétols, mais leur répartition dépend sensiblement du cation métallique antagoniste. La différence de comportement est maximum avec Co 2+ . Avec Mn 2+ , on note la présence d'un composé nouveau hydroxy-4 furannique en place de la dicétone. Ce nouveau composé est présent sous forme d'au moins trois diastéréoisomères.</p>
+					<p>L'ensemble de ces observations peut se relier au caractère acide de Lewis de ces cations si l'on se réfère à l'échelle de dureté au sens de Jorgensen (16):</p>
+					<p><formula>cr A : + 4,5</formula></p>
+					<p>cr A représentant la douceur, £° le potentiel standard du couple M z+ /M°, z la charge de l'ion, et l'on suppose que les cations sont solvatés d'une manière équivalente. Dans ces conditions, les ions se classent comme ci-dessous :</p>
+					<p><formula>W Mn 2+ Cr 2 " 1 Zn 2+ Fe .2+ Co 2+ 1,48 1,65 1,79 1,87 2,03 2,11 douceur</formula></p>
+					<p>Il apparaît bien que le caractère acide de Mn, Fe, Cr, est de même nature, l'ion Co 2+ étant un peu moins dur d'où une moindre proportion de cétol si l'on admet que c'est bien une interaction de nature acide qui favorise ce composé (5).</p>
+					<p>Le mécanisme primaire est complexe puisque la nature des produits obtenus est variée et l'examen des pentes ô£ pc /S log v est d'un faible secours puisque la compétition entre plusieurs mécanismes est probable. Le cas de Cr 2 " 1 " est peut être le plus simple puisque le système métallique seul n'interfère pas (pente nulle pour l'ion isolé).</p>
+					<p>Dans ce cas, une pente de 22 mV est obtenue en présence de chalcone, ce qui peut être interprêté comme une dimérisation primaire du radical anion conduisant à la dicétone, ce processus imposant sa vitesse. Le caractère électrophile du substrat dépendant de la force de l'interaction avec le métal de transition, un acide dur orientera préférentiellement la duplication vers une réaction de type radical anion -substrat; un acide mou défavorisera cette interaction d'autant plus qu'il est mou et la réaction radical anion -radical anion ne s'en exprimera que mieux.</p>
+					<p>( b ) Cétones aromatiques 1-9</p>
+					<p>La plupart des cations se réduisent avant le composé carbonylé et c'est sur cette vague que nous conduisons l'électrolyse. Dans les quelques cas où le cation métallique se réduit après le composé carbonylé (Li + , Zn 2+ ), on conduit l'électrolyse au potentiel de réduction de la cétone, valeur déplacée vers les potentiels moins négatifs, vraisemblablement par un effet de type paires d'ions comme en la réf. 7. Les résultats des électrolytes préparatives sont plus complexes à analyser, quel que soit le cation métallique.</p>
+					<p>Toutefois, dans le DMF, en présence de cation métallique, nous dégageons quelques points importants :</p>
+					<p>Les résinifications sont totalement supprimées.</p>
+					<p>Les cétones aromatiques encombrées sont réduites au potentiel de réduction du cation métallique, ce qui représente souvent un gain supérieur à 400 mV (1, 2, 3, 5, 7) par rapport au potentiel de réduction de la cétone seule.</p>
+					<p>La répartition des produits obtenus, diols ou alcools, dépend beaucoup du métal. Les différences les plus marquées sont obtenues dans le cas des composés 5, 6, 7, 8 et 9. De tous les cations Fe 2+ est le plus sélectif puisque dans presque tous les cas le diol est obtenu comme produit unique, sous forme méso ou dl, avec un rendement supérieur à 85%. Le rendement faradique (exprimé comme le rapport entre la coulométrie théorique de réduction de la cétone (1 F/mol) et la coulométrie réelle) est toujours inférieur à 1. Il est même quelque fois très faible (0,2) contrairement au cas de la chalcone 10 où le rendement faradique est toujours voisin de 1.</p>
+					<p>Dans tous les cas où le monoalcool est obtenu seul (cas 8b avec Cr 2 " 1 ", le avec Mn 2+ , 6d avec Fe 2+ ), on n'observe, en voltammétrie cyclique, que le pic de réduction du composé carbonylé et ceci quelles que soient les vitesses de balayage. Le pic du cation métallique n'apparaît jamais. Au contraire, dans le cas où le diol est formé, la voltammétrie cyclique montre une simple additivité des systèmes ; il est logique de supposer que le système métallique est le premier touché.</p>
+					<p>Les taux de conversion ne sont en général pas proportionnels à la quantité d'électricité échangée. Ainsi lorsque le diol est le seul produit formé, on attend un rendement de 0,33 F puisque 2 F sont consommés dans la réaction M 11 -» M 0 en sus d'une éventuelle réduction du composé carbonylé. C'est en particulier le cas de Cr 2 " 1 " et Mn 2+ . Un test simple permet de confirme cette observation. Dans le cas de la tétralone 1, si l'électrolyse en présence de Mn 2+ est arrêtée après 2,2 F, seulement 63% de diol se sont formés et 20% de 1 n'ont pas été transformés ; 0,8 F sont donc nécessaire à la transformation des 20% restants. Le même test mené avec Cr 2 " 1 ", conduit après passage de 1,5 F à un mélange de 60% de produit de départ 1 et 29% de diol. Il faut donc 1,5 F pour transformer les 60% restants.</p>
+					<p>La présence simultanée du cation métallique et du composé carbonylé est indispensable au processus d'électroréduction. Ainsi, un test de préélectrolyse du cation jusqu'à l'état métallique (2 F) suivi de l'introduction de la cétone 1 dans le compartiment cathodique en maintenant le potentiel du mercure au potentiel de réduction du métal ne conduit à aucune duplication (on récupère intégralement la cétone de départ si le cation est Mn 2+ ; la résinification est totale avec Fe 2+ ).</p>
+					<p>Le rendement final dépend fortement de la quantité de cation présente. Ainsi si la préélectrolyse du cation n'est menée que jusqu'à 1,5 F (cas de MnCl 2 ) puis poursuivie normalement, après ajout de la cétone 1, jusqu'à son terme (3 F), on récupère après séparation 50% de diol et 35% de résines. 25% de la quantité initiale de cation ont permis 50% de duplication.</p>
+					<p>D . Interprétation</p>
+					<p>L'ensemble de ces observations, bien que ne permettant pas d'élucider complètement et définitivement les mécanismes mis enjeu, suggère cependant quelques voies d'approche.</p>
+					<p>Dans les cas les plus simples (chalcone 10, cations peu ou non réductibles), le composé carbonylé est le premier réduit et le radical anion formé interagit plus ou moins fortement avec le cation métallique dans une interaction de type paire d'ions R T ... M + ou R T ... M 2+ ... R t . Ceci est assez classique. Le radical ainsi stabilisé peut alors réagir sur une molécule neutre ou sur lui-même. Dans tous les cas, si le cation était réductible son potentiel de demi-vague devient plus négatif dans cette interaction et peut se trouver repoussé lors de la zone d'électroactivité.</p>
+					<p>L'interprétation des autres systèmes est plus délicate. La première étape de réduction doit être nécessairement le passage du cation à l'état métallique, le carbonylé n'étant pas touché ; une interaction de type paire d'ions entre le radical et l'ion métallique est impossible.</p>
+					<p>Comme l'étude spectrale, dans la zone des transferts électroniques du métal de transition, n'a mis en évidence aucune interaction préexistante importante, la présence nécessaire de la cétone en début d'électrolyse ne peut s'expliquer que par interaction entre des centres métalliques réduits à la surface du mercure et le système aromatique du composé carbonylé, avant que le métal ne puisse diffuser dans l'électrode (amalgame) ou s'agréger en particules inertes ( <ref type="figure">fig. 3</ref>). Cette participation du métal de la cathode (mercure) est suggérée par l'observation de : la passivation d'une électrode à goutte de mercure déposée sur électrode d'or et polarisée au potentiel de réduction du cation métallique. Après un tel traitement l'électrode reste inactivé : vis-à-vis du composé carbonylé même après lavage.</p>
+					<p>L'amalgame ou le métal divisé peut être réducteur et conduire à la formation de résines, comme dans une réduction classique. 5 La répartition des produits de réaction depend donc des cinétiques de toutes ces interactions. Le comportement de tous ces composés carbonylés peut, peut-être, s'expliquer par le ! passage progressif d'une interaction forte de type complexe à l'interaction faible de type «acide-base» selon la variation des facteurs orbitalaires, les deux types d ' interaction pouvant se manifester conjointement. La force de l'interaction forte dépendrait essentiellement de l'aptitude de l'élément métallique à former des complexes intermédiaires de type ir, donc du nombre d'électrons «d» du métal. Ainsi dans le cas du : chrome (d 6 ) et lorsque le noyau benzénique (3 doublets ir) n'est pas fortement conjugué avec le carbonylé (composés 1, 2, 3, 4, 5), les composés type «sandwich» à 18 électrons sont sûrement favorisés. Dans le cas du manganèse, du fer et du cobalt, les complexes ainsi créés seraient à 19, 20 et 21 électrons, ce qui les rendrait particulièrement aptes au transfert électronique interne suivi de la dimérisation des radicaux anions formés et de la libération du métal dans son état d'oxydation I 2+. Dans tous ces cas, ce modèle rend compte de la non j réductibilité du ligand organique après interaction avec le métal.</p>
+					<p>Dans le cas où la conjugaison croit (6, 7, 8) à l'ensemble du système ir, défavorisant le complexe « type sandwich » (20 ê ; pour Cr, puis 21, 22, 23 ê pour Mn, Fe, Co) au profit de l'interaction de type acidobasique au niveau du carbonylé, un échange biélectronique conduisant au monoalcool devient alors possible.</p>
+					<p>Toutefois trop de paramètres ne sont pas encore maîtrisés, | rendant aléatoire une conclusion formelle. La répartition des produits obtenus dépend fortement du cation métallique pour un composé donné. 6 Retenons que, comme nous l'avions suspecté en considérant l'influence des ions Mn 2+ (9), le phénomène de réduction duplicative observé en présence de Cr 3 " 1 " n'est pas spécifique de ce cation métallique. Le phénomène est général pour toute la première série des éléments de transition et son mécanisme, malgré des indices nouveaux, reste encore à démontrer sans ambiguïté.</p>
+				</div>
+			</div>
+			<div>
+				<head>Partie expérimenale</head>
+				<p>Les points de fusion ont été déterminés au banc de Kôfler. Les spectres ir ont été obtenus avec un spectromètre Pye-Unicam SP 3-200, ceux de nrni 13 C avec un appareil Briiker WP 80 et 'H avec un appareil Briiker SY 250. Les spectres uv ont été enregistrés sur Perkin-Elmer 555. Les spectres de masse ont été effectués sur un appareil AEI type MS 30. Les analyse élémentaires ont été effectuées au laboratoire de microanalyse de l'Université de Paris VI que nous tenons à remercier vivement. Les chromatographies sur couche mince ont été réalisées sur gel de silice fluorescente Merck PF-254 (plaque 20 X 20, e = 0,1 cm).</p>
+				<p>En électrochimie, tous les potentiels ont été mesurés par rapport à une électrode de référence au calomel -KC1 saturé (ECS) munie d'une jonction remplie avec une solution de TBA Br 0,1 M dans le DMF (électrode Tacussel RDJ/C 10). Les polarogrammes ont été enregistrés sur une table traçante XY Iffelec IF 3802 couplée à un polarographe PAR 174 A. Les voltammogrammes ont été réalisés grâce à un potentiostat PAR 173 gouverné par un générateur de signaux PAR 175, sur goutte de mercure fournie par une électrode de Kémula à piston micrométrique (Tacussel).</p>
+				<p>Les électrolyses ont été réalisées en atmosphère d'argon, à température ambiante, avec un potentiostat PAR 173 muni d'un coulomètre PAR 179, sur une cathode de mercure de 26 cm 2 environ de surface et agitée avec un barreau aimanté. Les compartiments anodique et cathodique sont séparés par une pastille de verre fritté de porosité 4 et de 2,5 cm de diamètre. L'anode est un disque de platine de 2 cm de diamètre.</p>
+				<p>Le DMF utilisé est d'origine Merck; il est préalablement distillé sur P 2 0 5 . Il contient du bromure de tétrabutylammonium 0,1 M et un peu d'eau 2 X 10" 2 M environ (dosage de Karl-Fischer). Ainsi pour les analyses voltammétriques avec des concentrations en CIC1 3 '6H 2 0 ou MnCl 2 -4H 2 0 de 10~ 3 M, la concentration d'eau est de l'ordre de 2-3 x 10" 2 M; pour les électrolyses où la concentration de sel métallique est en généra] de 7 X 10" 2 M (5 X 10" 3 moles dans 70 cm 3 de solvant), la concentration d'eau est de 0,45 M environ.</p>
+				<p>En fin de réaction (déterminée par analyse polarographique), le mélange obtenu est versé dans un grand volume d'eau (700 cm 3 au moins), extrait à l'éther et séché sur sulfate de sodium. Le solvant est chassé sous vide, le résidu séparé par chromatographie sur couche mince de silice.</p>
+				<p>Les produits résultants des électrolyses ont déjà été décrits (5, 17-20) et nous les avons identifiés par leurs caractéristiques physiques et spectroscopiques, par comparaison avec celles d'échantillons authentiques . Les particularités observés et les spectres de rmn des produits obtenus sont donnés dans les réfs. 5 et 21. Le pourcentage respectif des formes méso et dl, pour les diols de l'acétophénone 5 et du benzaldéhyde 4, a été évalué par spectroscopie rmn (22,23). Dans tous les autres cas, les deux isomères méso et dl ont pu être séparés.</p>
+				<p>Les halogénures métalliques hydratés sont des produits Prolabo, les composés anhydres étant fournis par Ventron. Dans le cas du chrome les mêmes résultats sont obtenus à partir de la solution de chlorure chromique électrolysée à l'état de chlorure chromeux ou à partir de chlorure chromeux anhydre.</p>
+			</div>
+			<div>
+				<head>Remerciements</head>
+				<p>Les auteurs remercient vivement les rapporteurs pour leurs pertinentes remarques et suggestions.</p>
+			</div>
+			<note>3. Un des rapporteurs s'est étonné de la non réductibilité de Zn dans ce milieu et suggère une intervention des anions halogénures introduits simultanément aux cations puisque les sels de départ sont des chlorures et le sel de fond un bromure. Il nous paraît, que la présence d'eau, même à l'état de traces, est le facteur essentiel, ce qui expliquerait nos divergences avec les résultats publiés antérieurement.</note>
+			<note>4. Un des rapporteurs suggère de discuter plutôt de la dépendance de E pc avec la concentration C R du substrat, en considérant les valeurs des pentes 8£ pc /8 log C R . Cette remarque fondée nécessite toutefois de pouvoir explorer un domaine de concentration suffisamment étendu, ce qui nous était difficile compte tenu de la faible solubilité des halogénures utilisés.</note>
+			<note>5. Un des rapporteurs rappelle que la plupart des métaux étudiés sont peu solubles dans le mercure et qu'une adsorption du composé organique sur les cristallites métalliques est possible, modifiant le processus d'électroréduction. Ce phénomène est difficilement discernable d'une vraie complexation au sens organométallique comme nous le proposons.</note>
+			<note>6. Un des rapporteurs rappelle aussi l'influence des métaux de transition dans l'évolution de la réaction des réactifs organomagnésiens avec les fonctions carbonylés (24).</note>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Tobe</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Angew. Chem. Int. Ed. Engl</title>
+							<imprint>
+								<biblScope type="vol">21</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Seguin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Doucetetr</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Uzan</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">C. R. Acad. Sci. Sér</title>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+						</analytic>
+						<monogr>
+							<title level="j">C</title>
+							<imprint>
+								<biblScope type="vol">278</biblScope>
+								<biblScope type="issue">129</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+									<surname>Michel</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Simonet</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">98</biblScope>
+								<biblScope type="pp">319</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">3281</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Lamy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Nadjo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">50</biblScope>
+								<biblScope type="pp">141</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Lasia</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">3256</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">(</forename>
+									<forename type="middle">/</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">H</forename>
+									<surname>Given</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Sihoen</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">2674</biblScope>
+								<date type="published" when="1958"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Cleghorn</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1410</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">M</forename>
+									<surname>Baizer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Organic Electrochemistiy</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="middle">M. M</forename>
+									<surname>Editeur</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Baizer</surname>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1973"/>
+								<publisher>Marcel Dekker</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Wendt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">138</biblScope>
+								<biblScope type="issue">209</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-J</forename>
+									<forename type="middle">Basselier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">5667</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J.-J</forename>
+									<forename type="middle">Basselier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">41</biblScope>
+								<biblScope type="pp">5677</biblScope>
+								<date type="published" when="1985"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">K</forename>
+									<surname>Kalinowski</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">511</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Lasia</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">102117</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Fujinaga</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">Nomura</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">29</biblScope>
+								<biblScope type="pp">203</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">40</biblScope>
+								<biblScope type="pp">339</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acad. Sci</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="issue">849</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="pp">2121</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H. P. Utley</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Chem. Commun</title>
+							<imprint>
+								<biblScope type="pp">1087</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc. Perkin Trans. 2</title>
+							<imprint>
+								<biblScope type="pp">1361</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Perrin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Pouillen</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Tetrahedron</title>
+							<imprint>
+								<biblScope type="vol">36</biblScope>
+								<biblScope type="pp">221</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Anthoine</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B. Wilmet-Devos</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Belg</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">465</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Lamy</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<surname>Nadjo</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Electroanal. Chem</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">189</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M</forename>
+									<surname>Saveant</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta Chem. Scand. Ser. B</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="pp">365</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<monogr>
+							<title level="m" type="main">Mechanisms of inorganic reactions</title>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1967"/>
+								<publisher>John Wiley and Sons, Inc</publisher>
+								<pubPlace>New York</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">K</forename>
+									<surname>Jorgensen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Top. Curr. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Majerus</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Ourisson</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Bull. Soc. Chim. Fr</title>
+							<imprint>
+								<biblScope type="pp">4143</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Seebach</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Daum</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Ber</title>
+							<imprint>
+								<biblScope type="vol">110</biblScope>
+								<biblScope type="pp">2316</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Goth</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Schmidt</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Helv. Chim Acta</title>
+							<imprint>
+								<biblScope type="vol">48</biblScope>
+								<biblScope type="pp">1395</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<surname>Altman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Ginsburg</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Soc</title>
+							<imprint>
+								<biblScope type="pp">1498</biblScope>
+								<date type="published" when="1961"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">Y</forename>
+									<forename type="middle">L</forename>
+									<surname>Pascal</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Convert</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Fournier</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Org. Magn. Reson</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="pp">580</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">H</forename>
+									<surname>Stocker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Jenevein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">412</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">J</forename>
+									<surname>Stocker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">M</forename>
+									<surname>Jenevein</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Org. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">2145</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<title level="a" type="main">Organometallic mechanisms and catalysis</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chap</title>
+							<imprint>
+								<publisher>Aca-demic Press</publisher>
+								<biblScope type="vol">14</biblScope>
+								<biblScope type="pp">514</biblScope>
+								<publisher>Aca-demic Press</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

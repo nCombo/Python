@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Destruction des oxydes d&apos;azote à pression atmosphérique</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1984">1984</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Odile</forename>
+								<surname>Dessaux</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Speetroscopie de la réactivité chimique</orgName>
+								<orgName type="institution">Université des Sciences et Techniques de Lille</orgName>
+								<address>
+									<postCode>59655</postCode>
+									<settlement>Villeneuve d&apos;Ascq Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Pierre</forename>
+								<surname>Goudmand</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Speetroscopie de la réactivité chimique</orgName>
+								<orgName type="institution">Université des Sciences et Techniques de Lille</orgName>
+								<address>
+									<postCode>59655</postCode>
+									<settlement>Villeneuve d&apos;Ascq Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Gérard</forename>
+								<surname>Moreau</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Speetroscopie de la réactivité chimique</orgName>
+								<orgName type="institution">Université des Sciences et Techniques de Lille</orgName>
+								<address>
+									<postCode>59655</postCode>
+									<settlement>Villeneuve d&apos;Ascq Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Brigitte</forename>
+								<surname>Mutel</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de Speetroscopie de la réactivité chimique</orgName>
+								<orgName type="institution">Université des Sciences et Techniques de Lille</orgName>
+								<address>
+									<postCode>59655</postCode>
+									<settlement>Villeneuve d&apos;Ascq Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Destruction des oxydes d&apos;azote à pression atmosphérique</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="en">
+<p>Ce travail illustre l&apos;intérêt de l&apos;utilisation d&apos;une décharge microonde pour l&apos;amélioration du coût énergétique de destruction des oxydes d&apos;azote par l&apos;azote activé à pression atmosphérique. Les facteurs déterminants dans l&apos;optimisation de ce coût sont précisés: il importe d&apos;effectuer l&apos;introduction de NOR dans une zone visuellement bien limitée où la concentration en atomes d&apos;azote est optimale, le coût énergétique de destruction de NOT est alors très proche du coût théorique.</p>				
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>Active nitrogen produced at atmospheric pressure by a microwave discharge is found to require less energy consumption for the decomposition of nitrogen oxides. Important parameters improving the energy cost are described: NO V must be introduced in a visually well-limited zone where the nitrogen atom concentration is maximum, the energy cost is then nearly equal to the theoretical cost.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les industries de l&apos;acide nitrique rejettent dans l&apos;atmosphère de grandes quantités d&apos;oxydes d&apos;azote (N0 2 , NO, N 2 0). Ces rejets, souvent très localisés, ont des teneurs comprises entre 500 et 2000 ppm. Etant donnée la très grande toxicité de N0 2 et NO, le risque de pollution est très élevé à proximité de ces usines. Plusieurs méthodes sont utilisées permettant de réduire les teneurs en oxydes d&apos;azote contenus dans les effluents gazeux avant leur rejet dans l&apos;atmosphère (1-3).</p>
+
+			<p>Un procédé de destruction des oxydes d&apos;azote basé sur la génération d&apos;azote activé à pression atmosphérique a été mis au point au laboratoire (4). 11 existe essentiellement deux agents réactifs dans l&apos;azote activé: les atomes d&apos;azote NC&apos;S) et les molécules d&apos;azote à l&apos;état électronique fondamental vibrationnellement excité. Cette dernière espèce est impliquée dans la synthèse des oxydes d&apos;azote selon une réaction de nature essentiellement hétérogène (5). Sa concentration décroit rapidement lorsque la pression augmente. Les atomes d&apos;azote constituent par contre un agent destructif efficace de NO t suivant la réaction:</p> 
+			
+	<p><formula>[1] N + NO,-&gt;N, + 2 0 2 avec x = 1 ou 2</formula></p>
+
+			<p>Cette réaction est très rapide, la réaction inverse étant environ 10 20 fois plus lente. Une décharge haute tension à pression atmosphérique (6) permet de détruire complètement les oxydes d&apos;azote contenus dans les mélanges (N 2 + NO. t ) tels que [NO,]/ [N 2 ] &lt; 1000 ppm. Pour des teneurs supérieures, la destruction n&apos;est que partielle (83% à 1600 ppm). D&apos;autre part, l&apos;énergie électrique dépensée pour la destruction d&apos;une mole de NO est évaluée à 1,5 kW-h. Ce rendement est peu satisfaisant, l&apos;énergie théorique nécessaire étant de 0,13 kW-h.</p>
+
+			<p>L&apos;objet de ce travail est d&apos;étudier l&apos;incidence de l&apos;utilisation d&apos;un générateur de microondes sur le coût énergétique de destruction des oxydes d&apos;azote à pression atmosphérique et de préciser les facteurs déterminants permettant d&apos;optimiser ce coût. Les oxydes d&apos;azote purs sont introduits dans le flux d&apos;azote activé. La mesure des quantités de NO non détruites après leur réaction avec les atomes d&apos;azote est effectuée pour les deux oxydes NO et N0 2 suivant des procédures expérimentales appropriées.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Procédure expérimentale</head>
+
+			<p>Production des atomes d&apos;azote</p> 
+			
+			<p>Le flux d&apos;azote circulant dans un tube de quartz de 15 mm de  diamètre intérieur, est excité par une cavité résonnante conçue et réalisée au laboratoire (7) reliée à un générateur d&apos;ondes centimétriques Thomson CSF 1211C pouvant délivrer une puissance de 1500 watts à la fréquence v = 2450 MHz ± 25 MHz. Un wattmètre permet de contrôler les puissances incidente (P¡) et réfléchie (P v ). On désigne par P, = P, — P, la puissance transmise à la cavité. La connaissance de P r est très importante car elle renseigne sur l&apos;état de couplage de la cavité: l&apos;adaptation est optimale lorsque P v est minimale . L&apos;obtention d&apos;un plasma à pression atmosphérique nécessite P, &gt; 300 watts. P T reste faible (&lt; 40 watts) tant que P, est &lt; 500 watts puis augmente en fonction de P, pour P, &gt; 500 watts. La valeur P, = 500 watts correspond donc à la valeur minimale de P, et maximale de P,. Le tube à décharge est refroidi à l&apos;air comprimé. Les gaz sont directement évacués dans l&apos;atmosphère.</p>
+				
+			<p>Dosage du N0 2 détruit</p> 
+			
+			<p>Après la réaction de N0 2 avec l&apos;azote activé, l&apos;étude du spectre d&apos;absorption de N0 2 permet la détection des quantités de N0 2 non détruites. Le dispositif de mesure spectroscopique utilisé est décrit dans la <ref type="figure">Fig. 1</ref>. Une lampe à Xe alimentée sous 15 volts par un générateur de courant continu éclaire la fente d&apos;un monochromateur à réseau couvrant la gamme proche uv-visible-ir. La cellule de mesure , longue de 80 cm a un diamètre interne de 40 mm. Elle est peinte en noir afin d&apos;éviter les lumières parasites et est munie de fenêtres en verre. Le photomultiplicateur de type RCA 1P21, dont la réponse spectrale est maximale dans la gamme 400-500 nm, est relié à un enregistreur potentiométrique.</p> 
+			
+			<p>Le spectre d&apos;absorption de N0 2 ayant été préalablement enregistré, le monochromateur est réglé sur la bande d&apos;absorption la plus intense située à 448 nm et la variation d&apos;intensité de cette bande est enregistrée en fonction du débit de N0 2 (gNo2) ajouté à l&apos;azote activé. Le débit maximal de N0 2 pouvant être décomposé par réaction avec N( 4 S) est noté &lt;2°o 2.</p> 
+			
+			<p>Dosage de NO détruit</p> 
+			
+			<p>La méthode utilisée consiste en un dosage &quot;en retour&quot; de la concentration du NO ( [NO]) restant après sa réaction avec l&apos;azote activé. Le dispositif expérimental est décrit dans la <ref type="figure">Fig. 2</ref>. [NOj est directement mesurée par un analyseur NO/NO r Beckman modèle 951 A, basé sur le principe de la chimiluminescence de l&apos;ozone, et dont la gamme de réponse est 0-10 000 ppm. L&apos;échantillon est prélevé à une distance d&apos;environ 80 cm de la décharge et est envoyé dans l&apos;analyseur avec un débit de l&apos;ordre de 2 L/min assuré par une pompe. Le taux de destruction T, exprimé en %, est défini par T = (pprrii -ppm r )/ppm, où pprrii et ppm r désignent respectivement les teneurs du mélange en NO, exprimées en particules par million, avant et après réactions avec l&apos;azote activé; ppmi = (¿NO X 10 6 )/(&lt;2N 2 + G NO ); G N O et &lt;2N, désignent respectivement les débits de NO et de N 2 , mesurés avec des débitmètres respectivement Rota et Brooks; ppm r est déterminé à l&apos;aide de l&apos;analyseur Beckman. Les erreurs relatives A&lt;2NO/&lt;2NO et Appm r /ppm r sont faibles (—1%). La mesure de g N2 effectuée à l&apos;aide d&apos;un débitmètre à flotteur est moins précise: A&lt;2N,/&lt;2N2 = 10%. L&apos;erreur relative sur T est de 12%.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Le calcul du coût énergétique minimal de destruction des oxydes d&apos;azote implique la détermination préalable des paramètres expérimentaux permettant d&apos;optimiser d&apos;une part, le taux de dissociation de l&apos;azote et d&apos;autre part, le rendement de la réaction des atomes d&apos;azote sur NO r , c&apos;est-à-dire la probabilité de collision entre ces espèces. Les techniques de dosage des NO r mises en oeuvre dans ce travail ont permis, par l&apos;étude du débit maximal de N0 2 détruit, de préciser les conditions d&apos;optimisation du rendement en N( 4 S), et par celle du taux de destruction de NO de définir les conditions favorables aux collisions N-NO. r.</p> 
+			
+			<p>L&apos;azote est de qualité U, Air liquide. La distance (dénommée d, <ref type="figure">Fig. 1</ref>) entre la décharge et le conduit d&apos;admission de N0 2 est égale à 30 mm. L&apos;incidence sur le coût énergétique de destruction de NO x de l&apos;adaptation de la cavité est mise en relief en étudiant l&apos;évolution de &lt;2NO, en fonction de &lt;2N,-La cavité utilisée ne permet pas d&apos;annuler P r pour toutes les valeurs de &lt;2N,_, aussi la construction d&apos;une nouvelle cavité permettant de remédier à cette insuffisance a-t-elle été entreprise postérieurement à ce travail (8). Pour la valeur P t = 500 watts qui, à pression atmosphérique, correspond à la valeur minimale de P r , la valeur du débit d&apos;azote pour laquelle P T = 0 est 700 L/h. Le tableau 1 résume l&apos;évolution de (¿NO, en fonction de pour Pi = 500 watts. La valeur maximale de g^o, est observée pour le débit d&apos;azote (700 L/h) pour lequel P T s&apos;annule. Cette optimisation de la destruction de N0 2 est attribuable essentiellement à une parfaite adaptation de la cavité (7). Aussi, la puissance incidente adoptée dans la suite du travail est-elle choisie de façon à correspondre à la valeur maximale de P, permettant de minimiser P r (P, = 500 watts).</p> 
+			
+			<p>Une augmentation de la teneur en 0 2 ou en H 2 0 dans l&apos;azote soumis à la décharge améliore le rendement de destruction de N0 2 (Tableau 2). Ces résultats s&apos;interprètent aisément dans le cadre d&apos;une augmentation du taux de dissociation de la molécule d&apos;azote en présence de traces de 0 2 ou de H 2 0 (9). On remarque que la valeur de Q^o, obtenue avec l&apos;azote U: 22,8 L/h diffère de celle correspondant aux mêmes conditions expérimentales et figurant dans le tableau 1: 11 L/h. Cette divergence témoigne de l&apos;influence d&apos;un facteur important: l&apos;état des parois. On observe une diminution de la quantité de N0 2 détruite au cours du temps. Les parois sont traitées à l&apos;acide fluorhydrique dilué à 50%, puis rincées à l&apos;eau, au méthanol et à l&apos;éther et enfin séchées. Si cette précaution n&apos;est pas respectée , la valeur de &lt;2NO, est nettement moins élevée. Dans un même tube, deux séries de mesures sont effectuées, l&apos;une aussitôt après ce traitement, l&apos;autre 48 heures plus tard; les résultats sont résumés dans le tableau 2. Une dégradation de l&apos;état des parois entraîne donc une diminution de la probabilité de destruction de NO r . Un nouveau dispositif récemment mis au point (8) permet d&apos;éviter une telle dégradation. Dans la suite de cette étude, les tubes sont &quot;traités&quot; avant chaque mesure. L&apos;azote utilisé est de qualité R.</p> 
+			
+			<p>L&apos;influence du lieu d&apos;adjonction de NO ou N0 2 sur l&apos;efficacité de leur destruction a été envisagée. Pour une puissance incidente donnée, quels que soient Qno x et &lt;2N, les conditions optimales de destruction de NO t correspondent à (30 &lt; d &lt; 40) mm. Pour des valeurs de d supérieures , on observe une décroissance rapide du taux de destruction . La <ref type="figure">figure 3</ref> représente, en fonction de d, les évolutions de:</p>
+
+	<p><formula>(a) Ô°NO 2 (ÔN 2 = 890 L/h); (b) T(Ô N: = 700 L/h, ,Q m = 4,1 L/h). </formula></p>
+
+			<p>La concentration en atomes d&apos;azote est donc maximale et constante pour (30 &lt;d&lt; 40) mm. Cette zone de concentration optimale en N( 4 S) peut d&apos;ailleurs être aisément visualisée; elle correspond à une extension du plasma, de forme conique, en dehors de la limite en aval de la cavité. Cette zone est dénommée dard. En conclusion les molécules de NO t présentes dans le dard ont une probabilité plus élevée de rencontrer les atomes N( 4 S) et donc d&apos;être détruites. Les conditions expérimentales d&apos;optimisation de cette probabilité de collision sont déterminées en envisageant l&apos;influence de &lt;2NO et &lt;2N, sur T.</p> 
+			
+			<p>L&apos;observation de l&apos;évolution de T en fonction de &lt;2N, à (? N0 donné (Q N0 = 25 L/h) met en évidence les caractéristiques suivantes (Tableau 3): pour (300 &lt; &lt;2N, &lt; 650) L/h, T est approximativement constant (eu égard à la précision des mesures ) et très élevé (86 à 91%); pour (1200 &lt; &lt;2N, &lt; 2600) L/h les valeurs de T sont beaucoup plus faibles et T est une fonction décroissante de &lt;2N 2 -L&apos;étude n&apos;a pu être menée pour des valeurs de débits d&apos;azote intermédiaires (650 &lt; &lt;2N, &lt; 1200) L/h, ppm r étant alors &gt;10 000 et donc non mesurable dans nos conditions expérimentales.</p> 
+			
+			<p>Dans l&apos;hypothèse d&apos;une répartition homogène des molécules de NO dans le milieu réactionnel, les résultats ci-dessus peuvent s&apos;interpréter de la façon suivante. Lorsque [N( 4 S)] est supérieur à [NO], T est proportionnel à la fraction du volume total occupé par le dard et donc indépendant de &lt;2NO et &lt;2N,-Par augmentation de &lt;2N,&gt; la diminution de la densité d&apos;énergie (P./ÔN,) peut conduire à une valeur de [N( 4 S)] inférieure à [NO] et donc à une diminution de T. Dans le cadre de cette hypothèse postulant une répartition homogène des molécules NO on devrait également observer dans le domaine où [N( 4 S)] est inférieur à [NO] une diminution de T par augmentation de &lt;2NO à &lt;2N, donné. Les résultats du tableau 3 font apparaître une évolution inverse et conduisent donc à rejeter l&apos;hypothèse d&apos;une répartition homogène de NO dans l&apos;azote activé. Les répartitions de NO et N( 4 5) dans le milieu ne sont donc pas homogènes et T, dont l&apos;évolution est parallèle à celle de ÔNO/ÔN,, représente le pourcentage de molécules de NO pénétrant dans le dard.</p> 
+			
+			<p>Les résultats précédents mettent en évidence les paramètres expérimentaux permettant d&apos;optimiser la destruction de NO t . Ils sont énumérés ci-après, les conditions spécifiques à la présente étude sont précisées pour chacun d&apos;eux: la valeur de P\ doit permettre de minimiser P T (P= 500 watts); présence d&apos;impuretés oxygénées (—0,5%) dans l&apos;azote (azote qualité R, Air liquide); il faut éviter la dégradation des parois du réacteur (l&apos;azote est véhiculé dans des tubes récemment &quot;traités&quot;, cf. ci-dessus); l&apos;adjonction de NO t doit s&apos;effectuer dans le dard ce qui implique une contrainte d&apos;une part sur le lieu d&apos;adjonction de NO t (d = 30 mm) et d&apos;autre part sur les valeurs respectives de &lt;2N 2 et &lt;2 no (&lt;2N, &lt; 1000 L/h, la condition expérimentale de détection de NO: ppm, &lt; 10 000 suppose en outre de limiter les valeurs maximales de &lt;2NO à 30 ou 100 L/h suivant &lt;2N,)-</p> 
+			
+			<p>Les valeurs de T pour différentes valeurs de &lt;2N, et &lt;2NO sont reportées dans le tableau 4. Le taux de destruction maximum (ÔN, = 300 L/h, &lt;2 no = 100 L/h) correspond à un coût énergétique de 0,14 kW-h/mol de NO, valeur très proche du coût théorique (0,13 kW-h/mol de NO). La valeur optimale de g^o, (26 L/h) correspond à un coût énergétique de 0,43 kW-h/mol de N0 2. En réalité N0 2 n&apos;étant jamais pur mais en équilibre avec son dimère, les valeurs de QNO, sont sous-estimées et le coût énergétique est surestimé. En outre, le coût énergétique théorique de destruction de N0 2 ne peut être défini étant donné que la réaction globale de destruction de N0 2 n&apos;est pas stoechiométrique. On peut seulement affirmer qu&apos;il est supérieur à 0,13 kW-h/mol de N0 2.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Conclusion</head>
+
+			<p>L&apos;énergie microonde permet une destruction efficace de NO r à pression atmosphérique puisque le rendement énergétique peut être, dans certaines conditions, proche du rendement théorique . Ce travail met en relief des facteurs déterminants dans l&apos;optimisation de cette destruction. Le dard constitue la zone préférentielle de destruction de NO r ; il convient donc d&apos;une part de rendre son volume maximal et d&apos;autre part, en agissant sur les valeurs respectives des débits gazeux et sur la géométrie de la chambre de mélange, d&apos;effectuer une introduction de NO, dans cette région fortement réactive. En outre il importe de concevoir une cavité dont les facilités d&apos;adaptation sont telles que P r puisse s&apos;annuler pour les différents débits d&apos;azote. Enfin la détérioration des parois du tube à décharge doit être minimisée. Une cavité récemment réalisée (8) permet de satisfaire à ces différents critères et laisse espérer une amélioration sensible du coût de destruction de NO r dans une large gamme de débits gazeux.</p>
+			
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Pollution et protection de l&apos;atmosphère</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Barnea</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Ursu</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+	<note>Ed. . Ey roi les</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<forename type="middle">J</forename>
+				<surname>Adlhart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Kenson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. Prog</title>
+		<imprint>
+			<biblScope type="vol">67</biblScope>
+			<biblScope type="pp">73</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Inform. Chim</title>
+		<imprint>
+			<biblScope type="vol">108</biblScope>
+			<biblScope type="issue">83</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Brevet français ANVAR n&quot; 228-389</title>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Dessaux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Goudmand</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mattot</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978" />
+			<biblScope type="pp">9247</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">6 TH International Sym-posium on Plasma Chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Mutel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Montréal</title>
+		<imprint>
+			<biblScope type="vol">242</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mattot</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mémoire diplôme ingénieur Conservatoire National des Arts et Métiers</title>
+<meeting><address>Lille</address></meeting>		<imprint>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Moreau</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse n&quot; 1027. Université des Sciences et Techniques de Lille</title>
+		<imprint>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Moreau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">Goudmand</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. E</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">1160</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+	<note>À. paraître</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">R</forename>
+				<surname>Baker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">A</forename>
+				<surname>Winkler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">49</biblScope>
+			<biblScope type="pp">1671</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

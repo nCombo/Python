@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Études des propriétés adsorbantes des fibres d&apos;amiante modifiées et de fibres proposées comme substitut à l&apos;amiante par chromatographie en phase gazeuse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1988">1988</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Yves</forename>
+								<surname>Lefebvre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maryse</forename>
+								<surname>Lambert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jaleh</forename>
+								<surname>Khorami</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Hugues</forename>
+								<surname>Ménard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Yves</forename>
+								<surname>Lefebvre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Maryse</forename>
+								<surname>Lambert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jaleh</forename>
+							</persName>
+							<affiliation>
+								<orgName type="department">Département de chimie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2RI</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Études des propriétés adsorbantes des fibres d&apos;amiante modifiées et de fibres proposées comme substitut à l&apos;amiante par chromatographie en phase gazeuse</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>L&apos;étude, par chromatographie en phase gazeuse, des tracés des isothermes d&apos;adsorption du benzène sur les fibres d&apos;amiante brutes et modifiées ainsi que sur des fibres proposées comme substitut à l&apos;amiante, montre une différence marquée de comportement entre les différents adsorbants utilisés. La comparaison entre le pouvoir adsorbant des fibres d&apos;amiante brutes, d&apos;amiante phosphatées et d&apos;amiante chauffées à 700°C, vis-à-vis de solutés ayant des groupements fonctionnels variables, a mis en évidence des phénomènes de physisorption et de chimisorption. La présence de groupements hydroxyles situés sur la surface des fibres d&apos;amiante favorise l&apos;adsorption de molécules organiques par la formation de liaisons hydrogènes.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>A study, by vapor phase chromatography, of the adsorption isotherms of benzene on raw and modified asbestos fibers as well as on fibers proposed as substitutes for asbestos shows that there is a marked difference in the behaviour of the various fibers examined. A comparison of the adsorbing powerof raw and phosphorylated asbestos fibers, as well as asbestos fibers heated to 700°C, has been made regarding their behaviour toward solutes bearing various functional groups, and it has shown the existence of physical adsorption as well as chemisorption. The presence of hydroxy 1 groups in the surface of the asbestos fibers favors the adsorption of organic molecules through hydrogen bonding.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>L&apos;activité biologique des fibres d&apos;amiante chrysotile est bien connue, et l&apos;existence d&apos;un effet synergique entre les fibres et les agents toxiques et (ou) cancérogènes a été démontrée par de nombreux chercheurs (1-3). Parmi les facteurs responsables de l&apos;activité biologique des fibres d&apos;amiante chrysotile, la réactivité de la surface des fibres a été particulièrement soulignée. Plusieurs chercheurs ont entrepris leurs recherches dans le but de changer la composition chimique de la surface des fibres d&apos;amiante (4, 5). Parmi ces procédés, la phosphorylation des fibres, proposée et mise au point par Lalancette et Dunnigan (6), a connu beaucoup de succès. L&apos;activité biologique de lamiante phosphaté est en effet diminuée de façon remarquable (7) et la réaction gaz-solide «POCl 3 vapeurs -amiante» permet la formation de polyphosphates qui encapsulent et obstruent les pores de ce minerai (8 et 9). Ménard et al. (10) ont également démontré que l&apos;adsorption des hydrocarbures aromatiques polycycliques, en milieu liquide, sur l&apos;amiante phosphaté est nettement diminuée.</p>
+
+			<p>cette étude, nous présentons les mesures d&apos;adsorption de différents hydrocarbures, avec groupements fonctionnels variables, sur l&apos;amiante phosphaté, en utilisant la chromatographie en phase gazeuse. Ces résultats sont comparés avec ceux des fibres d&apos;amiante brutes et chauffées à 700°C. Nous avons aussi comparé les isothermes d&apos;adsorption obtenus de l&apos;amiante et de l&apos;amiante modifié avec les isothermes de fibres synthétiques proposées comme substituts (par exemple Kevlar et carbone) (11) ainsi qu&apos;avec un gel de silice utilisé comme support chromatographique de référence.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Nous avons utilisé un chromatographe à gaz muni d&apos;un détecteur à ionisation de flamme de la compagnie Perkin Elmer modèle 3920B pour mesurer les isothermes d&apos;adsorption, en utilisant l&apos;hélium comme gaz vecteur et nous avons éliminé les traces d&apos;eau et le gaz carbonique avec un tamis moléculaire 13X.</p>
+
+			<p>Pour les injections, nous avons utilisé deux seringues Hamilton de 1 |XL et de IOJJLL. Le volume mort de la colonne est mesuré par injection de méthane. Les tracés chromatographiques sont enregistrése via un intégrateur Hewlett Packard modèle 3390A. Les isothermes d&apos;adsorption sont mesurés à l&apos;aide d&apos;une série d&apos;injections de benzène variant entre 0.1 et 5 (xL, utilisant la méthode du maximum du pic. Les enthalpies isostériques d&apos;adsorption sont obtenues en appliquant l&apos;équation de Clausius-Clapeyron (12, 13) pour une série des isothermes obtenus à des températures variables. Description des supports utilisés 1. L&apos;amiante BC4-T provenant de la mine « British Canadian », a étédéfibrilé mécaniquement à l&apos;aide d&apos;un appareil B.O.P. (Bail Opener Penmen) et séché à 400°C. 2. L&apos;amiante phosphaté a été préparé suivant les procédé de Lalancette et Dunnigan (6). Il faut noter que ces fibres ont été calcinées à 350°C après la réaction. 3. L&apos;amiante traité thermiquement a été préparé par le chauffage de l&apos;amiante à 700°C pendant 24 h. 4. Les fibres de carbone, Thornell grade VMAIIA. Ces fibres ont été broyées au mortier puis séchées à 400°C. 5. Les fibres de Kevlar, Dupont grade 6F-218, ont été séchées à 200°C, une température modéree pour éviter la décomposition thermique de ces fibres. 6. Le gel de silice, Merck, type 60, grade ART 9385, a été séchée à 300°C. La taille des particules se situe entre 40 et 63 n.m. Les traitements thermiques des supports entre 200 et 400°C éliminent les impuretés, comme l&apos;eau sous forme moléculaire, éventuellement présentes sur la surface ou dans les pores des supports utilisés.</p>
+
+			<p>FIG. 1. Isotherme d&apos;adsorption du benzène à 180°C exprimée avec la masse d&apos;absorbant utilisée sur divers supports ; (1) amiante BC4-T, (2) amiante phosphaté, (3) amiante chauffé à 700°C, (4) fibre de carbone, (5) fibre Kevlar et (5) gel de silice.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Isothermes d&apos;adsorption du benzène Les figures 1 et 2 représentent les isothermes d&apos;adsorption du benzène sur les différents supports utilisés. Sur la figure 1, la quantité adsorbée n est exprimée par unité de poids de support utilisé, en fonction de la pression partielle de benzène en kPa. La quantité adsorbée peut être également exprimée par unité de surface de l&apos;adsorbant ( <ref type="figure">figure 2</ref>), en faisant intervenir les valeurs de surface spécifique mentionnées au tableau 1 ; cette représentation permet une meilleure interprétation de la réactivité de la surface ou des sites de surface. Nous pouvons observer sur la figure 2a que les fibres de carbone, qui sont actives biologiquement (14), possèdent la plus grande affinité pour le benzène.</p> 
+			
+			<p>L&apos;adsorption du benzène sur les fibres de chrysotile brutes BC4-T est située en deuxième rang après les fibres de carbone ; cependant, les deux supports de l&apos;amiante phosphaté et chauffé n&apos;adsorbent que très peu de benzène et leurs isothermes d&apos;adsorption sont situés dans le bas de l&apos;échelle comme le Kevlar et la silice. La figure 2b montre une expansion sur l&apos;axe y (ordonnée) pour mieux distinguer les isothermes d&apos;adsorption des produits très peu adsorbants ; ce graphique nous montre aussi la linéarité de l&apos;isotherme d&apos;adsorption de la silice.</p>
+				
+			<p>Pour obtenir la <ref type="figure">figure 3</ref>, nous avons appliqué le modèle de Langmuir ( 15 ) aux isothermes non - linéaires . Les tracés de p / T ( ou r est la quantité adsorbée par unité de surface ) en fonction de p montrent une adsorption en deux étapes mise en évidence par l &apos; obtention de deux lignes brisées pour tous les adsorbants fibreux utilisés . Un isotherme de Langmuir typique ne donnerait qu &apos; une seule droite . Un comportement similaire avait été observé par Contour et al . ( 16 ) dans le cas de l &apos; adsorption de la diéthylaniline sur les fibres d &apos; amiante chrysotile lors d &apos; une étude par chromatographie en phase gazeuse . Dans un premier temps , l &apos; adsorption se produit sur la surface externe des fibres . Un phénomène de condensation capillaire à l &apos; intérieur des pores est reponsable de la deuxième étape de l &apos; adsorption . Ce phénomène est souvent rencontré pour les adsorbants qui possèdent une large distribution de taille et de forme des pores. L&apos;isotherme d&apos;adsorption de la silice étant linéaire (figures 1 et 2b), nous n&apos;avons pas pu appliquer le modèle de Langmuir pour ce produit (14).</p>
+					
+			<p><ref type="figure">FIG . 2</ref>. Isotherme d &apos; absorption du benzène à 180°C exprimée an excès de surface ; ( 1 ) amiante BC4 - T et ( 4 ) fibre de carbone , ( b ) Isotherme d &apos; absorption du benzène à 180°C exprimée en excès de surface , avec expansion en ordonnée ; ( 2 ) amiante phosphaté , ( 3 ) amiante chauffé à 700°C , ( 5 ) fibre Kevlar et ( 6 ) gel de silice .</p> 		
+			
+			<p>FIG . 3 . Modèles théoretiques de Langmuir pour l &apos; adsorption du benzène sur divers adsorbants ; ( 1 ) amiante BC4 - T ( 180°C ) , ( 2 ) amiante phosphaté ( 120°C ) , ( 3 ) amiante chauffé à 700°C ( 120°C ) , ( 4 ) fibre de carbone ( 180°C ) et ( 5 ) fibre Kevlar ( 180°C ) . TABLEAU 2 . Enthalpies isostériques moyennes d &apos; adsorption du benzène sur l &apos; amiante et l &apos; amiante modifié - A H T Adsorbant ( kJ / mol ) ( °C )</p>			
+
+			<p>L&apos;affinité de l&apos;amiante chrysotile brut et modifié vis-à-vis les différents solutés Dans un premier temps , les enthalpies isostériques moyennes d &apos; adsorption ( 12 ) du benzène pour les trois échantillons de l &apos; amiante BC4T brut , phosphaté et chauffé à 700°C , sont mesurées ( tableau 2 ) . Durant les expériences , nous avons constaté que nos mesures sont limitées en ce qui concerne les échelles de température utilisées pour chaque support . Nous avons constaté que pour l &apos; amiante BC4 - T brut , le temps de retention mesurable se situe durant l &apos; expérience entre 180 et 240°C , pour l &apos; amiante phosphaté entre 90 et 140°C et pour l &apos; amiante traité thermiquement entre 120 et 180°C . Le tableau 2 présente les isostériques moyennes d &apos; adsorption du benzène sur les trois types d &apos; amiante avant et après modification .</p> 
+			
+			<p>Néanmoins les enthalpies isostériques moyennes mesurées à la température moyenne pour chaque support , montrent une diminution de l &apos; affinité de l &apos; amiante après modification , surtout après traitement thermique à 700°C . Ceci provient probablement de la modification structurale intervenant à cette température ( transformation chrysotile —» forstérite ) . Le tableau 3 illustre les volumes de rétention spécifiques mesurés sur l &apos; amiante et l &apos; amiante modifié , pour différents solutés ayant des groupements fonctionnels variables . Nous pouvons constater que les volumes de retention spécifiques mesurés étant faibles pour le n - hexane et cyclohexane , nous n &apos; avons pas pu observer une différence marquée entre les trois adsorbants . Cependant dans le cas du benzène et du toluène , une diminution marquée des volumes de rétention est observée . Pour les solutés ayant des groupements fonctionnels azotés et oxygénés , nous avons observé une adsorption significative pour les trois adsorbants de façon que dans plusieurs cas le pic chromatographique n &apos; est même pas élué . Ce dernier peut être interprété comme une interaction très forte entre les trois supports et les groupements azotés et oxygénés des solutés et ( ou ) une chimisorption . La diminution des volumes de rétention de l &apos; amiante modifié ( phosphaté et chauffé ) vis - à - vis de benzène et toluène met en évidence l &apos; intervention des groupements hydroxyles dans des liaisons hydrogènes par l &apos; intermédiaire des électrons TT de ces molécules . Il faut noter que dans le cas de l &apos; amiante phosphaté , les groupements hydroxyles sont déjà engagés dans une intéraction entre POCl 3 et l &apos; amiante et que la surface de l &apos; amiante est encapsulée par les produits phosphatés formés . L &apos; amiante chauffé à 700°C est presque complètement déhydroxylé et les groupements OH de la surface ont été expulsés sous forme d &apos; eau à l &apos; extérieur de la structure . L &apos; interaction faible et la diminution légère de volumes de rétention dans le cas de dichlorométhane peut être reliée à la polarité de cette molécule . Pour le n - hexane et le cyclohexane l &apos; absence des groupements fonctionnels et d &apos; électrons TT conduit à une affinité et une adsorption très faible entre ces solutés et les supports étudiés .</p> 
+			
+			</div>
+			
+			<div type="section">
+				<head>Conclusion</head>	
+			 
+			<p>Les tracés des isothermes par chromatographie en phase gazeuse du benzène sur l &apos; amiante brut et modifié montrent la grande affinité de l &apos; amiante non traité pour le benzène et la probabilité de la formation des liaisons hydrogènes par l &apos; intermédiaire des électrons TT et les groupements hydroxyles . Nous avons aussi observé que les fibres de carbone actives biologiquement , adsorbent une quantité significative de benzène . La comparaison des enthalpies isostériques moyennes d &apos; adsorption du benzène sur l &apos; amiante avant et après modification montre l &apos; affinité accrue des fibres brutes pour le benzène et une diminution d &apos; adsorption après modification surtout pour les fibres chauffées à 700°C . La comparaison du pouvoir adsorbant des trois supports de l &apos; amiante et l &apos; amiante modifié vis - à - vis différents solutés organiques montre la possibilité de chimisorption par l &apos; intermédiaire des groupements fonctionnels azotés ou oxygénés ainsi que la formation des liaisons hydrogènes entre les hydroxyles de l &apos; amiante et les électrons TT de ces molécules comme nous avons expliqué dans le cas de benzène .</p>
+			
+			</div>
+			
+			<div type="section">
+				<head>Remerciements</head>
+				
+			<p>Les auteurs remercient pour leur appui financier le Conseil national de recherches en sciences naturelles et en génie du Canada, l&apos;Institut de l&apos;amiante et l&apos;Institut en santé et sécurité au travail.</p>	
+				
+			</div>	
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">T</forename>
+				<surname>Mossman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>Craighead</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Res</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="pp">269</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">G</forename>
+				<surname>Hammond</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Seidman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. N.Y. Acad. Sci</title>
+		<imprint>
+			<biblScope type="vol">330</biblScope>
+			<biblScope type="pp">473</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Seidmanetl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Occup. Healthsaf</title>
+		<imprint>
+			<biblScope type="vol">46197</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Bous</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Venturello</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Therm. Anal</title>
+		<imprint>
+			<biblScope type="vol">28</biblScope>
+			<biblScope type="pp">249</biblScope>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">G</forename>
+				<surname>Light</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">T</forename>
+				<surname>Wei</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope type="vol">265</biblScope>
+			<biblScope type="pp">537</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Phosphated asbestos fibres and the process for preparing same. Brevet no 81103916.3, Bureau européen des brevets</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Lalancette</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981" />
+			<pubPlace>La Haye, Pays-Bas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">L&apos;amiante chrysotile</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">M</forename>
+				<surname>Kimmerle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P.-C</forename>
+				<forename type="middle"></forename>
+				<surname>Aitcin</surname>
+			</persName>
+		</author>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Khorami</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Noel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Menard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">1397</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Khorami</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Lemieuxetd</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">2268</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Menard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Noel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Khorami</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J.-L. Jouve Et J. Dunni-Gan</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Res</title>
+		<imprint>
+			<biblScope type="vol">40</biblScope>
+			<biblScope type="pp">84</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Alternatives to asbestos and asbestos products</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Hogson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985" />
+			<publisher>Anjalena Publications Ltd</publisher>
+			<biblScope type="pp">56</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Menard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Lefebvre</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Khorami</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Talanta</title>
+		<imprint>
+			<biblScope type="vol">34</biblScope>
+			<biblScope type="issue">6</biblScope>
+			<biblScope type="pp">589</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Physicochemical measurement by gas chromatography</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Conder</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">L</forename>
+				<surname>Young</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chap</title>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<biblScope type="vol">9</biblScope>
+			<date type="published" when="1979" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Carbon/graphite fibres : environmental exposures and potential health implications. Divi-sion of surveillance, hazard evaluations and field studies. NIOSH, U.S. department of health and human services</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Zumwalde</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980" />
+			<pubPlace>Cincinnati, OH</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Physical chemistry of surfaces</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">W</forename>
+				<surname>Adamson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982" />
+			<biblScope type="pp">521</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>4. E ed. Wiley</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Contour</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stud. Environ. Sci</title>
+		<imprint>
+			<biblScope type="vol">1</biblScope>
+			<biblScope type="pp">255</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

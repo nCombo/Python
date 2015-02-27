@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Spectre de vibration de quelques N-méthyl-halogénotriazoles-l,!^</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1983">1983</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Saidi</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des Sciences</orgName>
+								<orgName type="laboratory">Laboratoire de spectroscopic infrarouge</orgName>
+								<address>
+									<settlement>Rabat</settlement>
+									<country key="MA">Maroc</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">M</forename>
+								<surname>Senechal</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des Sciences</orgName>
+								<orgName type="laboratory">Laboratoire de spectroscopic infrarouge</orgName>
+								<address>
+									<settlement>Rabat</settlement>
+									<country key="MA">Maroc</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">H</forename>
+								<surname>Sauvaitre</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des Sciences</orgName>
+								<orgName type="laboratory">Laboratoire de chimie structurale</orgName>
+								<address>
+									<settlement>Pau</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<surname>Garrigou-Lagrange</surname>
+							</persName>
+							<affiliation>
+								<orgName type="institution">CRPP</orgName>
+								<orgName type="institution">Domaine Universitaire</orgName>
+								<address>
+									<postCode>33405</postCode>
+									<settlement>Talence</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Spectre de vibration de quelques N-méthyl-halogénotriazoles-l,!^</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>Les spectres vibrationnels d'une série de /V-méthyl-chloro et /V-méthyl-bromotriazoles-1,2,4 ont été étudiés, et une interprétation en a été proposée dans le but d'essayer de résoudre le problème de la tautomeric des triazoles-1,2,4 C-substitués.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>Vibrational spectra of some /V-methyl chloro and /V-methyl bromotriazoles-1,2,4 are reported. An assignment of the normal modes is proposed. This study was done in order to find new elements to solve the problem of tautomerism in C-substituted triazoles-1,2,4.</p>
+			</div>
+		</front>
+		<body>
+			<div type="section" n="I">
+				<head>Introduction</head>
+				<p>Dans le cadre de nos travaux sur la tautomérie des halogénotriazoles-1,2,4 (1-3), nous nous sommes intéressés à l'étude par spectroscopie de vibration de leurs dérivés Nméthylés dans lesquels l'hydrogène mobile a été substitué par un groupement CH, ou CD, noté ci-dessous Y, empêchant ainsi toute possibilité de tautomérie.</p>
+				<p>On peut penser a priori que ce groupement influence peu le spectre du noyau triazolique et que les résultats que nous obtiendrons avec ces molécules "bloquées" comme modèle pourront se transposer aux halogénotriazoles C-substitués.</p>
+				<p>Les spectres vibrationnels de ces composés n'ont fait l'objet d'aucune analyse détaillée. Seuls à notre connaissance Mel'nikov et al. (4, 5) ont publié les spectres infrarouges et Raman de quelques méthyl-1 -nitro-3 triazoles-1,2,4 et ont proposé une attribution basée sur un calcul de modes normaux.</p>
+				<p>Dans ce travail, nous avons étudié les /V-méthyl-chlorotriazoles et /V-méthyl-bromotriazoles dont nous avons analysé les spectres infrarouges dans différents états physiques (état condensé, solution dans CC1 4 ou CS 2 , vapeur) et les spectres Raman (liquide, solide ou solution aqueuse). L'examen des spectres vibrationnels de quelques molécules marquées au deutérium nous a permis de justifier nos attributions.</p>
+				<p>Nous discuterons, séparément, les modes de vibration cycliques et extracycliques (6-9) ce qui n'exclut pas la possibilité d'interaction entre ces deux catégories.</p>
+				<p>Les nombres d'onde attribués aux vibrations fondamentales du noyau triazolique et du groupement méthyle (CH, ou CD,) sont consignés dans les tableaux 1 et 2 respectivement. A titre d'illustration, nous présentons dans les figures 1 et 2 les spectres infrarouges des trois Me-lCl-3 TA étudiés dans les régions 3300-2000 cm"' et 1600-200 cm" 1.</p>
+				<p>L'analyse des spectres se fera par région.</p>
+			</div>
+			<div type="section" n="II">
+				<head>Discussion des attributions</head>
+				<div type="section" n="11-1">
+					<head>Région 3200-2000 an'</head>
+					<p>Dans ce domaine spectral, on attend toutes les vibrations de valence v CH (ou v CD) du cycle triazolique et du groupement méthyle.</p>
+					<div type="section" n="II-1-1">
+						<head>Vibrations de valence v CH (ou v CD) triazolique</head>
+						<p>Entre 3150 et 3100 cm" 1 , le spectre infrarouge du Me-1 TA présente une seule bande large attribuable aux vibrations de valence des deux vibrateurs CH aromatiques (Tableau 1). Dans le cas des /V-méthyl-halogenotriazoles, la seule absorption relevée dans cette région est due à la vibration de valence de l'unique vibrateur CH de ces molécules. Cette bande se déplace vers 2300 cm" 1 sur les spectres de leurs homologues Cdeutériés (<ref type="figure">Fig. I</ref>). La fréquence de ce mode n'est pas sensible à la nature du substituant.</p>
+					</div>
+					<div type="section" n="11-1-2">
+						<head>Vibrations du groupement méthyle</head>
+						<p>Les spectres infrarouges de tous les composés étudiés présentent entre 3030 et 2800 cm" 1 des bandes d'absorption dont les positions et les intensités sont caractéristiques des vibrations du groupement CH,. Elles sont déplacées vers 2200 cm" 1 sur le spectre du CD,-l-Cl-5 TA (<ref type="figure">Fig. 1</ref>). La bande observée vers 2950 cm" 1 sur les spectres Raman des méthyl-1 halogénotriazoles est due à la superposition des vibrations v s et v^ CH,. Dans le cas du Me-4Br-3TA, une bande infrarouge assez intense à 2918 cm" 1 pourrait correspondre à la vibration v s CH,. L'absorption relevée vers 3000 cm" 1 sur les spectres infrarouges de l'ensemble des dérivés examinés est attribuée au mode v a CH,.</p>
+					</div>
+				</div>
+				<div type="section" n="11-2">
+					<head>Région 1600-900 cm'1</head>
+					<p>Les calculs de modes normaux effectués sur des hétérocycles , et en particulier sur le triazole-1,2,4 (10) et le chloro triazole-1,2,4 (11) montrent qu'il est impossible d'individualiser les vibrations des différentes liaisons du cycle, et qu'elles sont toutes couplées. C'est pourquoi, dans la suite de ce mémoire , nous notons les vibrations du squelette triazolique R, à R 9.</p>
+					<p>Seules certaines vibrations planes du squelette (R| à R 7 , 8 CH) et cinq vibrations de déformation du groupement méthyle sont attendues dans cette zone spectrale. L'approximation des vibrations de groupe dans ce domaine est moins rigoureuse que dans le domaine des hautes fréquences. Néanmoins, nous l'utiliserons pour proposer une interprétation des spectres et nous discuterons successivement les vibrations 8 CH, les vibrations du noyau triazolique et les vibrations du groupement méthyle.</p>
+					<div type="section" n="11-2-1">
+						<head>Vibrations de déformation 8 CH (ou 8 CD)</head>
+						<p>Les deux vibrations de déformation dans le plan 8 CH du Me-ITA sont attribuées aux bandes observées vers 1215 et 1145 cm" 1 (Tableau 1). Les spectres infrarouges des /V-méthylhalogénotriazoles présentent une absorption moyenne à forte vers 1200 cm" 1 que nous attribuons au mode 8 CH de ces composés car cette bande n'apparaît pas sur les spectres de leurs homologues C-deutériés. La vibration 8 CD est relevée vers 880 cm" 1 (<ref type="figure">Fig. 2</ref>).</p>
+					</div>
+					<div type="section" n="11-2-2">
+						<head>Vibrations du cycle triazole-1,2,4</head>
+						<p>Aux vibrations R, à R 7 , nous avons fait correspondre des bandes infrarouges et des raies Raman de fréquences voisines de celles observées dans le cas du triazole-1,2,4 (1, 10) (Tableau 1). La position de la vibration R, est fonction de la position de l'halogène sur le cycle. Dans le cas des Me-ITA et Me-lX-3TA, le mode R 5 est observée à fréquence plus basse, les modes R 6 et R 7 à fréquences plus élevées que sur les spectres des autres composés (Tableau 1). Rappelons que dans les halogénotriazoles, les vibrations R 5 et 8 CH sont en forte interaction (2).</p>
+						<p>Remarque: lors de son étude des spectres des monohalogénotriazoles et de leurs sels de potassium et d'argent, <ref type="bibr">Grinshtein et al. (12)</ref> avaient observé un multiplet vers 1270cm" 1 qu'ils avaient expliqué par l'existence de plusieurs formes isomères.</p>
+						<p>Sur les spectres des /V-méthyl-halogénotriazoles que nous avons examinés, alors que l'absorption attribuée au mode R 4 vers 1275 cm" 1 est simple dans le cas des Me-ITA et Me-lX-5TA, elle apparaît sous forme de multiplet sur les spectres des Me-lX-3TA (<ref type="figure">Fig. 2</ref>). Le spectre du Me-4Br-3TA présente dans cette région deux bandes de faible intensité. L'apparition du multiplet sur les spectres de ces "formes bloquées" nous amène à exclure l'hypothèse de Grinshtein.</p>
+						<p>Il ne peut s'agir d'une autoassociation mettant en jeu le vibrateur CH en position 5, le plus acide (cf. partie expérimentale ), puisque ce multiplet existe sur les spectres des Me-ldiX-3,5TA.' 11 ne peut pas s'agir non plus d'une harmonique car la région de 600-700 cm" 1 est assez semblable pour tous les composés. Seule reste donc, pour expliquer l'existence de ces bandes multiples, l'hypothèse d'une ou plusieurs combinaisons.</p>
+					</div>
+					<div type="section" n="II-2-3">
+						<head>Vibrations de déformation et de balancement du groupement méthyle</head>
+						<p>Par analogie avec les interprétations déjà proposées pour les spectres de molécules aromatiques méthylées (13), nous attribuons l'absorption faible observée vers 1480 cm" 1 sur les spectres infrarouges des Me-ITA, Me-lX-3TA, Me-4Br-3TA et l'épaulement relevé à 1510 cm" 1 sur les spectres des Me-lX-5TA à la vibration de déformation 8i CH, (Tableau 2). Les modes 8 a et 8 S sont situés vers 1450 et 1370 cm"' respectivement . Notons que, dans le cas du Me-lCl-3TA, la bande à 1360 cm -' correspond à une superposition des modes 8 S CH, et R,.</p>
+						<p>Les vibrations de balancement du groupement méthyle r L et /' il sont observées vers 1070 et 960 cm" 1 respectivement (Tableau 2). Le spectre du CD,-1-C1-3TA confirme ces attributions (<ref type="figure">Fig. 2</ref>).</p>
+					</div>
+				</div>
+				<div type="section" n="11-3">
+					<head>Région 900-200 cm"'</head>
+					<p>On attend cinq vibrations de type A" (7 CH, R 8 , R,, 7 C—X, 7 N—CH,) et quatre vibrations A' (v N—CH,, ô N—CH,, v C—X, 8 C—X) dans la région 900-200 cm"', la vibration de torsion du groupement méthyle ayant très vraisemblablement une fréquence inférieure à 200 cm -1 .</p>
+					<div type="section" n="11-3-1">
+						<head>Vibrations de symétrie A"</head>
+						<p>La vibration 7 CH des Me-lX-5TA est relevée vers 880 cm"' (Tableau 1), celle des Me-lX-3TA vers 860 cm"'. Sur le spectre infrarouge du Me-ITA à l'état dissous, on observe deux absorptions à 882 et 850 cm" 1 ; nous les attribuons, par comparaison avec les molécules précédentes, aux deux modes 7 CH faisant intervenir respectivement les vibrateurs CH en positions 3 et 5 du cycle. La vibration 7 CH du Me-4Br-3TA est relevée à 848 cm"', fréquence voisine de celle observée dans le cas des Me-lX-3TA (Tableau 1). Notons que dans ces deux cas, l'hydrogène occupe une position analogue par rapport au groupement méthyle. Cette interprétation est confirmée par le déplacement de ces bandes vers 560 cm"' après deutériation sur le carbone (<ref type="figure">Fig. 2</ref>).</p>
+						<p>Les mouvements de déformation du cycle triazole R g et R 9 donnent lieu aux absorptions situées respectivement vers 700 et 630 cm"' sur les spectres infrarouges de tous les composés (Tableau 1, <ref type="figure">Fig. 2</ref>).</p>
+						<p>Toutes ces bandes présentent bien un contour de type C sur les spectres de l'état gazeux (14).</p>
+						<p>Notons, comme prévu, qu'aucune de ces vibrations n'a été observée sur les spectres Raman des solutions aqueuses. Les vibrations 7 N—CH, et 7 C—X n'ont pas pu être localisées, soit parce qu'elles sont en dehors de notre domaine d'étude en infrarouge, soit parce qu'elles sont d'intensité trop faible.</p>
+					</div>
+					<div type="section" n="11-3-2">
+						<head>Vibrations de symétrie A'</head>
+						<p>La bande moyenne à forte relevée vers 700 cm" 1 sur les spectres infrarouges de l'ensemble des molécules et à laquelle correspond une raie Raman intense et polarisée est due à la vibration v N—CH,. Cette attribution est en accord avec celle donnée pour le /V-méthyl pyrrole (15).</p>
+						<p>A la vibration de déformation dans le plan 8 N—CH,, nous rattachons les fréquences observées vers 420 cm"'. .,</p>
+						<p>Une absorption infrarouge et une raie Raman très forte et polarisée sont observées vers 480 cm"' sur les spectres des Me-lCl-3TA (Tableau 1, <ref type="figure">Fig. 2</ref>); nous les attribuons à la vibration v C—Cl. Dans le cas des Me-lCl-5TA, on retrouve cette vibration vers 512 cm"' (<ref type="figure">Fig. 2</ref>).</p>
+						<p>La vibration de déformation 8 C—Cl est située vers 300 cm"'. La vibration v C—Br apparaît sur les spectres des /V-méthyl bromotriazoles sous la forme d'une raie Raman intense et polarisée et d'une absorption moyenne vers 360 cm"'; le mode 8 C—Br est observée vers 280 cm" 1 (Tableau 1).</p>
+						<p>Ces attributions sont proches de celles données dans le cas des CITA (2) et BrTA (14, 16).</p>
+					</div>
+				</div>
+			</div>
+			<div type="section" n="III">
+				<head>Conclusion</head>
+				<p>Les spectres de vibration des /V-méthyl monohalogénotri-azoles-1,2,4 ont été analysés. Une attribution pour l'ensemble des mouvements a été proposée. Toutefois, contrairement à d'autres techniques physicochimiques, notamment la détermination de moments dipolaires en solution (17), l'étude par la spectroscopie de vibration de ces "formes bloquées" n'a pas permis d'apporter des éléments nouveaux à l'élucidation du problème de la tautomérie des C-halogénotriazoles-i ,2,4. En effet, les spectres des composés examinés présentent une grande similitude et il nous a été impossible de relever une région spectrale présentant une variation notable entre les spectres des différents /V-méthyl halogénotriazoles-1,2,4.</p>
+			</div>
+			<div type="section" n="IV">
+				<head>Conditions expérimentales</head>
+				<div type="section" n="IV-1">
+					<head>Synthèse des composés étudiés</head>
+					<p>Les A'-méthyl halogcnotriazoles-1,2.4 ont été obtenus selon le mode opératoire décrit dans les réfs. 1 et 17, les composés C-deutériés ont été préparés par échange avcc D 2 0 à 120°C pendant une journée pour les Me-lX-3TA et une semaine pour les Me-lX-5TA.</p>
+					<p>Le CD.,-1C1-3TA a été synthétisé en milieu neutre en utilisant 1CD, comme agent méthylant.</p>
+				</div>
+				<div type="section" n="1V-2">
+					<head>Etude spectroscopique</head>
+					<p>Les spectres infrarouges dans la région 4000-200 cm" 1 ont été enregistrés avec des spectromètres P.E. 225 et 577.</p>
+					<p>Les échantillons ont été étudiés dans différents états physiques (solide dispersé dans le Nujol ou le Fluorolube ou en pastille de KBr, liquide pur et vapeur). Des cellules à fenêtres en Csl et une cellule chauffante P.E. ont été utilisées.</p>
+					<p>Les spectres Raman des composés liquides ou des solutions aqueuses ont été obtenus en utilisant deux spectromètres Coderg, l'un équipé d'un laser à Argon ionisé émettant à 4880 A, l'autre d'un laser Hélium Néon (\ = 6328 Â).</p>
+				</div>
+			</div>
+			<div type="section">
+				<head>Remerciements</head>
+				<p>Dupart du Centre de Recherche Paul Pascal de nous avoir aidés à obtenir certains composés et à Mme C. Dacié d'avoir enregistré pour nous quelques spectres de composés à l'état gazeux.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Saidi Idrissi. D. E. S</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Saidi Idrissi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">Senechal</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+									<forename type="middle">Sauvaitre</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">77</biblScope>
+								<biblScope type="pp">195</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Saidi Idrissi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+									<forename type="middle">I</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chim. Phys</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">511</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">V Mel 'nikov</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">V</forename>
+									<surname>Stolpakova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">V</forename>
+									<surname>Gidaspov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Khim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Geterotsikl. Soedin</title>
+							<imprint>
+								<biblScope type="vol">707</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">V Mel 'nikov</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">V</forename>
+									<surname>Stolpakova</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">V</forename>
+									<surname>Gidaspov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Khim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Geterotsikl. Soedin</title>
+							<imprint>
+								<biblScope type="pp">1194</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">I</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">L</forename>
+									<surname>Josien</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Spcctrochim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Acta</title>
+							<imprint>
+								<biblScope type="vol">16</biblScope>
+								<biblScope type="pp">106</biblScope>
+								<date type="published" when="1960"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+									<forename type="middle">J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="issue">889</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Davidovics</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Chouteau</forename>
+									<surname>Roepstorff Et 1</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Spectrochim. Acta, Part A</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">2669</biblScope>
+								<date type="published" when="1967"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+									<forename type="middle">J</forename>
+									<surname>Chim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Phys</title>
+							<imprint>
+								<biblScope type="vol">66</biblScope>
+								<biblScope type="pp">1511</biblScope>
+								<date type="published" when="1969"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">Bougeard</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">Le Calve</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">B</forename>
+									<forename type="middle">Saint</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">-Roch</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Novak I</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">64</biblScope>
+								<biblScope type="pp">5152</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Saidi Idrissi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Pouchan</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">59</biblScope>
+								<biblScope type="pp">3341</biblScope>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">Ya. Grinshtein. A. A. Strazdin Et A. K. Grinvalde</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Khim. Geterotsikl. Soedin</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="pp">248</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">T</forename>
+									<surname>Forel</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse</title>
+							<meeting>
+								<address>Bordeaux</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1962"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse</title>
+							<meeting>
+								<address>Rabat</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1981"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Mol. Spectrosc</title>
+							<imprint>
+								<biblScope type="vol">37</biblScope>
+								<biblScope type="issue">77</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<surname>Saidi Idrissi</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">H</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C. Garrigou-Lagrange</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Iraqi Chem. Soc</title>
+							<imprint>
+								<biblScope type="vol">5</biblScope>
+								<biblScope type="pp">109</biblScope>
+								<date type="published" when="1980"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">Bernardini</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Thèse</title>
+							<meeting>
+								<address>Montpellier</address>
+							</meeting>
+							<imprint>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
