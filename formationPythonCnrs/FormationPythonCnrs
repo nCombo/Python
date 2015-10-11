@@ -1,0 +1,104 @@
+Formation Python CNRS
+Réseau DevLOG R6
+lien formation: http://developr6.dr6.cnrs.fr/manifestations/python-2015/start
+installer python ipython spyer: sudo apt-get install python ipython spyder
+Lancer ipython notebook à partir du dossier contenant les cours à lire.
+-------------------
+Voir l'outil Notebook
+--------------------
+---------------------
+Distribution ANACONDA
+
+- environnement de développement complète
+---------------------
+---------------------
+input () => pour interagir avec utilisateur à l'écran
+ ex. input ('Quel est ton age')
+ 		monAge= input('quel est ton age?')
+---------------------
+---------------------
+Si chaine de caractère trop longue: retour à la ligne avec \
+ print ('mon age est', monAge, 'mpoinn  erv \
+ perfjkncrekcrjecerkei \
+ ceocerferferncecio')
+---------------------
+---------------------
+Tuple
+Tuple= un ensemble de valeurs
+ ex. tuple=(1, 2, 3)
+---------------------
+---------------------
+ type() => tyep de variable
+ id() => identifiant de la variable
+ del() => supprimer des variables
+---------------------
+---------------------
+Opérateurs
+classiques: +-*/%
+ex. a=5;b=3
+	divEnt=a/b . résultats: 1.66666)
+
+	a ='abc'
+	b=a
+	print(a,b) => résultats: abc abc
+	a+='d'
+	print(a) => résultats: abcd
+
+élaborés: // => division enitère tronquée
+ ex. divTro=a/b . résultats: 1)
+
+---------------------
+---------------------
+Multiplier la meme chaine avec *
+ ex. 2*'a tchik' + 3*'aire' => résultat: 'a tchika tchikaireaireaire'
+ ---------------------
+--------------------
+Parcouriri chaine de caractere:
+
+ex. a='abcjdeegelejugherer vejverflkj'
+	print (a[1:6])
+
+---------------------
+--------------------
+Nettoyer les espaces avec strip()
+strip() => enlever partout
+lstrip() => enlever à gauhe
+rstrip() => enlever à droite
+---------------------
+--------------------
+Recherhcer/remplacer: replace()
+ex. replace('b','a')
+---------------------
+--------------------
+Retirer une chaine avec split()
+split('b')
+
+---------------------
+--------------------
+Liste avec []
+a=[12,14,'ab','cd']
+liste=[[2,2],[5,2] => liste contenant deux listes
+
+Liste est un type modifiable. Les copies de liste sont également modifaibles en meême temps qu'on modie la liste source
+---------------------
+--------------------
+Tuple avec ()
+a=(12,14,'ab','cd')
+Tuple est un type non modifiable. Si on veut modifier , on en crée un autre
+---------------------
+--------------------
+Dictionnaire: dic
+
+
+---------------------
+--------------------
+Ensemble: set
+
+---------------------
+--------------------
+
+---------------------
+--------------------
+
+---------------------
+--------------------
