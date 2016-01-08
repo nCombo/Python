@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/.metadata/.plugins/org.eclipse.core.resources/.projects/modifyXmlTeiHeader/com.python.pydev.analysis/v2_indexcache
+modifyTeiheader|1446321769000000000|/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/modifyXmlTeiHeader/modifyTeiheader.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=modifyTeiheader
+-- END DICTIONARY
+-- START TREE 1
+5
+dat|1|data!11@
+doc|1|doc!11@
+rac|1|racine!11@
+tit|2|titre!11@titres!11@
+wor|1|words!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

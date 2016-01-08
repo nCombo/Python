@@ -1,0 +1,43 @@
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+Created on 28 oct. 2015
+
+@author: combo
+'''
+
+import sys, string, codecs
+from lxml import etree
+
+infile = etree.parse("exemple.xml")
+
+def Lire():
+    print("programme lance ,")
+    print("Veuillez entrer le nom du fichier:" infile)
+   # infile = sys.stdin 
+   # outfile= sys.stdout
+    
+    print("infile : " , infile)
+    for line in infile:
+        print(infile)
+        parser = etree.XMLParser()
+        xmlDocSrc = etree.XML(line, parser)
+        
+        
+        # ajout d'un element XML en tant que fils de la racine
+        contrib = etree.Element("contributeur", qualifier = "apprenantTP")
+        contrib.text = "Nourdine C"
+        xmlDocSrc.append(contrib)
+        
+        # suppression de l'element resp, fils de respStmt
+        respstmtElem = xmlDocSrc.find("respStmt")
+        respElem = respstmtElem.find("resp")
+        respstmtElem.remove(respElem)
+        
+        line = etree.toString(xmlDocSrc)
+        outfile.write(line)
+    
+
+if __name__ == '__main__':
+    Lire()

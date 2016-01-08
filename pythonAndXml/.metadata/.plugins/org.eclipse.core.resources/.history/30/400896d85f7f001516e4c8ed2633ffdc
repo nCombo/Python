@@ -1,0 +1,17 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+from xml.etree import ElementTree
+
+document = ElementTree.parse("membership.xml")
+users = document.find("users")
+
+print(users)
+
+if __name__ == '__main__':
+    pass

@@ -1,0 +1,32 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+'''
+Created on 5 nov. 2015
+
+@author: combo
+'''
+
+import sqlite3
+
+
+conn = sqlite3.connect('ma_base.db')
+
+cursor = conn.cursor()
+cursor.excute("""
+CREATE TABLE IF NOT EXISTS users(
+    id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
+    name TEXT,
+    age INTERGER
+)
+""")
+conn.commit()
+
+cursor.excute("""
+INSERT INTO users(name, age) VALUES(?, ?)""", ("Olivier", 30))
+
+id = cursor.lastrowid
+print("dernier id: %d" % id)
+
+if __name__ == '__main__':
+    pass

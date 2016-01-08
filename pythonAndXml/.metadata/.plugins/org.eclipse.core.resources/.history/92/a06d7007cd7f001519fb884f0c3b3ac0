@@ -1,0 +1,22 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+import os
+from xml.etree import ElementTree
+
+
+doc = ElementTree.parse('exemple.xml')
+
+racine = doc.find('TEI')
+
+print(racine)
+
+titres = doc.find('TEI/teiHeader/fileDesc/titleStmt')
+for t in titres:
+    titre = t.find('title').text
+    type(t)
+
+if __name__ == '__main__':
+    pass

@@ -1,0 +1,48 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+from xml.etree import ElementTree
+from xml.etree.ElementTree import QName
+
+document = ElementTree.parse("membership.xml")
+users = document.find("users")
+
+print(users.tag)
+
+for user in document.findall("users/user"):
+    print( "le nom d'utilisateur est : ", user.attrib["name"])
+
+for group in document.findall("groups/group"):
+    print("Group : ", group.attrib["name"])
+    print("Users : ")
+    for node in group.getchildren():
+        if node.tag == "user":
+            print("-",node.attrib["name"])
+
+namespace = "http://wwww.w3.org/1999/xhtml"
+body_tag = str(QName(namespace, "body"))
+body = document.find(body_tag)
+print(type(body))
+
+div_tag = str(QName(namespace, "div"))
+div = document.find(div_tag)
+print(type(div))
+
+with open('membreship.xml', 'wb') as output_file:
+    output_file.write(bytes('<?xml version="1.0"?>', 'utf-8'))
+    #output_file.write(bytes("Resulats de mon XML écrit avec python :"))
+    output_file.write(ElementTree.tostring(users))
+    output_file.write(ElementTree.tostring(user))
+    output_file.write(ElementTree.tostring(group))
+    output_file.write(ElementTree.tostring(body_tag))
+    #output_file = ElementTree.tostring(membership, pretty_print=True)
+    #file_str= etree.tostring(racine, pretty_print = True)
+
+         
+if __name__ == '__main__':
+    pass

@@ -1,7 +1,7 @@
 daves_latitudes = 41.98062
 daves_longitude = -87.668452
 
-form xml.etree.ElementTree import parse
+from xml.etree.ElementTree import parse
 doc = parse('rt22.xml')
 
 

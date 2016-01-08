@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/.metadata/.plugins/org.eclipse.core.resources/.projects/readXml/com.python.pydev.analysis/v2_indexcache
+readFile|1446323575000000000|/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/readXml/readFile.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=readFile
+-- END DICTIONARY
+-- START TREE 1
+5
+bod|2|body_tag!11@body!11@
+div|2|div_tag!11@div!11@
+doc|1|document!11@
+nam|1|namespace!11@
+use|1|users!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

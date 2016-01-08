@@ -1,0 +1,28 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+
+from xml.etree import ElementTree
+
+doc = ElementTree.parse("exemple.xml")
+racine = doc.getroot()
+
+print(racine.tag)
+
+for noeud in racine.getchildren():
+    print(noeud.tag)
+print("le fichier contient les noeuds suivants :")
+for noeuds in racine.getiterator():
+    print(noeuds.tag)
+
+print("titre:")
+
+titre1 = doc.find("titleStmt")
+
+print(titre1)
+
+
+if __name__ == '__main__':
+    pass

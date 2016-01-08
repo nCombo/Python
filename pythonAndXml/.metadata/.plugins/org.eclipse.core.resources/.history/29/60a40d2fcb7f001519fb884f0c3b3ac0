@@ -1,0 +1,24 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+import os
+from xml.etree import ElementTree
+
+file_name = 'exemple.xml'
+full_file = os.path.abspath(os.path.join('data', file_name))
+
+doc = ElementTree.parse(full_file)
+
+racine = doc.getroot()
+
+print(racine.tag)
+
+titres = racine.find('titleStmt')
+for t in titres:
+    titre = t.find('title').text
+    print(titre)
+
+if __name__ == '__main__':
+    pass

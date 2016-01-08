@@ -1,0 +1,33 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+from xml.etree import ElementTree
+from xml.etree.ElementTree import QName
+
+document = ElementTree.parse("membership.xml")
+users = document.find("users")
+
+print(users.tag)
+
+for user in document.findall("users/user"):
+    print( "le nom d'utilisateur est : ", user.attrib["name"])
+
+for group in document.findall("groups/group"):
+    print("Group : ", group.attrib["name"])
+    print("Users : ")
+    for node in group.getchildren():
+        if node.tag == "user":
+            print("-",node.attrib["name"])
+
+namespace = "http://wwww.w3c.org/1999/xhtml"
+body_tag = str(QName(namespace, "body"))
+body = document.find(body_tag)
+print(type(body))
+            
+if __name__ == '__main__':
+    pass

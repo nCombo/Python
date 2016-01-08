@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user data-id="101">
+        <nom>Zorro</nom>
+        <metier>Danseur</metier>
+    </user>
+    <user data-id="102">
+        <nom>Hulk</nom>
+        <metier>Footballeur</metier>
+    </user>
+    <user data-id="103">
+        <nom>Zidane</nom>
+        <metier>Star</metier>
+    </user>
+    <user data-id="104">
+        <nom>Beans</nom>
+        <metier>Epicier</metier>
+    </user>
+    <user data-id="105">
+        <nom>Batman</nom>
+        <metier>Veterinaire</metier>
+    </user>
+    <user data-id="106">
+        <nom>Spiderman</nom>
+        <metier>Veterinaire</metier>
+<metier>DOCTEUR LEE</metier>
+    </user>
+<author>
+                     <persName>
+                        <forename>J.-C.</forename>
+                        <surname>BOLLINGER</surname>
+                     </persName>
+                     <persName>
+                        <forename>G.</forename>
+                        <surname>YVERNAULT</surname>
+                     </persName>
+                     <persName>
+                        <forename>T.</forename>
+                        <surname>YVERNAULT</surname>
+                     </persName>
+                     <persName>
+                        <forename>R.</forename>
+                        <surname>HOURIET</surname>
+                     </persName>
+                     <affiliation xml:id="b1">
+                        <orgName>Fac. sci., lab. chimie gen. analytique</orgName>
+                        <address>
+                           <country>INC</country>
+                        </address>
+                     </affiliation>
+                  </author>
+</users>

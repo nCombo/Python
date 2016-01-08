@@ -1,0 +1,19 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/combo/Documents/PythonOnGithub/Python/pythonAndSqlite/.metadata/.plugins/org.eclipse.core.resources/.projects/createDB/com.python.pydev.analysis/v2_indexcache
+dbSqlite|1446768508000000000|/home/combo/Documents/PythonOnGithub/Python/pythonAndSqlite/createDB/dbSqlite.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=dbSqlite
+-- END DICTIONARY
+-- START TREE 1
+4
+con|1|conn!11@
+cur|1|cursor!11@
+id|1|id!11@
+use|2|user1!11@users!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
