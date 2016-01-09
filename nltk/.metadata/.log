@@ -1,23 +1,29 @@
-!SESSION 2015-11-09 18:06:22.900 -----------------------------------------------
+!SESSION 2016-01-09 11:27:20.343 -----------------------------------------------
 eclipse.buildId=debbuild
 java.version=1.7.0_79
 java.vendor=Oracle Corporation
 BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
-Command-line arguments:  -data /home/combo/Documents/PythonOnGithub/Python/pythonAndSql -os linux -ws gtk -arch x86_64
+Command-line arguments:  -data /home/combo/Documents/PythonOnGithub/Python/nltk -os linux -ws gtk -arch x86_64
 
-!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2015-11-09 18:06:56.536
-!MESSAGE No repository found at file:/home/combo/Musique/PyDev/.
-!SESSION 2015-11-10 18:02:07.590 -----------------------------------------------
-eclipse.buildId=debbuild
-java.version=1.7.0_79
-java.vendor=Oracle Corporation
-BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
-Command-line arguments:  -os linux -ws gtk -arch x86_64
-
-!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2015-11-10 18:02:49.507
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2016-01-09 11:27:47.893
 !MESSAGE No repository found at file:/home/combo/Musique/PyDev/.
 
-!ENTRY org.python.pydev.shared_core 1 1 2015-11-10 18:05:59.136
+!ENTRY org.python.pydev.shared_core 1 1 2016-01-09 11:42:49.986
+!MESSAGE Restoring info for: /usr/bin/python3.4
+!STACK 0
+java.lang.RuntimeException: Restoring info for: /usr/bin/python3.4
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:517)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:337)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.setInfos(AbstractInterpreterManager.java:641)
+	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker$1.run(AutoConfigMaker.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.io.IOException: Expecting: /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a/modulesKeys to exist (and be a file).
+	at org.python.pydev.editor.codecompletion.revisited.ModulesManager.loadFromFile(ModulesManager.java:289)
+	at org.python.pydev.editor.codecompletion.revisited.SystemModulesManager.load(SystemModulesManager.java:371)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:515)
+	... 4 more
+
+!ENTRY org.python.pydev.shared_core 1 1 2016-01-09 11:42:50.037
 !MESSAGE - Ok, file is non-null. Getting info on:/usr/bin/python
 - Beggining task:Getting libs totalWork:100
 - Setting task name:Mounting executable string...
@@ -31,6 +37,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <version>2.7</version>
 <executable>/usr/bin/python</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -41,6 +50,7 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -101,6 +111,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -216,6 +228,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -256,6 +270,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <version>2.7</version>
 <executable>/usr/bin/python2</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -266,6 +283,7 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -326,6 +344,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -441,6 +461,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -481,6 +503,9 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <version>2.7</version>
 <executable>/usr/bin/python2.7</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -491,6 +516,7 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -551,6 +577,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -666,6 +694,8 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -708,6 +738,9 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <version>2.7</version>
 <executable>/usr/bin/python</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -718,6 +751,7 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -778,6 +812,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -893,6 +929,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -933,6 +971,9 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <version>2.7</version>
 <executable>/usr/bin/python2</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -943,6 +984,7 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -1003,6 +1045,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -1118,6 +1162,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -1158,6 +1204,9 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <version>2.7</version>
 <executable>/usr/bin/python2.7</executable>
 <lib>/usr/local/lib/python2.7/dist-packages/md2pdf-0.3-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/matplotlib-1.5.0_814.gf413b78-py2.7-linux-x86_64.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/cycler-0.9.0-py2.7.egg</lib>
+<lib>/usr/local/lib/python2.7/dist-packages/functools32-3.2.3_2-py2.7.egg</lib>
 <lib>/usr/lib/python2.7/dist-packages</lib>
 <lib>/usr/lib/python2.7</lib>
 <lib>/usr/lib/python2.7/plat-x86_64-linux-gnu</lib>
@@ -1168,6 +1217,7 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <lib>/usr/lib/python2.7/dist-packages/gtk-2.0</lib>
 <lib>/usr/lib/pymodules/python2.7</lib>
 <lib>/usr/lib/python2.7/dist-packages/ubuntu-sso-client</lib>
+<lib>/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode</lib>
 <forced_lib>Image</forced_lib>
 <forced_lib>OpenGL</forced_lib>
 <forced_lib>__builtin__</forced_lib>
@@ -1228,6 +1278,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -1343,6 +1395,8 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 <forced_lib>math</forced_lib>
 <forced_lib>mmap</forced_lib>
 <forced_lib>msvcrt</forced_lib>
+<forced_lib>nose</forced_lib>
+<forced_lib>nose.tools</forced_lib>
 <forced_lib>nt</forced_lib>
 <forced_lib>numpy</forced_lib>
 <forced_lib>operator</forced_lib>
@@ -1422,25 +1476,10 @@ java.lang.RuntimeException: - Ok, file is non-null. Getting info on:/usr/bin/pyt
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
 
-!ENTRY org.python.pydev.shared_core 1 1 2015-11-10 18:05:59.224
-!MESSAGE Restoring info for: /usr/bin/python3.4
+!ENTRY org.python.pydev.shared_core 1 1 2016-01-09 11:42:51.349
+!MESSAGE Finished restoring information for: /usr/bin/python3.4 at: /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a
 !STACK 0
-java.lang.RuntimeException: Restoring info for: /usr/bin/python3.4
-	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:517)
-	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:337)
-	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.setInfos(AbstractInterpreterManager.java:641)
-	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker$1.run(AutoConfigMaker.java:137)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
-Caused by: java.io.IOException: Expecting: /home/combo/Documents/PythonOnGithub/Python/pythonAndSql/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a/modulesKeys to exist (and be a file).
-	at org.python.pydev.editor.codecompletion.revisited.ModulesManager.loadFromFile(ModulesManager.java:289)
-	at org.python.pydev.editor.codecompletion.revisited.SystemModulesManager.load(SystemModulesManager.java:371)
-	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:515)
-	... 4 more
-
-!ENTRY org.python.pydev.shared_core 1 1 2015-11-10 18:06:01.148
-!MESSAGE Finished restoring information for: /usr/bin/python3.4 at: /home/combo/Documents/PythonOnGithub/Python/pythonAndSql/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a
-!STACK 0
-java.lang.RuntimeException: Finished restoring information for: /usr/bin/python3.4 at: /home/combo/Documents/PythonOnGithub/Python/pythonAndSql/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a
+java.lang.RuntimeException: Finished restoring information for: /usr/bin/python3.4 at: /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.python.pydev/v1_310hzmx1os98xh4180c0n992a
 	at org.python.pydev.core.log.Log.logInfo(Log.java:66)
 	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:562)
 	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:337)
@@ -1448,15 +1487,15 @@ java.lang.RuntimeException: Finished restoring information for: /usr/bin/python3
 	at org.python.pydev.ui.pythonpathconf.AutoConfigMaker$1.run(AutoConfigMaker.java:137)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
 
-!ENTRY org.python.pydev.shared_core 4 4 2015-11-10 18:06:01.655
-!MESSAGE Info: Rebuilding internal caches: /home/combo/Documents/PythonOnGithub/Python/pythonAndSql/.metadata/.plugins/com.python.pydev.analysis/python_v1_310hzmx1os98xh4180c0n992a/python.pydevsysteminfo (Expected error to be provided and got no error!)
+!ENTRY org.python.pydev.shared_core 4 4 2016-01-09 11:42:51.903
+!MESSAGE Info: Rebuilding internal caches: /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/com.python.pydev.analysis/python_v1_310hzmx1os98xh4180c0n992a/python.pydevsysteminfo (Expected error to be provided and got no error!)
 
-!ENTRY org.python.pydev.shared_core 4 4 2015-11-10 18:07:31.591
-!MESSAGE Info: Rebuilding internal caches: /home/combo/Documents/PythonOnGithub/Python/pythonAndSql/.metadata/.plugins/org.eclipse.core.resources/.projects/pySql/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+!ENTRY org.python.pydev.shared_core 4 4 2016-01-09 11:43:05.028
+!MESSAGE Info: Rebuilding internal caches: /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.eclipse.core.resources/.projects/modals_plot_frequency/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
 
-!ENTRY org.eclipse.jface 2 0 2015-11-10 18:50:17.538
+!ENTRY org.eclipse.jface 2 0 2016-01-09 12:48:49.356
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
-!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-10 18:50:17.538
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-01-09 12:48:49.356
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
@@ -1482,143 +1521,3 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.python.pydev.ui.editor.scope,,,system)
-!SESSION 2015-12-21 21:52:19.904 -----------------------------------------------
-eclipse.buildId=debbuild
-java.version=1.7.0_79
-java.vendor=Oracle Corporation
-BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
-Command-line arguments:  -os linux -ws gtk -arch x86_64
-
-!ENTRY org.eclipse.core.resources 2 10035 2015-12-21 21:52:34.165
-!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
-!SESSION 2016-01-08 14:37:32.897 -----------------------------------------------
-eclipse.buildId=debbuild
-java.version=1.7.0_79
-java.vendor=Oracle Corporation
-BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
-Command-line arguments:  -os linux -ws gtk -arch x86_64
-
-!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-01-08 14:38:18.457
-!MESSAGE Connection to http://download.eclipse.org/releases/indigo/p2.index failed on download.eclipse.org. Retry attempt 0 started
-!STACK 0
-java.net.UnknownHostException: download.eclipse.org
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:579)
-	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
-	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1129)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:699)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
-	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
-	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:355)
-	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
-	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:156)
-	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:721)
-	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:640)
-	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
-	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
-
-!ENTRY org.eclipse.osgi 2 1 2016-01-08 14:38:18.786
-!MESSAGE NLS unused message: CacheManager_CannotLoadNonUrlLocation in: org.eclipse.equinox.internal.p2.repository.messages
-
-!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2016-01-08 14:38:18.811
-!MESSAGE Unknown Host: http://download.eclipse.org/releases/indigo/compositeContent.xml
-!STACK 0
-java.net.UnknownHostException: download.eclipse.org
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:579)
-	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
-	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:232)
-	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
-
-!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-01-08 14:38:39.201
-!MESSAGE Connection to http://pydev.org/updates/p2.index failed on pydev.org. Retry attempt 0 started
-!STACK 0
-java.net.UnknownHostException: pydev.org
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:579)
-	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
-	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1129)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:699)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
-	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
-	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
-	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:355)
-	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
-	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:156)
-	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:721)
-	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:640)
-	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
-	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
-	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
-
-!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2016-01-08 14:38:39.409
-!MESSAGE Unknown Host: http://pydev.org/updates/content.xml
-!STACK 0
-java.net.UnknownHostException: pydev.org
-	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
-	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
-	at java.net.Socket.connect(Socket.java:579)
-	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
-	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
-	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
-	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:232)
-	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
-
-!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2016-01-08 14:38:40.251
-!MESSAGE No repository found at file:/home/combo/Musique/PyDev/.
-!SESSION 2016-01-09 11:16:34.884 -----------------------------------------------
-eclipse.buildId=debbuild
-java.version=1.7.0_79
-java.vendor=Oracle Corporation
-BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
-Command-line arguments:  -os linux -ws gtk -arch x86_64
-
-!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2016-01-09 11:17:13.754
-!MESSAGE No repository found at file:/home/combo/Musique/PyDev/.
