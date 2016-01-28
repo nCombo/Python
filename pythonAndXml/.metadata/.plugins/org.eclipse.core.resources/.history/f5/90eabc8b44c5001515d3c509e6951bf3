@@ -1,0 +1,12 @@
+'''
+Created on 27 janv. 2016
+
+@author: combo
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+import xml.etree.ElementTree as ET
+tree = ET.parse('dataInput.xml')
+root = tree.getroot()
+print("la racine est : ", root)

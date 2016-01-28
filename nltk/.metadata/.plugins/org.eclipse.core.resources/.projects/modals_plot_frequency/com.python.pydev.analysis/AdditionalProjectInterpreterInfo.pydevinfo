@@ -1,12 +1,22 @@
 -- VERSION_4
 -- START DISKCACHE_2
 /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.eclipse.core.resources/.projects/modals_plot_frequency/com.python.pydev.analysis/v2_indexcache
+modals_plot|1452343139000000000|/home/combo/Documents/PythonOnGithub/Python/nltk/modals_plot_frequency/modals_plot.py
+image_plot|1452343174000000000|/home/combo/Documents/PythonOnGithub/Python/nltk/modals_plot_frequency/image_plot.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+2=modals_plot
+1=image_plot
 -- END DICTIONARY
 -- START TREE 1
-0
+6
+bar|2|bar_char!10@bar_char!18@
+cfd|2|cfdist!11@cfdist!19@
+col|2|colors!19@colors!11@
+cou|2|counts!11@counts!19@
+gen|2|genres!11@genres!19@
+mod|2|modals!11@modals!19@
 -- END TREE
 -- START TREE 2
 0

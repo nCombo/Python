@@ -1,12 +1,18 @@
 -- VERSION_4
 -- START DISKCACHE_2
 /home/combo/Documents/PythonOnGithub/Python/nltk/.metadata/.plugins/org.eclipse.core.resources/.projects/networkX/com.python.pydev.analysis/v2_indexcache
+graphs_wordnet|1452367032000000000|/home/combo/Documents/PythonOnGithub/Python/nltk/networkX/graphs_wordnet.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+1
+1=graphs_wordnet
 -- END DICTIONARY
 -- START TREE 1
-0
+4
+dog|1|dog!11@
+gra|2|graph!11@graph_draw!10@
+hyp|1|hyponym_graph!10@
+tra|1|traverse!10@
 -- END TREE
 -- START TREE 2
 0
