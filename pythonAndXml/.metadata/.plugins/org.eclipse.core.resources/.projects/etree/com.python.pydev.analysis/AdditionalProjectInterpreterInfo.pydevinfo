@@ -1,14 +1,17 @@
 -- VERSION_4
 -- START DISKCACHE_2
 /home/combo/Documents/PythonOnGithub/Python/pythonAndXml/.metadata/.plugins/org.eclipse.core.resources/.projects/etree/com.python.pydev.analysis/v2_indexcache
-etree|1453933566000000000|/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/etree/etree.py
+etree|1454078024000000000|/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/etree/etree.py
 -- END DISKCACHE
 -- START DICTIONARY
 1
 1=etree
 -- END DICTIONARY
 -- START TREE 1
-2
+5
+nam|1|name!11@
+new|1|new_rank!11@
+ran|1|rank!11@
 roo|1|root!11@
 tre|1|tree!11@
 -- END TREE

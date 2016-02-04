@@ -1,0 +1,53 @@
+'''
+Created on 31 oct. 2015
+
+@author: combo
+'''
+#!:usr/bin/env python
+# *coding : utf-8*
+
+import xml.etree.ElementTree as ET
+
+
+doc = ET.parse('exemple.xml')
+
+racine = doc.getroot()
+
+print("La racine est:", racine.tag)
+
+for titre in racine.iter('title'):
+    print(titre.attrib)
+
+for persname in racine.findall('teiHeader/fileDesc/titleStmt/respStmt/persName'):
+    forename = persname.findall('forename')
+    print("le forename est:", forename)
+    print(type(persname))
+    print(type(forename))
+    racine.remove(list(persname))
+    #if forename == "Flora":
+        #racine.remove(persname)
+#titres = doc.getchildren('TEI/teiHeader/fileDsc/titleStmt')
+#print(titres)
+#for t in titres:
+   #titre = t.find('title').text
+   #type(t)
+
+#with open('exemple.xml', 'r') as f:
+#    data = f.readlines()
+
+#    for line in data:
+#        words = line.split()
+#        print( words)
+    
+#    racine = doc.getroot()
+
+#    print(racine.tag)   
+    
+#    titres = doc.find('titleStmt')
+#    for t in titres:
+#        titre = t.find('title').text
+#        print(titre)
+
+# doc.write('exemple.xml')        
+if __name__ == '__main__':
+    pass

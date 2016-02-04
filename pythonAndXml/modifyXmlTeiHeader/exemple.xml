@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<TEI>
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" xml:lang="fr">"L'objectif de cet article est de" : Construction spécificationnelle et grammaire phraséologique</title>
+            <title type="main" xml:lang="fr">"L'objectif de cet article est de" : Construction sp&#233;cificationnelle et grammaire phras&#233;ologique</title>
             <title type="alt" xml:lang="en">"L'objectif de cet article est de" : "specificational" constructions and phraseological grammar</title>
             <respStmt>
-               <resp>Extraction de la base Inist Exodic</resp>
-               <persName>
-                  <forename>Flora</forename>
-                  <surname>Badin</surname>
-               </persName>
-               <persName>
-                  <forename>Nicolas</forename>
-                  <surname>Thouvenin</surname>
-               </persName>
                <persName>
                   <forename>Nourdine</forename>
                   <surname>Combo</surname>
@@ -22,21 +12,12 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by/3.0/"
-                        notBefore="2013-01-01">
-                  <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
-                  <p>The licence was added on January 1, 2013.</p>
-                  <p>Any re-use of this ressource should attribute its content to <q>INIST-CNRS</q>
-                  </p>
-               </licence>
-            </availability>
             <idno type="documentnumber">10-0145170</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct type="article">
                <analytic>
-                  <title type="main" xml:lang="fr">"L'objectif de cet article est de" : Construction spécificationnelle et grammaire phraséologique</title>
+                  <title type="main" xml:lang="fr">"L'objectif de cet article est de" : Construction sp&#233;cificationnelle et grammaire phras&#233;ologique</title>
                   <title type="alt" xml:lang="en">"L'objectif de cet article est de" : "specificational" constructions and phraseological grammar</title>
                   <author>
                      <persName ana="#b1">
@@ -48,7 +29,7 @@
                         <surname>GREA</surname>
                      </persName>
                      <affiliation xml:id="b1">
-                        <orgName>(CRISCO, MODESCOS, Université de Caen) (MODYCO, Université de Nancy II)</orgName>
+                        <orgName>(CRISCO, MODESCOS, Universit&#233; de Caen) (MODYCO, Universit&#233; de Nancy II)</orgName>
                         <address>
                            <country>FRA</country>
                         </address>
@@ -56,7 +37,7 @@
                   </author>
                </analytic>
                <monogr>
-                  <title level="j" type="main">Cahiers de praxématique (Montpellier)</title>
+                  <title level="j" type="main">Cahiers de prax&#233;matique (Montpellier)</title>
                   <title level="j" type="sup" xml:lang="fr">Changements linguistiques : figement, lexicalisation, grammaticalisation</title>
                   <idno type="issn">0765-4944</idno>
                   <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=18911935</idno>
@@ -72,19 +53,19 @@
                         <roleName>Editeur scientifique</roleName>
                      </persName>
                      <affiliation xml:id="a1">
-                        <orgName>Université Paul Verlaine - Metz, EA 3474 CELTED</orgName>
+                        <orgName>Universit&#233; Paul Verlaine - Metz, EA 3474 CELTED</orgName>
                         <address>
                            <country>FRA</country>
                         </address>
                      </affiliation>
                      <affiliation xml:id="a2">
-                        <orgName>UMR 7114 MoDyCo, Université Paris X - Nanterre</orgName>
+                        <orgName>UMR 7114 MoDyCo, Universit&#233; Paris X - Nanterre</orgName>
                         <address>
                            <country>FRA</country>
                         </address>
                      </affiliation>
                   </author>
-                  <meeting/>
+                  <meeting />
                   <imprint>
                      <pubPlace>
                         <settlement>Montpellier</settlement>
@@ -105,23 +86,23 @@
          <textClass>
             <keywords scheme="cc">
                <term>52450A</term>
-               <term>Etudes thématiques.</term>
+               <term>Etudes th&#233;matiques.</term>
                <term>524XI</term>
                <term>ETUDES DESCRIPTIVES ET APPLICATIONS DES THEORIES</term>
                <term>524</term>
                <term>LINGUISTIQUE</term>
             </keywords>
-            <keywords scheme="inist-francis" xml:lang="fr">
-               <term type="uncontrolled" corresp="#Constructiongrammar">Grammaire de construction</term>
-               <term type="controlled" corresp="#Phraseology">Phraséologie</term>
-               <term type="controlled" corresp="#Frozenness">Figement</term>
-               <term type="controlled" corresp="#Corpusanalysis">Analyse de corpus</term>
-               <term type="controlled" corresp="#French">Français</term>
-               <term type="controlled" corresp="#Semantics">Sémantique</term>
-               <term type="controlled" corresp="#Pragmatics">Pragmatique</term>
-               <term type="controlled" corresp="#Syntax">Syntaxe</term>
+            <keywords xml:lang="fr">
+               <term corresp="#Constructiongrammar" type="uncontrolled">Grammaire de construction</term>
+               <term corresp="#Phraseology" type="controlled">Phras&#233;ologie</term>
+               <term corresp="#Frozenness" type="controlled">Figement</term>
+               <term corresp="#Corpusanalysis" type="controlled">Analyse de corpus</term>
+               <term corresp="#French" type="controlled">Fran&#231;ais</term>
+               <term corresp="#Semantics" type="controlled">S&#233;mantique</term>
+               <term corresp="#Pragmatics" type="controlled">Pragmatique</term>
+               <term corresp="#Syntax" type="controlled">Syntaxe</term>
             </keywords>
-            <keywords scheme="inist-francis" xml:lang="en">
+            <keywords xml:lang="en">
                <term type="uncontrolled" xml:id="Constructiongrammar">Construction grammar</term>
                <term type="controlled" xml:id="Phraseology">Phraseology</term>
                <term type="controlled" xml:id="Frozenness">Frozenness</term>
@@ -133,7 +114,7 @@
             </keywords>
          </textClass>
          <abstract xml:lang="fr">
-            <p>L'objectif de cet article est de montrer que les énoncés spécificationnels du type "l'objectif de cet article est de montrer que les énoncés spécificationnels..." connaissent divers degrés de figement, et partant, doivent être considérés, à un niveau général, comme des constructions (au sens de la Grammaire de Construction) et comme des unités phraséologiques. Nous nous appuyons, pour l'étude, sur les données extraites d'une année (1995) du journal Libération. Notre conclusion est que les phénomènes de figement portent non seulement sur le lexique, mais aussi sur des unités grammaticales non lexicalement saturées, mais porteuses de signification.</p>
+            <p>L'objectif de cet article est de montrer que les &#233;nonc&#233;s sp&#233;cificationnels du type "l'objectif de cet article est de montrer que les &#233;nonc&#233;s sp&#233;cificationnels..." connaissent divers degr&#233;s de figement, et partant, doivent &#234;tre consid&#233;r&#233;s, &#224; un niveau g&#233;n&#233;ral, comme des constructions (au sens de la Grammaire de Construction) et comme des unit&#233;s phras&#233;ologiques. Nous nous appuyons, pour l'&#233;tude, sur les donn&#233;es extraites d'une ann&#233;e (1995) du journal Lib&#233;ration. Notre conclusion est que les ph&#233;nom&#232;nes de figement portent non seulement sur le lexique, mais aussi sur des unit&#233;s grammaticales non lexicalement satur&#233;es, mais porteuses de signification.</p>
          </abstract>
       </profileDesc>
    </teiHeader>

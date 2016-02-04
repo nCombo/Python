@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="33" version="2.0">
 <workbenchAdvisor/>
-<window height="744" width="679" x="0" y="24">
+<window height="764" width="684" x="0" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -15,7 +15,7 @@
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="142" y="26"/>
 <coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.python.pydev.toolbars.evaluateActionSetterToolbar" itemType="typeToolBarContribution" x="36" y="26"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="91" y="26"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="26"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="212" y="26"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -33,6 +33,7 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
+<part id="4"/>
 </presentation>
 </folder>
 </info>
@@ -47,11 +48,15 @@
 </editor>
 <editor id="org.python.pydev.editor.PythonEditor" name="readFile.py" partName="readFile" path="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/readXml/readFile.py" title="readFile" tooltip="readXml/readFile.py" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/readXml/readFile.py"/>
-<editorState selectionHorizontalPixel="0" selectionLength="40" selectionOffset="48" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="139" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.python.pydev.editor.PythonEditor" name="etree.py" partName="etree" path="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/etree/etree.py" title="etree" tooltip="etree/etree.py" workbook="DefaultEditorWorkbook">
+<editor id="org.python.pydev.editor.PythonEditor" name="etree.py" partName="etree" path="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/etree/etree.py" title="etree" tooltip="etree/etree.py" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/etree/etree.py"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="294" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="746" selectionTopPixel="119"/>
+</editor>
+<editor activePart="true" focus="true" id="org.python.pydev.editor.PythonEditor" name="modifyTeiheader.py" partName="modifyTeiheader" path="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/modifyXmlTeiHeader/modifyTeiheader.py" title="modifyTeiheader" tooltip="modifyXmlTeiHeader/modifyTeiheader.py" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/modifyXmlTeiHeader/modifyTeiheader.py"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="306" selectionTopPixel="51"/>
 </editor>
 </editors>
 <views>
@@ -79,6 +84,8 @@
 <view id="org.python.pydev.navigator.view" partName="PyDev Package Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0">
 <expanded IMemento.internal.id="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/etree"/>
+<expanded IMemento.internal.id="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/modifyXmlTeiHeader"/>
+<selected IMemento.internal.id="/home/combo/Documents/PythonOnGithub/Python/pythonAndXml/modifyXmlTeiHeader/exemple.xml"/>
 </viewState>
 </view>
 </views>
@@ -221,162 +228,165 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/changeXmlSruct/changeXml.py"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/createXml/newXML.py"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/changeXmlSruct/changeXml.py"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/readXml/readFile.py"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/createXml/newXML.py"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/etree/etree.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/changeXmlSruct/changeXml.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/readXml/readFile.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/readXml/readFile.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/createXml/newXML.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/modifyXmlTeiHeader/modifyTeiheader.py"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" path="/etree/etree.py"/>
 </editors>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="453" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="307" y="6"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="352" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="419" y="3"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="451" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="482" y="1"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="490" y="1"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="953" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="523" y="1"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="530" y="1"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="953" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="561" y="6"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="569" y="1"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="620" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="643" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="953" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="752" y="0"/>
-</item>
-<item historyLabel="changeXml" index="0">
-<position info="not_deleted" x="4" y="40"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="752" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="750" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="751" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="751" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="751" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="751" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="751" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position/>
-</item>
-<item historyLabel="changeXml" index="2">
-<position info="not_deleted" x="4" y="40"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="410" y="0"/>
-</item>
-<item historyLabel="changeXml" index="2">
-<position info="not_deleted" x="4" y="40"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="937" y="0"/>
-</item>
-<item historyLabel="changeXml" index="2">
-<position info="not_deleted" x="4" y="40"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="859" y="4"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="48" y="40"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="842" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="48" y="40"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="368" y="0"/>
-</item>
-<item historyLabel="newXML" index="1">
-<position info="not_deleted" x="249" y="40"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="368" y="0"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="241" y="0"/>
-</item>
-<item historyLabel="newXML" index="4">
-<position info="not_deleted" x="246" y="0"/>
-</item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="768" y="0"/>
-</item>
-<item historyLabel="etree" index="5">
+<item historyLabel="etree" index="2">
 <position info="not_deleted" x="294" y="0"/>
 </item>
-<item historyLabel="readFile" index="3">
-<position info="not_deleted" x="48" y="40"/>
-</item>
-<item historyLabel="etree" index="5">
-<position info="not_deleted" x="294" y="0"/>
-</item>
-<item historyLabel="newXML" index="4">
+<item historyLabel="newXML" index="1">
 <position info="not_deleted" x="246" y="0"/>
 </item>
-<item historyLabel="etree" index="5">
+<item historyLabel="etree" index="2">
 <position info="not_deleted" x="191" y="0"/>
 </item>
-<item historyLabel="readFile" index="3">
+<item historyLabel="readFile" index="0">
 <position info="not_deleted" x="48" y="40"/>
 </item>
-<item historyLabel="etree" index="5">
+<item historyLabel="etree" index="2">
 <position info="not_deleted" x="294" y="0"/>
 </item>
-<item historyLabel="readFile" index="3">
+<item historyLabel="readFile" index="0">
 <position info="not_deleted" x="48" y="40"/>
 </item>
-<item active="true" historyLabel="etree" index="5">
+<item historyLabel="etree" index="2">
 <position info="not_deleted" x="294" y="0"/>
+</item>
+<item historyLabel="changeXml" index="3">
+<position info="not_deleted" x="4" y="40"/>
+</item>
+<item historyLabel="readFile" index="4">
+<position info="not_deleted" x="48" y="40"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="181" y="0"/>
+</item>
+<item historyLabel="readFile" index="5">
+<position info="not_deleted" x="139" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="651" y="0"/>
+</item>
+<item historyLabel="newXML" index="6">
+<position info="not_deleted" x="246" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="49" y="40"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="91" y="34"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="126" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="91" y="34"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="569" y="87"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="569" y="87"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="etree" index="2">
+<position info="not_deleted" x="569" y="270"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="569" y="270"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="1114" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="569" y="270"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="1156" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="569" y="270"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="329" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="353" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="329" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="301" y="65"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="181" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="301" y="65"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="181" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="301" y="65"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="181" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="623" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="310" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="114" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="etree" index="8">
+<position info="not_deleted" x="746" y="4"/>
+</item>
+<item active="true" historyLabel="modifyTeiheader" index="7">
+<position info="not_deleted" x="622" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -396,6 +406,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="modifyTeiheader.py" tooltip="modifyXmlTeiHeader/modifyTeiheader.py">
+<persistable path="/modifyXmlTeiHeader/modifyTeiheader.py"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.python.pydev.editor.PythonEditor" name="etree.py" tooltip="etree/etree.py">
 <persistable path="/etree/etree.py"/>
 </file>
