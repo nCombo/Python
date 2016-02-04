@@ -84,23 +84,15 @@
             <language ident="fr">fre</language>
          </langUsage>
          <textClass>
-            <keywords scheme="cc">
-               <term>52450A</term>
-               <term>Etudes th&#233;matiques.</term>
-               <term>524XI</term>
-               <term>ETUDES DESCRIPTIVES ET APPLICATIONS DES THEORIES</term>
-               <term>524</term>
-               <term>LINGUISTIQUE</term>
-            </keywords>
             <keywords xml:lang="fr">
-               <term corresp="#Constructiongrammar" type="uncontrolled">Grammaire de construction</term>
-               <term corresp="#Phraseology" type="controlled">Phras&#233;ologie</term>
-               <term corresp="#Frozenness" type="controlled">Figement</term>
-               <term corresp="#Corpusanalysis" type="controlled">Analyse de corpus</term>
-               <term corresp="#French" type="controlled">Fran&#231;ais</term>
-               <term corresp="#Semantics" type="controlled">S&#233;mantique</term>
-               <term corresp="#Pragmatics" type="controlled">Pragmatique</term>
-               <term corresp="#Syntax" type="controlled">Syntaxe</term>
+               <term type="uncontrolled">Grammaire de construction</term>
+               <term type="controlled">Phras&#233;ologie</term>
+               <term type="controlled">Figement</term>
+               <term type="controlled">Analyse de corpus</term>
+               <term type="controlled">Fran&#231;ais</term>
+               <term type="controlled">S&#233;mantique</term>
+               <term type="controlled">Pragmatique</term>
+               <term type="controlled">Syntaxe</term>
             </keywords>
             <keywords xml:lang="en">
                <term type="uncontrolled" xml:id="Constructiongrammar">Construction grammar</term>
